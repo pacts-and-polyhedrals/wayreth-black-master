@@ -1,0 +1,143 @@
+{
+  "_id": "Kh3iDQuy9xn3PuFI",
+  "name": "The Forest and Tower of Wayreth",
+  "folder": null,
+  "sort": 400000,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {},
+  "_key": "!journal!Kh3iDQuy9xn3PuFI",
+  "pages": [
+    {
+      "_id": "HARuWdnOJerIw1iG",
+      "name": "The Forest",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">You do not travel to Wayreth. You are admitted to it, or you are not, and the distinction is not yours to make.</p>\n<p>The Forest of Wayreth occupies a stretch of the far south of Ansalon, below the Plains of Dust, in country nobody has any other reason to visit. Cartographers place it differently on every map, and every one of them is correct on the day it was drawn.</p>\n<p>The trees are old. Not ancient in the picturesque sense &mdash; old in the way that stone is old, with the same indifference. They are pale-barked, close-grown, and they do not move while anyone is looking at them.</p>\n<h3>Finding It</h3>\n<p>There is no navigation check that finds Wayreth. Say this to the players plainly the first time they try, because the instinct to roll Survival is overwhelming and letting them roll implies a target number exists.</p>\n<p>What determines admission:</p>\n<table class=\"wy-table\">\n<thead><tr><th>Condition</th><th>Result</th></tr></thead>\n<tbody>\n<tr><td>Summoned by the Conclave</td><td>Admitted. The path is short and obvious.</td></tr>\n<tr><td>Carrying business the Tower wants</td><td>Admitted, by a longer route, and observed the whole way.</td></tr>\n<tr><td>Seeking it with no business</td><td>Refused. The party emerges on open moorland facing the direction they came from, having lost between one and six days they cannot account for.</td></tr>\n<tr><td>Hostile intent</td><td>Refused, and the forest is no longer neutral. See <em>The Refused</em>.</td></tr>\n<tr><td>Not looking for it at all</td><td>Occasionally admitted anyway. This is the one that frightens the Conclave.</td></tr>\n</tbody>\n</table>\n<h3>Running the Journey</h3>\n<p>Play the forest as a corridor, not a wilderness. Once inside, the party has no meaningful navigational choices &mdash; the path exists, it goes one way, and stepping off it puts them back on it a few minutes later facing the same direction.</p>\n<p>Give them three or four beats on the walk and make each one an observation rather than an obstacle:</p>\n<ul>\n<li>The light does not change. It has been the same hour since they entered.</li>\n<li>They pass a milestone carved with a name. Hours later, they pass it again. The name is different.</li>\n<li>Someone hears a conversation they had years ago, at conversational volume, from just off the path.</li>\n<li>A tree has a door in it. It is closed. It is not locked.</li>\n</ul>\n<p>None of these should be resolvable. The forest is not a puzzle and there is nothing to solve; it is establishing, before the party ever reaches the Tower, that they are somewhere with its own opinions.</p>\n<section class=\"secret\">\n<h3>DM Note</h3>\n<p>Everything on this page is the forest making decisions. Not the Conclave, and not the wards &mdash; the forest. The party should be able to reconstruct this eventually from three or four observations, well before anyone tells them.</p>\n<p>The strongest version: the party is admitted once on Conclave business and once when they were going somewhere else entirely. The second time is when a clever player says <em>wait</em>.</p>\n</section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.HARuWdnOJerIw1iG"
+    },
+    {
+      "_id": "jQyJ6k2yqaA14iJs",
+      "name": "The Refused",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p>The forest does not kill trespassers. It is more patient than that, and the results are worse.</p>\n<p>Those who force the issue &mdash; who press on after being turned, who arrive with fire and intent &mdash; find that the forest simply stops ending. Not a maze; a maze has a solution. The path continues and continues and the light does not change and eventually they sit down.</p>\n<h3>Mechanics: Refusal</h3>\n<p>A creature the forest has refused, which persists in entering, is subject to the following at the end of each hour spent within the treeline:</p>\n<p><strong>DC 15 Wisdom saving throw.</strong> On a failure, the creature gains one level of exhaustion and cannot remove it by resting while it remains in the forest. On a success, no effect, but the DC increases by 1 for each subsequent hour.</p>\n<p>Magical travel does not help. <em>Teleport</em>, <em>dimension door</em>, <em>plane shift</em>, and similar effects fail while within the treeline unless cast by a creature the forest has admitted. Attempts are not merely wasted &mdash; the caster takes 4d6 psychic damage and learns, with certainty and without words, that it was noticed.</p>\n<p>A creature reduced to six levels of exhaustion by the forest does not die. It is set down on the moor, alive, at the treeline. It has no memory of the attempt and cannot be made to have one. Whatever it came to do, it no longer wants to.</p>\n<h3>The Ones Still In There</h3>\n<p>Not everyone gets set down. Perhaps a dozen figures walk the forest permanently &mdash; wizards, mostly, from various centuries, who came for the Tower and were neither admitted nor released.</p>\n<p>They are not hostile and not undead. They are lost in the specific sense that the forest has declined to conclude their business. They will speak to the party, helpfully, at length, and their information is accurate as of whichever century they entered.</p>\n<p>One of them can be persuaded to walk with the party. This is not a good idea, and the forest permits it, which should worry anyone paying attention.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.jQyJ6k2yqaA14iJs"
+    },
+    {
+      "_id": "JchJLe1HcPn792cV",
+      "name": "The Approach and the Gate",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p>The forest ends without warning &mdash; not thinning, just ending, at the edge of a clearing perhaps a quarter-mile across. The grass is short and the ground is level and nothing grows in it.</p>\n<p>The Tower stands in the centre. It is not one tower. Two spires of black stone rise on either side of a central keep, and the whole structure is windowless for its lower two-thirds, and the stone drinks light in a way that makes it difficult to judge distance or height. Most visitors substantially underestimate both.</p>\n<h3>The Gate</h3>\n<p>A single gate of dark iron, unguarded, unlocked, and standing open.</p>\n<p>This is deliberate and it is the Tower's first real test of anyone who reaches the clearing. There is nothing to defeat, nothing to pick, no one to talk past. The party must simply decide to walk in, and the Tower makes that decision as difficult as possible by removing every excuse for delay.</p>\n<p><em>Optional:</em> a first-time visitor crossing the clearing may make a DC 13 Wisdom (Perception) check. On a success, they notice that they have been walking toward the gate for considerably longer than a quarter-mile warrants, and that they are not tired.</p>\n<h3>Rules of Conduct</h3>\n<p>A plaque inside the gate, in Common, Solamnic, Elvish, Dwarvish, and three scripts nobody present will recognise. It is short:</p>\n<blockquote class=\"wy-quote\">\n<p>Draw no weapon. Cast no spell you have not declared. Open no door that is closed to you. Take nothing.</p>\n<p>You are a guest of the Tower and not of its Master. Address your grievances accordingly.</p>\n</blockquote>\n<p>These are enforced, and the enforcement is not subtle.</p>\n<table class=\"wy-table\">\n<thead><tr><th>Violation</th><th>Response</th></tr></thead>\n<tbody>\n<tr><td>Weapon drawn</td><td>The weapon becomes too heavy to lift (Strength save DC 18 to hold, and it cannot be swung). Effect ends when sheathed.</td></tr>\n<tr><td>Undeclared spell</td><td>The spell functions. The caster then takes psychic damage equal to twice the slot level in d6, and every resident of the Tower knows what was cast and where.</td></tr>\n<tr><td>Forcing a closed door</td><td>The corridor lengthens. The party walks for ten minutes and arrives back at the entrance hall.</td></tr>\n<tr><td>Theft</td><td>The item cannot leave the building. Neither, until it is returned, can the thief.</td></tr>\n</tbody>\n</table>\n<p>Note the last line of the plaque. The Tower distinguishes between itself and its Master, in writing, on a plaque that predates him by three hundred years. Attentive players will notice.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.JchJLe1HcPn792cV"
+    },
+    {
+      "_id": "AbefeVDTNbBY7P8f",
+      "name": "Inside: The Public Tower",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p>Wayreth is larger inside than the clearing allows. Nobody discusses this.</p>\n<h3>The Hall of Mages</h3>\n<p>The entrance hall, and the only room most visitors ever see. Black stone, no windows, lit by cold silver flames in sconces that produce no heat. Twenty-one chairs in a wide arc &mdash; seven of white marble, seven of red porphyry, seven of black basalt &mdash; facing a single seat on a low dais.</p>\n<p>The Conclave sits here. When it is not sitting, the chairs are still there, and the room is still lit, and the effect on a party waiting for an audience is exactly as intended.</p>\n<p>The dais seat is the Master's. It is currently occupied more often than it has been in living memory, because Raistlin conducts business from it rather than from a study, and the White Robes have not worked out whether that is a statement or simply the most convenient chair.</p>\n<h3>The Guest Range</h3>\n<p>West spire, lower floors. Plain, comfortable, and scrupulously well-appointed &mdash; the Tower is a courteous host. Rooms have no locks, on the stated principle that a guest of the Tower requires no protection from it. Several guests have observed that this principle has an obvious second reading.</p>\n<h3>The Libraries</h3>\n<p>Three, on ascending floors of the central keep, and access is by robe.</p>\n<ul>\n<li><strong>The Open Library.</strong> Any guest. General arcana, history, geography, several thousand volumes of Conclave minutes that no one has ever read voluntarily.</li>\n<li><strong>The Second Library.</strong> Wizards of High Sorcery only &mdash; that is, those who have passed the Test. A PC gains access the day they pass, and it should feel like a genuine reward. Spell research, planar cosmology, the Orders' working records.</li>\n<li><strong>The Sealed Library.</strong> Conclave members and the Master. Contains the surviving records of the four fallen Towers, the full account of the Lost Battles, and the Conclave's private history of its own conduct during them.</li>\n</ul>\n<section class=\"secret\">\n<h3>DM Note &mdash; The Sealed Library</h3>\n<p>What is in there that the Conclave will not discuss: the minutes of the negotiation with the Kingpriest, unedited. They show that the terms offered by Istar were considerably better than the terms accepted, and that the Conclave took the worse deal in order to keep the Black Robes seated.</p>\n<p>Three centuries of institutional guilt rest on a decision that was, on the evidence, morally correct and strategically catastrophic. Par-Salian has read it. Raistlin has read it. It is the reason Raistlin's argument landed.</p>\n</section>\n<h3>The Refectory and the Yard</h3>\n<p>Sixty residents have to eat. The refectory is the one room in Wayreth that feels like a building rather than an institution, and it is by far the best place to run NPC scenes. Apprentices gossip. Red Robes argue. The food is good, which surprises everybody.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.AbefeVDTNbBY7P8f"
+    },
+    {
+      "_id": "YyrsJH4cyn3RUiQz",
+      "name": "Inside: The Working Tower",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p>Above the libraries, access stops being a matter of courtesy.</p>\n<h3>The Laboratories</h3>\n<p>East spire, upper floors. Individually warded, individually owned, and the Tower enforces those wards without reference to anyone's rank. A Conclave member cannot enter another's laboratory uninvited. Neither can the Master, which is one of the few structural checks on Raistlin's authority and is mentioned rather often by people trying to reassure themselves.</p>\n<p>Notable occupants:</p>\n<ul>\n<li><strong>Justarius</strong> keeps a laboratory that is conspicuously untidy and conspicuously unwarded, and has never had anything taken from it.</li>\n<li><strong>Ladonna</strong> keeps two. One is a working laboratory. The other is not, and its contents are the subject of a standing Conclave motion that never quite comes to a vote.</li>\n<li><strong>The Master's laboratory</strong> is at the top of the east spire and the stair to it does not always exist.</li>\n</ul>\n<h3>The Chamber of Seeing</h3>\n<p>Central keep, high floor. A circular room containing a single basin of still black water, used for the Orders' scrying and for anchoring the Test's demiplane.</p>\n<p>The basin shows what the Tower chooses rather than what the viewer asks for, about one time in five. This is documented as a known fault. It has never been repaired, because nobody has been able to identify what is faulty.</p>\n<h3>The Testing Chamber</h3>\n<p>There is no testing chamber.</p>\n<p>The Test occupies a demiplane anchored to the Tower, and candidates enter from wherever they happen to be standing when the Master decides they are ready. Apprentices spend a great deal of time speculating about where the chamber is, and senior mages let them, because the answer &mdash; that it is everywhere, and that you are standing in it &mdash; is not calming.</p>\n<h3>The Vaults</h3>\n<p>Below the foundations. Everything reclaimed from Daltigoth, Losarcum, Istar, and Palanthas before the fall; everything confiscated from renegades in three hundred years; everything the Conclave has judged too dangerous to destroy, which is a category that requires some explaining to visitors.</p>\n<p>Access is by the Master alone. Under the previous administration this was a formality, because Par-Salian went down perhaps twice a year and always with witnesses.</p>\n<p>Raistlin goes down most nights, and takes no one.</p>\n<section class=\"secret\">\n<h3>DM Note &mdash; The Vaults</h3>\n<p>What he is doing depends on which agenda you chose in <em>The Black Master of Wayreth</em>.</p>\n<ul>\n<li><strong>Palanthas:</strong> he is looking for anything that survived the fall of the Palanthian Tower &mdash; keys, wards, records of the Curse's exact wording.</li>\n<li><strong>The Balance:</strong> he is arming third parties. Items leave the vault and turn up in the north, and the inventory is immaculate because he is falsifying it himself.</li>\n<li><strong>Survival:</strong> he is looking for a cure and there isn't one, and he has been down there most nights for four months.</li>\n</ul>\n<p>If the party gets into the vaults &mdash; and the vaults are a very good third-act location &mdash; what they find there should tell them which of these is true, without a word of explanation.</p>\n</section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.YyrsJH4cyn3RUiQz"
+    }
+  ]
+}

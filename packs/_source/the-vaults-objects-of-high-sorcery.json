@@ -1,0 +1,143 @@
+{
+  "_id": "WzyCveh65ooDa6Tk",
+  "name": "The Vaults: Objects of High Sorcery",
+  "folder": null,
+  "sort": 600000,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {},
+  "_key": "!journal!WzyCveh65ooDa6Tk",
+  "pages": [
+    {
+      "_id": "c5MQcBNmyBgfrxtr",
+      "name": "Using the Vault Catalogue",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Everything reclaimed from four fallen Towers, three centuries of confiscations, and whatever the Conclave has judged too dangerous to destroy.</p>\n<p>These are written for D&D 5e (2014). Rarity and attunement follow standard conventions; where an item does something the core rules do not cover, the mechanics are spelled out rather than referenced.</p>\n<h3>Getting One</h3>\n<p>The vaults are not treasure. Nothing here is found in a chest. Every item on these pages is <em>issued</em>, by the Master or by a Conclave member acting outside their authority, and the issuing is a scene.</p>\n<p>Three ways an item leaves the vault, in ascending order of interest:</p>\n<ul>\n<li><strong>Granted.</strong> Raistlin issues it for a task. It is recorded, it is expected back, and the record is how the Conclave finds out what he sent the party to do.</li>\n<li><strong>Lent.</strong> Ladonna or Justarius issues it privately. It is not recorded. If the party is caught carrying it, the lender will deny everything and be believed.</li>\n<li><strong>Taken.</strong> Recall the plaque: an item cannot leave the building, and neither can the thief, until it is returned. Getting an item out of Wayreth without permission is a genuine adventure and should be treated as one.</li>\n</ul>\n<h3>Identification</h3>\n<p>Items from the vaults do not respond to <em>identify</em> in the usual way. Each carries a Conclave inventory sigil, and reading the sigil (DC 15 Arcana) gives the item's name, its Order of origin, and one word describing its disposition &mdash; <em>sanctioned</em>, <em>restricted</em>, or <em>interdicted</em>.</p>\n<p>It does not give the item's powers. The Conclave's position is that a wizard who cannot determine an item's function should not be holding it.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!WzyCveh65ooDa6Tk.c5MQcBNmyBgfrxtr"
+    },
+    {
+      "_id": "5djEnBwAtpaDaeXd",
+      "name": "Alchemical Mixtures",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p>Consumables. The Tower's stillroom produces these in small quantities, and an apprentice who wants extras can generally be bargained with.</p>\n<h3>Draught of the Waking Hour</h3>\n<p><em>Potion, uncommon</em></p>\n<p>A bitter grey liquid. Drinking it as an action grants the effect of a short rest without the passage of time &mdash; you may immediately spend Hit Dice as normal and regain any feature that recharges on a short rest.</p>\n<p>You then take one level of exhaustion, which cannot be removed until you complete a long rest of at least twelve hours. A second draught within twenty-four hours has no effect except the exhaustion.</p>\n<h3>Lunitari's Measure</h3>\n<p><em>Potion, rare</em></p>\n<p>A red suspension that separates when still. As a bonus action, drink it and choose a spell of 3rd level or lower currently affecting you or a creature within 30 feet. That spell's remaining duration is doubled, or it is ended, at your choice. If the spell requires concentration, ending it does not break your concentration on anything else.</p>\n<h3>Ash of the Fallen Towers</h3>\n<p><em>Wondrous item, rare (consumable)</em></p>\n<p>A pinch of grey powder in a stoppered vial, taken from Losarcum. Scattered as an action across a 10-foot square, it renders that area a dead zone for one minute: no spell of 5th level or lower can be cast within it, and ongoing magical effects within it are suppressed.</p>\n<p>This affects everyone, including the user, and there is no way to end it early. Conclave records describe seven separate incidents arising from that last clause.</p>\n<h3>The Physician's Apology</h3>\n<p><em>Potion, very rare</em></p>\n<p>Clear, tasteless. Restores 8d4 + 8 hit points and ends one disease or one condition of the drinker's choice from: blinded, deafened, paralyzed, poisoned.</p>\n<p>It also ends the drinker's next long rest's benefit &mdash; the following long rest restores no hit points and no spell slots. The Tower's stillroom has been trying to solve this for a hundred and forty years.</p>\n<section class=\"secret\">\n<h3>DM Note</h3>\n<p>Raistlin brews his own draught for the cough and it is not on this list. If a player asks him for the recipe, the answer is no, and the reason is not secrecy &mdash; it would kill them. He may or may not explain that.</p>\n</section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!WzyCveh65ooDa6Tk.5djEnBwAtpaDaeXd"
+    },
+    {
+      "_id": "0IWIXEzCnRaCyvZ7",
+      "name": "Magical Writings",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p>The Orders regard written magic as the most dangerous category in the vaults, on the grounds that a scroll can be read by an idiot.</p>\n<h3>The Interdicted Page</h3>\n<p><em>Scroll, legendary</em></p>\n<p>A single leaf from a spellbook, edges burned, in a hand nobody has identified. It contains one spell of 8th or 9th level &mdash; the DM chooses, and the choice is fixed the first time anyone reads it.</p>\n<p>Casting from it requires a DC 19 Intelligence (Arcana) check. On a success, the spell takes effect and the page is consumed. On a failure, the spell takes effect anyway, targeting whatever the page prefers, and the page is not consumed.</p>\n<h3>Magius's Marginalia</h3>\n<p><em>Wondrous item, rare (requires attunement by a spellcaster)</em></p>\n<p>Forty loose pages of annotation, in the hand of the wizard who walked with Huma. Bound into a spellbook, they add commentary to every spell it contains.</p>\n<p>Once per long rest, when you cast a spell from the attuned book, you may apply one of the following: cast it at one slot level higher without expending the slot; change its damage type to force; or extend its range by 30 feet.</p>\n<h3>The Conclave's Standing Record</h3>\n<p><em>Wondrous item, very rare</em></p>\n<p>A ledger that writes itself. It records, in real time, every spell of 3rd level or higher cast within twenty miles &mdash; the spell, the approximate location, and, if the caster is a Wizard of High Sorcery, their name.</p>\n<p>There are four copies. The Conclave believes there are three.</p>\n<h3>Palimpsest of the Kingpriest's Clerks</h3>\n<p><em>Wondrous item, rare</em></p>\n<p>Istaran vellum, scraped and reused. Held against any written text for one minute, it reveals what that text said before it was altered, censored, or forged. Works on documents up to a thousand years old; does not work on anything written in the last month.</p>\n<p>It has been used exactly once on the Conclave's own minutes. The results are in the Sealed Library.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!WzyCveh65ooDa6Tk.0IWIXEzCnRaCyvZ7"
+    },
+    {
+      "_id": "4ddM98HR21inNAgI",
+      "name": "Rings, Rods, and Wands",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<h3>Ring of the Ninth Day</h3>\n<p><em>Ring, very rare (requires attunement)</em></p>\n<p>Black iron, unmarked. When you would drop to 0 hit points, you may instead drop to 1 hit point and become invisible until the end of your next turn. Once used, the ring cannot be used again for eight days &mdash; one full cycle of the black moon &mdash; and you know precisely how long remains.</p>\n<h3>Ring of the Balanced Hand</h3>\n<p><em>Ring, rare (requires attunement by a Wizard of High Sorcery)</em></p>\n<p>Silver, red enamel, black inlay. While attuned, you do not suffer the effects of low sanction. You also do not gain the benefits of high sanction. The Conclave issues these to envoys, and wearing one in the Hall of Mages is considered a diplomatic statement.</p>\n<h3>Rod of Declaration</h3>\n<p><em>Rod, uncommon</em></p>\n<p>A short white baton. As a bonus action, name a spell you have prepared. Until the end of your next turn, casting that spell counts as declared for the purposes of the Tower's rules of conduct, and it cannot be counterspelled by any creature that heard you name it.</p>\n<p>Yes, this means announcing your spell to everyone in the room. That is the entire design intent and the White Robes consider it a virtue.</p>\n<h3>Rod of the Renegade Hunter</h3>\n<p><em>Rod, very rare (requires attunement)</em></p>\n<p>Issued to Conclave hunters and reclaimed on their death, which is why there are so many in the vault.</p>\n<p>As an action, point the rod at a creature you can see and speak the Conclave's writ. The target makes a DC 16 Charisma saving throw. On a failure, for one minute, whenever the target casts a spell it must first succeed on a DC 16 Constitution saving throw or the spell fails and the slot is expended. On a success, the target is unaffected and knows exactly who pointed a hunter's rod at them.</p>\n<h3>Wand of the Cold Lamp</h3>\n<p><em>Wand, uncommon</em></p>\n<p>Produces the Tower's silver flame &mdash; light without heat, in a 30-foot radius, that cannot be extinguished by wind, water, or the <em>darkness</em> spell. Seven charges, regains 1d6+1 daily at dawn.</p>\n<p>Expending three charges at once instead illuminates invisible creatures within the radius for one minute. They are not revealed &mdash; they are <em>lit</em>, casting a visible shadow, which is a distinction that matters and has saved lives.</p>\n<h3>Wand of Unmaking</h3>\n<p><em>Wand, very rare (requires attunement by a spellcaster)</em></p>\n<p>Four charges, regains 1d4 daily at dawn. As an action, expend a charge and target a magic item within 30 feet that is not an artifact. Its bearer makes a DC 17 Charisma save; on a failure, the item is suppressed for one minute, functioning as an ordinary object of its kind.</p>\n<p>Expending all four charges at once destroys the item permanently, and the wand along with it.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!WzyCveh65ooDa6Tk.4ddM98HR21inNAgI"
+    },
+    {
+      "_id": "R49Y8sWwyh3ywvFo",
+      "name": "Staves and Artifacts",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<h3>Staff of the Fallen Tower</h3>\n<p><em>Staff, very rare (requires attunement by a wizard)</em></p>\n<p>Cut from a roof-beam of the Tower of Daltigoth before it came down. Ten charges, regains 1d6+4 daily at dawn.</p>\n<p>Expend charges to cast: <em>counterspell</em> (3), <em>dispel magic</em> (3), <em>wall of force</em> (5), <em>mordenkainen's private sanctum</em> (4).</p>\n<p>Additionally, while holding the staff, you have advantage on saving throws against spells cast by creatures inside a structure you are also inside. The staff remembers being a building.</p>\n<h3>The Grey Staff</h3>\n<p><em>Staff, legendary (requires attunement by a Wizard of High Sorcery)</em></p>\n<p>Plain grey wood, warm to the touch. It has no charges and casts no spells.</p>\n<p>While attuned, once per long rest you may declare that a spell you are about to cast will succeed. It does &mdash; no attack roll, no saving throw, no counterspell, no resistance, no immunity. It simply happens as described.</p>\n<p>You then roll a d20. On a 10 or lower, the staff takes something in exchange: roll on the Mark table in <em>The Test of High Sorcery</em>. The Mark is permanent and the staff does not warn you which one it has chosen until it is done.</p>\n<h3>The Hourglass of Fistandantilus</h3>\n<p><em>Wondrous item, artifact (requires attunement)</em></p>\n<p>Interdicted. Held in the deepest vault under three separate Conclave seals, two of which have been renewed in the last year.</p>\n<p>A small hourglass of black glass. The sand does not fall.</p>\n<p><strong>Properties.</strong> While attuned, you gain the following:</p>\n<ul>\n<li>You have advantage on death saving throws, and you do not age.</li>\n<li>Once per long rest, as a reaction when a creature within 60 feet drops to 0 hit points, you may regain hit points equal to half that creature's hit point maximum.</li>\n<li>Once per long rest, you may take an additional action on your turn.</li>\n</ul>\n<p><strong>The Cost.</strong> Each time you use either of the last two properties, the sand falls a little. After the seventh use, the attunement cannot be ended by any means short of a <em>wish</em> or the intervention of a god of magic.</p>\n<p><strong>The Occupant.</strong> The hourglass is not an item with a curse. It is a container, and there is something in it, and it has been extremely patient.</p>\n<section class=\"secret\">\n<h3>DM Note &mdash; The Hourglass</h3>\n<p>This is a campaign-ending object and should be treated as one. Do not put it in the party's hands casually.</p>\n<p>Its best use is as a <em>question</em>. The party learns it is in the vault. They learn the seals have been renewed twice in the last year, which means someone has been down there disturbing them. They are never told who or why.</p>\n<p>If you selected the <strong>Survival</strong> agenda, this is what Raistlin is doing in the vaults most nights, and the correct climax of your campaign is the party arriving too late, or just barely in time, to be present for a decision that is not theirs to make.</p>\n<p>If you selected <strong>Palanthas</strong>, note that \"the master of both past and present\" reads very differently once you know what is in the hourglass and how long it has been waiting for a body.</p>\n</section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!WzyCveh65ooDa6Tk.R49Y8sWwyh3ywvFo"
+    }
+  ]
+}

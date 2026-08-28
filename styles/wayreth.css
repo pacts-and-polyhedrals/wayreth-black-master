@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap');
+
+/* ---------------------------------------------------------------
+   Wayreth: The Black Master
+   Scoped to journal sheets rendered from this module's compendium.
+   --------------------------------------------------------------- */
+
+.journal-entry-page.wayreth,
+.journal-sheet.wayreth .journal-entry-content,
+.wayreth-journal {
+  --wy-ink: #e8ddc8;
+  --wy-ink-dim: #b3a68c;
+  --wy-bg: #14100d;
+  --wy-bg-raised: #1e1813;
+  --wy-gold: #c9a227;
+  --wy-gold-dim: #8a6f1c;
+  --wy-crimson: #8b1a1a;
+  --wy-crimson-bright: #b52626;
+  --wy-rule: rgba(201, 162, 39, 0.28);
+}
+
+.wayreth-journal {
+  background: var(--wy-bg);
+  color: var(--wy-ink);
+  font-family: 'EB Garamond', 'Palatino Linotype', Georgia, serif;
+  font-size: 1.05rem;
+  line-height: 1.68;
+  padding: 1.5rem 1.75rem 2.25rem;
+}
+
+.wayreth-journal h1,
+.wayreth-journal h2,
+.wayreth-journal h3,
+.wayreth-journal h4 {
+  font-family: 'Cinzel', 'Trajan Pro', serif;
+  color: var(--wy-gold);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  border: none;
+  margin: 1.9rem 0 0.7rem;
+}
+
+.wayreth-journal h1 {
+  font-size: 1.9rem;
+  text-align: center;
+  margin-top: 0.4rem;
+  padding-bottom: 0.7rem;
+  border-bottom: 1px solid var(--wy-rule);
+}
+
+.wayreth-journal h2 { font-size: 1.45rem; }
+
+.wayreth-journal h3 {
+  font-size: 1.14rem;
+  color: var(--wy-crimson-bright);
+  text-transform: uppercase;
+  letter-spacing: 0.11em;
+}
+
+.wayreth-journal p { margin: 0 0 0.95rem; }
+
+.wayreth-journal strong { color: var(--wy-gold); font-weight: 600; }
+.wayreth-journal em { color: var(--wy-ink); }
+
+/* Opening / framing paragraph */
+.wayreth-journal .wy-lead {
+  font-size: 1.16rem;
+  font-style: italic;
+  color: var(--wy-gold);
+  border-left: 3px solid var(--wy-crimson);
+  padding: 0.25rem 0 0.25rem 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
+/* In-world quotations */
+.wayreth-journal .wy-quote {
+  background: var(--wy-bg-raised);
+  border-left: 3px solid var(--wy-gold-dim);
+  margin: 1.4rem 0;
+  padding: 1rem 1.3rem;
+  font-style: italic;
+  color: var(--wy-ink-dim);
+}
+
+.wayreth-journal .wy-quote p { margin-bottom: 0.5rem; }
+.wayreth-journal .wy-quote p:last-of-type { margin-bottom: 0; }
+
+.wayreth-journal .wy-quote footer {
+  display: block;
+  margin-top: 0.7rem;
+  font-family: 'Cinzel', serif;
+  font-style: normal;
+  font-size: 0.8rem;
+  letter-spacing: 0.07em;
+  color: var(--wy-gold-dim);
+  text-align: right;
+}
+
+/* Tables */
+.wayreth-journal .wy-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.3rem 0;
+  font-size: 0.97rem;
+  background: var(--wy-bg-raised);
+}
+
+.wayreth-journal .wy-table th {
+  background: var(--wy-crimson);
+  color: #f5ecd8;
+  font-family: 'Cinzel', serif;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  padding: 0.6rem 0.8rem;
+  text-align: left;
+  border: none;
+}
+
+.wayreth-journal .wy-table td {
+  padding: 0.62rem 0.8rem;
+  border-top: 1px solid var(--wy-rule);
+  vertical-align: top;
+}
+
+.wayreth-journal .wy-table tr:nth-child(even) td {
+  background: rgba(201, 162, 39, 0.04);
+}
+
+.wayreth-journal .wy-table td:first-child {
+  font-family: 'Cinzel', serif;
+  color: var(--wy-gold);
+  white-space: nowrap;
+}
+
+.wayreth-journal ul,
+.wayreth-journal ol { margin: 0 0 1.05rem 1.3rem; }
+.wayreth-journal li { margin-bottom: 0.42rem; }
+
+/* -------- DM secrets --------
+   Foundry hides section.secret from users without OWNER permission.
+   Pack ownership is set to OBSERVER for players, so these stay dark. */
+.wayreth-journal section.secret {
+  background: linear-gradient(180deg, rgba(139, 26, 26, 0.16), rgba(139, 26, 26, 0.06));
+  border: 1px solid var(--wy-crimson);
+  border-radius: 3px;
+  padding: 1rem 1.25rem 0.5rem;
+  margin: 1.6rem 0;
+  position: relative;
+}
+
+.wayreth-journal section.secret::before {
+  content: "For the Dungeon Master";
+  display: block;
+  font-family: 'Cinzel', serif;
+  font-size: 0.71rem;
+  letter-spacing: 0.17em;
+  text-transform: uppercase;
+  color: var(--wy-crimson-bright);
+  margin-bottom: 0.7rem;
+}
+
+.wayreth-journal section.secret h3 {
+  margin-top: 0.9rem;
+  color: var(--wy-gold);
+}
+
+.wayreth-journal section.secret > h3:first-of-type { margin-top: 0; }
+
+/* Compendium sidebar tint */
+.directory-item[data-pack="wayreth-black-master.wayreth-journals"] {
+  border-left: 2px solid var(--wy-crimson, #8b1a1a);
+}
