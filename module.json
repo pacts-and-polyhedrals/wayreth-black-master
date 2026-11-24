@@ -2,7 +2,7 @@
   "id": "wayreth-black-master",
   "title": "Wayreth: The Black Master",
   "description": "Master of the Black Tower — a full levels 1–20 Dragonlance campaign for D&D 5e (2014). Six session-by-session arcs from Vogler to the Abyss, 365 managed journal pages, the Test of High Sorcery, 90 robe spells, 30 magic items, six Crow legacy items whose features unlock with character level, a fully illustrated 81-creature bestiary with art and sized tokens, three fully detailed roads to Wayreth, a GM-only campaign tracker board, and a docked multi-world calendar (Krynn, Toril or Oerth) with date, time, moons and per-scene darkness syncing.",
-  "version": "1.34.0",
+  "version": "1.34.1",
   "compatibility": {
     "minimum": "12",
     "verified": "14"
@@ -32,7 +32,7 @@
   ],
   "url": "https://github.com/pacts-and-polyhedrals/wayreth-black-master",
   "manifest": "https://github.com/pacts-and-polyhedrals/wayreth-black-master/releases/latest/download/module.json",
-  "download": "https://github.com/pacts-and-polyhedrals/wayreth-black-master/releases/download/v1.34.0/module.zip",
+  "download": "https://github.com/pacts-and-polyhedrals/wayreth-black-master/releases/download/v1.34.1/module.zip",
   "license": "Private campaign material. Not for distribution.",
   "flags": {},
   "esmodules": [

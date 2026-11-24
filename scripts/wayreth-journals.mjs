@@ -891,6 +891,16 @@ async function reinstallContent({ notify = true, force = false, overwriteEdits =
     console.error(`${MODULE} | creature compendium sync failed`, error);
     ui.notifications.error(`Wayreth: the bestiary failed to populate — ${error.message}. See the console (F12) for details.`);
   }
+  // Scenes last: their pins point at the journals and their tokens at the
+  // bestiary, so both have to exist before the references can resolve.
+  let sceneCount = 0;
+  try {
+    sceneCount = await installScenes({ notify: false, force });
+  } catch (error) {
+    console.error(`${MODULE} | scene install failed`, error);
+    ui.notifications.error(`Wayreth: the scenes failed to install — ${error.message}. See the console (F12) for details.`);
+  }
+
   const version = game.modules.get(MODULE).version;
   await game.settings.set(MODULE, "installedVersion", version);
   if (notify) {
@@ -900,19 +910,51 @@ async function reinstallContent({ notify = true, force = false, overwriteEdits =
     ui.notifications.info(
       `Wayreth ${version} installed: ${CONTENT_FILES.length} journals, ${spells.created} robe spells, ` +
       `${items.created} magic items, ${legacyCount} legacy items, ${creatureCount} creatures, ` +
-      `and the drag-and-drop compendia refreshed${kept}.`
+      `${sceneCount} scenes, and the drag-and-drop compendia refreshed${kept}.`
     );
   }
-  return { journals, items, spells, version };
-  // Scenes last: their pins point at the journals and their tokens at the
-  // bestiary, so both have to exist before the references can resolve.
-  try {
-    await installScenes({ notify: false, force });
-  } catch (error) {
-    console.error(`${MODULE} | scene install failed`, error);
-    ui.notifications.error(`Wayreth: the scenes failed to install — ${error.message}. See the console (F12) for details.`);
-  }
+  return { journals, items, spells, scenes: sceneCount, version };
+}
 
+/**
+ * A button that installs the scenes and nothing else.
+ *
+ * Reinstalling everything takes minutes on a module this size, and wanting
+ * the maps back is not a reason to rebuild 90 spells and 81 creatures. This
+ * does the scene layer on its own, from the Scene Directory where a GM would
+ * go looking for it.
+ */
+function addSceneButton(app, html) {
+  const root = html?.querySelector ? html : html?.[0];
+  if (!game.user.isGM || !root || root.querySelector(".wayreth-install-scenes")) return;
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "wayreth-install-scenes";
+  let shiftHeld = false;
+  button.addEventListener("pointerdown", ev => { shiftHeld = ev.shiftKey; });
+  button.innerHTML = '<i class="fa-solid fa-map"></i> Install Wayreth Scenes';
+  button.addEventListener("click", async () => {
+    const proceed = await confirmDialog({
+      title: "Install Wayreth Scenes",
+      content: `<p>Creates the Wayreth scenes with their maps, walls, lighting, journal pins and encounter tokens.</p>
+        <p><strong>Scenes you already have are refreshed, not replaced</strong> — tokens you moved and drawings you made are kept.</p>
+        <p>To rebuild them from scratch and lose those changes, hold <strong>Shift</strong> while clicking Install.</p>
+        <p>Journals and the bestiary must be installed first, because the pins and tokens point at them.</p>`,
+      yes: "Install"
+    });
+    if (!proceed) return;
+    button.disabled = true;
+    try {
+      await installScenes({ notify: true, force: shiftHeld });
+    } catch (error) {
+      console.error(`${MODULE} | scene install failed`, error);
+      ui.notifications.error(`Wayreth: the scenes failed to install — ${error.message}. See the console (F12) for details.`);
+    } finally {
+      button.disabled = false;
+    }
+  });
+  const footer = root.querySelector(".directory-footer") ?? root.querySelector("footer");
+  footer?.append(button);
 }
 
 function addRepairButton(app, html) {
@@ -1016,6 +1058,8 @@ function trimLegacyUsageCard(activity, messageConfig) {
 Hooks.on("dnd5e.preCreateUsageMessage", trimLegacyUsageCard);
 
 Hooks.on("renderJournalDirectory", addRepairButton);
+// The Scene Directory is where a GM goes looking for missing maps.
+Hooks.on("renderSceneDirectory", addSceneButton);
 Hooks.on("renderItemDirectory", addRepairButton);
 
 // A matching journal created or imported manually receives the same access

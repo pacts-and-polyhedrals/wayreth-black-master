@@ -133,12 +133,19 @@ export async function installScenes({ notify = true, force = false } = {}) {
   for (const entry of source.scenes) {
     const existing = game.scenes.find(s => s.getFlag(MODULE, "sceneKey") === entry.key);
     // A GM who has moved tokens or drawn on a scene keeps it unless they ask
-    // for a rebuild. Walls and pins are refreshed; their work is not touched.
+    // for a rebuild. Pins are rebuilt because a journal's ids change on a
+    // reinstall and a stale pin opens nothing; tokens, drawings and lighting
+    // tweaks are left exactly as found.
     if (existing && !force) {
-      await existing.update({
-        notes: resolveNotes(entry, journalsByFile, unresolved),
-        flags: { [MODULE]: { ...entry.flags[MODULE] } }
-      }, { recursive: false });
+      const notes = resolveNotes(entry, journalsByFile, unresolved);
+      // Our own pins, found by flag. Read the flags object directly as well as
+      // through getFlag: optional-chaining a missing getFlag returns undefined
+      // silently, which would leave every old pin in place and double them.
+      const mine = n => (n.flags?.[MODULE]?.order ?? n.getFlag?.(MODULE, "order")) !== undefined;
+      const stale = (existing.notes ?? []).filter(mine).map(n => n.id);
+      if (stale.length) await existing.deleteEmbeddedDocuments("Note", stale);
+      if (notes.length) await existing.createEmbeddedDocuments("Note", notes);
+      await existing.update({ flags: { [MODULE]: { ...entry.flags[MODULE] } } });
       updated.push(existing.name);
       continue;
     }

@@ -15,8 +15,8 @@ const catalogue = read("content/items.json");
 const npcs = read("content/npcs.json");
 const installer = fs.readFileSync(path.join(ROOT, "scripts", "wayreth-journals.mjs"), "utf8");
 
-assert(manifest.version === "1.34.0", `module.json version is ${manifest.version}`);
-assert(pkg.version === "1.34.0", `package.json version is ${pkg.version}`);
+assert(manifest.version === "1.34.1", `module.json version is ${manifest.version}`);
+assert(pkg.version === "1.34.1", `package.json version is ${pkg.version}`);
 assert(items.length === 30, `expected 30 magic items, found ${items.length}`);
 assert(spells.length === 90, `expected 90 spells, found ${spells.length}`);
 

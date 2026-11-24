@@ -213,9 +213,9 @@ Generated content is rebuilt with `node scripts/build-legacy-items.mjs` and `nod
 
 ## Release
 
-Create a GitHub release tagged **v1.34.0** and attach `module.zip` and `module.json`. The manifest expects:
+Create a GitHub release tagged **v1.34.1** and attach `module.zip` and `module.json`. The manifest expects:
 
-`https://github.com/pacts-and-polyhedrals/wayreth-black-master/releases/download/v1.34.0/module.zip`
+`https://github.com/pacts-and-polyhedrals/wayreth-black-master/releases/download/v1.34.1/module.zip`
 
 The tag must match the version in `module.json` exactly, `v` prefix included, and the assets must be named `module.zip` and `module.json` exactly. Attaching a newer `module.json` to an older release is the same mistake wearing a different hat: Foundry reads the new version out of the manifest, asks for that tag, and GitHub 404s.
 
