@@ -1,0 +1,581 @@
+{
+  "_id": "br89b5wX40wDpDYD",
+  "name": "Arc V: The War Beneath the War",
+  "pages": [
+    {
+      "_id": "8mSq49xqH21UGBqB",
+      "name": "Arc V Overview: The War Beneath the War",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Levels 15–18 · default 12 sessions · expandable to 14. The military war becomes a magical war in which Raistlin’s methods genuinely save lives while creating a second crisis beneath the first.</p>\n<p>The Dragon Queen now understands that Raistlin is not merely researching the past. He has a Portal, a working resurrection theory, and a party capable of recovering what history buried. Takhisis begins treating the Black Master as a strategic threat.</p>\n<h3>Arc Structure</h3><table class=\"wy-table\">\n<thead><tr><th>Sessions</th><th>Phase</th><th>Question</th></tr></thead>\n<tbody>\n<tr><td>1–2</td><td>The Black Host</td><td>Can bound Abyssal enemies be used without becoming a new occupying force?</td></tr>\n<tr><td>3–4</td><td>The Returned</td><td>Is restoring the fallen defensible when the returned instinctively obey?</td></tr>\n<tr><td>5–6</td><td>Attack on Wayreth</td><td>Can the Tower defend itself without treating allies as acceptable losses?</td></tr>\n<tr><td>7–8</td><td>High Clerist’s Tower</td><td>Will the party authorise extreme magic to save thousands?</td></tr>\n<tr><td>9–10</td><td>Kitiara and Lord Soth</td><td>What happens when the war finally targets Palanthas directly?</td></tr>\n<tr><td>11–12</td><td>Caramon’s Return</td><td>Can the party distinguish resurrection from possession when success is finally in reach?</td></tr>\n</tbody>\n</table><h3>Arc Principle</h3><p>Raistlin’s solutions must work. The Black Host should stop Dragonarmy advances. The Returned should save towns. Wayreth’s ruthless defence should break an assault. If dark methods are obviously stupid or useless, the campaign’s moral problem disappears.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.8mSq49xqH21UGBqB"
+    },
+    {
+      "_id": "iIAdI6QLKz6mwRIA",
+      "name": "War Front Rules",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Use War State as a strategic condition, not a score the players are expected to maximise.</p>\n<h3>At the Start of Every Session</h3><ol>\n<li>Read one front-line change appropriate to War State.</li>\n<li>Name one place or NPC the party already knows that is affected.</li>\n<li>Show one resource becoming harder to obtain.</li>\n<li>Update one faction response to Raistlin’s growing reputation.</li>\n<li>Do not change War State unless something actually happened.</li>\n</ol><h3>War State Effects</h3><table class=\"wy-table\">\n<thead><tr><th>Value</th><th>World Condition</th></tr></thead>\n<tbody>\n<tr><td>0–2</td><td>War remains distant; roads mostly open; mobilisation and rumour</td></tr>\n<tr><td>3–4</td><td>Refugee movement, checkpoints, shortages, political fear</td></tr>\n<tr><td>5–6</td><td>Fortified towns, controlled roads, lost villages, military passes</td></tr>\n<tr><td>7–8</td><td>Regions under Dragonarmy control; major defensive lines activated</td></tr>\n<tr><td>9–10</td><td>Palanthas/High Clerist theatre; siege conditions; strategic collapse possible</td></tr>\n</tbody>\n</table><h3>Changing the Tracker</h3><p>±1 for a meaningful military or diplomatic success/failure. ±2 for saving/losing a major strategic point. ±3 only for campaign-reframing outcomes such as the fall of Palanthas, destruction of a Tower, or collapse of the High Clerist line.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.iIAdI6QLKz6mwRIA"
+    },
+    {
+      "_id": "yrybbxUuXHjt8BEz",
+      "name": "The Black Host: Binding Standards",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The Black Host is not a random demon army. Raistlin deliberately selects Abyssal beings who are enemies or rivals of Takhisis and binds them through multiple redundant systems.</p>\n<h3>Three Binding Layers</h3><table class=\"wy-table\">\n<thead><tr><th>Layer</th><th>Function</th><th>Failure Mode</th></tr></thead>\n<tbody>\n<tr><td>True Name</td><td>Defines the entity being bound</td><td>Incorrect name binds only an aspect or nothing at all</td></tr>\n<tr><td>Contract / Geas</td><td>Defines permitted actions and objectives</td><td>Ambiguity becomes a loophole</td></tr>\n<tr><td>Soul Seal</td><td>Prevents immediate betrayal/escape</td><td>Too much control can turn a negotiated ally into a slave and increase Raistlin Control</td></tr>\n</tbody>\n</table><h3>Rules of Engagement</h3><ul>\n<li>No feeding on civilians or allied souls.</li>\n<li>No summoning reinforcements without explicit authorisation.</li>\n<li>No independent territorial claims on Krynn.</li>\n<li>Return through the Portal when mission terms are completed.</li>\n<li>Any entity may petition for renegotiation rather than remain under impossible orders.</li>\n</ul><p>These clauses matter later. The party should be allowed to improve them, discover loopholes, and decide whether a being hostile to Takhisis can ever be treated as a legitimate ally rather than a weapon.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.yrybbxUuXHjt8BEz"
+    },
+    {
+      "_id": "BNrXFMyafiqfkU1p",
+      "name": "The Returned: GM Guide",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The Returned are the campaign’s most emotionally difficult magical development because they are alive enough to be recognisably themselves.</p>\n<h3>They Are Not Undead</h3><p>They breathe. They eat. They sleep. They remember spouses, debts, jokes, military drills, childhood homes and fear. Detection magic reads them as living creatures unless a specific ritual trace is sought.</p>\n<h3>The Disturbance</h3><p>When Raistlin gives a direct command in the ritual authority he used to restore them, their bodies begin obeying before conscious decision. Most can resist trivial phrasing by concentrating. None can initially resist a deliberate command.</p>\n<h3>Questions to Ask at the Table</h3><ul>\n<li>Does a person who remembers everything remain the same person if one part of Will has been altered?</li>\n<li>Does saving a town justify using soldiers who cannot refuse?</li>\n<li>If the Returned themselves ask to keep fighting, does the command channel become acceptable?</li>\n<li>Can the party help Raistlin repair the flaw rather than simply demand all Returned be destroyed?</li>\n</ul><h3>Never Make Them Creepy by Default</h3><p>The problem is not that they smile wrong or speak in unison. The problem is that they seem entirely normal until the one moment choice disappears.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.BNrXFMyafiqfkU1p"
+    },
+    {
+      "_id": "dhPWDMtON6l2ELBN",
+      "name": "Wayreth Under Attack",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Takhisis cannot rely on finding Wayreth normally. The assault uses magical triangulation, captured couriers, forced divinations and synchronized teams waiting at multiple possible points where the transdimensional forest touches Krynn.</p>\n<h3>Why the Attack Is Different</h3><p>Wayreth’s Forest exists adjacent to Krynn and chooses where it touches the world. The attack is therefore not a conventional siege. It is an attempt to force enough simultaneous contacts that the Tower cannot redirect all of them.</p>\n<h3>Defensive Behaviour</h3><table class=\"wy-table\">\n<thead><tr><th>Defence</th><th>Benefit</th><th>Danger</th></tr></thead>\n<tbody>\n<tr><td>Moving Paths</td><td>Enemy units are separated and looped</td><td>Allied units can also be isolated</td></tr>\n<tr><td>Animated Forest</td><td>Trees physically attack intruders</td><td>Indiscriminate orders can catch prisoners/retreating allies</td></tr>\n<tr><td>Vanishing Rooms</td><td>Protects archives and noncombatants</td><td>Can trap wounded characters away from healers</td></tr>\n<tr><td>External Magic Immunity</td><td>Makes bombardment ineffective</td><td>Encourages enemies to infiltrate first</td></tr>\n<tr><td>Master Authority</td><td>Raistlin can redirect the Tower rapidly</td><td>Strengthens dependence on one person’s judgment</td></tr>\n</tbody>\n</table><h3>Wayreth’s Priority</h3><p>The Tower protects High Sorcery and itself. It does not automatically prioritise individual lives. High Wayreth Accord lets the party persuade it that preservation of people can be part of preservation of magic.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.dhPWDMtON6l2ELBN"
+    },
+    {
+      "_id": "pxgXdgFQwb44wX91",
+      "name": "High Clerist’s Tower: Return to the Battlefield",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The party first saw the High Clerist approaches while engineers were preparing them. Now every empty field is occupied.</p>\n<h3>Arrival</h3><p>Use exact visual callbacks from Arc II: the ridge where they first saw Palanthas, the engineer who marked a kill zone, the supply yard Veyrath attacked. Now the road is churned mud, the fields hold tents and graves, and dragons are visible in the distance.</p>\n<h3>Strategic Problem</h3><p>The defenders can hold for a time but will break if a coordinated dragon assault succeeds. Raistlin offers to release a portion of the Black Host through prepared circles behind the enemy line.</p>\n<h3>Possible Modifications</h3><ul>\n<li>Limit Host mission duration and geographic radius.</li>\n<li>Require a PC/White Robe witness to every binding.</li>\n<li>Use only entities with explicit voluntary contracts.</li>\n<li>Target Dragonarmy magical assets rather than mass infantry.</li>\n<li>Reject the Host and build an alternative using dragonlances, orbs, evacuation and conventional forces.</li>\n</ul><p>No option should guarantee zero casualties. This is war; the moral question is about authority and proportionality, not purity.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.pxgXdgFQwb44wX91"
+    },
+    {
+      "_id": "KcjChh1SMgir3qgj",
+      "name": "Palanthas Siege Guide: Kitiara & Lord Soth",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Kitiara attacks because Raistlin’s Tower has become strategically intolerable. Lord Soth comes because death, possession and the Majere name have become impossible for him to ignore.</p>\n<h3>Kitiara’s Objective</h3><p>Destroy or seize the Portal, isolate Raistlin from the party, and force Palanthas to choose between surrendering the Black Master and suffering siege.</p>\n<h3>Lord Soth’s Objective</h3><p>Soth does not need the Portal for the same reason. He wants to know whether Raistlin can truly command death—and whether that power can be used on beings like himself. He is both weapon and witness.</p>\n<h3>Use Soth Carefully</h3><p>He should dominate a scene without requiring the party to defeat him in a fair stand-up fight. His presence changes objectives: rescue someone, hold a seal, prevent him crossing a threshold, break his mount, or survive long enough for a Tower ward to close.</p>\n<h3>Key Line</h3><blockquote class=\"wy-quote\"><p>He thinks death can be mastered.</p></blockquote><p>Soth says it without admiration.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.KcjChh1SMgir3qgj"
+    },
+    {
+      "_id": "efqQiz93gh4wNOCf",
+      "name": "d12 War-Front Events",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Use one when a session needs the war to intrude without becoming the main encounter.</p>\n<table class=\"wy-table\"><thead><tr><th>d12</th><th>Event</th></tr></thead><tbody>\n<tr><td>1</td><td>A courier arrives with victory news that became false yesterday.</td></tr>\n<tr><td>2</td><td>Returned soldiers meet the families of comrades who stayed dead.</td></tr>\n<tr><td>3</td><td>A Black Host contract dispute stalls a critical operation for an hour.</td></tr>\n<tr><td>4</td><td>A Solamnic commander requests resurrection priority for officers; rank-and-file soldiers object.</td></tr>\n<tr><td>5</td><td>A village saved by demons erects a black banner in gratitude, alarming the White Robes.</td></tr>\n<tr><td>6</td><td>A Returned healer refuses to return to the front and tests whether authorities respect that choice.</td></tr>\n<tr><td>7</td><td>Dragonarmy propaganda claims Raistlin is building an army of enslaved dead; parts are true enough to spread.</td></tr>\n<tr><td>8</td><td>A bound Abyssal scout brings excellent intelligence and requests payment not covered by the contract.</td></tr>\n<tr><td>9</td><td>Wayreth's Forest deposits a lost civilian caravan somewhere unexpectedly safe.</td></tr>\n<tr><td>10</td><td>A dragon avoids a sector known to contain Black Host forces, changing the conventional battlefield.</td></tr>\n<tr><td>11</td><td>A grieving family begs for a place in the resurrection queue.</td></tr>\n<tr><td>12</td><td>One hour passes with no bad news. Let the characters notice how strange that feels.</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.efqQiz93gh4wNOCf"
+    },
+    {
+      "_id": "bT6sDMZWYLY8pdlr",
+      "name": "d12 Black Host & Returned Complications",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">These are not gotchas. They are practical tests of the safeguards the party has designed.</p>\n<table class=\"wy-table\"><thead><tr><th>d12</th><th>Complication</th><th>Tracker Pressure</th></tr></thead><tbody>\n<tr><td>1</td><td>A Host entity obeys wording and violates intent to gain tactical advantage.</td><td>Control / Trust</td></tr>\n<tr><td>2</td><td>A Returned officer issues a command to another Returned without knowing they have ritual authority.</td><td>Control</td></tr>\n<tr><td>3</td><td>An Abyssal ally asks to renegotiate after saving civilians outside its mission.</td><td>Control ↓ if honoured</td></tr>\n<tr><td>4</td><td>A Returned person wants legal divorce from a spouse who treats their death as ending the marriage.</td><td>White Bond / civic consequence</td></tr>\n<tr><td>5</td><td>A soul seal begins failing and the bound being voluntarily warns the party.</td><td>Trust in negotiated power</td></tr>\n<tr><td>6</td><td>A Returned scout remembers dying differently from the official report.</td><td>War intelligence</td></tr>\n<tr><td>7</td><td>A White Robe proposes destroying all Returned to end the ethical problem.</td><td>White Bond</td></tr>\n<tr><td>8</td><td>A Black Robe proposes expanding command authority to military officers.</td><td>Control ↑ if accepted</td></tr>\n<tr><td>9</td><td>A Host unit refuses an order because it breaches the civilian clause.</td><td>Evidence consent can constrain power</td></tr>\n<tr><td>10</td><td>A Returned noncombatant case proves the ritual is spreading beyond battlefield use.</td><td>Control / Trust</td></tr>\n<tr><td>11</td><td>A family asks to let a Returned loved one die again after severe trauma; the loved one wants to live.</td><td>Agency conflict</td></tr>\n<tr><td>12</td><td>A Returned volunteer successfully tells Raistlin “no” after an experimental safeguard.</td><td>Control −1 if respected</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.bT6sDMZWYLY8pdlr"
+    },
+    {
+      "_id": "4WN5ycjSSxeF9Iec",
+      "name": "Session 1: The First Opening",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 1 · Level 15 · 4 hours.</strong> Open the Palanthas Portal under controlled conditions and establish the Black Host as a negotiated/bound weapon.</p>\n<h3>Opening Image</h3>\n<p>For the first time, the black curtain is removed. The Portal does not flare dramatically. It looks like depth where no depth should exist, and cold enters the laboratory from somewhere that has no weather.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Raistlin</li>\n<li>Party</li>\n<li>White Robe PC</li>\n<li>First Abyssal envoy: Vhalzakar (campaign fiendish NPC)</li>\n<li>Tower wardens</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Safety Circle</h4>\n<p>Raistlin has built overlapping wards and gives the party full inspection rights if Trust is positive; otherwise he explains only what they need.</p>\n<h4>2. Contact</h4>\n<p>Rather than summoning a random demon, Raistlin calls Vhalzakar, an Abyssal warlord whose forces have lost territory to Takhisis’s servants.</p>\n<h4>3. Terms</h4>\n<p>Negotiate target, duration, civilian protections and return conditions. Let players amend clauses. Vhalzakar is self-interested but capable of understanding contract.</p>\n<h4>4. First Passage</h4>\n<p>A small strike group crosses, destroys a Dragonarmy magical depot, and returns. It works.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Portal can be controlled on a limited scale.</li>\n<li>Abyssal politics include enemies of Takhisis.</li>\n<li>Raistlin is willing to use contracts before compulsion if the method works.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Control -1 if the party improves consent/exit clauses and Raistlin accepts; +1 if they urge permanent enslavement as safer. Trust +1 for technically useful amendments.</p>\n<h3>End Beat</h3>\n<p>News arrives the next morning: an enemy depot that had stalled Solamnic forces simply ceased to exist overnight.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The first use must be successful. The temptation of extreme magic depends on evidence, not rhetoric.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.4WN5ycjSSxeF9Iec"
+    },
+    {
+      "_id": "h8NMkkc6QoHZ7qku",
+      "name": "Session 2: The Black Saviour",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 2 · Level 15 · 4 hours.</strong> Show the Black Host changing the war and force the party to confront public reaction to Raistlin’s success.</p>\n<h3>Opening Image</h3>\n<p>In a market square, refugees are cheering a black-robed messenger who has just announced that a Dragonarmy column was destroyed without a single allied soldier dying.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Black Robe courier</li>\n<li>Refugees</li>\n<li>Solamnic officer</li>\n<li>White Robe critic</li>\n<li>Abyssal liaison</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. War Update</h4>\n<p>Mark 2–3 genuine strategic improvements caused by Host actions. War State may fall by 1.</p>\n<h4>2. Public Reputation</h4>\n<p>The phrase <strong>Black Saviour</strong> appears in broadsheets and soldier slang. Raistlin dislikes it but does not suppress it.</p>\n<h4>3. Loophole</h4>\n<p>One bound entity interprets “enemy supply” to include a farm requisitioned by the Dragonarmy, endangering civilians.</p>\n<h4>4. Repair the Contract</h4>\n<p>The party can renegotiate, punish, dismiss or forcibly bind the entity. Their method sets precedent for later Host use.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Host is strategically effective.</li>\n<li>Contracts require interpretation and enforcement.</li>\n<li>Public opinion may become more comfortable with Raistlin’s power than the Orders are.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>War State -1 if the Host victories are meaningful. Control ±1–2 based on whether the party treats the loophole as reason for better agreement or permanent domination. White Robe Bond may rise if the PC offers workable safeguards rather than only prohibition.</p>\n<h3>End Beat</h3>\n<p>Raistlin asks the party to witness another experiment—this one involving a dead Solamnic defender.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>War pressure creates the argument Raistlin will keep making: if a dangerous method saved hundreds today, what exactly is the moral alternative tomorrow?</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.h8NMkkc6QoHZ7qku"
+    },
+    {
+      "_id": "y8TMzSYlqe9l7s39",
+      "name": "Session 3: The First Returned",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 3 · Level 15–16 · 4–5 hours.</strong> Perform a limited resurrection experiment on a recently fallen volunteer and reveal the command flaw.</p>\n<h3>Opening Image</h3>\n<p>The dead soldier’s family is present by choice. Raistlin insists on witnesses because he wants proof this is resurrection, not necromantic theatre.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Raistlin</li>\n<li>Returned soldier Captain Arvel Dain (campaign NPC)</li>\n<li>Dain family</li>\n<li>White Robe PC</li>\n<li>Healers</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Consent Before Death</h4>\n<p>Dain left written permission for experimental restoration if killed. This prevents the session from beginning with an easy ethical answer.</p>\n<h4>2. Ritual</h4>\n<p>Use a simplified Long Return because death is recent. Memory, body and soul align. Dain wakes frightened, weak and unmistakably himself.</p>\n<h4>3. Verification</h4>\n<p>Family questions, healing magic and personal memories establish identity.</p>\n<h4>4. The Command</h4>\n<p>During a safety test Raistlin says “stand.” Dain stands before deciding to. Everyone notices.</p>\n<h4>5. Dain’s Choice</h4>\n<p>Dain still wants to live and still wants to defend Palanthas. He asks the party not to destroy the process just because it is imperfect.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The ritual restores real living people.</li>\n<li>The command channel is reproducible.</li>\n<li>A willing Returned person may prefer compromised life to death.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 16 if pacing fits here. Control +1 if the flaw is dismissed as irrelevant; -1 if party works on removing it without denying Dain’s choice to live. White Robe Bond can move ±2.</p>\n<h3>End Beat</h3>\n<p>Dain asks Raistlin, “Can you make it so I can tell you no?” Raistlin answers, “I am trying.”</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>This line is crucial. Raistlin is not yet committed to dominion. The party’s influence can still change the research direction.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.y8TMzSYlqe9l7s39"
+    },
+    {
+      "_id": "IRV6tl0pgptlRuMp",
+      "name": "Session 4: People Who Came Back",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 4 · Level 16 · 4 hours.</strong> Move the Returned from laboratory concept into society and military reality.</p>\n<h3>Opening Image</h3>\n<p>A temporary ward in Palanthas holds twelve Returned defenders. They are playing cards, arguing about food, writing letters home and trying to decide whether strangers are afraid of them.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Captain Dain</li>\n<li>Returned healer</li>\n<li>Returned scout</li>\n<li>Families</li>\n<li>Palanthas civic official</li>\n<li>White Robe investigator</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Interviews</h4>\n<p>Let players talk to Returned individually. Give each different feelings about life, war and the command flaw.</p>\n<h4>2. Civil Question</h4>\n<p>Palanthas must decide whether the Returned retain rank, property, marriage and legal identity. The party’s testimony matters.</p>\n<h4>3. Command Accident</h4>\n<p>A low-level Black Robe accidentally uses ritual authority wording and two Returned obey. Prove the flaw is systemic, not only Raistlin’s personality.</p>\n<h4>4. Attack</h4>\n<p>Dragonarmy agents target the Returned ward, trying to kill or abduct subjects for study. The Returned help defend themselves.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Returned retain identity and personal preference.</li>\n<li>Ritual authority can potentially be delegated or imitated—a major security risk.</li>\n<li>Takhisis wants samples/research.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Control -1 if party secures legal rights and limits command authority; +1 if they institutionalise command because it is efficient. War State may improve if Returned volunteers join defence under safeguards.</p>\n<h3>End Beat</h3>\n<p>One Returned soldier refuses re-enlistment and asks to go home. Whether authorities let them becomes the session’s final image.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The campaign’s question is not “are the Returned monsters?” It is “will everyone around them allow them to be people?”</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.IRV6tl0pgptlRuMp"
+    },
+    {
+      "_id": "bO7KRO6IEdUJbE4s",
+      "name": "Session 5: The Forest Swallows an Army",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 5 · Level 16 · 4–5 hours.</strong> Begin the assault on Wayreth and make its transdimensional nature a tactical system.</p>\n<h3>Opening Image</h3>\n<p>The warning does not come from scouts. One of Wayreth’s bells rings once in Palanthas, then every sending line to the Tower fills with the sound of wind through trees.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Raistlin</li>\n<li>Par-Salian</li>\n<li>Justarius</li>\n<li>Ladonna</li>\n<li>Wayreth watch-wizards</li>\n<li>Dragonarmy mages</li>\n<li>Party</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Multiple Contact Points</h4>\n<p>Enemy teams attack where Wayreth Forest is touching Krynn across a huge radius. The party chooses which breach to address.</p>\n<h4>2. Moving Paths</h4>\n<p>The Forest separates enemy units beautifully—and also separates an allied evacuation group.</p>\n<h4>3. Animated Trees</h4>\n<p>Use enormous moving trees as terrain, barricades and hazards. The party can request changes through Accord or direct Raistlin.</p>\n<h4>4. The Enemy Method</h4>\n<p>Captured mages carry forced-divination instruments built from stolen arcane items, allowing approximate prediction of Forest contact points.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The enemy cannot locate the Tower directly but can attack its interfaces.</li>\n<li>Wayreth’s defences are nearly invulnerable but not morally selective.</li>\n<li>The Dragonarmy has invested significant magical resources specifically against High Sorcery.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>War State +1 if multiple breaches succeed, -1 if party captures the triangulation method intact. Wayreth Accord becomes active: +5 allows immediate route aid, +8 can make the Forest prioritise the party’s rescue plan.</p>\n<h3>End Beat</h3>\n<p>The party reaches the inner Tower and finds rooms moving fast enough to throw furniture across corridors.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Wayreth chose Raistlin for survival. Under attack, the party sees exactly what that means when “survival” is allowed to override everything else.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.bO7KRO6IEdUJbE4s"
+    },
+    {
+      "_id": "gMZVzxLnKQd6Ty2A",
+      "name": "Session 6: The Tower Chooses Survival",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 6 · Level 16 · 4–5 hours.</strong> Resolve the Wayreth assault by forcing a conflict between Tower preservation and allied lives.</p>\n<h3>Opening Image</h3>\n<p>A defensive calculation proposes sealing an entire external pocket of Forest. Doing so will trap three enemy companies—and one allied field hospital—outside normal Krynn space for an unknown period.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Wayreth magical intelligence</li>\n<li>Raistlin</li>\n<li>Par-Salian</li>\n<li>Allied field hospital</li>\n<li>Enemy assault commander</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. The Proposal</h4>\n<p>Present the Tower’s solution neutrally through wards or a Master interface. It is tactically excellent.</p>\n<h4>2. Alternatives</h4>\n<p>Players can evacuate the hospital under pressure, redirect the pocket, lure enemies elsewhere, or accept the sacrifice.</p>\n<h4>3. Raistlin’s Position</h4>\n<p>At high Control he favours sealing immediately. At low Control/positive Bond he gives the party minutes to try their alternative.</p>\n<h4>4. Counterstrike</h4>\n<p>Once civilians/allies are resolved, collapse the enemy access and capture a senior magical officer.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Wayreth cannot distinguish survival under freedom from survival under absolute control.</li>\n<li>The Tower’s blind spot is structural, not malicious.</li>\n<li>Takhisis now knows a direct assault is extraordinarily costly.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Wayreth Accord +2 for a successful alternative that also preserves Tower security. Control -2 if it succeeds without domination; +2 if party explicitly endorses sacrificing the hospital as easiest. Trust reflects whether their solution actually works.</p>\n<h3>End Beat</h3>\n<p>The assault breaks. As survivors emerge, the Tower quietly opens a door for the party that no one authorised.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The Tower is beginning to learn from the party if Accord is high. This matters in Arc VI when it must decide whether obedience to Raistlin is the same as survival.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.gMZVzxLnKQd6Ty2A"
+    },
+    {
+      "_id": "DFIZiN7Vam5AMSMe",
+      "name": "Session 7: Return to the High Clerist",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 7 · Level 16 · 4 hours.</strong> Revisit an Arc II location under full battle conditions and give the party strategic authority.</p>\n<h3>Opening Image</h3>\n<p>The ridge from which the party once saw Palanthas now holds artillery, wounded dragons, signal fires and rows of fresh graves.</p>\n<h3>People in Play</h3>\n<ul>\n<li>High Clerist commander</li>\n<li>Arc II engineering captain if alive</li>\n<li>Solamnic soldiers</li>\n<li>Refugee support crews</li>\n<li>Raistlin by projection/sending</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Arrival Callback</h4>\n<p>Use named NPCs and exact locations from Arc II. Reward previous support with better fortifications, supplies or morale.</p>\n<h4>2. Strategic Briefing</h4>\n<p>Defenders face a coordinated dragon assault and cannot hold all approaches. The party can choose one sector to reinforce personally.</p>\n<h4>3. Conventional Option</h4>\n<p>Dragonlance teams, traps, Dragon Orb knowledge and evacuation can reduce risk but may not stop breakthrough.</p>\n<h4>4. Raistlin’s Offer</h4>\n<p>He can open controlled summoning circles for a limited Black Host deployment behind enemy magical command.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>This battlefield was anticipated but not prepared for the scale now arriving.</li>\n<li>The Black Host can save thousands if terms hold.</li>\n<li>Abyssal deployment near mass death risks attracting uncontrolled entities.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>No automatic movement. The choice in Session 8 should be deliberate. War State sets enemy strength and casualty pressure.</p>\n<h3>End Beat</h3>\n<p>At sunset, dragons begin forming into attack wings. Raistlin asks for the party’s answer before dawn.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The campaign returns players to a place they once regarded as a waypoint and makes it a decision point for the fate of western Ansalon.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.DFIZiN7Vam5AMSMe"
+    },
+    {
+      "_id": "e1jTTEq8hCzEXHB8",
+      "name": "Session 8: The Black Host at High Clerist",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 8 · Level 17 · 5 hours.</strong> Run the major battlefield and make the consequences of the party’s safeguards visible.</p>\n<h3>Opening Image</h3>\n<p>The battle begins conventionally. Only after the first defensive line fails does the party’s decision about the Black Host matter.</p>\n<h3>People in Play</h3>\n<ul>\n<li>High Clerist defenders</li>\n<li>Dragonarmy commanders</li>\n<li>Black Host units</li>\n<li>Vhalzakar or other contracted entity</li>\n<li>Party</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. First Assault</h4>\n<p>Give the party a high-level battlefield objective: save dragonlance crews, hold an orb chamber, break command magic, or rescue trapped knights.</p>\n<h4>2. Host Release or Alternative</h4>\n<p>If approved, circles open behind enemy lines under the agreed terms. If rejected, deploy the party’s alternative plan and make its costs real.</p>\n<h4>3. Loophole Test</h4>\n<p>A Host commander receives an opportunity to violate the spirit but not wording of the contract for tactical gain. Prior safeguards determine whether it can.</p>\n<h4>4. Decision in Motion</h4>\n<p>The party may amend, revoke or expand terms while the battle continues.</p>\n<h4>5. Victory / Retreat</h4>\n<p>Determine War State from outcome rather than predetermined canon in this altered timeline.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Abyssal allies can be disciplined if agreements are precise.</li>\n<li>Some entities voluntarily return when terms end; others resent the seals.</li>\n<li>Raistlin is learning whether negotiation is sufficient or domination is “safer.”</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 17. War State -2 for decisive defence, -1 for costly hold, +1 for strategic withdrawal, +2 for collapse. Control -2 if voluntary terms succeed; +2 if the party replaces them with permanent binding.</p>\n<h3>End Beat</h3>\n<p>After the battle, a blue dragon messenger circles far above and turns toward Palanthas. Kitiara now knows the Black Host is real.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>This is Raistlin’s strongest evidence that his forbidden work can save the world. The party must carry that truth into every later argument.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.e1jTTEq8hCzEXHB8"
+    },
+    {
+      "_id": "vNXa3hh1lXQILc8q",
+      "name": "Session 9: The Blue Lady Moves",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 9 · Level 17 · 4 hours.</strong> Transition the war directly to Palanthas and put Kitiara’s personal relationship with the Majere brothers into the campaign.</p>\n<h3>Opening Image</h3>\n<p>Palanthas receives three messages in one hour: a Dragonarmy fleet changing course, undead riders seen north of the city, and a formal demand addressed to its council rather than its generals.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Kitiara uth Matar via envoy</li>\n<li>Palanthas Council</li>\n<li>Raistlin</li>\n<li>Knights of Solamnia</li>\n<li>Lord Soth’s herald</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. The Demand</h4>\n<p>Kitiara offers to spare sections of Palanthas if the city turns over Raistlin, the Portal research and the party.</p>\n<h4>2. Council Crisis</h4>\n<p>Some councillors want to refuse instantly; others ask whether one Black Robe is worth a city. Give party allies from Arc III voices in the room.</p>\n<h4>3. Raistlin and Kitiara</h4>\n<p>If the party asks, Raistlin identifies her as someone who knew Caramon and him before this war. He refuses nostalgia.</p>\n<h4>4. Soth Sign</h4>\n<p>A dead horse is found standing outside the Shoikan district with no rider. Its saddle bears Nightlund heraldry.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Kitiara understands enough of the plan to target the Portal.</li>\n<li>Lord Soth is personally involved.</li>\n<li>Palanthas’s political support for Raistlin is conditional on survival.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Trust +1 if party refuses to surrender Raistlin without stripping Palanthas of agency in the decision. War State +1 as siege conditions begin.</p>\n<h3>End Beat</h3>\n<p>The city gates close. The harbour chains rise. The Shoikan Grove goes utterly silent.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Kitiara transforms the arc from abstract strategic conflict into Majere family history colliding with the party’s present.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.vNXa3hh1lXQILc8q"
+    },
+    {
+      "_id": "qZvjxrLXd2aVZckI",
+      "name": "Session 10: Kitiara and Lord Soth",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 10 · Level 17 · 5 hours.</strong> Run the Palanthas assault as objectives across the city and give Lord Soth a confrontation without requiring his permanent defeat.</p>\n<h3>Opening Image</h3>\n<p>Blue dragons pass over white roofs while undead riders move through streets the living have already evacuated. The black Tower stands between both forces like a third army.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Kitiara</li>\n<li>Lord Soth</li>\n<li>Raistlin</li>\n<li>Palanthas defenders</li>\n<li>Party allies from Arc III</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. City Objective</h4>\n<p>Choose two: defend Great Library, secure harbour evacuation, protect council, stop flying assault, rescue Shoikan district.</p>\n<h4>2. Kitiara’s Move</h4>\n<p>She attempts to separate Raistlin from the Tower or force him to use the Portal publicly.</p>\n<h4>3. Soth at the Threshold</h4>\n<p>Soth reaches the Grove/Tower boundary through deathly resistance. The party’s task is to delay, redirect or seal him out, not necessarily kill him.</p>\n<h4>4. Conversation</h4>\n<p>Soth recognises the research purpose and says: “He thinks death can be mastered.” He asks whether the party understands what that makes the dead.</p>\n<h4>5. Counterstroke</h4>\n<p>Raistlin uses Tower authority and/or Host forces to break the assault, depending on prior choices.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Soth sees domination of death as a category of power distinct from ordinary necromancy.</li>\n<li>Kitiara is willing to destroy Palanthas to prevent Raistlin’s rise.</li>\n<li>The war and the resurrection project can no longer be separated.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>War State -1 for successful defence, +2 if Palanthas suffers major breach. Control may move ±1 based on how Raistlin was encouraged to use Host/Returned. Trust +1 if party protects his work without sacrificing city objectives.</p>\n<h3>End Beat</h3>\n<p>After the assault, Raistlin says the next attack will be worse. Then he uncovers the Bell of True Names.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>External pressure now gives Raistlin a wartime justification to accelerate Caramon’s resurrection: he believes Caramon would be an ally, anchor and proof.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.qZvjxrLXd2aVZckI"
+    },
+    {
+      "_id": "H3yOLZWjXuQluPix",
+      "name": "Session 11: The Long Return Begins",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 11 · Level 17 · 4–5 hours.</strong> Prepare and begin Caramon’s resurrection with the party participating in every safeguard.</p>\n<h3>Opening Image</h3>\n<p>The Great Laboratory has been cleared of war maps. The three components sit around a circle large enough for a man to lie within. Caramon’s sword rests beside it.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Raistlin</li>\n<li>Party</li>\n<li>White Robe PC</li>\n<li>Caramon soul-contact</li>\n<li>Optional Justarius/Par-Salian observer depending politics</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Safeguards</h4>\n<p>The party can insist on Invitation wording, severable command channels, witness spells, escape conditions and limits on Raistlin’s authority. Every prior research choice matters.</p>\n<h4>2. Memory</h4>\n<p>The Heart reconstructs Caramon’s identity and last mortal connections. Players may contribute memories learned from refugees rather than only Raistlin’s.</p>\n<h4>3. Time</h4>\n<p>The Chronicle creates the connection. Decide how anchor strain is shared or borne.</p>\n<h4>4. Name</h4>\n<p>The Bell calls Caramon. For the first time, a voice answers from beyond the Portal.</p>\n<h4>5. Refusal Window</h4>\n<p>If using Invitation, the ritual visibly pauses waiting for choice. If Dominion was selected, the pause is absent. Make the difference obvious.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Caramon is conscious enough to respond before embodiment.</li>\n<li>Raistlin can choose to leave or close the refusal path.</li>\n<li>The ritual is now irreversible without consequences once embodiment begins.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Control can shift ±3 here. White Robe Bond can shift ±2 based on whether Raistlin accepts safeguards voluntarily. Trust +1 if party stands beside him rather than sabotaging after agreeing.</p>\n<h3>End Beat</h3>\n<p>A body takes breath. Caramon opens his eyes.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The campaign’s central resurrection succeeds. The remaining question is whether the person who returned is free.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.H3yOLZWjXuQluPix"
+    },
+    {
+      "_id": "NCRTfdzy6Pc6vOi3",
+      "name": "Session 12: Give Me the Sword",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 12 · Level 18 · 4–5 hours.</strong> Let Caramon become a character again, reveal the command channel in the most personal possible way, and end Arc V on the emotional crisis that launches the finale.</p>\n<h3>Opening Image</h3>\n<p>Caramon’s first hours are not a boss fight. He is weak, hungry, confused by dates, and furious that everyone is staring at him.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Caramon Majere</li>\n<li>Raistlin</li>\n<li>Party</li>\n<li>Healers/close witnesses</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Recognition</h4>\n<p>Caramon recognises Raistlin and personal memories reconstructed by the ritual. He asks who the party are and what happened in Silvanesti.</p>\n<h4>2. The Sword</h4>\n<p>He sees his greatsword—the one mounted above Raistlin’s hearth for months. Raistlin says, “Give me the sword.” Caramon’s hand moves before he decides whether to comply.</p>\n<h4>3. Silence</h4>\n<p>Do not immediately explain. Let everyone understand the command channel in the context of brothers rather than soldiers.</p>\n<h4>4. Caramon Speaks</h4>\n<p>Caramon asks for privacy with the party later. He does not accuse Raistlin of malice. He says he does not know whether he came back because he wanted to.</p>\n<h4>5. War News</h4>\n<p>Before resolution, reports arrive of renewed magical attacks on both Wayreth and Palanthas. The enemy has learned enough to strike at the Towers themselves.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Caramon is substantially himself.</li>\n<li>He is bound by at least a residual command channel unless the party achieved exceptional safeguards.</li>\n<li>He loves Raistlin and is frightened by what his brother did.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 18. White Robe Bond +1–2 if Raistlin allows the party/Caramon to discuss the command openly. Control +2 if he rationalises it as necessary; -2 if he immediately begins removing it. Trust reflects whether the party responds to Caramon with honesty rather than using him as leverage.</p>\n<h3>End Beat</h3>\n<p>Caramon takes the sword in his own hands and says to Raistlin: “Next time, ask.” Cut there.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Arc V proves Raistlin can defeat death. Arc VI asks whether he can accept that defeating death does not give him ownership of the person he saved.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!br89b5wX40wDpDYD.NCRTfdzy6Pc6vOi3"
+    }
+  ],
+  "folder": null,
+  "sort": 800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!br89b5wX40wDpDYD"
+}

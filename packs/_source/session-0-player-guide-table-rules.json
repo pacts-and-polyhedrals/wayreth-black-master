@@ -1,0 +1,230 @@
+{
+  "_id": "hrFtfIWyfPATlLdc",
+  "name": "Session 0 Player Guide & Table Rules",
+  "pages": [
+    {
+      "_id": "xOXYghXMJ5GNYq3o",
+      "name": "Welcome to the Campaign",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">You begin as level 1 adventurers traveling to Vogler for the funeral of an old friend: Ispin Greenshield. You already know one another. Session 0 will create the adventures that made you a party before the campaign begins.</p>\n<h3>What to Expect</h3><p>Character-driven adventure, Dragonlance war, meaningful travel, High Sorcery, difficult choices, a visible calendar, and a long road to Wayreth.</p>\n<h3>Session 0</h3><p>Expect more than four hours: table expectations, technical Foundry setup, character work, shared history with Ispin, then a 90–120 minute playable prelude arriving in Vogler on the night before the funeral.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!hrFtfIWyfPATlLdc.xOXYghXMJ5GNYq3o"
+    },
+    {
+      "_id": "7hd20b5jNViC2W95",
+      "name": "Table Rules",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">These are the standing table rules for the campaign. Present them plainly, invite questions, and then treat them as normal expectations rather than a weapon to be quoted at players.</p>\n<ol>\n<li><strong>Respect other players.</strong> Treat everyone with respect in and out of character. Personal attacks, derogatory language, and belittling are not acceptable.</li>\n<li><strong>Listen to others.</strong> When someone has the floor, give them space to finish. Avoid interrupting or talking over other players.</li>\n<li><strong>Stay focused.</strong> Keep phones and unrelated devices from becoming a distraction. Brief real-life interruptions happen; prolonged disengagement should not become routine.</li>\n<li><strong>Be prepared.</strong> Arrive with your character sheet, access to Foundry, and any materials you personally use. Know your core features well enough to take a turn without rebuilding your character at the table.</li>\n<li><strong>Follow the DM's lead.</strong> The DM adjudicates the world, NPCs, and uncertain rules. Questions and respectful rules corrections are welcome; repeated argument after a ruling is not.</li>\n<li><strong>Stay in character where practical.</strong> Speak and act from your character's point of view when roleplaying, while still communicating clearly as players when consent, rules, or safety needs to be discussed.</li>\n<li><strong>Take turns.</strong> During combat and busy social scenes, share space so everyone has opportunities to act and speak.</li>\n<li><strong>Keep the game moving.</strong> Make decisions in reasonable time, know what your abilities do, and avoid side conversations that stall the table.</li>\n<li><strong>Have fun.</strong> D&amp;D is collaborative entertainment. The goal is for the whole table to enjoy the campaign, not for one character to \"win\" against everyone else.</li>\n</ol>\n<h3>Shared Spotlight</h3><p>Players who naturally speak often should create openings for quieter players. Quieter players will be offered opportunities, but are not required to perform on command. The DM may deliberately cut between characters to keep scenes balanced.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!hrFtfIWyfPATlLdc.7hd20b5jNViC2W95"
+    },
+    {
+      "_id": "3YiUdaQ7dRGjcW3x",
+      "name": "Problem Solving and Disagreements",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Problems are easiest to resolve when they are raised early and privately rather than allowed to become part of the fiction.</p>\n<ol start=\"10\">\n<li><strong>Raise concerns privately.</strong> If you have an issue during or after play, speak to the DM privately by message or separate conversation.</li>\n<li><strong>Respect players and characters.</strong> Do not use \"I was in character\" as cover for personal attacks, humiliation, or belittling another player.</li>\n<li><strong>Rules disputes.</strong> Check the official D&amp;D rules when useful. If the answer remains unclear or would take too long to research, the DM makes the ruling for that session. The rule can be reviewed afterward.</li>\n<li><strong>Breaks.</strong> If you need to step away, let the DM and group know in advance when possible. If something is urgent, simply step away and message when able.</li>\n<li><strong>Unresolved conflict.</strong> If an issue cannot be handled respectfully while play continues, the DM may pause or end the session so the problem can be addressed properly.</li>\n<li><strong>Streaming.</strong> The game is being streamed. Avoid behavior or language that would be inappropriate or offensive for the agreed audience and platform.</li>\n</ol>\n<h3>At-the-Table Rules Procedure</h3><p><strong>Question → quick check if needed → DM ruling → continue play → research afterward.</strong> A wrong ruling can be corrected going forward. Replaying an entire scene because of a small rules mistake is normally less useful than keeping the campaign moving.</p>\n<h3>Character Conflict</h3><p>Characters may argue, distrust one another, compete, and hold different beliefs. Meaningful PvP—including attacks, theft, deliberate destruction of another PC's possessions, or hostile magic that removes another PC's agency—requires the affected player's consent.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!hrFtfIWyfPATlLdc.3YiUdaQ7dRGjcW3x"
+    },
+    {
+      "_id": "TGTr4mEt1oJGWFgU",
+      "name": "Campaign House Rules",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">These house rules replace the standard rule where they conflict with it. Make sure every player understands them before the prelude begins.</p>\n<table class=\"wy-table\"><thead><tr><th>#</th><th>Rule</th><th>At the Table</th></tr></thead><tbody>\n<tr><td>1</td><td><strong>Powerful Criticals</strong></td><td>Critical hits deal maximum possible damage rather than rolling the critical damage dice.</td></tr>\n<tr><td>2</td><td><strong>Critical Failures</strong></td><td>On an attack-roll natural 1, the DM may introduce an immediate mishap: losing/dropping the weapon, striking yourself, or endangering/damaging an ally, as fiction and positioning make appropriate.</td></tr>\n<tr><td>3</td><td><strong>Potions in Combat</strong></td><td>Administering a potion to an ally costs 1 Action. Drinking one yourself costs 1 Bonus Action.</td></tr>\n<tr><td>4</td><td><strong>Quick Skill Checks</strong></td><td>In most circumstances a basic check such as Insight or Perception can be attempted during combat without consuming an action. Multitasking may impose disadvantage, a reduced result, or another situational penalty at the DM's discretion.</td></tr>\n<tr><td>5</td><td><strong>Potion Toxicity</strong></td><td>If you consume more than one potion within an hour, roll on the Potion Toxicity table.</td></tr>\n<tr><td>6</td><td><strong>Maximum Potion Healing</strong></td><td>Healing potions restore their maximum listed healing; do not roll their healing dice.</td></tr>\n<tr><td>7</td><td><strong>Stacking Inspiration</strong></td><td>Inspiration can stack. Inspiration is especially likely when a player commits to personality, ideals, bonds, or flaws despite a meaningful detrimental consequence, or contributes strongly to roleplay.</td></tr>\n<tr><td>8</td><td><strong>Blind Death Saves</strong></td><td>Death saves are rolled blind so the table does not know whether a fallen character is succeeding or failing.</td></tr>\n</tbody></table>\n<h3>House-Rule Intent</h3><p>These rules make combat swingier, potions more useful, and character commitment more rewarding. Players should understand that critical failures can create consequences beyond a simple miss, while blind death saves deliberately remove metagame certainty.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!hrFtfIWyfPATlLdc.TGTr4mEt1oJGWFgU"
+    },
+    {
+      "_id": "jU6cs5RGIxlAEVE2",
+      "name": "Technical Checklist",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Before the playable prelude, make sure you can do each of these without needing the DM to operate your sheet.</p>\n<ul><li>Log into Foundry and open your Actor.</li><li>Move and measure with your token.</li><li>Roll an ability check, skill check, and saving throw.</li><li>Target a creature and make an attack.</li><li>Roll damage.</li><li>Cast a spell and identify whether it uses concentration.</li><li>Find HP, Hit Dice, death saves, Inventory, Features, and Spells.</li><li>Find shared Journals and handouts.</li><li>Use Short Rest and Long Rest controls.</li><li>Know that death saves are blind in this campaign.</li></ul>\n<h3>If Foundry Misbehaves</h3><p>Refresh first. If the problem persists, tell the DM exactly what you see rather than repeatedly reconnecting.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!hrFtfIWyfPATlLdc.jU6cs5RGIxlAEVE2"
+    },
+    {
+      "_id": "Uhj0hhYbY8BdQkwG",
+      "name": "Character and Ispin Worksheet",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Bring a character concept, but leave enough empty space for the group to build history together.</p>\n<h3>Your Character</h3><ol><li>What did you think your life would become before adventuring?</li><li>Why did you begin adventuring?</li><li>What are you good at outside combat?</li><li>What are you trying to prove?</li><li>What do you fear people will discover about you?</li><li>What could make you cross Ansalon instead of choosing safety?</li></ol>\n<h3>Your Ispin</h3><ol><li>How did you know him?</li><li>What did he call you?</li><li>What did he teach you?</li><li>What did you teach him?</li><li>What story did he always exaggerate?</li><li>What did he know about you that others might not?</li><li>What is the last thing you remember him saying?</li><li>What mundane keepsake from him do you still carry?</li></ol>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!hrFtfIWyfPATlLdc.Uhj0hhYbY8BdQkwG"
+    },
+    {
+      "_id": "f283axfU9uoCkL0q",
+      "name": "Party Connections and Shared Adventures",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">You do not arrive at Vogler as strangers.</p>\n<h3>Connections</h3><p>Create one <strong>strong relationship</strong> and one <strong>complicated relationship</strong> with other PCs. For each: what happened, why do you still travel together, and what did Ispin know about it?</p>\n<h3>Our Adventures with Ispin</h3><p>As a group, create two or three level-1 adventures. For each record:</p><ul><li>Adventure name.</li><li>What really happened.</li><li>Ispin's version.</li><li>Who saved whom.</li><li>The inside joke.</li><li>What you kept.</li><li>An NPC you met.</li><li>Unfinished business.</li></ul>\n<h3>Remember</h3><p>These were early adventures. A broken bridge, goblin tollhouse, missing child, false knight, grave robber, flooded shrine, or suspicious merchant could have felt enormous when you were inexperienced.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!hrFtfIWyfPATlLdc.f283axfU9uoCkL0q"
+    },
+    {
+      "_id": "CpvnecwPygkZ0Nek",
+      "name": "17 Darkember: The Last Road to Vogler",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The playable part of Session 0 begins several miles north of Vogler. You are traveling together to attend Ispin Greenshield's funeral the following morning.</p>\n<h3>Be Ready to Answer</h3><ol><li>What do the others see as you approach?</li><li>What has changed since the party last adventured together?</li><li>What piece of Ispin are you carrying to the funeral?</li></ol>\n<h3>Tonight</h3><p>You will arrive in Vogler, stay at the Brass Crab, meet villagers, explore whichever locations interest you, and prepare for the funeral. There is no requirement to investigate everything. This is a chance to be your character before the wider campaign begins.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!hrFtfIWyfPATlLdc.CpvnecwPygkZ0Nek"
+    }
+  ],
+  "folder": null,
+  "sort": 2300000,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!hrFtfIWyfPATlLdc"
+}

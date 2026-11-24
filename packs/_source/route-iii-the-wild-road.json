@@ -1,0 +1,581 @@
+{
+  "_id": "fHuTb2Gy7kCwCF5j",
+  "name": "Route III: The Wild Road",
+  "pages": [
+    {
+      "_id": "wnSnskq9RzV9flhn",
+      "name": "Route III: The Wild Road",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The purple route cuts south through Cericas and Fangoth, crosses the difficult country toward Solace, then continues through Haven and Pax Tharkas before turning toward Wayreth.</p>\n<table class=\"wy-table\"><thead><tr><th>Leg</th><th>Normal time</th><th>Expected window</th></tr></thead><tbody><tr><td>Vogler → Cericas</td><td>5–7 days</td><td>25–27 Darkember</td></tr><tr><td>Cericas → Fangoth</td><td>3–4 days</td><td>28 Darkember–3 Frostkolt</td></tr><tr><td>Fangoth → Solace</td><td>7–10 days</td><td>7–12 Frostkolt</td></tr><tr><td>Solace → Haven</td><td>2 days</td><td>9–14 Frostkolt</td></tr><tr><td>Haven → Pax Tharkas</td><td>2–3 days</td><td>11–17 Frostkolt</td></tr><tr><td>Pax Tharkas → Wayreth</td><td>4–6 days</td><td>20–25 Frostkolt</td></tr></tbody></table>\n<h3>Reading These Windows</h3>\n<p>Every window above is an <strong>arrival</strong> window for a normal journey, and each already\nincludes the short stops described on that leg's page. They are not best-case figures. The whole-route\ntotals below are the ones to quote at the table.</p>\n<table class=\"wy-table\"><thead><tr><th>How the journey goes</th><th>Days from Vogler</th><th>Reaches Wayreth</th><th>Against the 26 Frostkolt deadline</th></tr></thead><tbody>\n<tr><td>Aggressive — mounted, minimal stops</td><td>24–28</td><td>16–20 Frostkolt</td><td>Six to ten days spare</td></tr>\n<tr><td><strong>Normal adventuring pace</strong></td><td>28–33</td><td><strong>20–25 Frostkolt</strong></td><td>One to six days spare</td></tr>\n<tr><td>On foot with serious delays</td><td>33–36</td><td>25–28 Frostkolt</td><td>On the deadline or past it</td></tr>\n</tbody></table><h3>Route Identity</h3><p>This is the adventurer’s road: shortest line, least dependable infrastructure, highest chance that a local problem becomes a full session. It should feel earned when the party reaches places other travelers reach by safer means.</p><blockquote class=\"wy-quote\"><p>Shortest distance between two points is a straight line. This useful piece of mathematics was clearly invented by someone who had never travelled through Lemish.</p><p>&mdash; Ispin Greenshield</p></blockquote>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.wnSnskq9RzV9flhn"
+    },
+    {
+      "_id": "eHemLBEF0JsjJFJb",
+      "name": "Leg 1: Vogler to Cericas — Leave the Good Roads",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Five to seven days carries the party out of the comfortable assumption that every night ends at an inn.</p>\n<h3>Travel Beats</h3><ol><li><strong>The Last Reliable Signpost.</strong> A road marker gives clear distances; later markers do not.</li><li><strong>Cold Camp.</strong> Make weather and good equipment matter before true wilderness danger appears.</li><li><strong>The Returning Travelers.</strong> A small group coming north describes Fangoth without telling the party not to go there. Their restraint is more unsettling than a warning.</li></ol><h3>Information</h3><ul><li>Cericas is the last comfortable stop before the route becomes politically and physically uncertain.</li><li>Fangoth can be entered; starting a fight there is another matter.</li><li>Food, rope, winter clothing, and spare footwear are more valuable on this route than luxury gear.</li></ul>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.eHemLBEF0JsjJFJb"
+    },
+    {
+      "_id": "jSsfdrpD0SZKPfto",
+      "name": "Stop 1: Cericas — Last Roof Before Lemish",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Cericas is the final place where a warm bed, cooked food, and simple directions can all be assumed on the same evening.</p>\n<table class=\"wy-table\"><thead><tr><th>Expected window</th><th>Suggested play</th><th>Primary function</th></tr></thead><tbody><tr><td>25–27 Darkember</td><td>Half session</td><td>Resupply, warnings, local character scenes</td></tr></tbody></table><h3>Arrival</h3><p>Keep Cericas modest. Its importance is emotional and logistical, not political. Locals know that travelers headed south are either very experienced or very optimistic.</p><h3>Campaign NPCs</h3><ul><li><strong>Hett Marrow:</strong> innkeeper who sells food packs and refuses to sell false confidence.</li><li><strong>Vessa Crow:</strong> hunter who can mark two reliable water sources on Ispin’s map.</li><li><strong>Tomel Darn:</strong> merchant who came through Fangoth and paid every toll without complaint.</li></ul><h3>Scenes</h3><ol><li><strong>The Missing Scout.</strong> A local guide has not returned from checking the southern trail.</li><li><strong>Last Chance Market.</strong> Give the party a concrete chance to buy supplies they will later wish they had.</li><li><strong>The Fangoth Rules.</strong> A traveler explains local expectations: declare weapons, pay tolls, do not assume Solamnic rank means anything.</li></ol><blockquote class=\"wy-quote\"><p>Eat something cooked. Sleep beneath a roof. Beyond here, both become increasingly negotiable.</p><p>&mdash; Ispin Greenshield</p></blockquote>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.jSsfdrpD0SZKPfto"
+    },
+    {
+      "_id": "8VNMKtnGvaGyZEeu",
+      "name": "Leg 2: Cericas to Fangoth — Border Rules",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The route now becomes a question of whether the party can move through dangerous territory without treating every unfamiliar authority as an enemy.</p>\n<h3>Travel Beats</h3><ol><li><strong>Toll Stones.</strong> Old markers have been repainted by different authorities over the years.</li><li><strong>Mercenary Camp.</strong> Armed travelers are not automatically hostile; they are selling information, escort, and loyalty.</li><li><strong>The Wrong Uniform.</strong> Someone wears Solamnic equipment with insignia removed. The explanation matters.</li></ol><h3>Time</h3><p>Detouring around Fangoth can add 2–3 days and should not be treated as a free way to avoid local politics.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.8VNMKtnGvaGyZEeu"
+    },
+    {
+      "_id": "far83zJgpD00Skfd",
+      "name": "Stop 2: Fangoth — Law of the Iron Gate",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Fangoth is one of Route III’s defining sessions. The party can enter, trade, learn, and leave—if they accept that local law is not Solamnic law.</p>\n<table class=\"wy-table\"><thead><tr><th>Expected window</th><th>Suggested play</th><th>Primary function</th></tr></thead><tbody><tr><td>28 Darkember–3 Frostkolt</td><td>One full session</td><td>Hobgoblin politics, trade, Krell entrance, route identity</td></tr></tbody></table><h3>Arrival</h3><p>Fortifications, mercenary traffic, armed merchants, and disciplined gate procedure make Fangoth feel dangerous without requiring immediate violence.</p><h3>Campaign NPCs</h3><ul><li><strong>Magistrate Vark Ironledger:</strong> cares about order, tolls, and contracts more than species prejudice.</li><li><strong>Keska Nine-Nails:</strong> mercenary broker who can sell a guide toward Solace at a painful price.</li><li><strong>Rellin Voss:</strong> Lemish trader who knows which roads are being watched by Dragonarmy sympathizers.</li></ul><h3>Scenes</h3><ol><li><strong>Declare Your Steel.</strong> Every weapon is recorded at the gate. Hidden weapons become a serious legal problem if discovered.</li><li><strong>Krell in Custody.</strong> He may be a prisoner accused of espionage, forbidden magic, or carrying stolen papers.</li><li><strong>The Contract Board.</strong> The party can earn legal favor by solving one local problem instead of attempting a jailbreak.</li></ol><h3>Knowledge Available</h3><ul><li>The path toward Solace is passable but unreliable.</li><li>Mercenaries and collaborators know the war is coming before isolated villagers do.</li><li>Someone has offered coin for information about travelers carrying High Sorcery markings.</li></ul><blockquote class=\"wy-quote\"><p>Do not start a fight in Fangoth. Finish one if necessary.</p><p>&mdash; Ispin Greenshield</p></blockquote>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.far83zJgpD00Skfd"
+    },
+    {
+      "_id": "FppbA8UxBaaQfpb2",
+      "name": "Leg 3: Fangoth to Solace — The Hard Section",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Seven to ten days make this the longest and least predictable overland leg of the Wild Road.</p>\n<h3>Break the Leg into Three Movements</h3><ol><li><strong>Leaving Fangoth.</strong> Roads exist but are watched and politically dangerous.</li><li><strong>The Wild Middle.</strong> Forest, bad tracks, water crossings, old ruins, and navigation become the main threats.</li><li><strong>Approach to Solace.</strong> Signs of trade and habitation return, making the vallenwoods feel like a genuine arrival.</li></ol><h3>Travel Challenge</h3><table class=\"wy-table\"><thead><tr><th>Result</th><th>Effect</th></tr></thead><tbody><tr><td>Strong success</td><td>7 days; arrive with supplies intact.</td></tr><tr><td>Mixed</td><td>8–9 days; one supply or equipment cost.</td></tr><tr><td>Failure</td><td>10 days and a one-day-equivalent complication already included in the leg.</td></tr><tr><td>Major detour</td><td>Add 1–2 days beyond normal.</td></tr></tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.FppbA8UxBaaQfpb2"
+    },
+    {
+      "_id": "1Gtd1nIxTYipNIxa",
+      "name": "Wild Leg Set Piece: The Road That Is Not a Road",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Use this when the party needs a memorable wilderness session between Fangoth and Solace.</p>\n<h3>Hook</h3><p>A visible track seems to offer a full day’s shortcut. It is real, but it was made by smugglers and later abandoned after something changed in the woods.</p><h3>Scenes</h3><ol><li>Choose the shortcut with incomplete information.</li><li>Find a deserted smuggler camp containing useful supplies and one disturbing map.</li><li>Cross a ravine where the old bridge has been deliberately cut.</li><li>Discover why the road was abandoned: monster, magical anomaly, hostile patrol, or haunted ruin.</li></ol><h3>Time</h3><p>Success saves no full day but keeps the party at the fast end of the 7–10 day window. Retreating after deep commitment adds one day.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.1Gtd1nIxTYipNIxa"
+    },
+    {
+      "_id": "EdmAGAINvEYFZMRm",
+      "name": "Stop 3: Solace — The Last Home",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Solace is a reward for surviving the hard leg and a temptation to forget the calendar for one comfortable night too many.</p>\n<table class=\"wy-table\"><thead><tr><th>Expected window</th><th>Suggested play</th><th>Primary function</th></tr></thead><tbody><tr><td>7–12 Frostkolt</td><td>Half to one full session</td><td>Rest, classic Dragonlance atmosphere, information, emotional pause</td></tr></tbody></table><h3>Arrival</h3><p>Vallenwood trees, elevated structures, familiar roads, travelers, and the Inn of the Last Home should feel almost impossible after the wilderness.</p><h3>Campaign NPCs</h3><ul><li><strong>Maris Tanglebough:</strong> traveler who knows Haven Road and gives directions that are actually useful.</li><li><strong>Old Fen:</strong> remembers Ispin ordering potatoes and telling an obviously false story about how he reached Solace.</li><li><strong>Lira Dawn:</strong> young mage who has heard that Wayreth is “near” but cannot find two people who agree where.</li></ul><h3>Scenes</h3><ol><li><strong>The Inn.</strong> Let the party have a proper meal and character scene.</li><li><strong>The Map Wall.</strong> Travelers have pinned route notes that contradict one another near Wayreth.</li><li><strong>The Temptation.</strong> Offer something genuinely fun that requires staying an extra day. Make the choice real.</li></ol><blockquote class=\"wy-quote\"><p>Go to the Inn. Order the potatoes. This is not a suggestion.</p><p>&mdash; Ispin Greenshield</p></blockquote>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.EdmAGAINvEYFZMRm"
+    },
+    {
+      "_id": "LhKeaxPUdlRBv68Y",
+      "name": "Leg 4: Solace to Haven — The Road Returns",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Two days on an established road should feel almost luxurious after the wild middle.</p>\n<h3>Use the Contrast</h3><p>Wagons, milestones, traffic, and predictable camps return. The danger shifts from navigation to people, rumor, law, and the spreading effects of war.</p><h3>Scenes</h3><ol><li>A merchant train asks to travel together for safety.</li><li>Seekers or local officials question travelers about magic.</li><li>A southbound messenger carries news that makes the party reconsider how much time remains safe to spend in civilization.</li></ol>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.LhKeaxPUdlRBv68Y"
+    },
+    {
+      "_id": "QTYJaXjb7jARG6KQ",
+      "name": "Stop 4: Haven — Crowds, Law, and Rumor",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Haven should feel busier, more commercial, and more ideologically tense than Solace.</p>\n<table class=\"wy-table\"><thead><tr><th>Expected window</th><th>Suggested play</th><th>Primary function</th></tr></thead><tbody><tr><td>9–14 Frostkolt</td><td>Half to one session</td><td>Markets, law, religious tension, war rumor, resupply</td></tr></tbody></table><h3>Arrival</h3><p>Give the party choices: shops, information, official records, religious speakers, transport, and people claiming to know exactly what the party should believe.</p><h3>Campaign NPCs</h3><ul><li><strong>Speaker Joran:</strong> local Seeker official suspicious of unsanctioned magical claims.</li><li><strong>Vela Marr:</strong> merchant who can outfit the party for colder mountain travel.</li><li><strong>Terin Ash:</strong> courier carrying a partial report about military movement toward the east.</li></ul><h3>Scenes</h3><ol><li><strong>Public Debate.</strong> A robe-wearing traveler is accused of causing a magical disturbance they did not create.</li><li><strong>Map Seller.</strong> A vendor sells “guaranteed” Wayreth maps, all different.</li><li><strong>The Pax Tharkas Question.</strong> Locals disagree whether the old route is safe, politically sensible, or simply faster.</li></ol>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.QTYJaXjb7jARG6KQ"
+    },
+    {
+      "_id": "mYwhuVq8gma40NTW",
+      "name": "Leg 5: Haven to Pax Tharkas — The Land Rises",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The road climbs and the architecture of the past begins to dominate the landscape.</p>\n<h3>Travel Beats</h3><ol><li><strong>Mountain Weather.</strong> A fast-moving cold front makes shelter matter.</li><li><strong>Old Stone.</strong> The party begins seeing ancient work that dwarfs modern roadside structures.</li><li><strong>Shared Road.</strong> Traders, pilgrims, soldiers, and displaced families all use the same narrow passages.</li></ol><h3>Time</h3><p>Two to three days normally. A blocked pass, damaged bridge, or military inspection can add one if mishandled.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.mYwhuVq8gma40NTW"
+    },
+    {
+      "_id": "zgc1GQGnCjMi1PTg",
+      "name": "Stop 5: Pax Tharkas — The Citadel of Peace",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Pax Tharkas is the Wild Road’s great historical image: proof that earlier peoples built monumental things because cooperation once seemed possible.</p>\n<table class=\"wy-table\"><thead><tr><th>Expected window</th><th>Suggested play</th><th>Primary function</th></tr></thead><tbody><tr><td>11–17 Frostkolt</td><td>Half to one full session</td><td>History, scale, political symbolism, final major threshold</td></tr></tbody></table><h3>Arrival</h3><p>Slow down the description. Twin towers, mountain walls, dwarven engineering, elven artistry, and the sense of old agreements should make the party stop thinking only about miles.</p><h3>Campaign NPCs</h3><ul><li><strong>Archivist Kel Tor:</strong> carries copied historical records and can identify references to Wayreth that contradict modern maps.</li><li><strong>Rinna Vale:</strong> guide who knows the next practical stretch but refuses to claim she can find the Tower.</li><li><strong>Sergeant Korr:</strong> watches travelers moving through the old route and has noticed someone asking after the party.</li></ul><h3>Scenes</h3><ol><li><strong>The Old Inscription.</strong> A historical text describes Wayreth relationally rather than geographically.</li><li><strong>The Closed Passage.</strong> A minor structural collapse forces teamwork or a delay.</li><li><strong>The Pursuer’s Trace.</strong> Evidence proves the party is no longer the only group using their route.</li></ol><blockquote class=\"wy-quote\"><p>Adventurers become so accustomed to ruins that we sometimes forget people once built things because they believed the world might become better.</p><p>&mdash; Ispin Greenshield</p></blockquote>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.zgc1GQGnCjMi1PTg"
+    },
+    {
+      "_id": "wjhQBbXTIOBwvDiM",
+      "name": "Final Leg: Pax Tharkas to Wayreth",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Four to six days should strip away the last confidence the party gained from reaching famous landmarks.</p>\n<h3>Progression</h3><ol><li><strong>Day One:</strong> useful tracks and known terrain.</li><li><strong>Day Two:</strong> trail forks absent from every map.</li><li><strong>Day Three:</strong> a stream crosses the road twice without turning.</li><li><strong>Day Four:</strong> the party sees smoke from its own previous camp ahead.</li><li><strong>Day Five/Six:</strong> the Forest begins responding to behavior, memory, or magical allegiance rather than direction.</li></ol><blockquote class=\"wy-quote\"><p>You cannot simply find Wayreth. The Forest must allow you through. So when the road disappears, do not panic. When it appears somewhere else, follow it.</p><p>&mdash; Ispin Greenshield</p></blockquote>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.wjhQBbXTIOBwvDiM"
+    },
+    {
+      "_id": "m78WQHyKUWKQ9Wof",
+      "name": "Route III: d12 Wild Encounters",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The Wild Road has the highest encounter rate, but even combat encounters should tell the party something about the land or the war.</p>\n<table class=\"wy-table\"><thead><tr><th>d12</th><th>Encounter</th></tr></thead><tbody><tr><td>1</td><td>A mercenary patrol offers safe passage for coin and accurate intelligence for more coin.</td></tr><tr><td>2</td><td>A frightened family is hiding from people wearing no consistent uniform.</td></tr><tr><td>3</td><td>Wild dogs or wolves trail the party but retreat from something deeper in the forest.</td></tr><tr><td>4</td><td>A bridge is intact but a toll collector has no legal authority beyond the armed companions standing nearby.</td></tr><tr><td>5</td><td>A wounded hobgoblin courier carries Fangoth legal papers and a message about Dragonarmy recruiters.</td></tr><tr><td>6</td><td>A campsite contains warm ashes, no travelers, and an Ispin story scratched into a tree.</td></tr><tr><td>7</td><td>An abandoned wagon holds winter supplies and a journal explaining why its owner fled on foot.</td></tr><tr><td>8</td><td>A magical animal watches the party from impossible distances for two consecutive days.</td></tr><tr><td>9</td><td>A patrol has arrested a robe-wearing traveler as a suspected spy.</td></tr><tr><td>10</td><td>The route disappears beneath sudden flooding; finding a new crossing is a travel challenge.</td></tr><tr><td>11</td><td>A group of pilgrims insists Pax Tharkas is safer than Haven and refuses to explain why.</td></tr><tr><td>12</td><td>At moonrise, every compass points toward a different direction for one minute.</td></tr></tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.m78WQHyKUWKQ9Wof"
+    },
+    {
+      "_id": "NKMMkWrHYIayEJvL",
+      "name": "Route III: d12 Rumors and Intelligence",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Rumors on the Wild Road come from mercenaries, refugees, smugglers, isolated villages, and people who may not have any reason to tell the truth.</p>\n<table class=\"wy-table\"><thead><tr><th>d12</th><th>Rumor</th></tr></thead><tbody><tr><td>1</td><td>“Fangoth will let anyone in who pays. Getting out is the complicated part.”</td></tr><tr><td>2</td><td>“Somebody is buying prisoners with magical tattoos.”</td></tr><tr><td>3</td><td>“The shortest trail to Solace changes after heavy rain.”</td></tr><tr><td>4</td><td>“The Inn of the Last Home has the best potatoes in Ansalon.”</td></tr><tr><td>5</td><td>“Haven is arresting people for saying the old gods are returning.”</td></tr><tr><td>6</td><td>“Pax Tharkas was built to prove elves, humans, and dwarves could share more than a battlefield.”</td></tr><tr><td>7</td><td>“A black-robed traveler passed this way without leaving footprints.”</td></tr><tr><td>8</td><td>“The Dragonarmy pays better than local lords and kills deserters faster.”</td></tr><tr><td>9</td><td>“Wayreth is west of wherever you are standing.”</td></tr><tr><td>10</td><td>“No, Wayreth is south until it decides otherwise.”</td></tr><tr><td>11</td><td>“Ispin once crossed Lemish with no map because someone stole it. He claimed this improved navigation.”</td></tr><tr><td>12</td><td>“Your names have been asked for at two places you have not reached yet.”</td></tr></tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.NKMMkWrHYIayEJvL"
+    },
+    {
+      "_id": "6SL0gcrXrgxMizIe",
+      "name": "Route III: Survival, Supplies, and Delay",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The Wild Road should make preparation visible without becoming a daily ration spreadsheet.</p>\n<table class=\"wy-table\"><thead><tr><th>Issue</th><th>If prepared</th><th>If unprepared</th></tr></thead><tbody><tr><td>Food</td><td>Travel normally</td><td>Hunt/forage scene; failure risks exhaustion or +1 day.</td></tr><tr><td>Cold</td><td>Normal rest</td><td>Constitution saves during severe weather.</td></tr><tr><td>Navigation</td><td>Keep fast end of travel window</td><td>Drift toward slow end; major failure adds a day.</td></tr><tr><td>Mounts</td><td>Protect pace</td><td>Injury or loss is difficult to replace before Solace.</td></tr><tr><td>Shelter</td><td>Avoid exposure</td><td>Improvised shelter consumes time/resources.</td></tr><tr><td>Local law</td><td>Pass through Fangoth and checkpoints</td><td>Detours can add several days.</td></tr></tbody></table><p>Reward characters whose backgrounds give them practical travel expertise. The route should prove that noncombat proficiencies matter.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.6SL0gcrXrgxMizIe"
+    },
+    {
+      "_id": "cpbn1gEoAU6OPehA",
+      "name": "Route III: Krell, Skaith, and Mereth in Fangoth",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Fangoth gives the pursuit story its strongest political shape.</p>\n<h3>Krell</h3><p>Place him in custody, awaiting judgment, sale, exchange, or transfer. The charge can be espionage, forbidden magic, stolen papers, or entering under a false identity.</p><h3>Ways to Leave with Him</h3><ul><li>Win a legal argument under local custom.</li><li>Complete a service for Magistrate Vark.</li><li>Pay a lawful bond.</li><li>Expose the actual crime Krell is being blamed for.</li><li>Break him out and accept that Fangoth now has a reason to remember the party.</li></ul><h3>Skaith</h3><p>Skaith uses Fangoth’s record-keeping against the party by creating a second set of sightings or impersonating Krell inside the city.</p><h3>Mereth</h3><p>Mereth can operate openly through mercenary contacts and may offer to pay the party for the right to end the problem permanently.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.cpbn1gEoAU6OPehA"
+    },
+    {
+      "_id": "3ppcYP6LYLUqgjRF",
+      "name": "Route III Signature Adventure: Fangoth — The Iron Ledger",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">This full session makes the city more than a place where the party either fights hobgoblins or leaves.</p>\n<h3>Hook</h3><p>Krell’s release depends on a missing contract ledger that proves somebody has been buying prisoners outside normal law.</p><h3>Scenes</h3><ol><li>Question merchants and mercenaries who do not fear the party but respect useful leverage.</li><li>Discover the ledger was stolen by somebody trying to expose a trafficking network.</li><li>Survive an attempt to destroy the evidence.</li><li>Return the ledger, publish it, or bargain with it.</li></ol><h3>Reward</h3><p>Krell’s legal release, a Fangoth contact, and evidence that enemy agents are interested in magically marked captives.</p><h3>Time</h3><p>Complete before the next morning and it replaces normal rest/resupply time; prolonged pursuit costs one day.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.3ppcYP6LYLUqgjRF"
+    },
+    {
+      "_id": "V5mLpVHhj9rwPGO3",
+      "name": "Route III Signature Adventure: Solace — One More Night",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">This social adventure weaponizes the route’s greatest temptation: comfort.</p>\n<h3>Hook</h3><p>A celebration, reunion, contest, or local mystery offers no strategic benefit at all. It is simply something the characters would enjoy.</p><h3>Purpose</h3><p>After danger and scarcity, give the players a genuine reason to spend a day because their characters are alive. The campaign clock only matters if leisure is sometimes worth considering.</p><h3>If They Stay</h3><p>Advance the date one day and reward the choice with relationships, information, inspiration opportunities, and an NPC who may matter later.</p><h3>If They Leave</h3><p>Do not punish them. Let the empty road at dawn feel like the cost.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.V5mLpVHhj9rwPGO3"
+    },
+    {
+      "_id": "kpb7LEyJWQPBZXWB",
+      "name": "Route III: Optional Adventures and Expansion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The Wild Road naturally supports the longest version of the opening arc.</p>\n<table class=\"wy-table\"><thead><tr><th>Location</th><th>Adventure</th><th>Core question</th></tr></thead><tbody><tr><td>Cericas</td><td>The Missing Scout</td><td>How much danger should the party accept before the “dangerous part” even begins?</td></tr><tr><td>Fangoth</td><td>The Iron Ledger</td><td>Can the party work inside hostile-looking law rather than immediately reject it?</td></tr><tr><td>Fangoth–Solace</td><td>The Road That Is Not a Road</td><td>Is a promised shortcut worth entering a place locals abandoned?</td></tr><tr><td>Solace</td><td>One More Night</td><td>Is time only valuable when spent advancing the quest?</td></tr><tr><td>Haven</td><td>The Accused Mage</td><td>Will the party intervene in a public injustice when doing so draws attention?</td></tr><tr><td>Pax Tharkas</td><td>The Closed Passage</td><td>What does cooperation look like when ancient cooperation is literally built into the walls?</td></tr></tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.kpb7LEyJWQPBZXWB"
+    },
+    {
+      "_id": "ClkFDLjEZ2Tbcxkm",
+      "name": "Route III Finale: The Shortest Road Was Never Short",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The Wild Road should end with a sense that the party crossed more than distance: they learned to navigate people, wilderness, law, uncertainty, and themselves.</p>\n<h3>Expected Arrival</h3><table class=\"wy-table\"><thead><tr><th>Conditions</th><th>Wayreth window</th></tr></thead><tbody><tr><td>Aggressive and clean &mdash; 24–28 days</td><td>16–20 Frostkolt</td></tr><tr><td>Normal &mdash; 28–33 days</td><td>20–25 Frostkolt</td></tr><tr><td>Several serious delays &mdash; 33–36 days</td><td>25–28 Frostkolt</td></tr></tbody></table><h3>Final Image</h3><p>Ispin’s purple line ends at a point the party can physically reach. The actual road continues into trees that do not appear on any map. Behind them: Cericas, Fangoth, Solace, Haven, and Pax Tharkas. Ahead: a place that does not care how straight the line looked on parchment.</p><blockquote class=\"wy-quote\"><p>The shortest distance between two points was never the same thing as the shortest journey.</p><p>&mdash; Ispin Greenshield</p></blockquote>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fHuTb2Gy7kCwCF5j.ClkFDLjEZ2Tbcxkm"
+    }
+  ],
+  "folder": null,
+  "sort": 2100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!fHuTb2Gy7kCwCF5j"
+}

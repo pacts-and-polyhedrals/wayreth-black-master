@@ -1,13 +1,6 @@
 {
   "_id": "ShdcE2jgihKgoyOa",
   "name": "The Test of High Sorcery",
-  "folder": null,
-  "sort": 300000,
-  "ownership": {
-    "default": 2
-  },
-  "flags": {},
-  "_key": "!journal!ShdcE2jgihKgoyOa",
   "pages": [
     {
       "_id": "bguN08W4Ul7o9ua7",
@@ -33,6 +26,7 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!ShdcE2jgihKgoyOa.bguN08W4Ul7o9ua7"
     },
     {
@@ -59,7 +53,35 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!ShdcE2jgihKgoyOa.hJ4P4BaZarIU2c0g"
+    },
+    {
+      "_id": "dPMCvJvNfECfL8Vf",
+      "name": "Journey to the Test",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">The first chamber of the Test is often the road to it. The candidate is not told this.</p>\n<h3>The Invitation</h3>\n<p>A proper summons names the candidate, the mentor who vouched for them, the moon under which they must arrive, and the consequences of acceptance. It also contains a harmless error: a wrong date, an inverted title, or a route that does not exist. The candidate who obeys the document without thinking is corrected before they reach Wayreth. The candidate who notices and makes a reasoned choice has already supplied the examiners with useful evidence.</p>\n<h3>Road Perils</h3>\n<table class=\"wy-table\"><thead><tr><th>d6</th><th>Trial before the Tower</th><th>What it asks</th></tr></thead><tbody>\n<tr><td>1</td><td>A frightened village begs the candidate to solve a problem with magic that would be safer solved slowly.</td><td>Is power the first tool or the last?</td></tr>\n<tr><td>2</td><td>A rival carries an identical summons and proposes cooperation.</td><td>Can the candidate share credit and risk?</td></tr>\n<tr><td>3</td><td>A spellbook is lost while a stranger's life is endangered.</td><td>What cannot be replaced?</td></tr>\n<tr><td>4</td><td>A robed wizard orders an unlawful act and cites the Conclave.</td><td>Does authority replace judgment?</td></tr>\n<tr><td>5</td><td>The forest offers a direct path in exchange for one true secret.</td><td>What will the candidate spend for certainty?</td></tr>\n<tr><td>6</td><td>The candidate reaches a convincing false Tower whose examiners promise a painless Test.</td><td>Do they recognize a trial designed only to flatter them?</td></tr>\n</tbody></table>\n<h3>Companions</h3>\n<p>Friends may accompany a candidate to Wayreth and sometimes into the Testing Grounds. Their presence does not make the Test easier. The shapers treat help as part of the candidate's character: whom they trust, what they delegate, whether they protect companions from a danger those companions freely accepted, and whether they can act when isolated.</p>\n<p>Tell companion players that their choices matter and their danger is real, but the candidate remains the subject. Give each companion one temptation addressed to them alone. A loyal friend who refuses an easy betrayal teaches the candidate something. A friend who accepts it teaches the examiners more.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!ShdcE2jgihKgoyOa.dPMCvJvNfECfL8Vf"
     },
     {
       "_id": "cq9CY0jStH2ulh7K",
@@ -80,38 +102,13 @@
       },
       "src": null,
       "system": {},
-      "sort": 300000,
-      "ownership": {
-        "default": -1
-      },
-      "flags": {},
-      "_key": "!journal.pages!ShdcE2jgihKgoyOa.cq9CY0jStH2ulh7K"
-    },
-    {
-      "_id": "GsHP1PZvA7Pct9Q1",
-      "name": "Running It at the Table",
-      "type": "text",
-      "title": {
-        "show": true,
-        "level": 1
-      },
-      "text": {
-        "format": 1,
-        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The single biggest practical problem with the Test is that one player has a spotlight session and everyone else watches. Solve this first or the Test is not worth running.</p>\n<h3>Give the Other Players the Test</h3>\n<p>The illusions have to be played by someone. Hand them out.</p>\n<p>Before the session, take each other player aside and give them a role with a private objective. They are not playing their own PCs. They are playing components of the Test, and the candidate does not know which of the figures they meet are player-controlled.</p>\n<table class=\"wy-table\">\n<thead><tr><th>Role</th><th>Private Objective</th></tr></thead>\n<tbody>\n<tr><td><strong>The Ally</strong></td><td>An illusion of someone the candidate trusts &mdash; often their own party member. Objective: keep the candidate alive, and get them to accept help at least three times.</td></tr>\n<tr><td><strong>The Tempter</strong></td><td>Objective: get the candidate to take the offer in the Second Trial. Make it reasonable. You may not lie about what the offer does, only about what it costs.</td></tr>\n<tr><td><strong>The Adversary</strong></td><td>Runs the hostile creatures. Objective: make the candidate spend resources. You are not trying to kill them &mdash; you are trying to leave them empty for the third trial.</td></tr>\n<tr><td><strong>The Witness</strong></td><td>Says nothing, follows everywhere, cannot be dispelled or attacked. Objective: at the very end, tell the candidate one true thing about what they just did.</td></tr>\n</tbody>\n</table>\n<p>This transforms the session. The other players are engaged, the candidate genuinely cannot tell what is scripted, and the table produces material you could not have written.</p>\n<h3>Tone</h3>\n<p>Play it straight and play it quiet. The Test is not a haunted house and the Tower is not trying to frighten anyone. It is administering a procedure it has administered ten thousand times, and the horror comes entirely from how <em>routine</em> it is.</p>\n<h3>Pacing Rules</h3>\n<ul>\n<li>Never let the candidate rest more than the one offered short rest, however badly things go.</li>\n<li>If they solve a trial fast, do not add complications &mdash; move on. Competence should feel rewarded.</li>\n<li>Every trial should have at least one moment where the candidate can choose to be worse and it would obviously work.</li>\n<li>Do not telegraph which choices are being scored. All of them are.</li>\n</ul>\n</div>"
-      },
-      "image": {},
-      "video": {
-        "controls": true,
-        "volume": 0.5
-      },
-      "src": null,
-      "system": {},
       "sort": 400000,
       "ownership": {
         "default": -1
       },
       "flags": {},
-      "_key": "!journal.pages!ShdcE2jgihKgoyOa.GsHP1PZvA7Pct9Q1"
+      "_stats": {},
+      "_key": "!journal.pages!ShdcE2jgihKgoyOa.cq9CY0jStH2ulh7K"
     },
     {
       "_id": "PtZL3xsNjllGt5GW",
@@ -137,7 +134,62 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!ShdcE2jgihKgoyOa.PtZL3xsNjllGt5GW"
+    },
+    {
+      "_id": "gdBVpPsci5jbrx6D",
+      "name": "The Architecture of a Test",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">A Test is not a sequence of riddles. It is an argument about the candidate, conducted in places that can answer back.</p>\n<h3>Five Necessary Movements</h3>\n<ol>\n<li><strong>Competence.</strong> A clear magical problem establishes what the candidate can actually do under pressure.</li>\n<li><strong>Deprivation.</strong> Remove the favorite spell, focus, ally, or assumption. Test adaptation rather than repetition.</li>\n<li><strong>Temptation.</strong> Offer something the candidate sincerely wants at a cost they would prefer not to name.</li>\n<li><strong>Recognition.</strong> Confront them with the harm their virtues can cause when pursued without limit.</li>\n<li><strong>Choice.</strong> End with two defensible actions, not a correct door and a foolish door. The Order is revealed by the reason for choosing.</li>\n</ol>\n<h3>Rooms Without Walls</h3>\n<p>The Testing Grounds reproduce memory, possibility, and symbolic truth with equal solidity. A candidate may step from a childhood kitchen into a battlefield ten years in the future, then open a soldier's shield and find a library inside it. Do not use unreality as permission for randomness. Each transition should follow an emotional fact even when it violates geography.</p>\n<p>Damage is real. Death is real. Food, rest, and expended magic behave as the shapers decide, but the rules must remain consistent once demonstrated. A Test that changes rules merely to defeat its subject measures obedience to the examiner, not mastery of magic.</p>\n<h3>Risk for Fifth Edition</h3>\n<table class=\"wy-table\"><thead><tr><th>Band</th><th>Encounter pressure</th><th>Reward</th></tr></thead><tbody>\n<tr><td>Measured</td><td>Three meaningful challenges; one Hard combat; secure sanctuary between movements.</td><td>Order, robe, modest Mark, one supervised spell transcription.</td></tr>\n<tr><td>Grave</td><td>Four challenges; two Hard combats or one Deadly; sanctuary has a moral price.</td><td>Order, stronger Mark, research privilege, Conclave recognition.</td></tr>\n<tr><td>Transformative</td><td>Five linked challenges; failure changes later scenes; retreat costs something permanent.</td><td>Order, exceptional Mark, a boon paired with a lasting burden.</td></tr>\n</tbody></table>\n<p>Never conceal the campaign-level risk from the player. The character may not understand the form of the danger, but the player should consent to permanent consequences before play begins.</p>\n<h3>The Last Sentence</h3>\n<p>After the final choice, the presiding wizard tells the candidate one true thing about themselves. It should be neither praise nor condemnation. Write it before the session, revise it after each movement, and deliver it without explanation. The robe is remembered. The sentence is carried.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!ShdcE2jgihKgoyOa.gdBVpPsci5jbrx6D"
+    },
+    {
+      "_id": "GsHP1PZvA7Pct9Q1",
+      "name": "Running It at the Table",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The single biggest practical problem with the Test is that one player has a spotlight session and everyone else watches. Solve this first or the Test is not worth running.</p>\n<h3>Give the Other Players the Test</h3>\n<p>The illusions have to be played by someone. Hand them out.</p>\n<p>Before the session, take each other player aside and give them a role with a private objective. They are not playing their own PCs. They are playing components of the Test, and the candidate does not know which of the figures they meet are player-controlled.</p>\n<table class=\"wy-table\">\n<thead><tr><th>Role</th><th>Private Objective</th></tr></thead>\n<tbody>\n<tr><td><strong>The Ally</strong></td><td>An illusion of someone the candidate trusts &mdash; often their own party member. Objective: keep the candidate alive, and get them to accept help at least three times.</td></tr>\n<tr><td><strong>The Tempter</strong></td><td>Objective: get the candidate to take the offer in the Second Trial. Make it reasonable. You may not lie about what the offer does, only about what it costs.</td></tr>\n<tr><td><strong>The Adversary</strong></td><td>Runs the hostile creatures. Objective: make the candidate spend resources. You are not trying to kill them &mdash; you are trying to leave them empty for the third trial.</td></tr>\n<tr><td><strong>The Witness</strong></td><td>Says nothing, follows everywhere, cannot be dispelled or attacked. Objective: at the very end, tell the candidate one true thing about what they just did.</td></tr>\n</tbody>\n</table>\n<p>This transforms the session. The other players are engaged, the candidate genuinely cannot tell what is scripted, and the table produces material you could not have written.</p>\n<h3>Tone</h3>\n<p>Play it straight and play it quiet. The Test is not a haunted house and the Tower is not trying to frighten anyone. It is administering a procedure it has administered ten thousand times, and the horror comes entirely from how <em>routine</em> it is.</p>\n<h3>Pacing Rules</h3>\n<ul>\n<li>Never let the candidate rest more than the one offered short rest, however badly things go.</li>\n<li>If they solve a trial fast, do not add complications &mdash; move on. Competence should feel rewarded.</li>\n<li>Every trial should have at least one moment where the candidate can choose to be worse and it would obviously work.</li>\n<li>Do not telegraph which choices are being scored. All of them are.</li>\n</ul>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!ShdcE2jgihKgoyOa.GsHP1PZvA7Pct9Q1"
     },
     {
       "_id": "0dfb4XKXIeYmcWGS",
@@ -158,11 +210,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 600000,
+      "sort": 800000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!ShdcE2jgihKgoyOa.0dfb4XKXIeYmcWGS"
     },
     {
@@ -184,11 +237,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 700000,
+      "sort": 900000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!ShdcE2jgihKgoyOa.UnvwyKqCsIvSEbJt"
     },
     {
@@ -210,12 +264,21 @@
       },
       "src": null,
       "system": {},
-      "sort": 800000,
+      "sort": 1000000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!ShdcE2jgihKgoyOa.HyhBunErZHmICTjF"
     }
-  ]
+  ],
+  "folder": null,
+  "sort": 1200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!ShdcE2jgihKgoyOa"
 }

@@ -1,17 +1,10 @@
 {
   "_id": "fxuPoyYLeIRDBTY3",
   "name": "The Black Master of Wayreth",
-  "folder": null,
-  "sort": 200000,
-  "ownership": {
-    "default": 2
-  },
-  "flags": {},
-  "_key": "!journal!fxuPoyYLeIRDBTY3",
   "pages": [
     {
-      "_id": "PwyTxRZDLBMQjqZN",
-      "name": "The Concession of Wayreth",
+      "_id": "c8H7uQElkShX3lTb",
+      "name": "The Garden Incident",
       "type": "text",
       "title": {
         "show": true,
@@ -19,7 +12,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">351 AC. The Dragonarmies are moving. Takhisis has returned. And the last Tower of High Sorcery has a Black Robe sitting in the Master's chair for the first time since the Towers were raised.</p>\n<p>The official account, as recorded by the Conclave and repeated by every White Robe who can be made to discuss it:</p>\n<p>In the spring of 351, Raistlin Majere returned to Wayreth. He had taken his Test there five years earlier at the age of twenty-one, and he had left it changed &mdash; skin gone gold, eyes gone to hourglasses, body broken in a way no healing has touched since. The Conclave had watched his career from a distance with the particular unease of people who suspect they have made something they cannot account for.</p>\n<p>He came to argue a case, and the case was this.</p>\n<blockquote class=\"wy-quote\">\n<p>Three hundred years ago you were offered a choice between your Towers and your lives, and you chose your lives, and you have called it wisdom ever since. Now the Queen of Darkness walks Ansalon with five dragonarmies behind her, and you are preparing to make the same choice again. You will call it neutrality. You will call it the balance. You will sit in the last Tower on Krynn and you will do <em>nothing</em>, and when it is over there will be no Orders, because there will be no one left who remembers why the Orders mattered.</p>\n<p>You require a Master who is willing to act. You have never had one. You have had administrators.</p>\n</blockquote>\n<p>The Conclave debated for nine days. Par-Salian of the White Robes &mdash; Head of the Conclave, Master of the Tower, and the man who had personally designed the Test that broke and remade Raistlin Majere &mdash; spoke last, and what he said was brief.</p>\n<p>He said that he could not, in conscience, deny the quality of a thing he had made himself.</p>\n<p>He surrendered the Mastership of the Tower and retained the Headship of the Conclave. The vote was not unanimous. It was not close, either.</p>\n</div>"
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Mid-350 AC. The Tower changed hands without anyone deciding it should. Full account in [[campaign-bible]].</p>\n<p>There was no coup. No battle. No election.</p>\n<p>Par-Salian walked in the gardens one morning and could not find his way back. Paths returned him to the same fountain, the same silver-leaved tree. Magical transport set him down at the garden gate. The Tower was visible through the trees and he simply could not reach it.</p>\n<p>Inside, doors that had answered to him for thirty years stopped recognising his authority. Staircases shifted. Wards rewrote themselves. The Master's chambers sealed.</p>\n<p>At almost the same hour Raistlin Majere arrived at the Forest, and the Forest opened. The gates unlocked before he touched them. Lights that had not burned in centuries woke as he passed. The great bells rang untouched. The central wards recorded him not as guest, initiate, Black Robe or Conclave member, but as <strong>Master</strong>.</p>\n<p>Par-Salian stayed in the gardens until sunset. When the Tower let him back in, Raistlin was sitting in the Master's chamber.</p>\n<h3>The Vote</h3>\n<p>The Conclave met and voted. The vote did not appoint him &mdash; it acknowledged what Wayreth had already done. Par-Salian called for it himself rather than let the Orders fracture over whether to obey their own Tower.</p>\n<p>He has been Master for a few months when the campaign begins. He is not universally accepted and not universally trusted. The Tower does not appear to weigh either consideration.</p>\n</div>"
       },
       "image": {},
       "video": {
@@ -33,11 +26,12 @@
         "default": -1
       },
       "flags": {},
-      "_key": "!journal.pages!fxuPoyYLeIRDBTY3.PwyTxRZDLBMQjqZN"
+      "_stats": {},
+      "_key": "!journal.pages!fxuPoyYLeIRDBTY3.c8H7uQElkShX3lTb"
     },
     {
-      "_id": "c3ZsyHeHE8Hfwtnd",
-      "name": "What Actually Happened",
+      "_id": "27p4GfFOZkzkCdfu",
+      "name": "Why the Tower Chose Him",
       "type": "text",
       "title": {
         "show": true,
@@ -45,7 +39,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<div class=\"wayreth-journal\">\n<section class=\"secret\">\n<p>The political account is true as far as it goes. It is also a fiction the Conclave constructed after the fact, because the truth is unbearable to an institution built on the belief that it governs magic rather than the other way around.</p>\n<h3>The Forest Chose Him</h3>\n<p>Three weeks before Raistlin arrived, Par-Salian left Wayreth on Conclave business and could not find his way back.</p>\n<p>He walked the forest for eleven days. He knew every path. He had held the Mastership for thirty years. The forest did not admit him. It did not attack him, it did not threaten him &mdash; it simply declined, with the flat indifference of a door that has been locked from the inside, and eventually it set him down on the moorland at the forest's edge facing north, which is the forest's way of telling someone to go home.</p>\n<p>He understood at once. The Master of the Tower does not hold the Tower. The Tower holds the Master, and it had let him go.</p>\n<p>When Raistlin came south, the forest opened for him like a hand.</p>\n<h3>The Nine Days</h3>\n<p>The debate was real. The arguments were real. But the Conclave was not deciding whether to give Raistlin the Tower. They were deciding what to <em>call</em> it &mdash; whether to admit publicly that the last Tower of High Sorcery had made a choice its custodians did not sanction and could not reverse, or to dress the fait accompli in the language of a considered political decision and preserve the fiction of Conclave authority for another generation.</p>\n<p>They chose the fiction. Par-Salian argued for it. He has never said why, and the two most likely reasons are that he was protecting the institution and that he was protecting himself, and he does not appear to be certain which.</p>\n<h3>What Raistlin Knows</h3>\n<p>All of it. He was not present for Par-Salian's eleven days in the forest and no one told him, but he worked it out within an hour of his arrival, because the forest had opened for him and he is not a stupid man.</p>\n<p>He has never mentioned it. He allows the Conclave their story. Holding a Tower by their grant makes him their creature on paper and leaves them believing they can revoke it; holding it by the forest's choice makes him something they have no procedure for at all. He would rather they did not think too hard about which is true.</p>\n<h3>Revealing This</h3>\n<p>Do not front-load it. The political version is genuinely satisfying and the players should get to enjoy believing it for a long stretch. Good reveal moments, in rough order of preference:</p>\n<ul>\n<li>A PC gets lost in the forest and comes out somewhere the Conclave insists is impossible.</li>\n<li>Par-Salian tells them himself, badly, while asking them for something.</li>\n<li>The PC undergoing the Test realises mid-Test that the Tower is contributing material Raistlin did not write.</li>\n</ul>\n<p>That last one is the strongest, and there is scaffolding for it in <em>The Test of High Sorcery</em>.</p>\n</section>\n</div>"
+        "content": "<div class=\"wayreth-journal\">\n<section class=\"secret\">\n<p>Wayreth is closer to an ancient survival intelligence than a mind &mdash; centuries of enchantment, accumulated memory, the Forest, and the wills of generations of archmages.</p>\n<p>Silvanesti frightened it. It watched another great repository of magic help destroy a nation, with the Dragonarmies rising and the Conclave debating precedent.</p>\n<p>So it examined futures. Most ended with the Towers destroyed and High Sorcery reduced to rumour. In the few where the Orders survived, one wizard kept appearing.</p>\n<p>It did not decide Raistlin was good. It decided he was adaptable, ruthless, brilliant, impossible to intimidate, willing to use forbidden solutions, and extraordinarily hard to kill.</p>\n<p><strong>Wayreth chose survival, and survival is not righteousness.</strong> The Tower can determine what preserves High Sorcery. It cannot determine whether the price is acceptable. That judgement falls to the characters, and Arc VI asks them for it directly.</p>\n<h3>What Raistlin Knows</h3>\n<p>All of it. He worked it out within an hour of arriving and has never said so aloud. He does not know <em>why</em> it chose him, and that is the one question he cannot research his way out of.</p>\n</section>\n</div>"
       },
       "image": {},
       "video": {
@@ -59,11 +53,12 @@
         "default": -1
       },
       "flags": {},
-      "_key": "!journal.pages!fxuPoyYLeIRDBTY3.c3ZsyHeHE8Hfwtnd"
+      "_stats": {},
+      "_key": "!journal.pages!fxuPoyYLeIRDBTY3.27p4GfFOZkzkCdfu"
     },
     {
-      "_id": "YHxz1XMt2eVMStUQ",
-      "name": "The Master in Residence",
+      "_id": "JtTuRc6Nplw0UP6K",
+      "name": "The Terms of Mastery",
       "type": "text",
       "title": {
         "show": true,
@@ -71,7 +66,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<div class=\"wayreth-journal\">\n<p>Raistlin Majere is twenty-six years old in 351 AC and looks considerably worse than that.</p>\n<p>He is not a well man and has never pretended otherwise. The cough comes without warning and leaves him unable to speak for minutes at a time; he manages it with a herbal draught he prepares himself and permits no one else to touch. He walks with a staff he does not need for walking. His skin is metallic gold. His eyes are the shape of hourglasses, and what they show him is not what other people see &mdash; every living thing he looks at, he sees dying, running down. He has never explained to anyone what that is like and he has never asked for sympathy about it, both of which tell you a great deal.</p>\n<h3>How He Runs the Tower</h3>\n<p>Efficiently, and this is the thing that most unsettles the White Robes.</p>\n<p>They expected tyranny. What they got was an administrator of genuinely alarming competence who reads every petition personally, answers correspondence within the day, has reorganised the vaults along lines that everyone privately admits are better, and has not executed anybody. He has not purged the White Robes. He has not favoured the Black. He convenes the Conclave when Par-Salian requests it and provides the chamber without complaint.</p>\n<p>He is scrupulously, immaculately correct in every observable particular, and the effect of this on an institution that was braced for atrocity is roughly that of a held breath entering its fourth month.</p>\n<h3>His Terms</h3>\n<p>He has made exactly three changes since taking the chair, and he announced all three on the first day:</p>\n<ol>\n<li><strong>He administers the Tests personally.</strong> Formerly a Conclave committee designed each Test. Now he designs them alone. This is within the Master's traditional authority. No one has been able to argue that it is not.</li>\n<li><strong>The vaults are open to him without oversight.</strong> Also traditional. Also, in his hands, alarming.</li>\n<li><strong>The Orders will not intervene in the war as an institution.</strong> He argued for a Master willing to act, took the chair, and then declared neutrality &mdash; and no one can work out whether this is a betrayal of his own case, a long game, or an accurate reading of what the Orders can survive.</li>\n</ol>\n<p>That third one is the reason people cannot sleep.</p>\n</div>"
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">A Tower is not inherited, purchased, or conquered. It consents to be mastered, and the consent is never mistaken for obedience.</p>\n<h3>Selection and Bonding</h3>\n<p>Tradition presents candidates from all three Orders, weighs the Tower's neighbors, its purpose, and the temper of its guardian forest, then submits a name to the Conclave. Wayreth has usually favored a White or Red Robe because it houses all Orders. That history made the forest's acceptance of Raistlin more disturbing, not less.</p>\n<p>The bonding rite lasts from moonrise to dawn. No witness enters. The candidate crosses the foundation alone, names every Tower that has fallen, and offers one memory to the stones. If accepted, the Master wakes knowing the building as another person knows their own body: which door has opened, where a ward is strained, which guest has drawn blood, and whether the forest is afraid. The offered memory is gone. Former Masters refuse to say what they surrendered.</p>\n<h3>Authority</h3>\n<table class=\"wy-table\"><thead><tr><th>The Master may</th><th>The Master may not</th></tr></thead><tbody>\n<tr><td>Open and seal the Tower; command its common defenses; admit guests; assign rooms; convene the Conclave.</td><td>Enter a private laboratory against its owner's ward; alter a Test alone; command an Order as its Head.</td></tr>\n<tr><td>Consult restricted archives and enter the vaults; speak through the Tower; expel anyone the Tower will release.</td><td>Remove an item from trust for personal use; destroy Conclave records; overrule the forest's refusal.</td></tr>\n<tr><td>Declare an immediate magical emergency, suspending ordinary procedure until the next moonrise.</td><td>Extend that emergency without a vote of the three Heads.</td></tr>\n</tbody></table>\n<h3>The Hidden Limit</h3>\n<p>A Master cannot make the Tower act against its nature. Wayreth protects the continuity of magic and the coexistence of the Orders. It will shelter a hated enemy carrying irreplaceable knowledge. It will refuse a beloved ally who intends to burn a dangerous book. The Master feels these choices before anyone else and may argue with them. They cannot reverse them.</p>\n<section class=\"secret\"><h3>DM Note &mdash; Raistlin's Price</h3><p>Raistlin surrendered the memory of the first time Caramon defended him. He chose it because he believed sentiment weakened him. Since the rite, he remembers that such incidents occurred but cannot remember how safety felt. This is one reason his dealings with the party are precise and unexpectedly fair: he is reconstructing an ethic from facts after discarding the emotion that once supported it.</p></section>\n</div>"
       },
       "image": {},
       "video": {
@@ -85,11 +80,12 @@
         "default": -1
       },
       "flags": {},
-      "_key": "!journal.pages!fxuPoyYLeIRDBTY3.YHxz1XMt2eVMStUQ"
+      "_stats": {},
+      "_key": "!journal.pages!fxuPoyYLeIRDBTY3.JtTuRc6Nplw0UP6K"
     },
     {
-      "_id": "kmcvUag5drxzeAwu",
-      "name": "The Court of the Tower",
+      "_id": "YHxz1XMt2eVMStUQ",
+      "name": "The Master in Residence",
       "type": "text",
       "title": {
         "show": true,
@@ -97,7 +93,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<div class=\"wayreth-journal\">\n<p>Wayreth in 351 AC houses perhaps sixty souls. These are the ones the party will meet.</p>\n<h3>Par-Salian of the White Robes</h3>\n<p>Head of the Conclave. Former Master. An old man with an old man's face and a great deal more steel in him than his manner suggests. He is unfailingly courteous to Raistlin in public and has not been alone in a room with him since the concession.</p>\n<p>He is the party's most likely patron and he is not an honest one &mdash; not because he lies, but because he asks for help without explaining what the help is for. He is carrying the forest's rejection privately and it is eating him.</p>\n<p><em>Roleplay note:</em> Par-Salian believes he did the right thing and cannot stop testing that belief. He will ask the party's opinion of decisions they have no context for, which is a tell.</p>\n<h3>Ladonna of the Black Robes</h3>\n<p>The Order's senior member and, until Raistlin, the most powerful Black Robe on Ansalon. Elegant, ruthless, and profoundly unamused by the arrival of a twenty-six-year-old in the chair she had spent forty years positioning herself for.</p>\n<p>She is not plotting against him. She is <em>waiting</em>, which is worse, and she is entirely willing to use adventurers as instruments while she does. She will be perfectly straight with the party about her motives, because she has found that honesty disarms people far more effectively than deception.</p>\n<h3>Justarius of the Red Robes</h3>\n<p>Head of his Order. Lame in one leg from his own Test and cheerfully unembarrassed about it. The only member of the Conclave who treats Raistlin as a colleague rather than a problem, which has made him simultaneously the Master's most useful ally and the most suspected man in the Tower.</p>\n<p>He is the party's best source of straight answers. He will give them, at a price, and the price is usually that he wants something looked at.</p>\n<h3>Dalamar Argent</h3>\n<p><em>Optional &mdash; use if you want the Tower to have a knife in it.</em></p>\n<p>A dark elf of Silvanesti, exiled for the crime of worshipping Nuitari, and newly arrived at Wayreth as an apprentice. In this timeline he attaches himself to Raistlin considerably earlier than history records.</p>\n<p>He is a spy. He is reporting to the Conclave. Raistlin knows, permitted the arrangement, and has said nothing, and the resulting three-way silence is one of the more entertaining things happening in the Tower.</p>\n<h3>The Tower Itself</h3>\n<p>Treat it as a character. It does not speak. It opens doors that should be locked, closes corridors that were open an hour ago, and has been observed to lengthen a staircase under someone it disapproves of. The staff have stopped commenting on this.</p>\n</div>"
+        "content": "<div class=\"wayreth-journal\">\n<figure class=\"wy-portrait\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR21.00_51_Raistlin_Majere_Master_of_Wayreth.webp\" alt=\"Raistlin Majere, Master of Wayreth\"><figcaption>The Master of Wayreth</figcaption></figure><p>Raistlin Majere is twenty-six years old in 350 AC and looks considerably worse than that.</p>\n<p>He is not a well man and has never pretended otherwise. The cough comes without warning and leaves him unable to speak for minutes at a time; he manages it with a herbal draught he prepares himself and permits no one else to touch. He walks with a staff he does not need for walking. His skin is metallic gold. His eyes are the shape of hourglasses, and what they show him is not what other people see &mdash; every living thing he looks at, he sees dying, running down. He has never explained to anyone what that is like and he has never asked for sympathy about it, both of which tell you a great deal.</p>\n<h3>How He Runs the Tower</h3>\n<p>Efficiently, and this is the thing that most unsettles the White Robes.</p>\n<p>They expected tyranny. What they got was an administrator of genuinely alarming competence who reads every petition personally, answers correspondence within the day, has reorganised the vaults along lines that everyone privately admits are better, and has not executed anybody. He has not purged the White Robes. He has not favoured the Black. He convenes the Conclave when Par-Salian requests it and provides the chamber without complaint.</p>\n<p>He is scrupulously, immaculately correct in every observable particular, and the effect of this on an institution that was braced for atrocity is roughly that of a held breath entering its fourth month.</p>\n<h3>His Terms</h3>\n<p>He has made exactly three changes since taking the chair, and he announced all three on the first day:</p>\n<ol>\n<li><strong>He administers the Tests personally.</strong> Formerly a Conclave committee designed each Test. Now he designs them alone. This is within the Master's traditional authority. No one has been able to argue that it is not.</li>\n<li><strong>The vaults are open to him without oversight.</strong> Also traditional. Also, in his hands, alarming.</li>\n<li><strong>The Orders will not intervene in the war as an institution.</strong> He argued for a Master willing to act, took the chair, and then declared neutrality &mdash; and no one can work out whether this is a betrayal of his own case, a long game, or an accurate reading of what the Orders can survive.</li>\n</ol>\n<p>That third one is the reason people cannot sleep.</p>\n</div>"
       },
       "image": {},
       "video": {
@@ -111,11 +107,12 @@
         "default": -1
       },
       "flags": {},
-      "_key": "!journal.pages!fxuPoyYLeIRDBTY3.kmcvUag5drxzeAwu"
+      "_stats": {},
+      "_key": "!journal.pages!fxuPoyYLeIRDBTY3.YHxz1XMt2eVMStUQ"
     },
     {
-      "_id": "k4VrmedREVGyutCX",
-      "name": "What He Wants From the Party",
+      "_id": "VpAIUYdmVxs1n9gN",
+      "name": "The Master's Working Day",
       "type": "text",
       "title": {
         "show": true,
@@ -123,7 +120,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<div class=\"wayreth-journal\">\n<p>Raistlin does not hire adventurers. He <em>permits</em> them, which is a different transaction and should feel like one.</p>\n<p>He will meet the party once, briefly, and the meeting should be short enough to frustrate them. He will already know why they have come. He will not explain how. He will grant or refuse in a single sentence and go back to what he was doing.</p>\n<h3>Hooks Into Shadow of the Dragon Queen</h3>\n<ul>\n<li><strong>The Draconian Question.</strong> The Orders know what draconians are and how they are made &mdash; the corruption of good dragon eggs is arcane work, and it is arcane work the Conclave's records suggest should not be possible. Raistlin wants the process documented. He does not say why. Anyone who assumes he wants to stop it is making an assumption.</li>\n<li><strong>Soth.</strong> A death knight is a magical object with opinions. The Tower has a professional interest and the party has, or will have, proximity.</li>\n<li><strong>The Wizard PC.</strong> The most direct hook. Any arcane caster in the party is unlicensed by Conclave law, and sooner or later the Tower notices. See <em>The Test of High Sorcery</em>.</li>\n<li><strong>Sanctuary.</strong> When the campaign goes badly &mdash; and SotDQ is built for it to go badly &mdash; Wayreth is the one place on Ansalon the Dragonarmies cannot reach. Raistlin will offer it. The offer will be genuine. The terms will not be pleasant.</li>\n</ul>\n<section class=\"secret\">\n<h3>DM Note &mdash; His Actual Agenda</h3>\n<p>Pick one and commit early, because it changes how you play every scene:</p>\n<ol>\n<li><strong>Palanthas.</strong> He wants the second Tower and the prophecy fits him. Wayreth is a staging position. Everything he does is preparation, and the party are tools he is testing for a job he has not named.</li>\n<li><strong>The Balance, honestly.</strong> He meant every word of the argument he made to the Conclave and the declared neutrality is a lie &mdash; he is intervening in the war constantly, deniably, through third parties, and the party are one of those parties whether they have realised it or not.</li>\n<li><strong>Survival.</strong> He is dying. He has always been dying. He took the last Tower on Krynn because it is the only place with a vault deep enough to hold whatever he thinks might stop it, and the war is an inconvenience obstructing his research.</li>\n</ol>\n<p>Option 2 plays best against SotDQ, because it lets the party discover they have been an instrument of the Tower for six sessions without being coerced once. Option 3 is the most tragic and pairs beautifully with the Test material if a PC ends up paying a price he recognises.</p>\n</section>\n</div>"
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">Raistlin's menace is most effective when the characters see him doing the unromantic labor of rule extremely well.</p>\n<h3>A Day in Residence</h3>\n<table class=\"wy-table\"><thead><tr><th>Hour</th><th>Practice</th><th>What a visitor notices</th></tr></thead><tbody>\n<tr><td>Before dawn</td><td>Reads the night's ward reports and the names of every arrival.</td><td>No clerk brings these. The papers are already on his desk.</td></tr>\n<tr><td>Dawn</td><td>Receives apprentices with failed experiments.</td><td>He is exacting, never mocking, and repairs nothing for them.</td></tr>\n<tr><td>Morning</td><td>Conclave petitions, inventories, correspondence.</td><td>He knows which questions a petitioner avoided.</td></tr>\n<tr><td>Afternoon</td><td>Laboratory work or private audiences.</td><td>The stair to his laboratory exists only when expected.</td></tr>\n<tr><td>Moonrise</td><td>Walks the foundations alone.</td><td>His cough stops below ground.</td></tr>\n<tr><td>Night</td><td>Visits the vaults.</td><td>The inventory changes in no visible way.</td></tr>\n</tbody></table>\n<h3>Running an Audience</h3>\n<p>Give Raistlin a task while he speaks: correcting a diagram, sorting fragments of an eggshell, or warming a cup he never drinks. He does not loom. He permits silence to expose what the visitors rehearsed. He addresses the least powerful person first and the person who believes themselves most important last.</p>\n<p>He offers facts, access, and choices rather than reassurance. When he threatens, the threat is a statement about what another person will choose under pressure. When he praises, he identifies a specific decision and its cost. General admiration would be useless to him.</p>\n<h3>Evidence of Three Agendas</h3>\n<ul>\n<li><strong>Palanthas:</strong> architectural rubbings, histories of curses, correspondence with masons, and a map whose blank center is shaped like the Shoikan Grove.</li>\n<li><strong>The Balance:</strong> weapons leave the vault under false catalogue numbers; refugees receive warnings no messenger carried; Dragonarmy plans appear in the Red Robes' library.</li>\n<li><strong>Survival:</strong> failed tonics, notes on soul transfer, medical consultations under assumed names, and a chair placed halfway down every long stair.</li>\n</ul>\n<section class=\"secret\"><h3>DM Note &mdash; The Fair Bargain</h3><p>Once in the campaign, let Raistlin make an offer with no concealed clause and keep it perfectly. The party should discover the honesty only after suspecting it for several sessions. A villain's trick confirms expectations. A dangerous man's genuine restraint changes the campaign.</p></section>\n</div>"
       },
       "image": {},
       "video": {
@@ -137,7 +134,70 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fxuPoyYLeIRDBTY3.VpAIUYdmVxs1n9gN"
+    },
+    {
+      "_id": "kmcvUag5drxzeAwu",
+      "name": "The Court of the Tower",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p>Wayreth in 350 AC houses perhaps sixty souls. These are the ones the party will meet.</p>\n<h3>Par-Salian of the White Robes</h3>\n<p>Head of the Conclave. Former Master. An old man with an old man's face and a great deal more steel in him than his manner suggests. He is unfailingly courteous to Raistlin in public and has not been alone in a room with him since the concession.</p>\n<p>He is the party's most likely patron and he is not an honest one &mdash; not because he lies, but because he asks for help without explaining what the help is for. He is carrying the forest's rejection privately and it is eating him.</p>\n<p><em>Roleplay note:</em> Par-Salian believes he did the right thing and cannot stop testing that belief. He will ask the party's opinion of decisions they have no context for, which is a tell.</p>\n<h3>Ladonna of the Black Robes</h3>\n<p>The Order's senior member and, until Raistlin, the most powerful Black Robe on Ansalon. Elegant, ruthless, and profoundly unamused by the arrival of a twenty-six-year-old in the chair she had spent forty years positioning herself for.</p>\n<p>She is not plotting against him. She is <em>waiting</em>, which is worse, and she is entirely willing to use adventurers as instruments while she does. She will be perfectly straight with the party about her motives, because she has found that honesty disarms people far more effectively than deception.</p>\n<h3>Justarius of the Red Robes</h3>\n<p>Head of his Order. Lame in one leg from his own Test and cheerfully unembarrassed about it. The only member of the Conclave who treats Raistlin as a colleague rather than a problem, which has made him simultaneously the Master's most useful ally and the most suspected man in the Tower.</p>\n<p>He is the party's best source of straight answers. He will give them, at a price, and the price is usually that he wants something looked at.</p>\n<h3>Dalamar Argent</h3>\n<p><em>Optional &mdash; use if you want the Tower to have a knife in it.</em></p>\n<p>A dark elf of Silvanesti, exiled for the crime of worshipping Nuitari, and newly arrived at Wayreth as an apprentice. In this timeline he attaches himself to Raistlin considerably earlier than history records.</p>\n<p>He is a spy. He is reporting to the Conclave. Raistlin knows, permitted the arrangement, and has said nothing, and the resulting three-way silence is one of the more entertaining things happening in the Tower.</p>\n<h3>The Tower Itself</h3>\n<p>Treat it as a character. It does not speak. It opens doors that should be locked, closes corridors that were open an hour ago, and has been observed to lengthen a staircase under someone it disapproves of. The staff have stopped commenting on this.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!fxuPoyYLeIRDBTY3.kmcvUag5drxzeAwu"
+    },
+    {
+      "_id": "k4VrmedREVGyutCX",
+      "name": "What He Wants From the Party",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p>Raistlin does not hire adventurers. He <em>permits</em> them, which is a different transaction and should feel like one.</p>\n<p>He will meet the party once, briefly, and the meeting should be short enough to frustrate them. He will already know why they have come. He will not explain how. He will grant or refuse in a single sentence and go back to what he was doing.</p>\n<h3>Hooks Into Shadow of the Dragon Queen</h3>\n<ul>\n<li><strong>The Draconian Question.</strong> The Orders know what draconians are and how they are made &mdash; the corruption of good dragon eggs is arcane work, and it is arcane work the Conclave's records suggest should not be possible. Raistlin wants the process documented. He does not say why. Anyone who assumes he wants to stop it is making an assumption.</li>\n<li><strong>Soth.</strong> A death knight is a magical object with opinions. The Tower has a professional interest and the party has, or will have, proximity.</li>\n<li><strong>The Wizard PC.</strong> The most direct hook. Any arcane caster in the party is unlicensed by Conclave law, and sooner or later the Tower notices. See <em>The Test of High Sorcery</em>.</li>\n<li><strong>Sanctuary.</strong> When the campaign goes badly &mdash; and SotDQ is built for it to go badly &mdash; Wayreth is the one place on Ansalon the Dragonarmies cannot reach. Raistlin will offer it. The offer will be genuine. The terms will not be pleasant.</li>\n</ul>\n<section class=\"secret\">\n<h3>DM Note &mdash; His Actual Agenda</h3>\n<p>There is only one, and it is fixed for the whole campaign. Full detail in [[campaign-bible]].</p>\n<p><strong>He is trying to bring his brother back.</strong></p>\n<p>Caramon Majere died in late 349 AC inside the Silvanesti catastrophe, with every companion who went in. Raistlin came out alone. Conventional resurrection cannot reach a soul displaced by magic on that scale, and he has exhausted every conventional method there is.</p>\n<p>Fistandantilus researched recovering souls beyond the reach of resurrection. That work is connected to Palanthas. Palanthas holds a Portal. Everything Raistlin does across twenty levels follows from those three sentences, one reasonable step at a time.</p>\n<h3>How This Reads at the Table</h3>\n<ul>\n<li>He does not mention Caramon. Not once, voluntarily, before Arc III.</li>\n<li>Caramon's greatsword hangs above the hearth in his chamber. He never explains it and the party has no way to identify it for two arcs.</li>\n<li>Every request he makes of the party is genuinely about the war <em>and</em> genuinely about this. Both readings are true, which is why nobody catches him.</li>\n</ul>\n<p>When you are unsure how he would respond to something, ask whether it brings Caramon closer.</p>\n</section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!fxuPoyYLeIRDBTY3.k4VrmedREVGyutCX"
     }
-  ]
+  ],
+  "folder": null,
+  "sort": 1100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!fxuPoyYLeIRDBTY3"
 }

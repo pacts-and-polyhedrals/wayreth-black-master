@@ -1,0 +1,3239 @@
+{
+ "note": "Player-facing handouts, one per scene pin. These are written for the table: what the Crows see, hear and can act on. Nothing in this file is GM material, and the installer never puts GM journal text into a chat card — the two live in separate documents on purpose. Keyed by scene id and pin order, which scripts/validate-scenes.mjs checks for exact coverage.",
+ "handouts": [
+  {
+   "scene": "ansalon-three-roads",
+   "pin": 1,
+   "title": "Three Roads to Wayreth",
+   "read": "Ispin's map is old, hand-corrected, and marked in three inks. Three routes leave the Vogler road and none of them is short. One runs the central war road through country the Dragonarmies are already moving through. One cuts east through Lemish, where the roads are quiet because nobody who uses them talks about it. One goes west and long, by the Ergoth waters, and adds a fortnight.",
+   "players_know": [
+    "All three end at the Forest of Wayreth. The forest decides the rest.",
+    "The central road is fastest and the most watched.",
+    "Lemish is quickest to go wrong and hardest to be followed through.",
+    "The western water road costs time you may not have."
+   ]
+  },
+  {
+   "scene": "vogler-ispin-house",
+   "pin": 1,
+   "title": "What Ispin Left",
+   "read": "The house is colder than it should be for a day this mild. Ispin Greenshield kept a tidy ground floor and an untidy mind, and the upstairs room is all mind: charts weighted down with cups, three different hands in the marginalia, and a sealed packet with no name on it at all.",
+   "players_know": [
+    "Nothing here is hidden. It is simply more than one man should have had.",
+    "The packet is addressed to nobody, which means it was meant for whoever came."
+   ]
+  },
+  {
+   "scene": "vogler-ispin-house",
+   "pin": 2,
+   "title": "The Funeral",
+   "read": "Half of Vogler is in the yard and the other half is pretending to work. Ispin had no family left, so the village has appointed itself one. Someone has to say something, and the people here have decided — without discussing it — that it should be you.",
+   "players_know": [
+    "Everyone in this yard will remember what you say today.",
+    "Two or three of them knew Ispin far better than they are letting on."
+   ]
+  },
+  {
+   "scene": "vogler-green",
+   "pin": 1,
+   "title": "Kingfisher Day",
+   "read": "Bunting, a wrestling ring marked in rope, and a barrel of something the brewer is calling cider and daring anyone to contradict. The Kingfisher Festival is the best day Vogler has all year and the village is throwing it the way people do when they suspect it might be the last one for a while.",
+   "players_know": [
+    "Everyone you have met in Vogler is on this green today.",
+    "Nobody here is armed. Nobody here expects to need to be."
+   ]
+  },
+  {
+   "scene": "vogler-green",
+   "pin": 2,
+   "title": "The People on the Green",
+   "read": "The baker's twins are losing a footrace on purpose. The smith has shut the forge for the first time in a season. Someone's grandmother is telling a story about the Cataclysm that is at least half invented and entirely worth listening to.",
+   "players_know": [
+    "Pick someone. Learn their name. The campaign will remember that you did."
+   ]
+  },
+  {
+   "scene": "vogler-green",
+   "pin": 3,
+   "title": "The First War News",
+   "read": "A rider comes up the Vogler road at a pace nobody uses for good news. She does not dismount. She speaks to the headman, and the headman's face does the rest of the announcing before he opens his mouth.",
+   "players_know": [
+    "The war is no longer somewhere else.",
+    "Whatever she said, she said it quietly, and she is already turning the horse."
+   ]
+  },
+  {
+   "scene": "wayreth-forest",
+   "pin": 1,
+   "title": "The Forest Refuses",
+   "read": "You have been walking north for three hours. The sun says you have been walking north for three hours. The treeline you passed at the start of it is directly ahead of you again, and the marks you cut in the bark are on the wrong side of the trunks.",
+   "players_know": [
+    "Navigation is not failing. It is being declined.",
+    "Nothing has threatened you. Nothing has even appeared."
+   ]
+  },
+  {
+   "scene": "wayreth-forest",
+   "pin": 2,
+   "title": "The Structure of It",
+   "read": "The trees are not random. Once you stop trying to get somewhere you can see it: the spacing is deliberate, the clearings fall at intervals, and every path that loops you back does so at the same point — a low rise with a single pale stone on it.",
+   "players_know": [
+    "The forest is a question with a right answer.",
+    "The stone has been visited before. The moss is worn on the uphill side."
+   ]
+  },
+  {
+   "scene": "wayreth-forest",
+   "pin": 3,
+   "title": "The Candidate's Question",
+   "read": "The forest asks. Not aloud — there is no voice and nothing to look at. But every one of you understands, at the same moment and in your own words, that you have been asked why you are coming to Wayreth, and that the answer is expected to be true.",
+   "players_know": [
+    "Each of you answers for yourself.",
+    "A lie will not be punished. It will simply not be accepted."
+   ]
+  },
+  {
+   "scene": "wayreth-forest",
+   "pin": 4,
+   "title": "The Forest Opens",
+   "read": "The trees ahead are further apart than they were. Not moved — further apart, as though they always had been and you had been looking at it wrong. Through the gap, perhaps a mile off and certainly not there an hour ago, two towers of pale stone catch the last of the light.",
+   "players_know": [
+    "The Forest of Wayreth has decided to let you arrive."
+   ]
+  },
+  {
+   "scene": "wayreth-hall-of-mages",
+   "pin": 1,
+   "title": "The Hall of Mages",
+   "read": "Black marble, a violet runner the length of the floor, and a colonnade that carries the eye to a dais whether you want it carried there or not. The air is cold in a way that has nothing to do with the season, and the acoustics are wrong — your footsteps arrive a half-beat after you expect them.",
+   "players_know": [
+    "The Tower is listening. That is not a figure of speech here.",
+    "The cold deepens measurably when certain names are spoken."
+   ]
+  },
+  {
+   "scene": "wayreth-hall-of-mages",
+   "pin": 2,
+   "title": "The Four Conversations",
+   "read": "They do not interview you together. White, Red and Black each find a reason to speak with you apart from the others, in the galleries, between things, as though it were incidental. None of it is incidental.",
+   "players_know": [
+    "Three Orders, three different questions, and they will compare your answers.",
+    "The fourth conversation is the one you have with each other afterwards."
+   ]
+  },
+  {
+   "scene": "wayreth-hall-of-mages",
+   "pin": 3,
+   "title": "He Is Already Here",
+   "read": "The conversation stops. Not out of deference — out of the way a room goes quiet when the temperature drops. A man in black robes has been standing at the edge of the dais for some time, and nobody can say how long, including the three archmages who were facing that direction.",
+   "players_know": [
+    "The hourglass eyes are not a rumour.",
+    "Par-Salian does not look surprised. He looks tired."
+   ]
+  },
+  {
+   "scene": "wayreth-night-of-the-eye",
+   "pin": 1,
+   "title": "All Three Moons",
+   "read": "Solinari white, Lunitari red, Nuitari a hole in the stars where a moon should be — and tonight all three stand in the same quarter of the sky. The Tower is lit from inside by nothing you can find a source for. Every piece of worked magic within these walls is running a little hot.",
+   "players_know": [
+    "Spellcasting feels easier tonight, and less entirely yours.",
+    "The Night of the Eye comes rarely enough that nobody present has seen two."
+   ]
+  },
+  {
+   "scene": "wayreth-night-of-the-eye",
+   "pin": 2,
+   "title": "Before the Test",
+   "read": "They give you the hour before in a plain antechamber with water and no advice. The door at the far end is unremarkable. The Conclave's own members pass it without looking at it, which is how you know what it is.",
+   "players_know": [
+    "The Test of High Sorcery is permitted to kill the candidate.",
+    "Nobody is going to pretend otherwise, and nobody is going to talk you out of it."
+   ]
+  },
+  {
+   "scene": "wayreth-night-of-the-eye",
+   "pin": 3,
+   "title": "The Master Speaks",
+   "read": "Raistlin Majere addresses the hall from the dais. He is brief, he is not unkind, and he does not wish anyone luck. What he says instead is that the Test does not measure power, that it never has, and that every person in the room who believes otherwise has already failed something.",
+   "players_know": [
+    "He watches the candidate the whole time he is speaking."
+   ]
+  },
+  {
+   "scene": "test-of-high-sorcery",
+   "pin": 1,
+   "title": "Trial One · Knowledge",
+   "read": "The floor is a platform and there is nothing under it. On the platform is a problem — not a riddle, a problem, the kind with a real answer that can be worked out and a wrong answer that can be arrived at honestly.",
+   "players_know": [
+    "You may take as long as you like. Nothing here is hurrying you.",
+    "Guessing is permitted. It is also visible."
+   ]
+  },
+  {
+   "scene": "test-of-high-sorcery",
+   "pin": 2,
+   "title": "Trial Two · Fear",
+   "read": "The bridge takes you to a platform where the thing you are most afraid of is already waiting, rendered in detail nobody could have researched. It is not an illusion in any sense that helps.",
+   "players_know": [
+    "Running is an answer. It is not a disqualifying one.",
+    "What you do here is watched by people who will later decide things about you."
+   ]
+  },
+  {
+   "scene": "test-of-high-sorcery",
+   "pin": 3,
+   "title": "Trial Three · Law",
+   "read": "A judgement is put in front of you with the facts complete and the right answer absent. Someone has broken a rule of High Sorcery. The rule is just. The circumstances are not. Both of those are true at once and the Test wants to know what you do about it.",
+   "players_know": [
+    "Mercy and law are both available. You cannot have both."
+   ]
+  },
+  {
+   "scene": "test-of-high-sorcery",
+   "pin": 4,
+   "title": "Trial Four · Mercy",
+   "read": "The last platform holds someone who does not deserve your help and badly needs it. There is no trick, no hidden identity, no reversal waiting. They are exactly what they appear to be, and helping them will cost you something the Test has made sure you want.",
+   "players_know": [
+    "This is the trial the Conclave actually reads."
+   ]
+  },
+  {
+   "scene": "wayreth-masters-chamber",
+   "pin": 1,
+   "title": "No Ceremony",
+   "read": "You are shown in without announcement, through a door that an apprentice holds open with one hand while carrying something else in the other. Raistlin is writing. He does not stop writing. There are no chairs.",
+   "players_know": [
+    "Whatever this is, it is not being treated as an occasion."
+   ]
+  },
+  {
+   "scene": "wayreth-masters-chamber",
+   "pin": 2,
+   "title": "The Request, in Public",
+   "read": "He makes the request in front of two apprentices and a Red Robe who has no business being in the room. He does not ask them to leave. He asks you to go to Palanthas, to the Great Library, and to find out what is missing from the record of the year 349.",
+   "players_know": [
+    "He wanted witnesses. He did not say why.",
+    "He has not mentioned the Shoikan Grove, which stands between Palanthas and his own tower."
+   ]
+  },
+  {
+   "scene": "wayreth-masters-chamber",
+   "pin": 3,
+   "title": "The Black Token",
+   "read": "He puts an object on the desk: a disc of something that is not quite obsidian, warm to the touch, with no mark on either face. He does not hand it to anyone. He puts it down and goes back to writing, and it is clear that picking it up is a decision rather than an errand.",
+   "players_know": [
+    "Whoever carries it will be the one the Grove recognises.",
+    "He did not say what it costs."
+   ]
+  },
+  {
+   "scene": "wayreth-masters-chamber",
+   "pin": 4,
+   "title": "Questions",
+   "read": "He answers three questions and declines the fourth without saying which one it was. On the subject of Fistandantilus he is perfectly willing to talk, which is somehow worse than refusing.",
+   "players_know": [
+    "He is a better liar than this. The candour is deliberate."
+   ]
+  },
+  {
+   "scene": "war-road-ash",
+   "pin": 1,
+   "title": "Choosing the Road",
+   "read": "The milestone at the fork has been defaced, which tells you the war has been through here, and re-cut by hand underneath, which tells you somebody local still cares where the roads go.",
+   "players_know": [
+    "Central, Lemish or the western waters. Decide before the light goes."
+   ]
+  },
+  {
+   "scene": "war-road-ash",
+   "pin": 2,
+   "title": "The Checkpoint",
+   "read": "Four soldiers, a cart turned sideways across the road, and a corporal with a list. They are not Dragonarmy. They are not entirely Solamnic either, and the device on the corporal's coat has been unpicked and restitched at least once.",
+   "players_know": [
+    "They want names, destination, and a look in the packs.",
+    "They are tired enough to be talked past and frightened enough to be dangerous."
+   ]
+  },
+  {
+   "scene": "war-road-ash",
+   "pin": 3,
+   "title": "The Refugee Column",
+   "read": "Three hundred people going the way you have come from, at the speed of the slowest of them. Handcarts, a few oxen, and more children than adults. They move off the road for you without being asked, which is the detail that stays with you.",
+   "players_know": [
+    "They have news from ahead, and they will trade it for very little.",
+    "Several of them are watching your packs rather than your faces."
+   ]
+  },
+  {
+   "scene": "war-road-night-camp",
+   "pin": 1,
+   "title": "First Night",
+   "read": "Off the road, fire banked low, watches set. The sky is clear enough to see all three moons and nobody mentions it. This is the first hour since Wayreth that nothing has required deciding, and the quiet makes room for the conversation you have been putting off.",
+   "players_know": [
+    "Talk, if you want to. This is what the hour is for."
+   ]
+  },
+  {
+   "scene": "route-threshold-first",
+   "pin": 1,
+   "title": "Arrival",
+   "read": "The first settlement of any size on your road. It is intact, which you had stopped expecting, and busier than it should be — the war has pushed people here and the place has not decided yet whether it resents them.",
+   "players_know": [
+    "Lodging, supplies and gossip are all available. So is being noticed."
+   ]
+  },
+  {
+   "scene": "route-threshold-first",
+   "pin": 2,
+   "title": "The Local Problem",
+   "read": "It takes under an hour to find out that something is wrong here, because three separate people tell you, each assuming you already knew and each giving a different account of it.",
+   "players_know": [
+    "Nobody has asked you for help. They have simply arranged for you to know."
+   ]
+  },
+  {
+   "scene": "route-threshold-first",
+   "pin": 3,
+   "title": "The Wrong Suspect",
+   "read": "The town has settled on who is responsible. The town is wrong, and the evidence that it is wrong is not hidden — it is just inconvenient, and the person holding it has reasons of their own for keeping quiet.",
+   "players_know": [
+    "Saying so out loud will cost somebody here their standing.",
+    "Saying nothing will cost somebody else considerably more."
+   ]
+  },
+  {
+   "scene": "route-threshold-first",
+   "pin": 4,
+   "title": "The First Sign",
+   "read": "On the way out you pass a notice board, and among the requisitions and the missing livestock there is a plain sheet in a careful hand, listing four travellers who entered the town this week. The descriptions are of you. The handwriting is unhurried.",
+   "players_know": [
+    "Somebody is keeping a record, and does not mind you knowing."
+   ]
+  },
+  {
+   "scene": "route-threshold-second",
+   "pin": 1,
+   "title": "The Comfortable Room",
+   "read": "A good fire, a long table, decent wine and a host who has clearly gone to some trouble. Everything about the room is designed to make the next hour easy, and it is working.",
+   "players_know": [
+    "You have not been threatened. You have been made comfortable."
+   ]
+  },
+  {
+   "scene": "route-threshold-second",
+   "pin": 2,
+   "title": "The Offer",
+   "read": "It is a good offer. That is the problem with it. Safe passage, supplies, and a name to use further north — in exchange for nothing at all except telling him, now, honestly, what Raistlin Majere asked you to do.",
+   "players_know": [
+    "He already knows roughly. He wants to hear it in your words."
+   ]
+  },
+  {
+   "scene": "route-threshold-second",
+   "pin": 3,
+   "title": "The Cost, Stated",
+   "read": "When you press him, he tells you the cost without flinching, because he has calculated that the honesty will buy more than the concealment would. Somebody is going to be arrested on what you say in this room. He thinks you will decide that is acceptable.",
+   "players_know": [
+    "He may be right. That is the part worth sitting with."
+   ]
+  },
+  {
+   "scene": "route-threshold-second",
+   "pin": 4,
+   "title": "Veyrath's Courtesy",
+   "read": "He stands when you leave, which nobody has done for you in weeks. At the door he gives you his name as though it were a small thing: Veyrath, a commander of no stated army, with excellent manners and your route already drawn on a map behind him.",
+   "players_know": [
+    "He will be ahead of you on the road. He wants you to expect that."
+   ]
+  },
+  {
+   "scene": "veyraths-net",
+   "pin": 1,
+   "title": "The Invitation",
+   "read": "The camp is laid out too well for a patrol and too quietly for a garrison. You are not stopped at the perimeter. You are expected at it, by name, by a sentry who has clearly been given your descriptions and told to be pleasant.",
+   "players_know": [
+    "Walking away is available and will be remembered."
+   ]
+  },
+  {
+   "scene": "veyraths-net",
+   "pin": 2,
+   "title": "A Useful Truth",
+   "read": "Veyrath opens by telling you something true and costly to him: a troop movement, dated, that you could sell or carry north. He does it first, before asking for anything, and he lets the silence afterwards do the work.",
+   "players_know": [
+    "The information is real. You can verify it later, and you will."
+   ]
+  },
+  {
+   "scene": "veyraths-net",
+   "pin": 3,
+   "title": "The Questions",
+   "read": "He asks about the token. Not what it does — where it came from, and who in your party was willing to pick it up. He writes nothing down while you answer, which means somebody else in the tent is.",
+   "players_know": [
+    "He is interested in the carrier, not the object."
+   ]
+  },
+  {
+   "scene": "veyraths-net",
+   "pin": 4,
+   "title": "The Exit",
+   "read": "You are escorted out with the same courtesy you came in with, and your packs are exactly where you left them, and nothing is missing. The thoroughness of that is its own message.",
+   "players_know": [
+    "He wants you to arrive in Palanthas. The question is why."
+   ]
+  },
+  {
+   "scene": "mid-route-crisis",
+   "pin": 1,
+   "title": "The Crisis",
+   "read": "Smoke on the road ahead, and the smell arriving before the sight does. Whatever happened here finished perhaps an hour ago, and the people still moving through it are doing the first and worst of the work.",
+   "players_know": [
+    "Help is needed now. The road north is also still there."
+   ]
+  },
+  {
+   "scene": "mid-route-crisis",
+   "pin": 2,
+   "title": "What Happened",
+   "read": "The damage does not match the story you are being told, and it does not take an expert to see it — the burning started in the wrong place and the tracks come from the wrong direction.",
+   "players_know": [
+    "Somebody here already knows this and has decided not to say."
+   ]
+  },
+  {
+   "scene": "mid-route-crisis",
+   "pin": 3,
+   "title": "The Decision",
+   "read": "You can stay and finish this, or you can make the distance you need to make. Both are defensible. Only one of them will be remembered by the people standing in front of you.",
+   "players_know": [
+    "The clock is real. So are they."
+   ]
+  },
+  {
+   "scene": "mid-route-crisis",
+   "pin": 4,
+   "title": "The Dispatch",
+   "read": "In the wreckage, a courier's satchel, burnt at one corner and otherwise intact. The dispatch inside is in a cipher none of you know, but the addressing is in plain Common, and it is addressed to a tower.",
+   "players_know": [
+    "It is not addressed to Wayreth."
+   ]
+  },
+  {
+   "scene": "northern-convergence",
+   "pin": 1,
+   "title": "Resupply",
+   "read": "A Solamnic staging camp, properly run and badly stretched. The quartermaster will trade, within reason, and the reason is narrow. Everything here is counted twice.",
+   "players_know": [
+    "You can resupply. You cannot do it quietly."
+   ]
+  },
+  {
+   "scene": "northern-convergence",
+   "pin": 2,
+   "title": "The War Briefing",
+   "read": "They brief you because it is cheaper than having you blunder into it. The line is here, the Dragonarmies are here, and the gap between those two statements is where you are about to walk.",
+   "players_know": [
+    "The map they show you is current. The confidence is not."
+   ]
+  },
+  {
+   "scene": "northern-convergence",
+   "pin": 3,
+   "title": "The White Robe",
+   "read": "There is a White Robe attached to the camp who has been waiting for someone from Wayreth to come through, and who is visibly relieved that it is you rather than who she was expecting.",
+   "players_know": [
+    "She will answer honestly. She will also report the conversation."
+   ]
+  },
+  {
+   "scene": "northern-convergence",
+   "pin": 4,
+   "title": "The Intelligence Choice",
+   "read": "You end the day holding something the Solamnics would pay for, something Veyrath has already offered to trade for, and something Wayreth would want to hear first. You cannot give all three the same account.",
+   "players_know": [
+    "Whatever you choose, choose it out loud. It will come back."
+   ]
+  },
+  {
+   "scene": "high-clerist-shadow",
+   "pin": 1,
+   "title": "Reconnaissance",
+   "read": "The High Clerist's Tower by night, from the shoulder of the pass. Watch-fires at intervals, a gate that has not closed in a week because the hinges have been fouled, and far more movement inside than a garrison this size should produce.",
+   "players_know": [
+    "You have perhaps two hours before the moon clears the ridge."
+   ]
+  },
+  {
+   "scene": "high-clerist-shadow",
+   "pin": 2,
+   "title": "The Raid",
+   "read": "The attack comes at the gate and it comes loudly. It is competent, it is costly, and it is far too small to take this place, which anyone standing where you are standing can see at once.",
+   "players_know": [
+    "Everyone inside is now looking at the gate."
+   ]
+  },
+  {
+   "scene": "high-clerist-shadow",
+   "pin": 3,
+   "title": "The Real Theft",
+   "read": "While the yard burns, a door on the keep's blind side opens from the inside, and three figures leave it carrying a case between them with the care you use for something that must not be jolted.",
+   "players_know": [
+    "The raid was the distraction. This is the operation.",
+    "One of the three is not dressed as a soldier."
+   ]
+  },
+  {
+   "scene": "high-clerist-shadow",
+   "pin": 4,
+   "title": "Pursuit",
+   "read": "They go north and they go fast, and they have horses waiting, which means this was planned by someone who knew exactly how long the gate would hold.",
+   "players_know": [
+    "Veyrath was inside the walls tonight. You saw him."
+   ]
+  },
+  {
+   "scene": "palanthas-gates",
+   "pin": 1,
+   "title": "The White City",
+   "read": "Palanthas does not look like a city at war. The stone is scrubbed, the gate guards are ceremonial, and the first thing anyone says to you is a greeting rather than a question. After the road, it is disorienting in a way that takes an hour to shake.",
+   "players_know": [
+    "Nobody searches you. Nobody asks your business."
+   ]
+  },
+  {
+   "scene": "palanthas-gates",
+   "pin": 2,
+   "title": "Orientation",
+   "read": "The city is laid out in rings and wedges, and once you have it you cannot lose it. The Great Library is to the north. The University is east of that. The harbour is downhill from everything.",
+   "players_know": [
+    "Any Palanthian will give you directions and most will give you an opinion."
+   ]
+  },
+  {
+   "scene": "palanthas-gates",
+   "pin": 3,
+   "title": "The Grove Boundary",
+   "read": "Between the city and the black tower at its heart is a stand of oaks perhaps two hundred yards deep. The street simply stops at it. The buildings nearest turn their backs — blank walls, no windows on that side, for three streets in every direction.",
+   "players_know": [
+    "No wall, no gate, no guards. Nothing is keeping anyone out.",
+    "You can feel it from the far pavement."
+   ]
+  },
+  {
+   "scene": "palanthas-gates",
+   "pin": 4,
+   "title": "Lodging",
+   "read": "Three offers of a bed by nightfall, from three directions, none of which you solicited.",
+   "players_know": [
+    "Where you sleep in this city is a statement about who you are here for."
+   ]
+  },
+  {
+   "scene": "palanthas-districts",
+   "pin": 1,
+   "title": "Three Invitations",
+   "read": "They arrive within the same hour, which is not coincidence. The University would value your time. The Lord's Council requests your attendance. And a harbour factor you have never heard of would like a private word, at your convenience, about Wayreth.",
+   "players_know": [
+    "You can make two of these today. Not three."
+   ]
+  },
+  {
+   "scene": "palanthas-districts",
+   "pin": 2,
+   "title": "The University",
+   "read": "Scholars who have read everything about the Orders and met nobody from them. They are delighted by you and useful despite themselves, and one of them has been working on the Chronicle of 349 for six years.",
+   "players_know": [
+    "Here you will get the truth as it is written down."
+   ]
+  },
+  {
+   "scene": "palanthas-districts",
+   "pin": 3,
+   "title": "The Council",
+   "read": "The Lord's Council is polite, well-informed and entirely uninterested in the Tower in their own city. They talk about the war, the harbour and the grain price, and they let the black spire outside the window go unmentioned for a full hour.",
+   "players_know": [
+    "Here you will get the truth as it is governed."
+   ]
+  },
+  {
+   "scene": "palanthas-districts",
+   "pin": 4,
+   "title": "The Harbour",
+   "read": "The factor keeps a cramped office above a bonded warehouse and does not offer you a seat because there isn't one. He deals in cargo manifests, and he has noticed that certain crates have been going to an address that does not exist.",
+   "players_know": [
+    "Here you will get the truth as it is paid for."
+   ]
+  },
+  {
+   "scene": "great-library",
+   "pin": 1,
+   "title": "The Request",
+   "read": "The Great Library admits anyone. That is the first surprise. The second is the silence — not quiet, silence, the kind that makes you aware of your own pulse. At the far desk a man writes without pausing, and has been writing, by every account, for longer than Palanthas has existed.",
+   "players_know": [
+    "You may ask Astinus anything. He has heard worse."
+   ]
+  },
+  {
+   "scene": "great-library",
+   "pin": 2,
+   "title": "The Refusal",
+   "read": "He does not look up. He tells you that he records and does not interpret, that he will not tell you what is missing because absence is not an event, and that he has no opinion on Raistlin Majere which would be of any use to you.",
+   "players_know": [
+    "Every word of that is true. None of it is the whole answer."
+   ]
+  },
+  {
+   "scene": "great-library",
+   "pin": 3,
+   "title": "The Correction",
+   "read": "You get something wrong out loud — a date, a name, the order of two events — and the pen stops. He corrects you precisely, at length, and with no interest in whether you wanted the correction. Then he goes back to writing.",
+   "players_know": [
+    "He will not answer a question. He cannot abide an error."
+   ]
+  },
+  {
+   "scene": "great-library",
+   "pin": 4,
+   "title": "The History Lesson",
+   "read": "Having corrected you, he keeps going, because the correction is incomplete without its context, and the context runs to three hundred years and takes in a name none of you asked about: Fistandantilus.",
+   "players_know": [
+    "He is not helping you. He is being accurate at you."
+   ]
+  },
+  {
+   "scene": "library-archive",
+   "pin": 1,
+   "title": "The Audit",
+   "read": "The Chronicle for 349 is complete, continuous, and in the same hand throughout. Nothing has been torn out. Nothing has been scraped. The volume is simply shorter than the volumes on either side of it by about eleven days.",
+   "players_know": [
+    "Nothing was removed. Those days were never written."
+   ]
+  },
+  {
+   "scene": "library-archive",
+   "pin": 2,
+   "title": "The False Trail",
+   "read": "Someone has been here before you, and they left a trail an apprentice could follow — cross-references, a marked index, a helpfully placed cipher. It leads, over two careful hours, precisely nowhere.",
+   "players_know": [
+    "The trail is too good. It was laid, not left."
+   ]
+  },
+  {
+   "scene": "library-archive",
+   "pin": 3,
+   "title": "The Harbour Link",
+   "read": "The one genuine thread is dull: a shipping receipt bound into the wrong volume, for a consignment landed at Palanthas in the missing fortnight and signed for by a factor's clerk.",
+   "players_know": [
+    "Dull is how real evidence usually looks."
+   ]
+  },
+  {
+   "scene": "library-archive",
+   "pin": 4,
+   "title": "Pellan Marr",
+   "read": "The clerk's name is Pellan Marr. He still works the harbour. He is not hiding, he is not frightened, and when you find him he will be surprised it took this long.",
+   "players_know": [
+    "He has been waiting for somebody to ask."
+   ]
+  },
+  {
+   "scene": "shoikan-perimeter",
+   "pin": 1,
+   "title": "Preparation",
+   "read": "You spend the afternoon getting ready for something nobody can describe to you. Everyone who has advice has it second-hand. The one consistent detail across every account is that people who enter the Shoikan Grove without leave do not come out and are not found.",
+   "players_know": [
+    "Decide now who carries the token across."
+   ]
+  },
+  {
+   "scene": "shoikan-perimeter",
+   "pin": 2,
+   "title": "The Boundary",
+   "read": "Three feet from the first trunk the temperature drops by a season. Four feet, and the city noise behind you stops — not fades, stops, as though the sound has been declined entry in the other direction.",
+   "players_know": [
+    "This is fear being applied to you from outside. Knowing that does not help."
+   ]
+  },
+  {
+   "scene": "shoikan-perimeter",
+   "pin": 3,
+   "title": "First Steps",
+   "read": "The ground under the oaks is bare earth and root, and it is not level anywhere. Nothing moves. Nothing is watching in any way you can point to. All of you want, with a clarity you can taste, to be walking the other way.",
+   "players_know": [
+    "The token's bearer feels it least. Not none."
+   ]
+  },
+  {
+   "scene": "shoikan-perimeter",
+   "pin": 4,
+   "title": "The Token Raised",
+   "read": "Held up, the disc does nothing visible. What happens instead is that the pressure eases — fractionally, grudgingly, like a door being held rather than opened — and a way through the trunks becomes apparent that you would swear was not there.",
+   "players_know": [
+    "The Grove has acknowledged the token. It has not welcomed you."
+   ]
+  },
+  {
+   "scene": "shoikan-interior",
+   "pin": 1,
+   "title": "The Path",
+   "read": "There is a path, and it is the only ground in the Grove that will take a bootprint. Step off it and the earth is as hard as flagstone. The path does not run straight, and it does not run toward the tower.",
+   "players_know": [
+    "Follow it or don't. It will be the same path either way."
+   ]
+  },
+  {
+   "scene": "shoikan-interior",
+   "pin": 2,
+   "title": "Recognition",
+   "read": "Partway in, the pressure changes quality. It stops being a warning and becomes something closer to attention — the specific discomfort of being read by something that is taking its time and is not finished.",
+   "players_know": [
+    "It is not interested in the token any more. It is interested in you."
+   ]
+  },
+  {
+   "scene": "shoikan-interior",
+   "pin": 3,
+   "title": "The Words",
+   "read": "Three paths open at the far end of the Grove where there were none, and each is marked by a single word cut into the bark in Magius: POWER. KNOWLEDGE. SACRIFICE.",
+   "players_know": [
+    "All three go through. The Grove has made that clear.",
+    "Which one you take is being recorded somewhere you cannot see."
+   ]
+  },
+  {
+   "scene": "shoikan-interior",
+   "pin": 4,
+   "title": "Through",
+   "read": "You come out of the trees onto black flagstones, in the shadow of the Tower of Palanthas, with the Grove closed behind you and the city completely inaudible. The door ahead is open.",
+   "players_know": [
+    "Nobody has come this way uninvited in three hundred years."
+   ]
+  },
+  {
+   "scene": "vingard-funeral-reach",
+   "pin": 1,
+   "title": "The Launching",
+   "read": "You carry him down from the village on a stretcher of green willow, and the whole of Vogler that can walk comes with you. The Vingard is wide and slow here, shallow enough over the gravel to see the bottom. Somebody has packed the boat with straw and the straw is already damp.",
+   "players_know": [
+    "You each have a moment to say something, or not to.",
+    "The current will take him east, out of sight within a few minutes."
+   ]
+  },
+  {
+   "scene": "vingard-funeral-reach",
+   "pin": 2,
+   "title": "Downstream",
+   "read": "The boat goes further than you expect. It burns well past the bend, a small moving light on a grey river, and nobody on the bank moves until it is gone under.",
+   "players_know": [
+    "Ispin Greenshield died of a lung infection, in bed, at a decent age.",
+    "You have already agreed among yourselves that this is not the version anyone is going to be told."
+   ]
+  },
+  {
+   "scene": "vingard-funeral-reach",
+   "pin": 3,
+   "title": "The Birds on the Bar",
+   "read": "Crows come down onto the gravel bar while the boat is still alight. A dozen, then more. They do not call and they do not squabble, which anyone who has watched crows will tell you is unusual. They stay until the light is gone and then they go too.",
+   "players_know": [
+    "Nobody fed them. Nobody chased them off.",
+    "Afterwards it seems like it was probably just birds."
+   ]
+  },
+  {
+   "scene": "vingard-wilds-crossing",
+   "pin": 1,
+   "title": "The Standing Stones",
+   "read": "Five grey monoliths in a rough line across the plain, leaning at angles the weather chose. They are older than the Cataclysm — the lichen alone says centuries — and nothing is carved on them that has survived.",
+   "players_know": [
+    "They are the only cover for a mile in any direction.",
+    "The ground between them is beaten flat, as though things pass this way often."
+   ]
+  },
+  {
+   "scene": "vingard-wilds-crossing",
+   "pin": 2,
+   "title": "Carriage Ground",
+   "read": "Open grass and wheel-rut, and a horizon with nothing on it. The wind comes across unbroken from the north and has been doing so for long enough that every thorn bush on this plain leans the same way.",
+   "players_know": [
+    "You can see anything coming. So can anything coming.",
+    "The rut is the road. There is no other road."
+   ]
+  },
+  {
+   "scene": "vingard-wilds-crossing",
+   "pin": 3,
+   "title": "Toward the Hills",
+   "read": "The ground tilts up at the eastern edge of the plain and the grey of the uplands starts. Somewhere in that is the dwarf-road down to Maelgoth, though from here it is a line of shadow rather than anything you could follow.",
+   "players_know": [
+    "Half a day to the pass at a decent pace."
+   ]
+  },
+  {
+   "scene": "vingard-defile",
+   "pin": 1,
+   "title": "The Narrow",
+   "read": "The pass closes to forty feet at its tightest and bends twice, so you can never see the whole of it. Underfoot is broken rock that turns an ankle if you hurry. The walls go up in scree and boulder on both sides.",
+   "players_know": [
+    "You cannot see the far end from here, and nothing at the far end can see you.",
+    "Anything on the slopes has the advantage and knows it."
+   ]
+  },
+  {
+   "scene": "vingard-defile",
+   "pin": 2,
+   "title": "The High Ground",
+   "read": "The scree is climbable if you are willing to make noise doing it. From the top you would see the whole length of the pass and anything in it.",
+   "players_know": [
+    "Climbing is loud. Not climbing is blind."
+   ]
+  },
+  {
+   "scene": "vingard-defile",
+   "pin": 3,
+   "title": "The Gate Road",
+   "read": "At the eastern mouth the broken rock gives way to a dwarf-cut road — square-dressed stone, laid flat, running straight into the hillside. The change is abrupt enough to be a statement.",
+   "players_know": [
+    "Maelgoth is an hour down this road.",
+    "The stonework has been maintained. Recently."
+   ]
+  },
+  {
+   "scene": "maelgoth-gate",
+   "pin": 1,
+   "title": "The Gate Hall",
+   "read": "Heat hits you before the light does. The outer hall of Maelgoth is a square-cut cavern the size of a cathedral, with a channel of running forge-fire down the middle of the floor and square piers holding up a ceiling you cannot see. It is loud, it is bright, and it does not stop at night because there is no night.",
+   "players_know": [
+    "Visitors get this far. Getting further takes a reason.",
+    "There is a toll, and it is collected politely."
+   ]
+  },
+  {
+   "scene": "maelgoth-gate",
+   "pin": 2,
+   "title": "Supplies",
+   "read": "Stalls down both walls, selling everything a road needs and a good deal it does not. The prices are fair and non-negotiable, and the stallholders will tell you so once.",
+   "players_know": [
+    "Resupply here is straightforward.",
+    "Anything unusual gets remembered, and asked about later by someone else."
+   ]
+  },
+  {
+   "scene": "maelgoth-gate",
+   "pin": 3,
+   "title": "The Folding Boat",
+   "read": "The boatwrights work at the forge end, and what they turn out is not quite like anything on the river. The commission takes days and the result folds down to something two people can carry.",
+   "players_know": [
+    "Kattal shaped the design. Solanthis laid the enchantments in afterwards.",
+    "They would recognise their own work if it came back needing repair."
+   ]
+  },
+  {
+   "scene": "maelgoth-gate",
+   "pin": 4,
+   "title": "The Lizards, and Nigel",
+   "read": "Several giant lizards have gone missing from the lower stalls and the owner is more embarrassed than worried. Somewhere in the recovering of them, a honey badger attaches itself to the company. Nobody can afterwards explain how.",
+   "players_know": [
+    "His name is Nigel Thornbadgery.",
+    "He was not purchased, traded for, or in any sense agreed to."
+   ]
+  },
+  {
+   "scene": "vingard-toll-station",
+   "pin": 1,
+   "title": "The Bar Across the Road",
+   "read": "A pole on two trestles, a painted board giving the rate, and three men who look like they have been doing this a fortnight rather than a decade. The board is official. The men are not.",
+   "players_know": [
+    "The rate on the board is the real rate. What they ask for is not."
+   ]
+  },
+  {
+   "scene": "vingard-toll-station",
+   "pin": 2,
+   "title": "The Hut",
+   "read": "A one-room station house behind the bar, with a second door at the back that has been nailed shut from the outside and then nailed shut again, more carefully.",
+   "players_know": [
+    "There is somebody behind that door.",
+    "Nobody at the bar has mentioned it."
+   ]
+  },
+  {
+   "scene": "vingard-toll-station",
+   "pin": 3,
+   "title": "The Family",
+   "read": "A man, a woman and two children, kept in the back room since the station changed hands. They have been fed. They have not been let out, and they have been made to understand why they are not shouting.",
+   "players_know": [
+    "They ran this station legitimately. The travellers on this road still think they do.",
+    "That is the whole reason the arrangement has held."
+   ]
+  },
+  {
+   "scene": "vingard-toll-station",
+   "pin": 4,
+   "title": "The Ledger",
+   "read": "The toll book is kept properly, which is the strangest thing in the building. Takings by day, traffic by type, all in a careful hand. And a second column, in a different hand, that does not correspond to anything on the road.",
+   "players_know": [
+    "Money is going somewhere other than the road authority.",
+    "The pattern is the same one you saw in the Bakaris correspondence."
+   ]
+  },
+  {
+   "scene": "vingard-ambush-camp",
+   "pin": 1,
+   "title": "The Trade",
+   "read": "Elves, courteous and well-equipped, with a mage in red robes a little behind them. They want powdered unicorn horn and they are willing to pay properly for it. The transaction is completed. They thank you and go.",
+   "players_know": [
+    "Nothing about the exchange was wrong.",
+    "There was an argument among yourselves afterwards about whether it should have happened."
+   ]
+  },
+  {
+   "scene": "vingard-ambush-camp",
+   "pin": 2,
+   "title": "They Come Back",
+   "read": "They come back from the treeline, spread out, in the dark, and they have clearly spent the intervening hour deciding how.",
+   "players_know": [
+    "There is no cover on this ground worth the name.",
+    "They know exactly where the fires are."
+   ]
+  },
+  {
+   "scene": "vingard-ambush-camp",
+   "pin": 3,
+   "title": "The Fireball",
+   "read": "It opens with fire and does not stop there. Missiles follow it in from three directions, aimed at whoever is still standing after the first.",
+   "players_know": [
+    "Several of you go down in the opening seconds.",
+    "This is the ground where Kattal go-Zemu died."
+   ]
+  },
+  {
+   "scene": "vingard-scarecrow-fields",
+   "pin": 1,
+   "title": "The Farmer's Problem",
+   "read": "Four strip fields, a hedgerow between each, a barn at the top corner, and more crows than crop. The farmer has tried everything he can afford and has reached the stage of asking strangers.",
+   "players_know": [
+    "He cannot pay much. He is honest about that up front.",
+    "You have done this before. It went badly."
+   ]
+  },
+  {
+   "scene": "vingard-scarecrow-fields",
+   "pin": 2,
+   "title": "Standing in the Field",
+   "read": "It takes a surprisingly long time to stand still in a field. The crows are not fooled for a moment and settle on the hedgerow to watch, which is somehow worse than being attacked.",
+   "players_know": [
+    "Nobody is in danger here. That is allowed."
+   ]
+  },
+  {
+   "scene": "vingard-scarecrow-fields",
+   "pin": 3,
+   "title": "The Barn",
+   "read": "Dry, warm, full of last year's straw, and a good deal more comfortable than the ground. The farmer offers it without being asked.",
+   "players_know": [
+    "A long rest here costs nothing and nobody is watching the door."
+   ]
+  },
+  {
+   "scene": "vingard-scarecrow-fields",
+   "pin": 4,
+   "title": "The Crow That Stayed",
+   "read": "When you leave, one of them comes too. Not tame, not frightened, and entirely unbothered by being carried. It rides on whatever is nearest and looks at people a little longer than a bird ought to.",
+   "players_know": [
+    "It has not been fed, encouraged, or named yet."
+   ]
+  },
+  {
+   "scene": "vingard-mudflats",
+   "pin": 1,
+   "title": "Firm Ground",
+   "read": "A bank of dry land runs along the southern edge of the flats, and from it you can see perhaps a dozen islands of solid footing scattered through the shallow water. Between them is mud, reed and nothing you want to put weight on.",
+   "players_know": [
+    "Moving off the firm islands is slow and extremely loud."
+   ]
+  },
+  {
+   "scene": "vingard-mudflats",
+   "pin": 2,
+   "title": "Sinking",
+   "read": "A halfling is in the mud up to his waist about forty feet out, going nowhere, and shouting — specifically, viciously, and with impressive range — at everyone within earshot. A dwarf on the nearest island is attempting to reach him and is being insulted for it.",
+   "players_know": [
+    "Neither of them appears to be in control of the shouting.",
+    "Neither is armed in a way that suggests a trap."
+   ]
+  },
+  {
+   "scene": "vingard-mudflats",
+   "pin": 3,
+   "title": "What Was Following",
+   "read": "The reeds move on the far side, and keep moving, in more places than one thing would account for.",
+   "players_know": [
+    "Goblins. A dozen or so, and not all of them are warriors.",
+    "They are not here for you."
+   ]
+  },
+  {
+   "scene": "vingard-fishing-platform",
+   "pin": 1,
+   "title": "The Platform",
+   "read": "A fishing stage runs twenty feet out over the water from the northern bank, and the last third of it is sagging into the river. There is an old man on the wrong side of the sag, sitting very still, which is the only sensible thing to do.",
+   "players_know": [
+    "The supports under the far end have already gone.",
+    "Your weight on the near end is part of what is holding it."
+   ]
+  },
+  {
+   "scene": "vingard-fishing-platform",
+   "pin": 2,
+   "title": "Getting a Line to Him",
+   "read": "Rope, reach, spell or boat — the gap is about fifteen feet of rotten planking and the river underneath is deeper than it looks.",
+   "players_know": [
+    "The nets hanging below have crows tangled in them.",
+    "He will not move until he is told exactly what to do."
+   ]
+  },
+  {
+   "scene": "vingard-fishing-platform",
+   "pin": 3,
+   "title": "Banthar",
+   "read": "A retired Knight of Solamnia, fishing a stretch he admits he had no business fishing, grateful and visibly embarrassed about the whole business. He is also better informed about the war than a retired man on a riverbank has any right to be.",
+   "players_know": [
+    "He will talk, at length, and most of it is worth hearing."
+   ]
+  },
+  {
+   "scene": "vingard-fishing-platform",
+   "pin": 4,
+   "title": "The Blue Thread",
+   "read": "The crows that brought you here were carrying a length of blue thread between them. Once the birds in the nets are free, several of them come back and drop bread crusts at your feet. Nobody involved seems to find this strange except you.",
+   "players_know": [
+    "Blue is Habbakuk's colour.",
+    "Something has now done this twice."
+   ]
+  },
+  {
+   "scene": "vingard-aqueduct",
+   "pin": 1,
+   "title": "Going In",
+   "read": "A Solamnic aqueduct, dry for a century, running east to west on arches you cannot see the bottom of. The channel is a stone trough thirty feet across with walls to either side, and it is the only level route for miles.",
+   "players_know": [
+    "Light does not carry far in here.",
+    "Sound carries even worse — you will hear things late."
+   ]
+  },
+  {
+   "scene": "vingard-aqueduct",
+   "pin": 2,
+   "title": "The First Breach",
+   "read": "A span has gone, taking about twenty feet of channel floor with it. What is left is a lip on either side and a long drop in between.",
+   "players_know": [
+    "Jumpable with a run, climbable with rope, impossible with neither."
+   ]
+  },
+  {
+   "scene": "vingard-aqueduct",
+   "pin": 3,
+   "title": "Darkness",
+   "read": "The dark ahead is darker than it should be, and it moves. Whatever is in here does not need to make its own, which means it can spend its effort on other things.",
+   "players_know": [
+    "Light sources go out and do not relight easily.",
+    "Something comes down from the ceiling."
+   ]
+  },
+  {
+   "scene": "vingard-aqueduct",
+   "pin": 4,
+   "title": "Harmony",
+   "read": "A dragonborn woman, trapped in here with the same things you are, and considerably more composed about it than the situation warrants. Afterwards she offers a mushroom that will revive a dying man, and a campsite, and almost nothing about herself.",
+   "players_know": [
+    "The mushroom works.",
+    "She has not lied to you. She has also not answered much."
+   ]
+  },
+  {
+   "scene": "vingard-south-bank",
+   "pin": 1,
+   "title": "The Camp",
+   "read": "Shingle, driftwood and scrub above the waterline, the treeline at your back, one fire burning low. The folding boat is drawn up at the landing. It is the first quiet hour in three days and the four of you have been telling each other stories to fill it.",
+   "players_know": [
+    "Watches are set. Nobody is especially alert.",
+    "South bank. The river is on your northern side."
+   ]
+  },
+  {
+   "scene": "vingard-south-bank",
+   "pin": 2,
+   "title": "The Boat",
+   "read": "Drawn up on the shingle and still showing the repair from the first night, which held, mostly.",
+   "players_know": [
+    "It can be launched in a round by two people, or slower by one."
+   ]
+  },
+  {
+   "scene": "vingard-south-bank",
+   "pin": 3,
+   "title": "Out of the Cloud",
+   "read": "It comes down out of low cloud with no warning sound at all, and you know it before you see it properly — the same wyvern from the road out of Vogler, still trailing a ribbon of Kingfisher bunting from one wing, and carrying a great many more scars than it had then.",
+   "players_know": [
+    "It is badly hurt, and has been for a long time.",
+    "It has seen you. It may have recognised you."
+   ]
+  },
+  {
+   "scene": "vingard-south-bank",
+   "pin": 4,
+   "title": "Cover, Such As It Is",
+   "read": "Driftwood, a shelf of bank about three feet high, and the treeline thirty feet back. Against something that flies, none of it is as useful as it looks.",
+   "players_know": [
+    "The treeline is the only real answer to a flier.",
+    "Thirty feet, in the open, with one of you already down."
+   ]
+  },
+  {
+   "scene": "vingard-river-south",
+   "pin": 1,
+   "title": "Casting Off",
+   "read": "The river below the camp runs deeper and faster than the reach you buried Ispin on. Once you are out in it, you are going south whether or not that remains the plan.",
+   "players_know": [
+    "No bank worth landing on for most of this stretch."
+   ]
+  },
+  {
+   "scene": "vingard-river-south",
+   "pin": 2,
+   "title": "The Main Channel",
+   "read": "Fast water, boulders standing in it, and the boat doing most of the work. Anything that goes over the side goes downstream.",
+   "players_know": [
+    "The boat is the floor. Everything else is the river."
+   ]
+  },
+  {
+   "scene": "vingard-river-south",
+   "pin": 3,
+   "title": "The Bar",
+   "read": "A long gravel bar splits the channel, dry enough to stand on and wide enough to fight on, with fast water on both sides.",
+   "players_know": [
+    "Standing here means the boat has to come back for you."
+   ]
+  },
+  {
+   "scene": "vingard-river-south",
+   "pin": 4,
+   "title": "Toward the Forest",
+   "read": "The country changes on the southern bank: the open ground gives out and the treeline comes down to the water. Somewhere past that is the forest everyone has been careful not to promise you anything about.",
+   "players_know": [
+    "Riverlanding first. The forest after."
+   ]
+  },
+  {
+   "scene": "vingard-waystation",
+   "pin": 1,
+   "title": "In Off the Water",
+   "read": "A low building above a jetty, one long room, a fire at the far end, and the particular warmth of somewhere that has been full all day. The landlord looks up, counts you, and says nothing.",
+   "players_know": [
+    "Beds upstairs. Nobody asks for names."
+   ]
+  },
+  {
+   "scene": "vingard-waystation",
+   "pin": 2,
+   "title": "The Other Travellers",
+   "read": "Carters at the long table, a militia patrol off duty and drinking like it, and a party by the window who stopped talking when you came in and have not started again.",
+   "players_know": [
+    "Three conversations worth having, and one worth watching."
+   ]
+  },
+  {
+   "scene": "vingard-waystation",
+   "pin": 3,
+   "title": "News From the South",
+   "read": "The war is going worse than the version you heard in Vogler and better than the version the refugees are carrying north. Both are being told in this room, loudly, by people who have not been anywhere near it.",
+   "players_know": [
+    "Somebody in here has actually been south, and is not the one talking."
+   ]
+  },
+  {
+   "scene": "vingard-waystation",
+   "pin": 4,
+   "title": "The Quiet Conversation",
+   "read": "There is a corner away from the fire where you can hear each other, and an evening with nothing in it that has to be decided tonight.",
+   "players_know": [
+    "Long rest. Talk, if there is anything to say."
+   ]
+  },
+  {
+   "scene": "vingard-river-town",
+   "pin": 1,
+   "title": "The Wharf",
+   "read": "Riverlanding takes its name honestly: a stone wharf, four jetties, and a town that exists because cargo has to stop here. Everything smells of pitch and fish.",
+   "players_know": [
+    "The folding boat can be left here safely, for a fee.",
+    "Everyone on this wharf notices a new boat."
+   ]
+  },
+  {
+   "scene": "vingard-river-town",
+   "pin": 2,
+   "title": "Market",
+   "read": "A proper market square with a proper market in it — the first one since Vogler. Food, rope, arrows, a herbalist and a smith who is busier than she wants to be.",
+   "players_know": [
+    "Last reliable resupply before the forest country."
+   ]
+  },
+  {
+   "scene": "vingard-river-town",
+   "pin": 3,
+   "title": "The Militia Question",
+   "read": "At the square's edge a militia sergeant is stopping travellers, asking where they are going, and writing the answers in a book. He is apologetic about it in a way that suggests he has been apologising all week.",
+   "players_know": [
+    "This is new, and it is not the town's own idea.",
+    "He will say who told him to, if asked properly."
+   ]
+  },
+  {
+   "scene": "vingard-river-town",
+   "pin": 4,
+   "title": "The Road South",
+   "read": "Out of the square and south, and within a mile the maintained road simply stops. Beyond it the track goes on into country that nobody in Riverlanding will give you directions for.",
+   "players_know": [
+    "They are not being unhelpful. They genuinely do not know."
+   ]
+  },
+  {
+   "scene": "palanthas-dead-wizard",
+   "pin": 1,
+   "title": "The Study",
+   "read": "A Conclave-sanctioned wizard, dead at his own desk in a room locked from the inside. No wound, no spilled ink, no disarranged chair. The lamp has burned out naturally.",
+   "players_know": [
+    "Nothing has been taken that an inventory would notice.",
+    "He was writing when it happened and the page is gone."
+   ]
+  },
+  {
+   "scene": "palanthas-dead-wizard",
+   "pin": 2,
+   "title": "Witnesses",
+   "read": "Three people heard nothing and one heard something she is reluctant to describe, because describing it makes her sound unreliable and she has a position to keep.",
+   "players_know": [
+    "She will talk away from the others."
+   ]
+  },
+  {
+   "scene": "palanthas-dead-wizard",
+   "pin": 3,
+   "title": "The Library Audit",
+   "read": "His borrowing record runs for nineteen years and stops being ordinary about four months ago. After that it is all one subject, approached from six directions.",
+   "players_know": [
+    "Every one of those requests touches the same century.",
+    "Two of the volumes he asked for do not exist."
+   ]
+  },
+  {
+   "scene": "palanthas-dead-wizard",
+   "pin": 4,
+   "title": "The Accusation",
+   "read": "Somebody names a culprit before the body is cold, loudly, with a reason that holds together until you look at the times.",
+   "players_know": [
+    "The accusation is wrong and the accuser may not know it.",
+    "It is also extremely convenient for somebody."
+   ]
+  },
+  {
+   "scene": "palanthas-record-houses",
+   "pin": 1,
+   "title": "Choosing Leads",
+   "read": "Three archives hold a copy of the same year: the guild register, the Conclave's filing, and the University's transcription. You have an afternoon and two of them close at dusk.",
+   "players_know": [
+    "You cannot read all three today."
+   ]
+  },
+  {
+   "scene": "palanthas-record-houses",
+   "pin": 2,
+   "title": "Contradictions",
+   "read": "The copies disagree. Not in detail — in whole weeks. Where one has a council sitting, another has nothing, and the third has a line scratched out by somebody with authority to scratch it out.",
+   "players_know": [
+    "All three are considered authoritative."
+   ]
+  },
+  {
+   "scene": "palanthas-record-houses",
+   "pin": 3,
+   "title": "The Missing Name",
+   "read": "A name appears in two of the three and has been removed from the last, cleanly, by somebody who knew which index entries to take with it.",
+   "players_know": [
+    "The removal is recent. The ink around it is not."
+   ]
+  },
+  {
+   "scene": "palanthas-record-houses",
+   "pin": 4,
+   "title": "Pressure",
+   "read": "Veyrath is in the city and makes sure you know it — a message, left at your lodging, that says nothing threatening and leaves nothing to misunderstand.",
+   "players_know": [
+    "He knows which archive you were in today."
+   ]
+  },
+  {
+   "scene": "palanthas-undercity",
+   "pin": 1,
+   "title": "The Hidden Residence",
+   "read": "Under the new streets is the old city, and in it a residence somebody has been maintaining. Dry, swept, and lit by a lamp with oil still in it.",
+   "players_know": [
+    "Nobody is here now. Somebody was this week."
+   ]
+  },
+  {
+   "scene": "palanthas-undercity",
+   "pin": 2,
+   "title": "Correspondence",
+   "read": "Letters in a strong, old-fashioned hand, filed by year, going back further than the paper should allow.",
+   "players_know": [
+    "The most recent is three months old.",
+    "The hand does not change across three centuries of dates."
+   ]
+  },
+  {
+   "scene": "palanthas-undercity",
+   "pin": 3,
+   "title": "Ambush",
+   "read": "They come down the passage you came in by, which means they waited for you to be deep enough.",
+   "players_know": [
+    "The passage behind you is the only way out you know about."
+   ]
+  },
+  {
+   "scene": "palanthas-undercity",
+   "pin": 4,
+   "title": "The Fragment",
+   "read": "Among the papers, a fragment of something older — a working, incomplete, in a notation none of you were taught.",
+   "players_know": [
+    "Enough survives to tell it is a method rather than a theory."
+   ]
+  },
+  {
+   "scene": "shoikan-four-fears",
+   "pin": 1,
+   "title": "The Gate of Terror",
+   "read": "Each of you meets, at the first trees, the thing you are most afraid of right now. Not childhood fear — current fear, rendered precisely, by something that has had time to read you.",
+   "players_know": [
+    "It is accurate. That is the worst part.",
+    "Nothing attacks."
+   ]
+  },
+  {
+   "scene": "shoikan-four-fears",
+   "pin": 2,
+   "title": "The Path of Regret",
+   "read": "Further in, a decision you already made plays again, and this time you see the version where it went as badly as it could have.",
+   "players_know": [
+    "The Grove is not lying. It is exaggerating, which is different."
+   ]
+  },
+  {
+   "scene": "shoikan-four-fears",
+   "pin": 3,
+   "title": "The Dead Clearing",
+   "read": "Everyone who failed here is still here: bone, shade and the things they were carrying. One of them wears the badge of a school that still takes students.",
+   "players_know": [
+    "Some of these are recent."
+   ]
+  },
+  {
+   "scene": "shoikan-four-fears",
+   "pin": 4,
+   "title": "Shelter",
+   "read": "A still point opens around the token — perhaps twenty feet of ground where the pressure simply stops. On its surface a glyph has appeared that was not on it outside the trees.",
+   "players_know": [
+    "You can rest here. Briefly.",
+    "Nobody put that glyph there."
+   ]
+  },
+  {
+   "scene": "tower-servants-gate",
+   "pin": 1,
+   "title": "Three Roads",
+   "read": "Three ways into the Tower of Palanthas present themselves, and the Grove has made clear it expects you to pick one rather than be given one.",
+   "players_know": [
+    "The Master's road. The servants' route. And a third nobody has used since the Kingpriest."
+   ]
+  },
+  {
+   "scene": "tower-servants-gate",
+   "pin": 2,
+   "title": "The Master's Road",
+   "read": "Straight, obvious, and built to be walked by somebody with the right to walk it. It will let you through. It will also announce you.",
+   "players_know": [
+    "Fast. Loud."
+   ]
+  },
+  {
+   "scene": "tower-servants-gate",
+   "pin": 3,
+   "title": "The Subordinate Route",
+   "read": "Narrow stairs for people who were never meant to be seen using them. Still swept.",
+   "players_know": [
+    "Slow, quiet, and it arrives somewhere unhelpful."
+   ]
+  },
+  {
+   "scene": "tower-servants-gate",
+   "pin": 4,
+   "title": "Entry",
+   "read": "Whichever way you take, the door is not locked, and the lack of a lock is the most unsettling thing about it.",
+   "players_know": [
+    "The Tower has been expecting somebody. Not necessarily you."
+   ]
+  },
+  {
+   "scene": "tower-hall-of-silence",
+   "pin": 1,
+   "title": "The Hall of Silence",
+   "read": "You step across the threshold and your own footsteps stop reaching you. Speech produces nothing. The silence is not an absence; it is being applied.",
+   "players_know": [
+    "Verbal components do not function here.",
+    "You can still hear your own thoughts, which is not a comfort."
+   ]
+  },
+  {
+   "scene": "tower-hall-of-silence",
+   "pin": 2,
+   "title": "Restoring Access",
+   "read": "There is a way to lift it, built into the floor, and it was designed for somebody who already knew the answer.",
+   "players_know": [
+    "The mechanism is intact and uncooperative."
+   ]
+  },
+  {
+   "scene": "tower-hall-of-silence",
+   "pin": 3,
+   "title": "The Hall of Three Moons",
+   "read": "Beyond it, a circular hall with three apertures in the dome, and three discs of light on the floor that do not correspond to any moon currently in the sky.",
+   "players_know": [
+    "White, red, and an absence that is nonetheless a disc."
+   ]
+  },
+  {
+   "scene": "tower-hall-of-silence",
+   "pin": 4,
+   "title": "It Answers",
+   "read": "The hall responds to something none of you did deliberately, and the response is specific enough that it was clearly aimed at one of you.",
+   "players_know": [
+    "Whatever it recognised, it recognised today."
+   ]
+  },
+  {
+   "scene": "tower-abandoned-conclave",
+   "pin": 1,
+   "title": "The Living Debate",
+   "read": "The Conclave is in session. It has been in session for three hundred years. The argument is detailed, procedural, and entirely about a war that ended before any of you were born.",
+   "players_know": [
+    "They can be spoken to. They do not notice interruptions."
+   ]
+  },
+  {
+   "scene": "tower-abandoned-conclave",
+   "pin": 2,
+   "title": "Lost Battles",
+   "read": "The debate turns over engagements by name, with casualty figures, and all of it is accurate to records nobody has consulted in centuries.",
+   "players_know": [
+    "They know things that were never written down."
+   ]
+  },
+  {
+   "scene": "tower-abandoned-conclave",
+   "pin": 3,
+   "title": "Andras",
+   "read": "One of the figures is not part of the loop. He is aware of you, aware of the year, and he has been waiting a long time for somebody to ask him a direct question.",
+   "players_know": [
+    "He will answer three. He says so up front."
+   ]
+  },
+  {
+   "scene": "tower-abandoned-conclave",
+   "pin": 4,
+   "title": "The Vote",
+   "read": "The session reaches its vote, and this time there is an empty seat with your party in front of it.",
+   "players_know": [
+    "Voting commits you to something. Nobody will say what."
+   ]
+  },
+  {
+   "scene": "tower-apprentice-quarters",
+   "pin": 1,
+   "title": "The Dormitory",
+   "read": "Twelve beds, twelve chests, twelve sets of robes folded the same way. A morning in progress, with the light coming through a window that no longer exists from outside.",
+   "players_know": [
+    "They are students. They are perfectly pleasant."
+   ]
+  },
+  {
+   "scene": "tower-apprentice-quarters",
+   "pin": 2,
+   "title": "The Lesson Repeats",
+   "read": "The same lesson runs again, word for word, and the mistakes happen at the same moments. Then again.",
+   "players_know": [
+    "Small details change each time. Not the lesson."
+   ]
+  },
+  {
+   "scene": "tower-apprentice-quarters",
+   "pin": 3,
+   "title": "The Late Student",
+   "read": "One bed is empty and one student is always arriving, every repetition, always just too late to be in the room when it matters.",
+   "players_know": [
+    "She knows she is late. She does not know why it keeps happening."
+   ]
+  },
+  {
+   "scene": "tower-apprentice-quarters",
+   "pin": 4,
+   "title": "Release or Use",
+   "read": "The loop can be ended. It can also be left running, and there is an argument — a real one — for leaving it.",
+   "players_know": [
+    "Ending it ends them."
+   ]
+  },
+  {
+   "scene": "tower-forbidden-library",
+   "pin": 1,
+   "title": "The Ward of Classification",
+   "read": "Nothing here is shelved by subject. The classification is by ward: how dangerous, to whom, and how recently reclassified.",
+   "players_know": [
+    "The index is itself warded.",
+    "Several entries have been moved up a category this century."
+   ]
+  },
+  {
+   "scene": "tower-forbidden-library",
+   "pin": 2,
+   "title": "Research",
+   "read": "The material is here. It is also deliberately difficult, in the way a lock is difficult, and the difficulty was designed by somebody who expected you.",
+   "players_know": [
+    "Time spent here is time spent."
+   ]
+  },
+  {
+   "scene": "tower-forbidden-library",
+   "pin": 3,
+   "title": "The Long Return",
+   "read": "You find it. Three components, named, with the method sketched rather than written out, and a marginal note in a different hand saying it has been attempted.",
+   "players_know": [
+    "Attempted is not the same as succeeded.",
+    "The note does not say which."
+   ]
+  },
+  {
+   "scene": "tower-forbidden-library",
+   "pin": 4,
+   "title": "Intruder",
+   "read": "Somebody else is in the stacks, and has been for longer than you have.",
+   "players_know": [
+    "They are not surprised to see you."
+   ]
+  },
+  {
+   "scene": "tower-chamber-of-echoes",
+   "pin": 1,
+   "title": "Silvanesti",
+   "read": "The chamber replays what was done in it, and what was done in it includes a room full of people learning that Silvanesti had fallen.",
+   "players_know": [
+    "You are watching, not participating.",
+    "Mostly."
+   ]
+  },
+  {
+   "scene": "tower-chamber-of-echoes",
+   "pin": 2,
+   "title": "The Search",
+   "read": "The echoes can be moved through, if you can work out what the chamber is indexing them by. It is not time.",
+   "players_know": [
+    "Something in the room responds to being addressed."
+   ]
+  },
+  {
+   "scene": "tower-chamber-of-echoes",
+   "pin": 3,
+   "title": "Refusal",
+   "read": "One echo stops when you approach it, which none of the others do, and declines to continue while you are watching.",
+   "players_know": [
+    "Whatever it is, it does not want witnesses."
+   ]
+  },
+  {
+   "scene": "tower-chamber-of-echoes",
+   "pin": 4,
+   "title": "Red to Black",
+   "read": "You find the night a Red Robe became a Black one. It is not dramatic. It is a conversation, and the decision has clearly been made some time before.",
+   "players_know": [
+    "You recognise one of the two voices."
+   ]
+  },
+  {
+   "scene": "tower-chamber-of-echoes",
+   "pin": 5,
+   "title": "The Garden",
+   "read": "The last echo is outdoors, which is impossible, and something happens in it that the Tower has been keeping rather than filing.",
+   "players_know": [
+    "This one has been watched before. Recently, and often."
+   ]
+  },
+  {
+   "scene": "tower-rannoch-sanctum",
+   "pin": 1,
+   "title": "The Accusation",
+   "read": "The room is occupied. He does not pretend otherwise and does not appear concerned, and the first thing he does is tell you what you have come to accuse him of.",
+   "players_know": [
+    "He is correct about the accusation."
+   ]
+  },
+  {
+   "scene": "tower-rannoch-sanctum",
+   "pin": 2,
+   "title": "His History",
+   "read": "He gives it straight: what he did to the Grove, why, and what he thought it would cost. He was wrong about the cost by a factor he still finds surprising.",
+   "players_know": [
+    "None of it is self-justifying. That makes it harder to dismiss."
+   ]
+  },
+  {
+   "scene": "tower-rannoch-sanctum",
+   "pin": 3,
+   "title": "The Choice",
+   "read": "He offers something you need, at a price he states plainly, and he does not argue when you hesitate.",
+   "players_know": [
+    "He will not negotiate. He will wait."
+   ]
+  },
+  {
+   "scene": "tower-rannoch-sanctum",
+   "pin": 4,
+   "title": "The Curse Key",
+   "read": "What he has is the key to his own curse — not to remove it, but to be exempt from it. There is exactly one.",
+   "players_know": [
+    "It works on one person at a time."
+   ]
+  },
+  {
+   "scene": "tower-fistandantilus-lab",
+   "pin": 1,
+   "title": "Impossible Documents",
+   "read": "The laboratory has been used recently. The notes on the bench are dated this year, in a hand that has been dead for three centuries.",
+   "players_know": [
+    "The ink has not fully cured."
+   ]
+  },
+  {
+   "scene": "tower-fistandantilus-lab",
+   "pin": 2,
+   "title": "The Handwriting",
+   "read": "Compare it against the archive samples and it matches — not approximately. Letter formation, pressure, the particular way he abbreviates.",
+   "players_know": [
+    "Either it is him, or somebody has learned to be him."
+   ]
+  },
+  {
+   "scene": "tower-fistandantilus-lab",
+   "pin": 3,
+   "title": "The Prepared Trail",
+   "read": "The material here is arranged. Not hidden, not scattered — arranged, in the order somebody would want it found in.",
+   "players_know": [
+    "You are being walked through something."
+   ]
+  },
+  {
+   "scene": "tower-fistandantilus-lab",
+   "pin": 4,
+   "title": "What Is Missing",
+   "read": "One sequence has been removed, and the removal is as careful as the arrangement. Whoever laid this trail did not want you to have that part yet.",
+   "players_know": [
+    "The gap is the shape of a method."
+   ]
+  },
+  {
+   "scene": "tower-observatory",
+   "pin": 1,
+   "title": "The First Future",
+   "read": "The observatory does not predict. It files. The first drawer it opens for you shows a Krynn where the war was lost quickly, and it is not the worst of them.",
+   "players_know": [
+    "None of this is presented as a warning."
+   ]
+  },
+  {
+   "scene": "tower-observatory",
+   "pin": 2,
+   "title": "The Second",
+   "read": "A future where the war is won and the winning costs more than the war did.",
+   "players_know": [
+    "Several of you are in this one."
+   ]
+  },
+  {
+   "scene": "tower-observatory",
+   "pin": 3,
+   "title": "The Third",
+   "read": "A future with no gods in it. Everything else continues, which is the disturbing part.",
+   "players_know": [
+    "Magic still works. It is simply nobody's."
+   ]
+  },
+  {
+   "scene": "tower-observatory",
+   "pin": 4,
+   "title": "The Fourth",
+   "read": "A future where the Portal was opened and closed again, cleanly, by someone who then declined to explain why.",
+   "players_know": [
+    "The Tower has filed this one twice."
+   ]
+  },
+  {
+   "scene": "tower-observatory",
+   "pin": 5,
+   "title": "The Fifth",
+   "read": "A future in which one of you is not a member of this party.",
+   "players_know": [
+    "The circumstances are not shown."
+   ]
+  },
+  {
+   "scene": "tower-observatory",
+   "pin": 6,
+   "title": "The Sixth",
+   "read": "The last drawer will not open, and the Tower offers no explanation for that either.",
+   "players_know": [
+    "It is not locked. It simply does not open."
+   ]
+  },
+  {
+   "scene": "tower-necromantic-vault",
+   "pin": 1,
+   "title": "The Living Dead",
+   "read": "They are working. Not shambling, not attacking — working, at tasks, with the economy of people who have done this a very long time.",
+   "players_know": [
+    "They do not react to you at all."
+   ]
+  },
+  {
+   "scene": "tower-necromantic-vault",
+   "pin": 2,
+   "title": "The Command Reflex",
+   "read": "One of them responds to a command nobody in your party gave, and then goes back to what it was doing.",
+   "players_know": [
+    "The command came from somewhere. Not from here."
+   ]
+  },
+  {
+   "scene": "tower-necromantic-vault",
+   "pin": 3,
+   "title": "The Ethical Problem",
+   "read": "They can be released. Releasing them ends work that is holding something together, and the something is not identified anywhere in the room.",
+   "players_know": [
+    "Both options are defensible. Neither is clean."
+   ]
+  },
+  {
+   "scene": "tower-necromantic-vault",
+   "pin": 4,
+   "title": "Technical Proof",
+   "read": "Whatever else this room is, it proves the method works. Not resurrection — persistence, which is a different and nastier thing.",
+   "players_know": [
+    "This is the proof Raistlin asked for. It is not the proof he wanted."
+   ]
+  },
+  {
+   "scene": "tower-lower-seals",
+   "pin": 1,
+   "title": "The Breach Map",
+   "read": "The lower seals are mapped on the wall, and three of them are marked in a colour the legend does not explain.",
+   "players_know": [
+    "Two of the three are recent."
+   ]
+  },
+  {
+   "scene": "tower-lower-seals",
+   "pin": 2,
+   "title": "The Objective",
+   "read": "Something has been working at these seals from the far side, methodically, for a long time, and it is not working at them at random.",
+   "players_know": [
+    "It is going for one specific seal. The others were practice."
+   ]
+  },
+  {
+   "scene": "tower-lower-seals",
+   "pin": 3,
+   "title": "The Guardians",
+   "read": "What the Tower put down here to hold the seals is still holding them, and it has not been relieved in three hundred years.",
+   "players_know": [
+    "It cannot tell the difference between you and the problem."
+   ]
+  },
+  {
+   "scene": "tower-lower-seals",
+   "pin": 4,
+   "title": "Veyrath",
+   "read": "He is down here. He got in another way, he is not surprised to see you, and for the first time he is not entirely in control of the situation.",
+   "players_know": [
+    "Whatever he came for, it is behind the seal."
+   ]
+  },
+  {
+   "scene": "tower-master-arrives",
+   "pin": 1,
+   "title": "The Walk",
+   "read": "The Grove parts. Not reluctantly, not with the grudging pressure it gave you — it opens, and a figure in black walks through at an unhurried pace without once looking at the trees.",
+   "players_know": [
+    "He is alone.",
+    "Nothing in the Grove touches him."
+   ]
+  },
+  {
+   "scene": "tower-master-arrives",
+   "pin": 2,
+   "title": "The Gate",
+   "read": "The Tower's door opens before he reaches it.",
+   "players_know": [
+    "Nobody opened it."
+   ]
+  },
+  {
+   "scene": "tower-master-arrives",
+   "pin": 3,
+   "title": "The Hall of Three Moons",
+   "read": "He crosses to the centre of the hall, stands in the third disc — the one that is an absence — and the light behaves as though he belongs in it.",
+   "players_know": [
+    "He has not acknowledged you yet. He knows exactly where you are standing."
+   ]
+  },
+  {
+   "scene": "tower-master-arrives",
+   "pin": 4,
+   "title": "The Name",
+   "read": "He says a name aloud, and the Tower does something in response that none of you can describe afterwards in the same words.",
+   "players_know": [
+    "It is not his own name."
+   ]
+  },
+  {
+   "scene": "tower-master-arrives",
+   "pin": 5,
+   "title": "The Portal",
+   "read": "At the far end of the hall, the thing you were told did not exist here is standing open by a hand's breadth.",
+   "players_know": [
+    "It was not open when you came in."
+   ]
+  },
+  {
+   "scene": "tower-master-arrives",
+   "pin": 6,
+   "title": "The Next Errand",
+   "read": "He turns, finally, and gives you the next piece of work as though the last several weeks had been a formality.",
+   "players_know": [
+    "He does not ask whether you will do it."
+   ]
+  },
+  {
+   "scene": "palanthas-three-expeditions",
+   "pin": 1,
+   "title": "Three Empty Spaces",
+   "read": "Three plinths in the Master's workroom, each labelled, each empty. Memory. Time. Name. He has had them made before he has any of the three.",
+   "players_know": [
+    "He will not open the Portal without all of them.",
+    "He will not say what happens when he has them."
+   ]
+  },
+  {
+   "scene": "palanthas-three-expeditions",
+   "pin": 2,
+   "title": "Why He Will Not Go",
+   "read": "Asked directly why he does not fetch them himself, he gives a reason that is true, checkable, and not the whole reason.",
+   "players_know": [
+    "The reason he gives is about the Portal, not about him."
+   ]
+  },
+  {
+   "scene": "palanthas-three-expeditions",
+   "pin": 3,
+   "title": "Choosing the Order",
+   "read": "Silvanesti, Zhaman and Istar. The order is yours. Each one gets harder the longer it waits, for different reasons.",
+   "players_know": [
+    "The war does not pause for any of them."
+   ]
+  },
+  {
+   "scene": "palanthas-three-expeditions",
+   "pin": 4,
+   "title": "The War Briefing",
+   "read": "While you have been underground, the front has moved. The briefing is short and nothing in it is good.",
+   "players_know": [
+    "Travel will be harder than it was in Arc II.",
+    "Some roads you used are gone."
+   ]
+  },
+  {
+   "scene": "silvanesti-approach",
+   "pin": 1,
+   "title": "The Crossing",
+   "read": "The regional border is a river and a burnt bridge, and the crossing is being managed by people with no authority to manage it and nobody else offering.",
+   "players_know": [
+    "They are doing their best. It is not enough."
+   ]
+  },
+  {
+   "scene": "silvanesti-approach",
+   "pin": 2,
+   "title": "The Refugee Camp",
+   "read": "Elves, mostly, two months out of Silvanesti, and not one of them will describe what they left. Not evasion — they genuinely cannot find the words and have stopped trying.",
+   "players_know": [
+    "Several of them will not sleep.",
+    "The children are the ones who talk."
+   ]
+  },
+  {
+   "scene": "silvanesti-approach",
+   "pin": 3,
+   "title": "The Guide",
+   "read": "One of them will take you in. She is not brave about it and she is not pretending to be.",
+   "players_know": [
+    "She has been back once already."
+   ]
+  },
+  {
+   "scene": "silvanesti-approach",
+   "pin": 4,
+   "title": "The First Scar",
+   "read": "The border of the thing is visible from a mile off: a line across the country where the colour of the world changes and does not change back.",
+   "players_know": [
+    "Nothing enforces the line. You simply know when you have crossed it."
+   ]
+  },
+  {
+   "scene": "silvanesti-nightmare",
+   "pin": 1,
+   "title": "The Ruined Village",
+   "read": "An elven settlement, intact and wrong. The buildings are whole. The damage is to something else, and it is still happening slowly.",
+   "players_know": [
+    "There are no bodies, and there should be."
+   ]
+  },
+  {
+   "scene": "silvanesti-nightmare",
+   "pin": 2,
+   "title": "Caramon's Wake",
+   "read": "Somewhere in this forest a man died, and the forest kept the fact rather than the body. You can feel the direction of it the way you feel a draught.",
+   "players_know": [
+    "It is not a trail. It is a pull."
+   ]
+  },
+  {
+   "scene": "silvanesti-nightmare",
+   "pin": 3,
+   "title": "The Survivor",
+   "read": "A woman lives here, in the same hour, over and over. She is pleasant, lucid, and has had this conversation with you several times already.",
+   "players_know": [
+    "She remembers you. You have not met her."
+   ]
+  },
+  {
+   "scene": "silvanesti-nightmare",
+   "pin": 4,
+   "title": "The Pulse",
+   "read": "Something deep in the forest beats — not a sound, a pressure — at intervals of about four minutes, and everything in the wood flinches with it.",
+   "players_know": [
+    "It is getting closer together."
+   ]
+  },
+  {
+   "scene": "silvanesti-dream-palace",
+   "pin": 1,
+   "title": "Palace Entry",
+   "read": "The architecture starts before the building does: floor without walls, then walls without a roof, then a hall that is complete and should not be.",
+   "players_know": [
+    "This was a king's dream and it has been running unattended."
+   ]
+  },
+  {
+   "scene": "silvanesti-dream-palace",
+   "pin": 2,
+   "title": "The Lorac Remnant",
+   "read": "What is left of the dreamer is here, and it is not a ghost. It is the part of him the dream is still using.",
+   "players_know": [
+    "It will answer. It will not stop talking."
+   ]
+  },
+  {
+   "scene": "silvanesti-dream-palace",
+   "pin": 3,
+   "title": "Caramon's Last Path",
+   "read": "You find where he walked. The dream kept his route the way wet ground keeps a footprint, and it goes inward.",
+   "players_know": [
+    "He was not running."
+   ]
+  },
+  {
+   "scene": "silvanesti-dream-palace",
+   "pin": 4,
+   "title": "The Death",
+   "read": "The dream shows you how Caramon Majere died. It does not dramatise it and it does not let you intervene.",
+   "players_know": [
+    "It is not what Raistlin has been told.",
+    "It is not what anyone has been told."
+   ]
+  },
+  {
+   "scene": "silvanesti-heart",
+   "pin": 1,
+   "title": "False Futures",
+   "read": "The guardian does not attack. It shows you futures — convincing ones, built out of what it has read in you — and waits to see which one you reach for.",
+   "players_know": [
+    "None of them are real. All of them are accurate."
+   ]
+  },
+  {
+   "scene": "silvanesti-heart",
+   "pin": 2,
+   "title": "Break the Rehearsal",
+   "read": "It has been practising this on other people for decades, and the practice shows: it is very good and it is also predictable, once you notice it is a routine.",
+   "players_know": [
+    "The routine has a seam."
+   ]
+  },
+  {
+   "scene": "silvanesti-heart",
+   "pin": 3,
+   "title": "The Heart Chamber",
+   "read": "The Heart of Memory is a physical object, smaller than expected, and warm.",
+   "players_know": [
+    "Taking it will be noticed."
+   ]
+  },
+  {
+   "scene": "silvanesti-heart",
+   "pin": 4,
+   "title": "Caramon's Signal",
+   "read": "The moment you have it, something that is recognisably Caramon reaches back — once, briefly, from a long way off.",
+   "players_know": [
+    "He is somewhere. He is not here."
+   ]
+  },
+  {
+   "scene": "plains-of-death",
+   "pin": 1,
+   "title": "Route Planning",
+   "read": "From the edge of the plain you can see most of a day's travel at once, which is both the advantage and the problem.",
+   "players_know": [
+    "Two routes. One is faster and crosses the old battlefield."
+   ]
+  },
+  {
+   "scene": "plains-of-death",
+   "pin": 2,
+   "title": "Pax Tharkas",
+   "read": "The fortress stands to the west, holding the pass it has always held, under somebody else's flag now.",
+   "players_know": [
+    "You have history here, or your people do."
+   ]
+  },
+  {
+   "scene": "plains-of-death",
+   "pin": 3,
+   "title": "The Plains of Death",
+   "read": "The ground is wrong underfoot for a long stretch, and there is a reason it has a name. Nothing grows and nothing has been cleared.",
+   "players_know": [
+    "It has been like this since the Dwarfgate War."
+   ]
+  },
+  {
+   "scene": "plains-of-death",
+   "pin": 4,
+   "title": "Skullcap",
+   "read": "What is left of Zhaman is on the horizon, and from this distance the resemblance that gave it the name is unmistakable.",
+   "players_know": [
+    "Half a day. Less if you push."
+   ]
+  },
+  {
+   "scene": "zhaman-crystal-maze",
+   "pin": 1,
+   "title": "The Changing Route",
+   "read": "The passages are crystal, and the route you came in by is not behind you any more. Nothing moved. It is simply a different hour in that corridor.",
+   "players_know": [
+    "Mapping works. Mapping does not help."
+   ]
+  },
+  {
+   "scene": "zhaman-crystal-maze",
+   "pin": 2,
+   "title": "The War Laboratories",
+   "read": "Rooms off the maze where the Dwarfgate War was being worked on as a technical problem.",
+   "players_know": [
+    "Most of it was never used.",
+    "Some of it clearly was."
+   ]
+  },
+  {
+   "scene": "zhaman-crystal-maze",
+   "pin": 3,
+   "title": "Future Selves",
+   "read": "You meet yourselves coming the other way. Older, or not. They are as surprised as you are, which rules out a trick.",
+   "players_know": [
+    "Speaking to them changes something. Nobody can say what."
+   ]
+  },
+  {
+   "scene": "zhaman-crystal-maze",
+   "pin": 4,
+   "title": "The Portal Route",
+   "read": "One corridor runs consistently, hour to hour, regardless. It is the only stable thing in here and it goes down.",
+   "players_know": [
+    "Stable is not the same as safe."
+   ]
+  },
+  {
+   "scene": "zhaman-unbroken-hour",
+   "pin": 1,
+   "title": "The Loop",
+   "read": "You recognise where you are, and then you recognise when. This hour has been running here, sealed, since before the Cataclysm.",
+   "players_know": [
+    "Everything in it is on its ten-thousandth repetition."
+   ]
+  },
+  {
+   "scene": "zhaman-unbroken-hour",
+   "pin": 2,
+   "title": "The Experiment",
+   "read": "The apparatus is still assembled. Notes, in that same hand, describe exactly what is being held and what it is being held with.",
+   "players_know": [
+    "It is working. That is the problem."
+   ]
+  },
+  {
+   "scene": "zhaman-unbroken-hour",
+   "pin": 3,
+   "title": "The Cost",
+   "read": "The method takes its cost from somewhere, and the notes are frank about where. They are also frank that it was considered acceptable.",
+   "players_know": [
+    "Reading this tells you what the Long Return will want."
+   ]
+  },
+  {
+   "scene": "zhaman-unbroken-hour",
+   "pin": 4,
+   "title": "Break the Hour",
+   "read": "It can be ended. Ending it releases whatever has been paying for it since before Krynn broke.",
+   "players_know": [
+    "The component you came for is inside the loop."
+   ]
+  },
+  {
+   "scene": "skullcap-future-servant",
+   "pin": 1,
+   "title": "Conversation First",
+   "read": "He is waiting in the open with his hands visible, and the first thing he does is ask how far along you are, which means he already knows.",
+   "players_know": [
+    "He is one of you, thirty years on.",
+    "He is not hostile and has not been for a long time."
+   ]
+  },
+  {
+   "scene": "skullcap-future-servant",
+   "pin": 2,
+   "title": "The Temptation",
+   "read": "What he offers is specific to the person he used to be, which is one of you, and he makes it without any pressure at all.",
+   "players_know": [
+    "He is not lying about what it would cost."
+   ]
+  },
+  {
+   "scene": "skullcap-future-servant",
+   "pin": 3,
+   "title": "Conflict or Release",
+   "read": "He will fight if it comes to that, and he would rather not, and he says both.",
+   "players_know": [
+    "There is a third option and he mentions it once."
+   ]
+  },
+  {
+   "scene": "skullcap-future-servant",
+   "pin": 4,
+   "title": "The Chronicle",
+   "read": "The Chronicle of the Unbroken Hour is the second component, and he has had it for a long time.",
+   "players_know": [
+    "He hands it over, or he does not. Either way he explains why."
+   ]
+  },
+  {
+   "scene": "blood-sea-passage",
+   "pin": 1,
+   "title": "Finding Passage",
+   "read": "Three captains will take you out over the Maelstrom's edge. Two want money and one wants something else, and the one who wants something else has the better ship.",
+   "players_know": [
+    "Nobody sails this for the fare alone."
+   ]
+  },
+  {
+   "scene": "blood-sea-passage",
+   "pin": 2,
+   "title": "The Rival Wreck",
+   "read": "Somebody is already on the site, anchored, working, and they have been there a fortnight.",
+   "players_know": [
+    "They are salvagers. They are also armed properly."
+   ]
+  },
+  {
+   "scene": "blood-sea-passage",
+   "pin": 3,
+   "title": "The Sea",
+   "read": "The Blood Sea is not a figure of speech and the water does not behave. The crew have rules about it and they are not superstitions.",
+   "players_know": [
+    "Follow the rules. The crew will not explain them twice."
+   ]
+  },
+  {
+   "scene": "blood-sea-passage",
+   "pin": 4,
+   "title": "The Descent",
+   "read": "Istar is under you. Far under, and still lit.",
+   "players_know": [
+    "Going down is the easy half."
+   ]
+  },
+  {
+   "scene": "istar-chamber-of-eyes",
+   "pin": 1,
+   "title": "Restoring the Chamber",
+   "read": "The divination chamber is intact and dead. Restarting it takes work and the work is documented on the walls, by people who expected to be back.",
+   "players_know": [
+    "It has not run since the Cataclysm."
+   ]
+  },
+  {
+   "scene": "istar-chamber-of-eyes",
+   "pin": 2,
+   "title": "Three Visions",
+   "read": "It gives you three. It does not label them, and two of them are about something you did not ask.",
+   "players_know": [
+    "One shows where the Bell is."
+   ]
+  },
+  {
+   "scene": "istar-chamber-of-eyes",
+   "pin": 3,
+   "title": "True Names",
+   "read": "The chamber makes a distinction it considers obvious: knowing a true name and holding one are not the same, and the second is what the Bell does.",
+   "players_know": [
+    "This is the difference the whole third component rests on."
+   ]
+  },
+  {
+   "scene": "istar-chamber-of-eyes",
+   "pin": 4,
+   "title": "Locating the Bell",
+   "read": "It is deeper, in a temple that went down with the city and has not finished going down.",
+   "players_know": [
+    "The route is passable. It will not be for long."
+   ]
+  },
+  {
+   "scene": "istar-drowned-temple",
+   "pin": 1,
+   "title": "Temple History",
+   "read": "The temple's own records are legible, because the water here does not spoil things the way water should.",
+   "players_know": [
+    "This is where the Kingpriest's people practised soul-calling.",
+    "They were good at it."
+   ]
+  },
+  {
+   "scene": "istar-drowned-temple",
+   "pin": 2,
+   "title": "The Test Call",
+   "read": "The mechanism still works and it will demonstrate on anyone who stands in the circle. It calls, and something comes, and then it asks you a question.",
+   "players_know": [
+    "The question is whether you want it to stay."
+   ]
+  },
+  {
+   "scene": "istar-drowned-temple",
+   "pin": 3,
+   "title": "The Dominion Alternative",
+   "read": "There is a second setting. It does not ask.",
+   "players_know": [
+    "It is clearly marked and it was clearly used."
+   ]
+  },
+  {
+   "scene": "istar-drowned-temple",
+   "pin": 4,
+   "title": "The Vault Trial",
+   "read": "The vault opens for somebody who used the first setting and refused the second. Not for somebody who did not try.",
+   "players_know": [
+    "Refusing is the pass. Not attempting is not."
+   ]
+  },
+  {
+   "scene": "istar-bell",
+   "pin": 1,
+   "title": "Claiming the Bell",
+   "read": "It is smaller than a helm and heavier than it should be, and it does not ring. When you lift it, every name you know arrives at once and then settles.",
+   "players_know": [
+    "You are holding the third component."
+   ]
+  },
+  {
+   "scene": "istar-bell",
+   "pin": 2,
+   "title": "Escaping Istar",
+   "read": "The city objects. Not the salvagers, not the sea — the city, which has held this for three centuries and has opinions.",
+   "players_know": [
+    "The way you came is closing behind you."
+   ]
+  },
+  {
+   "scene": "istar-bell",
+   "pin": 3,
+   "title": "The Return",
+   "read": "Palanthas, by sea and road, with three components and a war that has moved again while you were under water.",
+   "players_know": [
+    "It has been months."
+   ]
+  },
+  {
+   "scene": "istar-bell",
+   "pin": 4,
+   "title": "Telling Raistlin",
+   "read": "You put all three in front of him, and you tell him what the Long Return will cost, because you read it at Zhaman and he has not.",
+   "players_know": [
+    "He listens to the whole thing without interrupting."
+   ]
+  },
+  {
+   "scene": "istar-bell",
+   "pin": 5,
+   "title": "His Response",
+   "read": "What he says next is the first unguarded thing any of you have heard from him.",
+   "players_know": [
+    "It does not answer the question you asked."
+   ]
+  },
+  {
+   "scene": "palanthas-portal-chamber",
+   "pin": 1,
+   "title": "The Safety Circle",
+   "read": "Everything the party insisted on is drawn on the floor: containment, a cut-off, and a mark each of you can stand on and be accounted for.",
+   "players_know": [
+    "He agreed to all of it without argument, which worried everyone."
+   ]
+  },
+  {
+   "scene": "palanthas-portal-chamber",
+   "pin": 2,
+   "title": "Contact",
+   "read": "The Portal opens by a hand's breadth and something on the other side notices immediately. It does not come through. It speaks.",
+   "players_know": [
+    "It is willing to negotiate, which nobody expected."
+   ]
+  },
+  {
+   "scene": "palanthas-portal-chamber",
+   "pin": 3,
+   "title": "Terms",
+   "read": "The terms are discussed like a contract because that is what they are, and the thing on the other side is better at contracts than anyone in the room.",
+   "players_know": [
+    "Every clause you add, it accepts. Watch which ones it accepts quickly."
+   ]
+  },
+  {
+   "scene": "palanthas-portal-chamber",
+   "pin": 4,
+   "title": "First Passage",
+   "read": "The first of the Black Host comes through, stands inside the circle, and waits to be told what to do.",
+   "players_know": [
+    "It is bound. The binding is only as good as the wording."
+   ]
+  },
+  {
+   "scene": "palanthas-black-saviour",
+   "pin": 1,
+   "title": "The War Turns",
+   "read": "Three engagements in a fortnight, all of them won, none of them won conventionally. The maps in the Council chamber have been redrawn twice.",
+   "players_know": [
+    "Nobody is pretending they do not know why."
+   ]
+  },
+  {
+   "scene": "palanthas-black-saviour",
+   "pin": 2,
+   "title": "Public Reputation",
+   "read": "The city has decided how it feels about a Black Robe saving it, and the decision is not unanimous and is being argued in the street.",
+   "players_know": [
+    "Some of them are grateful. That is the part that unsettles people."
+   ]
+  },
+  {
+   "scene": "palanthas-black-saviour",
+   "pin": 3,
+   "title": "The Loophole",
+   "read": "The contract has a gap. It was always there. Somebody on the other side has just finished reading carefully.",
+   "players_know": [
+    "It is not a breach. That is what makes it a problem."
+   ]
+  },
+  {
+   "scene": "palanthas-black-saviour",
+   "pin": 4,
+   "title": "Repairing It",
+   "read": "The gap can be closed and closing it costs something — concessions, scope, or someone standing surety.",
+   "players_know": [
+    "Whoever stands surety is personally named in the wording."
+   ]
+  },
+  {
+   "scene": "palanthas-first-returned",
+   "pin": 1,
+   "title": "Consent Before Death",
+   "read": "A volunteer. Dying, lucid, and asked properly in front of witnesses, with everything that is unknown about it stated out loud.",
+   "players_know": [
+    "His name is Dain. He understands what he is agreeing to."
+   ]
+  },
+  {
+   "scene": "palanthas-first-returned",
+   "pin": 2,
+   "title": "The Ritual",
+   "read": "Memory, Time and Name, in that order, with the Portal held at a crack rather than open.",
+   "players_know": [
+    "It takes eleven minutes. It is not dramatic."
+   ]
+  },
+  {
+   "scene": "palanthas-first-returned",
+   "pin": 3,
+   "title": "Verification",
+   "read": "He is himself. Every test anyone can devise says so, and the tests were devised by people hoping to find a flaw.",
+   "players_know": [
+    "He remembers dying. He is calm about it."
+   ]
+  },
+  {
+   "scene": "palanthas-first-returned",
+   "pin": 4,
+   "title": "The Command",
+   "read": "Somebody in the room says something in an ordinary tone and Dain does it, immediately, and then looks confused about having done it.",
+   "players_know": [
+    "Nobody was giving an order."
+   ]
+  },
+  {
+   "scene": "palanthas-first-returned",
+   "pin": 5,
+   "title": "Dain's Choice",
+   "read": "Told what has just happened, he is given the option to end it. He is the only person who gets a vote.",
+   "players_know": [
+    "He asks for a day. He is allowed one."
+   ]
+  },
+  {
+   "scene": "palanthas-the-returned",
+   "pin": 1,
+   "title": "Interviews",
+   "read": "There are nine of them now. They have families, debts, and in two cases jobs that were filled while they were dead.",
+   "players_know": [
+    "None of them want to be a demonstration."
+   ]
+  },
+  {
+   "scene": "palanthas-the-returned",
+   "pin": 2,
+   "title": "The Civil Question",
+   "read": "The Council needs to decide whether a returned person is the same person in law. Inheritance, marriage, oaths of service.",
+   "players_know": [
+    "There is no precedent. They will make one this week."
+   ]
+  },
+  {
+   "scene": "palanthas-the-returned",
+   "pin": 3,
+   "title": "The Accident",
+   "read": "Somebody uses an ordinary phrase in an ordinary conversation and a Returned acts on it in public.",
+   "players_know": [
+    "Nobody is hurt. Everybody saw."
+   ]
+  },
+  {
+   "scene": "palanthas-the-returned",
+   "pin": 4,
+   "title": "The Attack",
+   "read": "A crowd finds one of them alone. It is not organised and that makes it worse.",
+   "players_know": [
+    "The Returned does not defend itself until told to."
+   ]
+  },
+  {
+   "scene": "wayreth-forest-assault",
+   "pin": 1,
+   "title": "Multiple Contacts",
+   "read": "They are coming at the forest from four directions at once, which is the correct way to attack a place that moves its own paths.",
+   "players_know": [
+    "Somebody has studied Wayreth properly."
+   ]
+  },
+  {
+   "scene": "wayreth-forest-assault",
+   "pin": 2,
+   "title": "Moving Paths",
+   "read": "The forest does what it does: routes close, distances change, and a company that entered together comes out in three places.",
+   "players_know": [
+    "It is working. It is not working fast enough."
+   ]
+  },
+  {
+   "scene": "wayreth-forest-assault",
+   "pin": 3,
+   "title": "Animated Trees",
+   "read": "Wayreth stops being passive. What it does is not subtle and it is not merciful.",
+   "players_know": [
+    "This is the first time any of you have seen it defend itself."
+   ]
+  },
+  {
+   "scene": "wayreth-forest-assault",
+   "pin": 4,
+   "title": "Their Method",
+   "read": "They are not trying to find the Tower. They are trying to make the forest spend itself, and it is spending.",
+   "players_know": [
+    "The forest can run out. Nobody knew that."
+   ]
+  },
+  {
+   "scene": "wayreth-tower-survival",
+   "pin": 1,
+   "title": "The Proposal",
+   "read": "There is a way to save the Tower. It is put to the hall plainly, with the arithmetic, and the arithmetic includes people standing in the room.",
+   "players_know": [
+    "It would work."
+   ]
+  },
+  {
+   "scene": "wayreth-tower-survival",
+   "pin": 2,
+   "title": "Alternatives",
+   "read": "Three other plans are offered. Two are worse. One might not be, and it depends on something nobody can promise.",
+   "players_know": [
+    "The third needs the party to do something specific."
+   ]
+  },
+  {
+   "scene": "wayreth-tower-survival",
+   "pin": 3,
+   "title": "Raistlin's Position",
+   "read": "He states it without decoration: the Tower survives, and what that costs is a secondary question he is willing to have later.",
+   "players_know": [
+    "He is not being cruel. He is being consistent."
+   ]
+  },
+  {
+   "scene": "wayreth-tower-survival",
+   "pin": 4,
+   "title": "Counterstrike",
+   "read": "Whatever is decided has to be decided now, because the assault has stopped waiting.",
+   "players_know": [
+    "Both towers are in play from this point on."
+   ]
+  },
+  {
+   "scene": "high-clerist-return",
+   "pin": 1,
+   "title": "Arrival",
+   "read": "You have stood on this ground before, in the dark, watching somebody else's raid. It is daylight and it is full of soldiers and it is the same gate.",
+   "players_know": [
+    "The hinges have been fixed."
+   ]
+  },
+  {
+   "scene": "high-clerist-return",
+   "pin": 2,
+   "title": "The Briefing",
+   "read": "They brief you as principals rather than as travellers, which is new, and they want answers rather than reports.",
+   "players_know": [
+    "You have actual authority here now."
+   ]
+  },
+  {
+   "scene": "high-clerist-return",
+   "pin": 3,
+   "title": "The Conventional Option",
+   "read": "The Knights have a plan that does not involve the Black Host. It is sound, it is expensive, and they know exactly how expensive.",
+   "players_know": [
+    "Roughly two thousand, by their own estimate."
+   ]
+  },
+  {
+   "scene": "high-clerist-return",
+   "pin": 4,
+   "title": "Raistlin's Offer",
+   "read": "The other plan costs almost nobody and requires releasing something into a battlefield full of people on your own side.",
+   "players_know": [
+    "He makes the offer once and does not repeat it."
+   ]
+  },
+  {
+   "scene": "high-clerist-black-host",
+   "pin": 1,
+   "title": "First Assault",
+   "read": "They come at the wall at first light with everything, and the wall holds for about forty minutes.",
+   "players_know": [
+    "This is the part the conventional plan accounted for."
+   ]
+  },
+  {
+   "scene": "high-clerist-black-host",
+   "pin": 2,
+   "title": "Release, or Not",
+   "read": "The decision point arrives earlier than anyone modelled, and it arrives while the line is still intact, which makes it harder rather than easier.",
+   "players_know": [
+    "Waiting costs lives. Releasing might cost more."
+   ]
+  },
+  {
+   "scene": "high-clerist-black-host",
+   "pin": 3,
+   "title": "The Loophole Test",
+   "read": "If the Host is released, the gap in the contract gets tested in front of several thousand witnesses.",
+   "players_know": [
+    "Whatever the safeguards were worth, you find out now."
+   ]
+  },
+  {
+   "scene": "high-clerist-black-host",
+   "pin": 4,
+   "title": "In Motion",
+   "read": "The battle does not pause for the argument. Both halves of it keep running.",
+   "players_know": [
+    "Every round spent deciding is a round the line is holding without you."
+   ]
+  },
+  {
+   "scene": "high-clerist-black-host",
+   "pin": 5,
+   "title": "Victory, or Retreat",
+   "read": "It ends. How it ends is going to be described very differently by the Knights, by the city, and by the Conclave.",
+   "players_know": [
+    "All three descriptions will be accurate."
+   ]
+  },
+  {
+   "scene": "palanthas-blue-lady",
+   "pin": 1,
+   "title": "The Demand",
+   "read": "Kitiara uth Matar sends terms to Palanthas, in her own hand, naming one person and offering to leave the city alone.",
+   "players_know": [
+    "The person named is not a surprise."
+   ]
+  },
+  {
+   "scene": "palanthas-blue-lady",
+   "pin": 2,
+   "title": "The Council Crisis",
+   "read": "The Lord's Council has to decide whether a city is worth one man, and they are discussing it with the windows open.",
+   "players_know": [
+    "It is closer than it should be."
+   ]
+  },
+  {
+   "scene": "palanthas-blue-lady",
+   "pin": 3,
+   "title": "Raistlin and Kitiara",
+   "read": "They talk. It is a conversation between a brother and a sister and it is also a negotiation between two commanders, and neither of them drops either register.",
+   "players_know": [
+    "Nobody else in the room is addressed at all."
+   ]
+  },
+  {
+   "scene": "palanthas-blue-lady",
+   "pin": 4,
+   "title": "The Sign",
+   "read": "Something arrives with her army that the Knights' scouts will not describe in writing.",
+   "players_know": [
+    "They will say the name once, quietly, and not again."
+   ]
+  },
+  {
+   "scene": "palanthas-soth",
+   "pin": 1,
+   "title": "City Objectives",
+   "read": "Four places in Palanthas matter tonight and you cannot be at all of them. The Council, the harbour, the Library, and the Tower.",
+   "players_know": [
+    "Pick two. Properly."
+   ]
+  },
+  {
+   "scene": "palanthas-soth",
+   "pin": 2,
+   "title": "Kitiara's Move",
+   "read": "She is not going for the obvious one, and by the time that is clear she is most of the way there.",
+   "players_know": [
+    "She has been in this city before."
+   ]
+  },
+  {
+   "scene": "palanthas-soth",
+   "pin": 3,
+   "title": "Soth at the Threshold",
+   "read": "He stops at a doorway he could walk through, and does not.",
+   "players_know": [
+    "Something about this threshold is a question to him rather than an obstacle."
+   ]
+  },
+  {
+   "scene": "palanthas-soth",
+   "pin": 4,
+   "title": "The Conversation",
+   "read": "He will talk. At length, about oaths, and about what it costs to keep one past the point where it still means anything.",
+   "players_know": [
+    "He is not stalling. He genuinely wants an answer."
+   ]
+  },
+  {
+   "scene": "palanthas-soth",
+   "pin": 5,
+   "title": "Counterstroke",
+   "read": "Whatever happens at the threshold, the rest of the assault does not stop, and something has to give at the other objective.",
+   "players_know": [
+    "You will not hold both."
+   ]
+  },
+  {
+   "scene": "palanthas-long-return",
+   "pin": 1,
+   "title": "Safeguards",
+   "read": "Every protection the party demanded is in place and documented, and the documentation is signed by people who will be held to it.",
+   "players_know": [
+    "This is the most carefully prepared thing anyone in this room has ever done."
+   ]
+  },
+  {
+   "scene": "palanthas-long-return",
+   "pin": 2,
+   "title": "Memory",
+   "read": "The Heart goes first. What it does is quiet and takes a long time, and partway through everyone realises it is working.",
+   "players_know": [
+    "The room smells like Silvanesti."
+   ]
+  },
+  {
+   "scene": "palanthas-long-return",
+   "pin": 3,
+   "title": "Time",
+   "read": "The Chronicle holds an hour open. Only one, and it is already running.",
+   "players_know": [
+    "From here it cannot be paused."
+   ]
+  },
+  {
+   "scene": "palanthas-long-return",
+   "pin": 4,
+   "title": "Name",
+   "read": "The Bell is struck, and it does not make a sound so much as make a space where a name should go.",
+   "players_know": [
+    "Everyone present hears their own name for a moment, and then does not."
+   ]
+  },
+  {
+   "scene": "palanthas-long-return",
+   "pin": 5,
+   "title": "The Refusal Window",
+   "read": "There is a gap — a few seconds, built in at the party's insistence — in which the soul being called can decline.",
+   "players_know": [
+    "He does not decline."
+   ]
+  },
+  {
+   "scene": "palanthas-give-me-the-sword",
+   "pin": 1,
+   "title": "Recognition",
+   "read": "He knows his brother immediately and he knows the rest of you by name, which nobody expected and nobody can explain.",
+   "players_know": [
+    "He is entirely himself."
+   ]
+  },
+  {
+   "scene": "palanthas-give-me-the-sword",
+   "pin": 2,
+   "title": "The Sword",
+   "read": "Caramon asks for his sword. He asks the way a man asks for his coat.",
+   "players_know": [
+    "It is in the room. Somebody has to decide to hand it over."
+   ]
+  },
+  {
+   "scene": "palanthas-give-me-the-sword",
+   "pin": 3,
+   "title": "Silence",
+   "read": "Somebody says something ordinary and Caramon stops in the middle of what he is doing, and the room understands at the same moment.",
+   "players_know": [
+    "The command channel is in him too."
+   ]
+  },
+  {
+   "scene": "palanthas-give-me-the-sword",
+   "pin": 4,
+   "title": "Caramon Speaks",
+   "read": "He works out what has just happened faster than anyone would like, and what he says about it is addressed to his brother.",
+   "players_know": [
+    "He is not angry. That is considerably worse."
+   ]
+  },
+  {
+   "scene": "palanthas-give-me-the-sword",
+   "pin": 5,
+   "title": "War News",
+   "read": "A runner arrives in the middle of it, because the war has not been waiting.",
+   "players_know": [
+    "Whatever this conversation was going to be, it is over now."
+   ]
+  },
+  {
+   "scene": "abyss-fistandantilus-speaks",
+   "pin": 1,
+   "title": "The Manifestation",
+   "read": "He does not arrive. He is simply present, in the middle of the chamber, and has clearly been able to do this for some time.",
+   "players_know": [
+    "Nothing warded against it, because nothing was designed to."
+   ]
+  },
+  {
+   "scene": "abyss-fistandantilus-speaks",
+   "pin": 2,
+   "title": "The Claim",
+   "read": "He states that the research trail — the dead wizard, the laboratory, the missing record, the prepared gaps — was laid by him, for you, and that you followed it exactly as intended.",
+   "players_know": [
+    "Check it against what you found. It holds."
+   ]
+  },
+  {
+   "scene": "abyss-fistandantilus-speaks",
+   "pin": 3,
+   "title": "Caramon Revealed",
+   "read": "He says that the soul they called did not come from where they thought, and that he intercepted it on the way.",
+   "players_know": [
+    "Caramon is in the room while this is said."
+   ]
+  },
+  {
+   "scene": "abyss-fistandantilus-speaks",
+   "pin": 4,
+   "title": "The Offer",
+   "read": "What he wants is specific, limited, and far more reasonable than anything you were braced for. That is the technique.",
+   "players_know": [
+    "He will not improve the offer. He says so."
+   ]
+  },
+  {
+   "scene": "abyss-fistandantilus-speaks",
+   "pin": 5,
+   "title": "Break",
+   "read": "He leaves when he chooses to, mid-sentence, and the chamber is exactly as it was.",
+   "players_know": [
+    "Nobody in the room can say how long he was there."
+   ]
+  },
+  {
+   "scene": "wayreth-archive-of-futures",
+   "pin": 1,
+   "title": "The Archive",
+   "read": "Wayreth keeps its reasons. They are not written anywhere a person could read; the Tower simply opens them to you, one at a time, because the White Robe asked.",
+   "players_know": [
+    "This has never been shown to anyone outside the Conclave."
+   ]
+  },
+  {
+   "scene": "wayreth-archive-of-futures",
+   "pin": 2,
+   "title": "Raistlin Recurs",
+   "read": "In almost every future the Tower modelled, he is there. Not winning — present, at the point where the outcome turns.",
+   "players_know": [
+    "That is why it chose him. Not because he is good."
+   ]
+  },
+  {
+   "scene": "wayreth-archive-of-futures",
+   "pin": 3,
+   "title": "The Blind Spot",
+   "read": "There is a region of the Archive that is simply absent, and the Tower does not experience it as missing.",
+   "players_know": [
+    "Everything that has gone wrong is inside the gap."
+   ]
+  },
+  {
+   "scene": "wayreth-archive-of-futures",
+   "pin": 4,
+   "title": "The White Robe's Question",
+   "read": "She asks the Tower something nobody has thought to ask it, and the answer takes a long time to arrive.",
+   "players_know": [
+    "It is the first time the Tower has hesitated."
+   ]
+  },
+  {
+   "scene": "wayreth-archive-of-futures",
+   "pin": 5,
+   "title": "The Accord",
+   "read": "What the Tower understands by survival can be changed. Not overruled — changed, by agreement, and the agreement has to be unanimous.",
+   "players_know": [
+    "You are party to it. So is he."
+   ]
+  },
+  {
+   "scene": "siege-two-towers-one",
+   "pin": 1,
+   "title": "Two Maps",
+   "read": "Both towers are attacked within the same hour, by forces that clearly coordinated it.",
+   "players_know": [
+    "Wayreth and Palanthas. You cannot be at both."
+   ]
+  },
+  {
+   "scene": "siege-two-towers-one",
+   "pin": 2,
+   "title": "Allocating Assets",
+   "read": "People, artifacts and prepared magic, divided between two sieges, in front of the people being divided.",
+   "players_know": [
+    "Whatever you send one way is not available the other."
+   ]
+  },
+  {
+   "scene": "siege-two-towers-one",
+   "pin": 3,
+   "title": "Wayreth's Objective",
+   "read": "The forest is holding and spending itself to do it. What it needs is time rather than soldiers.",
+   "players_know": [
+    "It cannot ask for anything. It can only hold."
+   ]
+  },
+  {
+   "scene": "siege-two-towers-one",
+   "pin": 4,
+   "title": "Palanthas's Objective",
+   "read": "The city tower has the Portal in it, which makes it the real target and everyone knows it.",
+   "players_know": [
+    "Losing it is worse than losing the city."
+   ]
+  },
+  {
+   "scene": "siege-two-towers-one",
+   "pin": 5,
+   "title": "His Proposal",
+   "read": "Raistlin offers a third allocation that is better than either of yours and requires accepting something none of you want to accept.",
+   "players_know": [
+    "The arithmetic is correct. Check it anyway."
+   ]
+  },
+  {
+   "scene": "siege-two-towers-two",
+   "pin": 1,
+   "title": "The Breach",
+   "read": "Both walls go within a quarter of an hour of each other.",
+   "players_know": [
+    "Neither breach was where the defenders expected."
+   ]
+  },
+  {
+   "scene": "siege-two-towers-two",
+   "pin": 2,
+   "title": "Tower Choice",
+   "read": "One of them can be held properly. The other can be held badly, or abandoned well.",
+   "players_know": [
+    "There is no version where both are held properly."
+   ]
+  },
+  {
+   "scene": "siege-two-towers-two",
+   "pin": 3,
+   "title": "The Portal Surges",
+   "read": "With the city tower under attack, the Portal does something it has not done before, and it is not under anyone's control while it does it.",
+   "players_know": [
+    "Whatever comes through now is not contracted."
+   ]
+  },
+  {
+   "scene": "siege-two-towers-two",
+   "pin": 4,
+   "title": "Strategic Victory",
+   "read": "It ends in something that will be called a victory, and the people calling it that will not have been here.",
+   "players_know": [
+    "Count what is left before you agree with them."
+   ]
+  },
+  {
+   "scene": "siege-two-towers-two",
+   "pin": 5,
+   "title": "The Decision",
+   "read": "The Abyss expedition has been waiting while this happened, and the delay has had a cost that is now visible.",
+   "players_know": [
+    "Going now is worse than going a month ago and better than going a month from now."
+   ]
+  },
+  {
+   "scene": "caramon-will",
+   "pin": 1,
+   "title": "What He Remembers",
+   "read": "A small room, a chair, and Caramon talking for the first time without his brother in the building.",
+   "players_know": [
+    "He remembers everything, including the parts nobody wanted him to."
+   ]
+  },
+  {
+   "scene": "caramon-will",
+   "pin": 2,
+   "title": "The Question",
+   "read": "He asks whether he was brought back for his own sake or for somebody else's, and he asks it as a real question rather than an accusation.",
+   "players_know": [
+    "He will accept an honest answer. Any honest answer."
+   ]
+  },
+  {
+   "scene": "caramon-will",
+   "pin": 3,
+   "title": "What He Wants",
+   "read": "It is smaller than you expected and it has nothing to do with the war.",
+   "players_know": [
+    "Nobody has asked him this before."
+   ]
+  },
+  {
+   "scene": "caramon-will",
+   "pin": 4,
+   "title": "The Ask",
+   "read": "Then he asks you for something, directly, and it is the only thing he has asked anyone for since he came back.",
+   "players_know": [
+    "It is within your power. That is why he is asking you."
+   ]
+  },
+  {
+   "scene": "abyss-crossing",
+   "pin": 1,
+   "title": "Last Preparations",
+   "read": "Everything that can be prepared has been. What is left is the part nobody can prepare for, and the party spends an hour not saying so.",
+   "players_know": [
+    "Say anything that needs saying now."
+   ]
+  },
+  {
+   "scene": "abyss-crossing",
+   "pin": 2,
+   "title": "The Crossing",
+   "read": "The Portal opens properly for the first time, and going through it is not like any travel any of you have done.",
+   "players_know": [
+    "You arrive together. That was not guaranteed."
+   ]
+  },
+  {
+   "scene": "abyss-crossing",
+   "pin": 3,
+   "title": "Cutting the Line",
+   "read": "The way back can be left open or cut. Leaving it open is an invitation and everyone can see what to.",
+   "players_know": [
+    "Cutting it means finding another way out, and nobody has one."
+   ]
+  },
+  {
+   "scene": "abyss-crossing",
+   "pin": 4,
+   "title": "First Threat",
+   "read": "Something here notices you within minutes, and its interest is specific rather than general.",
+   "players_know": [
+    "It knows what you are carrying."
+   ]
+  },
+  {
+   "scene": "abyss-field-of-lost-names",
+   "pin": 1,
+   "title": "Recognition",
+   "read": "The field is full of things that were people. They have had their names taken, which here is a physical removal rather than a forgetting.",
+   "players_know": [
+    "Some of them still try to introduce themselves."
+   ]
+  },
+  {
+   "scene": "abyss-field-of-lost-names",
+   "pin": 2,
+   "title": "The Name-Thief",
+   "read": "Something here collects them, and it will attempt to take one from the party as a matter of routine.",
+   "players_know": [
+    "Losing yours is not death. It is worse and it is reversible."
+   ]
+  },
+  {
+   "scene": "abyss-field-of-lost-names",
+   "pin": 3,
+   "title": "Use the Bell",
+   "read": "The Bell can give a name back. It can do this a limited number of times and nobody knows the number.",
+   "players_know": [
+    "Every use is a decision about who."
+   ]
+  },
+  {
+   "scene": "abyss-field-of-lost-names",
+   "pin": 4,
+   "title": "Caramon's Echo",
+   "read": "Something in the field has a piece of Caramon that was taken on the way through, and it has been keeping it.",
+   "players_know": [
+    "He is standing next to you while you find it."
+   ]
+  },
+  {
+   "scene": "abyss-palace-of-chains",
+   "pin": 1,
+   "title": "The Mechanism",
+   "read": "The palace is a machine for holding souls and it does not hide what it is. The workings are visible, labelled, and elegant.",
+   "players_know": [
+    "It can be understood in an hour. That is deliberate."
+   ]
+  },
+  {
+   "scene": "abyss-palace-of-chains",
+   "pin": 2,
+   "title": "Useful Power",
+   "read": "What it does could be turned to something defensible. The thought arrives on its own, which is how you know the palace put it there.",
+   "players_know": [
+    "The reasoning is sound. Check whose reasoning it is."
+   ]
+  },
+  {
+   "scene": "abyss-palace-of-chains",
+   "pin": 3,
+   "title": "Redesign",
+   "read": "It can be altered rather than destroyed, to hold fewer, or differently, or with consent.",
+   "players_know": [
+    "Altering it leaves it standing."
+   ]
+  },
+  {
+   "scene": "abyss-palace-of-chains",
+   "pin": 4,
+   "title": "Raistlin's Choice",
+   "read": "He has an opinion and he states it, and for once it is not the one anybody expected.",
+   "players_know": [
+    "He is arguing against his own interest. Work out why."
+   ]
+  },
+  {
+   "scene": "abyss-palace-of-chains",
+   "pin": 5,
+   "title": "Break the Chains",
+   "read": "Breaking it releases everything it holds at once, here, with you standing in it.",
+   "players_know": [
+    "Most of them will not be grateful."
+   ]
+  },
+  {
+   "scene": "abyss-past-and-present",
+   "pin": 1,
+   "title": "No Possession",
+   "read": "Fistandantilus is here and he does not attempt to take anyone. He makes a point of it.",
+   "players_know": [
+    "He wants something agreed to rather than taken."
+   ]
+  },
+  {
+   "scene": "abyss-past-and-present",
+   "pin": 2,
+   "title": "The Offer",
+   "read": "It is made to the whole party rather than to Raistlin, which is new, and it is made carefully.",
+   "players_know": [
+    "He has adjusted it since Palanthas. He has been listening."
+   ]
+  },
+  {
+   "scene": "abyss-past-and-present",
+   "pin": 3,
+   "title": "The Price",
+   "read": "He states it without softening. It is not a soul and it is not a service, and it is worse than both.",
+   "players_know": [
+    "He will not pretend it is small."
+   ]
+  },
+  {
+   "scene": "abyss-past-and-present",
+   "pin": 4,
+   "title": "Caramon Answers",
+   "read": "Caramon speaks before his brother does, and what he says is addressed to Fistandantilus directly.",
+   "players_know": [
+    "He has worked out something nobody else in the party has."
+   ]
+  },
+  {
+   "scene": "abyss-past-and-present",
+   "pin": 5,
+   "title": "The Argument",
+   "read": "The party has the argument it has been avoiding since Arc III, in the Abyss, in front of both of them.",
+   "players_know": [
+    "Have it properly. There is not another chance."
+   ]
+  },
+  {
+   "scene": "abyss-past-and-present",
+   "pin": 6,
+   "title": "Break, or Accept",
+   "read": "It comes down to a single decision and everyone present has to be party to it.",
+   "players_know": [
+    "Both outcomes continue the campaign. Only one of them continues it with him."
+   ]
+  },
+  {
+   "scene": "abyss-queen-of-darkness",
+   "pin": 1,
+   "title": "Takhisis's Claim",
+   "read": "She does not appear so much as become the thing you were already standing in. The claim she makes is older than any of the arguments you have been having.",
+   "players_know": [
+    "She is not interested in the Portal. She is interested in who walks back through it."
+   ]
+  },
+  {
+   "scene": "abyss-queen-of-darkness",
+   "pin": 2,
+   "title": "Three Fronts",
+   "read": "She presses on three at once: the war above, the thing in your party, and each of you individually.",
+   "players_know": [
+    "All three are real. None is a feint."
+   ]
+  },
+  {
+   "scene": "abyss-queen-of-darkness",
+   "pin": 3,
+   "title": "Raistlin's Decision",
+   "read": "Everything the campaign has been asking about him gets answered here, by him, in front of you.",
+   "players_know": [
+    "Whatever he decides, he decided it some time ago."
+   ]
+  },
+  {
+   "scene": "abyss-queen-of-darkness",
+   "pin": 4,
+   "title": "The Dark One Ends",
+   "read": "Fistandantilus's part finishes. How it finishes depends entirely on what was agreed in the last chamber.",
+   "players_know": [
+    "He is not surprised by it either way."
+   ]
+  },
+  {
+   "scene": "abyss-queen-of-darkness",
+   "pin": 5,
+   "title": "The Portal",
+   "read": "It can be closed behind you, or changed into something that is not a door.",
+   "players_know": [
+    "Closing it strands anything still on this side.",
+    "Changing it has never been done."
+   ]
+  },
+  {
+   "scene": "abyss-queen-of-darkness",
+   "pin": 6,
+   "title": "Return",
+   "read": "You come back to Krynn, with whatever you still have and whoever is still with you.",
+   "players_know": [
+    "The war is still going on. It has been the whole time."
+   ]
+  }
+ ]
+}

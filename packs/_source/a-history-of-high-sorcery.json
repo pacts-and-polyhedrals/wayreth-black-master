@@ -1,13 +1,6 @@
 {
   "_id": "OmvRtmb0T3febaXW",
   "name": "A History of High Sorcery",
-  "folder": null,
-  "sort": 100000,
-  "ownership": {
-    "default": 2
-  },
-  "flags": {},
-  "_key": "!journal!OmvRtmb0T3febaXW",
   "pages": [
     {
       "_id": "HjUZHBscnFWCP4VZ",
@@ -33,7 +26,35 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!OmvRtmb0T3febaXW.HjUZHBscnFWCP4VZ"
+    },
+    {
+      "_id": "ZQZgYs89K9Y5AD5X",
+      "name": "The Making of a Wizard",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">Most histories remember the archmages and omit the person who swept the laboratory floor. This is an error. High Sorcery is built from both.</p>\n<h3>The First Sign</h3>\n<p>Talent rarely announces itself with lightning. A child repeats a phrase heard in a dream and a locked latch lifts. An apprentice glassblower cools one pane without cooling the furnace. A shepherd knows where the moon will rise despite never learning the sky. Families call these incidents luck until luck begins to acquire habits.</p>\n<p>The Orders maintain correspondents in cities, temples, trading houses, and noble courts. Their work is not to seize gifted children. It is to prevent frightened communities from killing them and ambitious patrons from teaching them just enough magic to become dangerous. A correspondent offers names of reputable tutors, explains the laws of the Orders, and leaves. The choice to study must belong to the student, because every later oath depends on that first choice having been real.</p>\n<h3>Apprenticeship</h3>\n<p>An apprentice learns spells last. Before a student is trusted with force, they learn notation, celestial observation, the care of vellum, the preparation of inks, the history of magical disasters, and the exact difference between a working that failed and one that succeeded incorrectly. They grind minerals, copy diagrams, clean glassware, and keep a record of every flame in the laboratory. This looks like drudgery. It is also how a mentor discovers whether the student lies when a mistake is small.</p>\n<p>A good mentor teaches restraint without teaching fear. A bad mentor produces either a renegade or a corpse. For this reason the Conclave receives complaints from apprentices, though many never learn that the quiet Red Robe who asks about their lessons is an inspector.</p>\n<h3>The Summons</h3>\n<p>When an apprentice can wield magic capable of killing several people at once, private education becomes a public concern. The invitation to the Test is courteous, specific, and impossible to mistake for praise. It states where the candidate must travel, what they may bring, and that they may refuse. Refusal ends their progress under Conclave law. Acceptance may end their life.</p>\n<p>Those who return wear a robe. Their old neighbors often expect certainty from them afterward. In truth, the Test removes very few doubts. It merely identifies which doubt the wizard is willing to live by.</p>\n<h3>Life Beyond the Tower</h3>\n<p>Most Wizards of High Sorcery do not live in Wayreth. They serve as healers of curses, court astrologers, military advisers, translators, teachers, merchants, and reclusive scholars. The robe is an allegiance, not an occupation. A White Robe may be severe, a Red Robe compassionate, and a Black Robe scrupulously honest. The Orders govern what a wizard believes magic is for; they do not reduce a life to a color.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!OmvRtmb0T3febaXW.ZQZgYs89K9Y5AD5X"
     },
     {
       "_id": "SUfIT5AEWHDxL3H0",
@@ -54,11 +75,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 200000,
+      "sort": 300000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!OmvRtmb0T3febaXW.SUfIT5AEWHDxL3H0"
     },
     {
@@ -80,11 +102,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 300000,
+      "sort": 400000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!OmvRtmb0T3febaXW.SlCcEFidNRsZyI37"
     },
     {
@@ -97,7 +120,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<div class=\"wayreth-journal\">\n<p>The wizards fought back. This is the part of the history the Conclave records plainly and without pride.</p>\n<p>The conflict that followed is remembered as the Lost Battles, a name that admits the outcome in advance. It was not a war between armies. It was a war between an institution of a few thousand practitioners and an empire with the enthusiastic backing of half a continent, and it went exactly as that description suggests.</p>\n<p>The Orders won engagements. Wizards are extremely good at winning engagements. They lost the war, because there is no spell for being outnumbered by a hundred to one indefinitely, and because every victory confirmed to the world that the church had been right about them all along.</p>\n<h3>The Bargain</h3>\n<p>When it became clear the Towers would fall, the Conclave made a decision that has defined the Orders ever since. They negotiated.</p>\n<p>The terms: the wizards would surrender the Towers of Daltigoth, Istar, and Losarcum. In exchange, the Orders would be permitted to withdraw &mdash; alive &mdash; to Wayreth, and Palanthas would remain in their hands.</p>\n<p>The Kingpriest accepted. He got three Towers and the humiliation of the Conclave, and he judged that sufficient. He was wrong about that too, but that comes later.</p>\n<section class=\"secret\">\n<h3>DM Note &mdash; Why This Matters at Your Table</h3>\n<p>The Lost Battles are the load-bearing trauma of the entire institution. Every Conclave decision in 351 AC is made by people whose predecessors surrendered three Towers to avoid extinction and have spent three centuries arguing about whether that was cowardice or wisdom.</p>\n<p>This is the argument Raistlin wins. Hold onto it &mdash; it comes back in <em>The Concession of Wayreth</em>.</p>\n</section>\n</div>"
+        "content": "<div class=\"wayreth-journal\">\n<p>The wizards fought back. This is the part of the history the Conclave records plainly and without pride.</p>\n<p>The conflict that followed is remembered as the Lost Battles, a name that admits the outcome in advance. It was not a war between armies. It was a war between an institution of a few thousand practitioners and an empire with the enthusiastic backing of half a continent, and it went exactly as that description suggests.</p>\n<p>The Orders won engagements. Wizards are extremely good at winning engagements. They lost the war, because there is no spell for being outnumbered by a hundred to one indefinitely, and because every victory confirmed to the world that the church had been right about them all along.</p>\n<h3>The Bargain</h3>\n<p>When it became clear the Towers would fall, the Conclave made a decision that has defined the Orders ever since. They negotiated.</p>\n<p>The terms: the wizards would surrender the Towers of Daltigoth, Istar, and Losarcum. In exchange, the Orders would be permitted to withdraw &mdash; alive &mdash; to Wayreth, and Palanthas would remain in their hands.</p>\n<p>The Kingpriest accepted. He got three Towers and the humiliation of the Conclave, and he judged that sufficient. He was wrong about that too, but that comes later.</p>\n<section class=\"secret\">\n<h3>DM Note &mdash; Why This Matters at Your Table</h3>\n<p>The Lost Battles are the load-bearing trauma of the entire institution. Every Conclave decision in 350 AC is made by people whose predecessors surrendered three Towers to avoid extinction and have spent three centuries arguing about whether that was cowardice or wisdom.</p>\n<p>This is the argument Raistlin wins. Hold onto it &mdash; it comes back in <em>The Concession of Wayreth</em>.</p>\n</section>\n</div>"
       },
       "image": {},
       "video": {
@@ -106,11 +129,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 400000,
+      "sort": 500000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!OmvRtmb0T3febaXW.i1cgqZ7NiEz1Echg"
     },
     {
@@ -132,11 +156,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 500000,
+      "sort": 600000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!OmvRtmb0T3febaXW.sM40KKBCQR1y9OyW"
     },
     {
@@ -158,11 +183,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 600000,
+      "sort": 700000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!OmvRtmb0T3febaXW.BViy4kmQwGaKWD92"
     },
     {
@@ -184,11 +210,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 700000,
+      "sort": 800000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!OmvRtmb0T3febaXW.WLuWwNRZDA60gcQB"
     },
     {
@@ -201,7 +228,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<div class=\"wayreth-journal\">\n<h3>The Three Orders</h3>\n<p>Robe colour is not a costume and it is not, strictly, an alignment. It is a declaration of what you believe magic is <em>for</em>, and the god of that moon either accepts the declaration or does not.</p>\n<ul>\n<li><strong>White Robes.</strong> Magic as a shield. Restrained, institutional, and rather more comfortable with rules than any of the others. They tend to hold the Conclave's administrative offices, largely because the other two Orders find the work tedious.</li>\n<li><strong>Red Robes.</strong> Magic as an end in itself. Loyal to the art before any cause, which their siblings variously describe as principled or as an elaborate excuse for doing whatever they like.</li>\n<li><strong>Black Robes.</strong> Magic as a means. Ambitious, disciplined, and considerably better organised than outsiders expect &mdash; Nuitari does not tolerate sloppiness in his servants, and a Black Robe who is careless does not remain a Black Robe long.</li>\n</ul>\n<p>All three take the same Test. All three sit the same Conclave. A White Robe and a Black Robe who would happily kill each other in the field will vote in the same chamber, because the alternative &mdash; three separate institutions, three separate agendas, no oversight at all &mdash; is a thing every one of them has been taught to fear since apprenticeship.</p>\n<h3>Structure</h3>\n<p>Twenty-one seats. Seven per Order. The Head of the Conclave is drawn from whichever Order the moons favour, though in practice the office has been held by a White Robe for most of living memory, and the Master of the Tower of Wayreth has customarily been the same person.</p>\n<p>Customarily. In 351 AC, those two offices are held by different people for the first time in three centuries, and the Conclave has not finished deciding how it feels about that.</p>\n<section class=\"secret\">\n<h3>DM Note &mdash; The Split</h3>\n<p>This is your political engine. Par-Salian remains Head of the Conclave. Raistlin is Master of the Tower. The Head convenes the Orders; the Master controls the building they must convene in, the vaults, the wards, and the Tests.</p>\n<p>Neither can act without the other. Both know it. Every scene set in Wayreth should have this tension running underneath it.</p>\n</section>\n<h3>Renegades</h3>\n<p>A wizard who takes the Test and passes is a Wizard of High Sorcery. A wizard who refuses the Test, or takes it and flees, is a renegade, and the Conclave hunts them.</p>\n<p>Not as a formality. Renegade hunters are dispatched, they are competent, and they are authorised to use lethal force at their discretion. The Orders' position is that unaccountable magic is what produced the Lost Battles and that they will not permit it a second time. The renegades' position is that this is an institution demanding submission at swordpoint and calling it stewardship.</p>\n<p>Both positions are correct. That is rather the problem.</p>\n</div>"
+        "content": "<div class=\"wayreth-journal\">\n<h3>The Three Orders</h3>\n<p>Robe colour is not a costume and it is not, strictly, an alignment. It is a declaration of what you believe magic is <em>for</em>, and the god of that moon either accepts the declaration or does not.</p>\n<ul>\n<li><strong>White Robes.</strong> Magic as a shield. Restrained, institutional, and rather more comfortable with rules than any of the others. They tend to hold the Conclave's administrative offices, largely because the other two Orders find the work tedious.</li>\n<li><strong>Red Robes.</strong> Magic as an end in itself. Loyal to the art before any cause, which their siblings variously describe as principled or as an elaborate excuse for doing whatever they like.</li>\n<li><strong>Black Robes.</strong> Magic as a means. Ambitious, disciplined, and considerably better organised than outsiders expect &mdash; Nuitari does not tolerate sloppiness in his servants, and a Black Robe who is careless does not remain a Black Robe long.</li>\n</ul>\n<p>All three take the same Test. All three sit the same Conclave. A White Robe and a Black Robe who would happily kill each other in the field will vote in the same chamber, because the alternative &mdash; three separate institutions, three separate agendas, no oversight at all &mdash; is a thing every one of them has been taught to fear since apprenticeship.</p>\n<h3>Structure</h3>\n<p>Twenty-one seats. Seven per Order. The Head of the Conclave is drawn from whichever Order the moons favour, though in practice the office has been held by a White Robe for most of living memory, and the Master of the Tower of Wayreth has customarily been the same person.</p>\n<p>Customarily. In 350 AC, those two offices are held by different people for the first time in three centuries, and the Conclave has not finished deciding how it feels about that.</p>\n<section class=\"secret\">\n<h3>DM Note &mdash; The Split</h3>\n<p>This is your political engine. Par-Salian remains Head of the Conclave. Raistlin is Master of the Tower. The Head convenes the Orders; the Master controls the building they must convene in, the vaults, the wards, and the Tests.</p>\n<p>Neither can act without the other. Both know it. Every scene set in Wayreth should have this tension running underneath it.</p>\n</section>\n<h3>Renegades</h3>\n<p>A wizard who takes the Test and passes is a Wizard of High Sorcery. A wizard who refuses the Test, or takes it and flees, is a renegade, and the Conclave hunts them.</p>\n<p>Not as a formality. Renegade hunters are dispatched, they are competent, and they are authorised to use lethal force at their discretion. The Orders' position is that unaccountable magic is what produced the Lost Battles and that they will not permit it a second time. The renegades' position is that this is an institution demanding submission at swordpoint and calling it stewardship.</p>\n<p>Both positions are correct. That is rather the problem.</p>\n</div>"
       },
       "image": {},
       "video": {
@@ -210,12 +237,48 @@
       },
       "src": null,
       "system": {},
-      "sort": 800000,
+      "sort": 900000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!OmvRtmb0T3febaXW.HAsEP8ulLX7SV8eV"
+    },
+    {
+      "_id": "rcFTeq7p191qzkdr",
+      "name": "The Laws That Survived",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">The Conclave has lost Towers, libraries, armies, and gods. Its oldest laws survived because they are short enough to remember when the archives burn.</p>\n<h3>The Three Axioms</h3>\n<ol>\n<li><strong>Magic is the first loyalty.</strong> No crown, temple, family, or Order may demand the destruction of the Art itself. This does not excuse cruelty. It explains why enemies who would kill one another over every other question still defend the same library.</li>\n<li><strong>The Orders are siblings in power.</strong> Robes may oppose, scheme, duel, and wage war through mortal causes. They may not attempt to erase another Order from the world. The distinction is narrow and has been abused, but it prevented several civil wars from becoming exterminations.</li>\n<li><strong>Power must accept judgment.</strong> A wizard capable of great workings must take the Test, limit their practice, or be named renegade. Talent is personal; the consequences of talent are not.</li>\n</ol>\n<h3>What the Conclave Can Do</h3>\n<p>The twenty-one members may recognize schools, censure mentors, summon candidates, declare a magical practice forbidden, name a renegade, authorize pursuit, open sealed collections, and speak for the Orders to rulers. The Conclave cannot compel an Order to adopt the moral philosophy of another, dispose of a Tower as ordinary property, or reverse a judgment made by the three Heads acting unanimously under moon oath.</p>\n<p>Seven seats belong to each Order. The three Heads speak first only when reporting and last when arguing. A measure requires eleven votes unless it alters the Test, a guardian forest, or the conditions of tower mastery; those require fourteen. When a vote concerns the proposer personally, the proposer does not vote. Much of Conclave politics consists of deciding who can afford to introduce a motion.</p>\n<h3>Renegades</h3>\n<p>A renegade is not simply a wizard who declined a robe. Hedge magicians whose workings cannot threaten a town are usually monitored and left alone. The name is reserved for those who wield dangerous magic without accepting oversight, teach proscribed methods, prey upon apprentices, traffic with powers that consume the caster, or defy a lawful summons after demonstrating major power.</p>\n<p>Renegade hunters are investigators before they are executioners. They establish identity, offer surrender, secure dangerous writings, and bring the accused to judgment where possible. The Orders tell this story proudly. Their sealed records contain enough exceptions to explain why many independent wizards run at the sight of a robe.</p>\n<h3>The Law Under Raistlin</h3>\n<p>Raistlin has changed no statute. This is how he has changed everything. He reads authority literally, observes every procedural limit, and uses powers neglected by generations of cautious Masters. The institution cannot accuse him of breaking its law. It can only confront how much law it wrote on the assumption that a decent person would hold the chair.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!OmvRtmb0T3febaXW.rcFTeq7p191qzkdr"
     }
-  ]
+  ],
+  "folder": null,
+  "sort": 1000000,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!OmvRtmb0T3febaXW"
 }

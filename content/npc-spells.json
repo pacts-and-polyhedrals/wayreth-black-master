@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 1,
+  "spells": [
+    {
+      "_id": "NQlo2IINfxLh8wHJ",
+      "name": "Crusader's Mantle",
+      "type": "spell",
+      "img": "icons/magic/light/explosion-star-glow-silhouette.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "wayreth-black-master": {
+          "managed": true,
+          "npcSpell": true
+        }
+      },
+      "_stats": {},
+      "system": {
+        "description": {
+          "value": "<p>Holy power radiates from you in a 30-foot-radius aura, which moves with you and lasts for the duration. Each friendly creature in the aura, you included, deals an extra 1d4 radiant damage with a successful weapon attack.</p><p><strong>Classes:</strong> Paladin. <strong>Rules:</strong> D&amp;D 5e (2014).</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "Wayreth: The Black Master",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": ""
+        },
+        "duration": {
+          "concentration": true,
+          "value": "1",
+          "units": "minute",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "radius",
+            "size": "30",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "ally",
+            "choice": false,
+            "special": ""
+          },
+          "prompt": true
+        },
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": ""
+        },
+        "level": 3,
+        "school": "evo",
+        "properties": [
+          "vocal"
+        ],
+        "materials": {
+          "value": "",
+          "consumed": false,
+          "cost": 0,
+          "supply": 0
+        },
+        "preparation": {
+          "mode": "prepared",
+          "prepared": true
+        },
+        "method": "spell",
+        "prepared": 1,
+        "ability": "",
+        "identifier": "crusaders-mantle",
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "activities": {
+          "62HfYfgq3d9fQnNc": {
+            "_id": "62HfYfgq3d9fQnNc",
+            "type": "utility",
+            "name": "Raise the Mantle",
+            "img": "",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": true,
+                "max": ""
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "<p>A 30-foot aura moves with you for 1 minute. Friendly creatures inside it, you included, deal an extra 1d4 radiant damage on a weapon hit.</p>"
+            },
+            "duration": {
+              "concentration": true,
+              "value": "1",
+              "units": "minute",
+              "special": ""
+            },
+            "effects": [],
+            "range": {
+              "units": "self",
+              "value": "",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "self",
+                "choice": false,
+                "special": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "max": "",
+              "recovery": []
+            },
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "roll": {
+              "formula": "",
+              "name": "",
+              "prompt": false,
+              "visible": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "_id": "shPTvMstvCBArXTg",
+      "name": "Holy Weapon",
+      "type": "spell",
+      "img": "icons/magic/light/explosion-star-glow-silhouette.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "wayreth-black-master": {
+          "managed": true,
+          "npcSpell": true
+        }
+      },
+      "_stats": {},
+      "system": {
+        "description": {
+          "value": "<p>You imbue a weapon you touch with holy power. Until the spell ends the weapon emits bright light in a 30-foot radius and dim light for a further 30 feet, and attacks with it deal an extra 2d8 radiant damage on a hit. If the weapon is not already magical, it becomes so for the duration.</p><p>As a bonus action on a later turn you can dismiss the spell early and cause the weapon to burst with radiance. Each creature of your choice within 30 feet of it must make a Constitution saving throw, taking 4d8 radiant damage on a failure and being blinded for 1 minute, or half as much damage on a success and not being blinded. A blinded creature repeats the save at the end of each of its turns, ending the effect on itself on a success.</p><p><strong>Classes:</strong> Paladin. <strong>Rules:</strong> D&amp;D 5e (2014).</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "Wayreth: The Black Master",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": ""
+        },
+        "duration": {
+          "concentration": true,
+          "value": "1",
+          "units": "hour",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": ""
+          },
+          "affects": {
+            "count": "1",
+            "type": "object",
+            "choice": false,
+            "special": ""
+          },
+          "prompt": true
+        },
+        "range": {
+          "value": "",
+          "units": "touch",
+          "special": ""
+        },
+        "level": 5,
+        "school": "evo",
+        "properties": [
+          "vocal",
+          "somatic"
+        ],
+        "materials": {
+          "value": "",
+          "consumed": false,
+          "cost": 0,
+          "supply": 0
+        },
+        "preparation": {
+          "mode": "prepared",
+          "prepared": true
+        },
+        "method": "spell",
+        "prepared": 1,
+        "ability": "",
+        "identifier": "holy-weapon",
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "activities": {
+          "VuUJAdHMRke3wGYk": {
+            "_id": "VuUJAdHMRke3wGYk",
+            "type": "utility",
+            "name": "Consecrate the Weapon",
+            "img": "",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": true,
+                "max": ""
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "<p>For 1 hour the weapon sheds bright light out to 30 feet, counts as magical, and deals an extra 2d8 radiant damage on a hit. It can be dismissed as a bonus action to burst: each creature you choose within 30 feet makes a Constitution save, taking 4d8 radiant and being blinded for 1 minute on a failure, or half damage and no blindness on a success.</p>"
+            },
+            "duration": {
+              "concentration": true,
+              "value": "1",
+              "units": "hour",
+              "special": ""
+            },
+            "effects": [],
+            "range": {
+              "units": "touch",
+              "value": "",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "self",
+                "choice": false,
+                "special": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "max": "",
+              "recovery": []
+            },
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "roll": {
+              "formula": "",
+              "name": "",
+              "prompt": false,
+              "visible": false
+            }
+          }
+        }
+      }
+    }
+  ]
+}

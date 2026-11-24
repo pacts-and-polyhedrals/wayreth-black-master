@@ -1,0 +1,364 @@
+{
+  "feats": [
+    {
+      "_id": "EZzDvCqlmZVBUUU4",
+      "name": "Wizard of High Sorcery (White Robe)",
+      "type": "feat",
+      "img": "icons/magic/light/explosion-star-glow-silhouette.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Prerequisite: Passed the Test of High Sorcery; sworn to Solinari</em></p>\n<p>You wear the white and you have paid for it. Solinari's servants are taught that a shield is only a shield if somebody is standing behind it.</p>\n<h3>Order Spells</h3>\n<p>You gain access to the <strong>White Robe spellbook</strong> &mdash; the thirty spells of your Order, cantrips through 9th level. These count as wizard spells for you and may be prepared, scribed, and cast normally.</p>\n<h3>The Order's Hand</h3>\n<p>You copy spells of your own Order into your spellbook in <strong>half the usual time and for half the usual cost</strong>. The script is one you were taught rather than one you are deciphering.</p>\n<p>This does not apply to spells of the other two Orders, which take the ordinary time and cost, and which your Order will have opinions about.</p>\n<h3>Moon Sanction</h3>\n<p>Your magic moves with <strong>Solinari</strong>. During your moon's high sanction you gain the sanction benefits; during low sanction you suffer its penalties. See <em>Moons and Sanction</em>.</p>\n<h3>Overreaching &mdash; The Silver Toll</h3>\n<p>Having passed the Test, you may cast a spell as though using a slot up to <strong>three levels higher</strong> than the one you expend. Declare it before rolling anything; the effective level cannot exceed 9th.</p>\n<p><strong>The Price:</strong> you take <strong>2d10 force damage per additional level</strong>, and your hit point maximum is reduced by the total rolled until you finish a long rest. This cannot be prevented, resisted, or reduced. If it reduces your maximum to 0, you die.</p>\n<p>The Price is paid immediately whether or not the spell succeeds, and cannot be prevented, redirected or negated by any means, including your own magic. There is no daily limit &mdash; the limit is what it costs.</p>\n<section class=\"secret\"><p><strong>DM note.</strong> The Silver Toll is the only Price payable with no spell slots remaining, and the only one payable while unconscious. A White Robe can always overreach. That is why they die doing it.</p></section>\n<h3>The Robe</h3>\n<p>You are entitled to wear the white. While you do, your spell save DC increases by 1. Removing it in public is a political act and is generally understood as one.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "Wayreth: The Black Master",
+          "rules": "2014",
+          "revision": 1,
+          "license": "",
+          "book": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "feat",
+          "subtype": ""
+        },
+        "prerequisites": {
+          "level": null,
+          "repeatable": false,
+          "items": []
+        },
+        "properties": [],
+        "requirements": "Passed the Test of High Sorcery; sworn to Solinari",
+        "activities": {},
+        "enchant": {},
+        "identifier": "wizard-of-high-sorcery-white"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "wayreth-black-master": {
+          "managed": true,
+          "featKey": "wizard-of-high-sorcery-white",
+          "order": "White"
+        }
+      },
+      "_stats": {}
+    },
+    {
+      "_id": "nOpuaimUavKbEUHT",
+      "name": "Wizard of High Sorcery (Red Robe)",
+      "type": "feat",
+      "img": "icons/magic/fire/explosion-fireball-medium-red.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Prerequisite: Passed the Test of High Sorcery; sworn to Lunitari</em></p>\n<p>You wear the red and serve the art before any cause. The Order holds that magic is neither given nor taken but exchanged, and that an unbalanced ledger is a debt which collects itself.</p>\n<h3>Order Spells</h3>\n<p>You gain access to the <strong>Red Robe spellbook</strong> &mdash; the thirty spells of your Order, cantrips through 9th level. These count as wizard spells for you and may be prepared, scribed, and cast normally.</p>\n<h3>The Order's Hand</h3>\n<p>You copy spells of your own Order into your spellbook in <strong>half the usual time and for half the usual cost</strong>. The script is one you were taught rather than one you are deciphering.</p>\n<p>This does not apply to spells of the other two Orders, which take the ordinary time and cost, and which your Order will have opinions about.</p>\n<h3>Moon Sanction</h3>\n<p>Your magic moves with <strong>Lunitari</strong>. During your moon's high sanction you gain the sanction benefits; during low sanction you suffer its penalties. See <em>Moons and Sanction</em>.</p>\n<h3>Overreaching &mdash; Lunitari's Ledger</h3>\n<p>Having passed the Test, you may cast a spell as though using a slot up to <strong>three levels higher</strong> than the one you expend. Declare it before rolling anything; the effective level cannot exceed 9th.</p>\n<p><strong>The Price:</strong> immediately expend additional spell slots whose combined level equals <strong>twice the additional levels</strong>. Any shortfall costs you <strong>one level of exhaustion per level unpaid</strong>. You choose the split, and may pay in exhaustion even with slots available.</p>\n<p>The Price is paid immediately whether or not the spell succeeds, and cannot be prevented, redirected or negated by any means, including your own magic. There is no daily limit &mdash; the limit is what it costs.</p>\n<section class=\"secret\"><p><strong>DM note.</strong> A Red Robe rich in slots overreaches at no personal cost. A Red Robe late in a long day is as fragile as anyone.</p></section>\n<h3>The Robe</h3>\n<p>You are entitled to wear the red. While you do, your spell save DC increases by 1. Removing it in public is a political act and is generally understood as one.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "Wayreth: The Black Master",
+          "rules": "2014",
+          "revision": 1,
+          "license": "",
+          "book": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "feat",
+          "subtype": ""
+        },
+        "prerequisites": {
+          "level": null,
+          "repeatable": false,
+          "items": []
+        },
+        "properties": [],
+        "requirements": "Passed the Test of High Sorcery; sworn to Lunitari",
+        "activities": {},
+        "enchant": {},
+        "identifier": "wizard-of-high-sorcery-red"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "wayreth-black-master": {
+          "managed": true,
+          "featKey": "wizard-of-high-sorcery-red",
+          "order": "Red"
+        }
+      },
+      "_stats": {}
+    },
+    {
+      "_id": "WnVsiICgZLzXLyjq",
+      "name": "Wizard of High Sorcery (Black Robe)",
+      "type": "feat",
+      "img": "icons/magic/unholy/orb-swirling-purple.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Prerequisite: Passed the Test of High Sorcery; sworn to Nuitari</em></p>\n<p>You wear the black and Nuitari knows your name. The black moon does not accept payment in effort or in coin. It accepts life.</p>\n<h3>Order Spells</h3>\n<p>You gain access to the <strong>Black Robe spellbook</strong> &mdash; the thirty spells of your Order, cantrips through 9th level. These count as wizard spells for you and may be prepared, scribed, and cast normally.</p>\n<h3>The Order's Hand</h3>\n<p>You copy spells of your own Order into your spellbook in <strong>half the usual time and for half the usual cost</strong>. The script is one you were taught rather than one you are deciphering.</p>\n<p>This does not apply to spells of the other two Orders, which take the ordinary time and cost, and which your Order will have opinions about.</p>\n<h3>Moon Sanction</h3>\n<p>Your magic moves with <strong>Nuitari</strong>. During your moon's high sanction you gain the sanction benefits; during low sanction you suffer its penalties. See <em>Moons and Sanction</em>.</p>\n<h3>Overreaching &mdash; Nuitari's Due</h3>\n<p>Having passed the Test, you may cast a spell as though using a slot up to <strong>three levels higher</strong> than the one you expend. Declare it before rolling anything; the effective level cannot exceed 9th.</p>\n<p><strong>The Price:</strong> <strong>3d10 necrotic damage per additional level</strong>, and the victim's hit point maximum is reduced by the amount taken until they finish a long rest. By default you pay it &mdash; but you may instead take the Due from another creature within 30 feet that is willing; grappled, restrained, paralyzed, unconscious or incapacitated; or bound to you by oath, contract, geas or soul seal. That creature receives no saving throw.</p>\n<p>The Price is paid immediately whether or not the spell succeeds, and cannot be prevented, redirected or negated by any means, including your own magic. There is no daily limit &mdash; the limit is what it costs.</p>\n<section class=\"secret\"><p><strong>DM note.</strong> The only Price with a choice in it, and the choice is whether the cost lands on you or on someone who cannot stop you.</p></section>\n<h3>The Robe</h3>\n<p>You are entitled to wear the black. While you do, your spell save DC increases by 1. Removing it in public is a political act and is generally understood as one.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "Wayreth: The Black Master",
+          "rules": "2014",
+          "revision": 1,
+          "license": "",
+          "book": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "feat",
+          "subtype": ""
+        },
+        "prerequisites": {
+          "level": null,
+          "repeatable": false,
+          "items": []
+        },
+        "properties": [],
+        "requirements": "Passed the Test of High Sorcery; sworn to Nuitari",
+        "activities": {},
+        "enchant": {},
+        "identifier": "wizard-of-high-sorcery-black"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "wayreth-black-master": {
+          "managed": true,
+          "featKey": "wizard-of-high-sorcery-black",
+          "order": "Black"
+        }
+      },
+      "_stats": {}
+    },
+    {
+      "_id": "eEogKeTCerrMTJSu",
+      "name": "Conclave Standing",
+      "type": "feat",
+      "img": "icons/sundries/documents/document-sealed-signature-brown.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Prerequisite: any Wizard of High Sorcery feat</em></p><p>The Conclave has entered your name in its own hand, and the Orders treat you as one of their own rather than as a licensed stranger.</p><ul><li>You gain access to the <strong>Second Library</strong> at Wayreth and to your Order's working records. You have advantage on Intelligence (Arcana) and Intelligence (History) checks made with a day or more of research inside a Tower of High Sorcery.</li><li>You may <strong>requisition one item</strong> from the Wayreth vaults per downtime period, subject to the Master's approval. Granted items are recorded; the record is how the Conclave learns what you are doing.</li><li>You may invoke the Conclave's writ. Once per long rest, when dealing with a wizard who has taken the Test, you may make a Charisma (Persuasion or Intimidation) check with advantage by citing your standing. This does not work twice on the same person.</li><li><strong>Renegade hunters will parley with you</strong> before acting, and will honour the parley. This has saved more lives than any spell in your book.</li></ul><p>Standing is not rank. It confers no authority over other members of your Order, and the Orders are careful about the distinction in ways that outsiders find baffling.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "Wayreth: The Black Master",
+          "rules": "2014",
+          "revision": 1,
+          "license": "",
+          "book": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "feat",
+          "subtype": ""
+        },
+        "prerequisites": {
+          "level": null,
+          "repeatable": false,
+          "items": []
+        },
+        "properties": [],
+        "requirements": "Wizard of High Sorcery",
+        "activities": {},
+        "enchant": {},
+        "identifier": "conclave-standing"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "wayreth-black-master": {
+          "managed": true,
+          "featKey": "conclave-standing"
+        }
+      },
+      "_stats": {}
+    },
+    {
+      "_id": "HZg1mdAvVikIKFDQ",
+      "name": "Marked by the Test",
+      "type": "feat",
+      "img": "icons/magic/time/hourglass-yellow-purple.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Prerequisite: any Wizard of High Sorcery feat</em></p><p>What the Test took from you has not settled. It is still working.</p><ul><li>Increase your Intelligence, Wisdom or Charisma by 1, to a maximum of 20.</li><li>Your Mark deepens. Choose the Mark you received on passing the Test. <strong>Both its boon and its cost increase in force</strong> &mdash; the DM adjusts the entry, and the cost must grow at least as much as the benefit does. See the Mark table in <em>The Test of High Sorcery</em>.</li><li>Once per long rest, when you fail a saving throw, you may choose to succeed instead. You then take 4d10 psychic damage that cannot be prevented or reduced, and your Mark's cost applies again immediately regardless of any limit on it.</li></ul><p>Candidates who take this feat are recognisable to other Wizards of High Sorcery on sight, and are treated with a wariness that has nothing to do with power.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "Wayreth: The Black Master",
+          "rules": "2014",
+          "revision": 1,
+          "license": "",
+          "book": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "feat",
+          "subtype": ""
+        },
+        "prerequisites": {
+          "level": null,
+          "repeatable": false,
+          "items": []
+        },
+        "properties": [],
+        "requirements": "Wizard of High Sorcery",
+        "activities": {},
+        "enchant": {},
+        "identifier": "marked-by-the-test"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "wayreth-black-master": {
+          "managed": true,
+          "featKey": "marked-by-the-test"
+        }
+      },
+      "_stats": {}
+    },
+    {
+      "_id": "lOUqXGd7c7z3s2tg",
+      "name": "Moon-Sworn",
+      "type": "feat",
+      "img": "icons/magic/nature/moon-blue-glowing.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Prerequisite: any Wizard of High Sorcery feat</em></p><p>You have learned to read your moon closely enough to plan around it, which is the difference between a wizard and a wizard who survives.</p><ul><li>You always know the current phase of your Order's moon and the exact number of days until its next high and low sanction, even underground, on another plane, or blind.</li><li><strong>During high sanction</strong>, you may cast one spell per long rest at one slot level higher without expending the higher slot. This is not Overreaching and costs no Price.</li><li><strong>During low sanction</strong>, you no longer lose access to your highest available slot level. The other penalties still apply.</li><li>On the night your world's moons align &mdash; the Night of the Eye on Krynn, the conjunction of Luna and Celene on Oerth &mdash; you may cast one spell of 5th level or lower without expending a slot or components.</li></ul><p>Black Robes with this feat are unnerving company, because they can tell you the phase of a moon nobody else can see.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "Wayreth: The Black Master",
+          "rules": "2014",
+          "revision": 1,
+          "license": "",
+          "book": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "feat",
+          "subtype": ""
+        },
+        "prerequisites": {
+          "level": null,
+          "repeatable": false,
+          "items": []
+        },
+        "properties": [],
+        "requirements": "Wizard of High Sorcery",
+        "activities": {},
+        "enchant": {},
+        "identifier": "moon-sworn"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "wayreth-black-master": {
+          "managed": true,
+          "featKey": "moon-sworn"
+        }
+      },
+      "_stats": {}
+    },
+    {
+      "_id": "6DLQblGC9Ka5AliU",
+      "name": "Renegade Arcanist",
+      "type": "feat",
+      "img": "icons/magic/control/silhouette-hold-change-blue.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Prerequisite: you have refused the Test, or fled it. You cannot take this feat and a Wizard of High Sorcery feat.</em></p><p>You owe the Conclave nothing, and they have written that down.</p><ul><li>Increase your Intelligence by 1, to a maximum of 20.</li><li><strong>No Order's rules bind your spellbook.</strong> You may scribe any wizard spell you find regardless of school or Order restriction, and you suffer no penalty for spells the Conclave has interdicted.</li><li>You have advantage on saving throws against divination magic used to locate you, and against any effect that would compel you to reveal your location or your teacher.</li><li>Once per long rest, when a spell you cast is countered or dispelled, you may immediately recast it using the same slot level without expending a slot.</li></ul><p><strong>You cannot Overreach.</strong> The Price of the Test is only available to those who paid it, and no amount of raw talent substitutes.</p><p>You do not suffer moon sanction &mdash; neither its benefits nor its penalties. Renegade hunters are dispatched against you at the DM's discretion, they are competent, and they will explain the Conclave's position at length before they act.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "Wayreth: The Black Master",
+          "rules": "2014",
+          "revision": 1,
+          "license": "",
+          "book": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "feat",
+          "subtype": ""
+        },
+        "prerequisites": {
+          "level": null,
+          "repeatable": false,
+          "items": []
+        },
+        "properties": [],
+        "requirements": "Refused or fled the Test of High Sorcery",
+        "activities": {},
+        "enchant": {},
+        "identifier": "renegade-arcanist"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "wayreth-black-master": {
+          "managed": true,
+          "featKey": "renegade-arcanist"
+        }
+      },
+      "_stats": {}
+    }
+  ]
+}

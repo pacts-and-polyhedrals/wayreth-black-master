@@ -1,0 +1,338 @@
+{
+  "_id": "RUWn9hsHXYu1WY5I",
+  "name": "The Road to Wayreth: Thirty-Nine Days",
+  "pages": [
+    {
+      "_id": "PD8epYUXjaszut6Y",
+      "name": "Start Here: Thirty-Nine Days to the Eye",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The road begins with a funeral, but the real opening arc is a race from Vogler to the Forest of Wayreth before the Night of the Eye.</p>\n<table class=\"wy-table\"><thead><tr><th>Date</th><th>Campaign beat</th><th>Operational meaning</th></tr></thead><tbody><tr><td>17 Darkember</td><td>Session 0 arrival in Vogler</td><td>The party spends one ordinary evening in the village.</td></tr><tr><td>18 Darkember</td><td>Ispin’s funeral</td><td>The campaign proper begins; 39 days remain to the Eye.</td></tr><tr><td>19 Darkember</td><td>Kingfisher Festival / aftermath</td><td>Vogler consumes time and makes the coming departure matter.</td></tr><tr><td>20 Darkember</td><td>Ideal departure</td><td>The party commits to one of Ispin’s three marked routes.</td></tr><tr><td>25–26 Frostkolt</td><td>Desired Wayreth arrival window</td><td>Enough time remains for the Forest, Tower business, research, and preparation.</td></tr><tr><td>27 Frostkolt</td><td>Absolute latest arrival</td><td>Ispin's outside limit. Rest only; no research, no favours, no second attempt at finding the Forest.</td></tr><tr><td>28 Frostkolt</td><td>Final preparation window</td><td>Arriving after this date turns preparation into crisis management.</td></tr><tr><td>1 Newkolt</td><td>Night of the Eye</td><td>Absolute magical deadline.</td></tr></tbody></table><h3>The Practical Deadline</h3><p>The players may hear <strong>1 Newkolt</strong> repeatedly, but Ispin’s written advice is clear: <strong>reach Wayreth by 26 Frostkolt</strong>. The Tower cannot be treated like an inn at the end of a road. The Forest must permit entry, candidates need time to prepare, and the Orders may have business of their own.</p><blockquote class=\"wy-quote\"><p>Do not mistake the night of the Eye for your arrival date. If you are still searching for Wayreth when the moons align, you have already failed the easiest part.</p><p>&mdash; Ispin Greenshield</p></blockquote>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.PD8epYUXjaszut6Y"
+    },
+    {
+      "_id": "ju5855ez3GSbM18d",
+      "name": "Ispin’s Map: The Three Roads",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">This is the route map found with Ispin’s papers. Treat the marked lines as the authoritative geography for the opening journey.</p>\n<figure><img src=\"modules/wayreth-black-master/assets/ansalon-three-routes.webp\" alt=\"Map of Ansalon showing three marked routes from Vogler to Wayreth\" style=\"width:100%;height:auto;display:block;\"><figcaption><strong>Ispin Greenshield’s Three Roads to Wayreth.</strong> White: the Sailor’s Road. Green: the River and Heartland Road. Purple: the Wild Road.</figcaption></figure><p><em>The base chart is dated 348 AC. Ispin has used an older reliable survey and added his own current route markings in ink; road conditions and wartime borders remain subject to change.</em></p><h3>How to Use the Map</h3><p>Share this page once the party has Ispin’s map case. The colored routes show broad intended corridors rather than mile-perfect survey lines. Local weather, road closures, ships, border controls, and the will of the Forest can change the final approach.</p><section class=\"secret\"><h3>GM Note — Do Not Add a Fourth “Correct” Route</h3><p>The point of the opening arc is a meaningful commitment. Clever local detours are welcome, but the party should still be following one of the three strategic routes unless play creates a genuine new plan.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.ju5855ez3GSbM18d"
+    },
+    {
+      "_id": "IUMjrg9Yxv4ThVTe",
+      "name": "The Three Roads at a Glance",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Each route solves a different travel problem and creates a different kind of campaign.</p>\n<table class=\"wy-table\"><thead><tr><th>Route</th><th>Course</th><th>Normal travel</th><th>Reaches Wayreth</th><th>Primary risks</th><th>Best campaign texture</th></tr></thead><tbody><tr><td><strong>I — The Sailor’s Road</strong></td><td>Vogler → Kalaman → Mirivale → Hylo → Gilthanost → Wayreth</td><td>29–32 days</td><td><strong>21–24 Frostkolt</strong><br>18 fast &middot; 26–28 in bad seas</td><td>Winter seas, delayed ships, storms, dependence on captains</td><td>Ports, shipboard life, kender, Qualinesti diplomacy</td></tr><tr><td><strong>II — The River and Heartland Road</strong></td><td>Vogler → Dargaard corridor → Maelgoth → Brasdel → Solanthus → Garnet → Gilthanost <em>or</em> Zaradene → Wayreth</td><td>25–30 days mounted / river-assisted</td><td><strong>17–22 Frostkolt</strong><br>20–25 via Zaradene &middot; 23–27 on foot</td><td>War traffic, haunted Dargaard country, roads, transport decisions</td><td>Solamnia, Knights, cities, horses, adaptable logistics</td></tr><tr><td><strong>III — The Wild Road</strong></td><td>Vogler → Cericas → Fangoth → Solace → Haven → Pax Tharkas → Wayreth</td><td>28–33 days</td><td><strong>20–25 Frostkolt</strong><br>16–20 aggressive &middot; 25–28 delayed</td><td>Lemish, wilderness, hostile law, lost roads, high encounter rate</td><td>Classic Dragonlance overland adventure and survival</td></tr></tbody></table>\n<p class=\"wy-note\"><strong>All three arrive in time if the party keeps moving.</strong> Departing 20 Darkember,\na normal journey on any road reaches Wayreth between 17 and 25 Frostkolt, inside Ispin's 26 Frostkolt\ndeadline. The routes differ in what they cost and what can go wrong, not in whether they are survivable.\nThe margin is what side quests spend.</p><h3>The Decision Is Strategic, Not Moral</h3><p>None of the three roads is the “good” choice. Route I exchanges hostile ground for weather. Route II offers the best infrastructure but exposes the party to the largest amount of wartime traffic. Route III is shortest on the map and least reliable in practice.</p><blockquote class=\"wy-quote\"><p>There are three sensible ways from Vogler to Wayreth. I use the word sensible generously.</p><p>&mdash; Ispin Greenshield</p></blockquote>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.IUMjrg9Yxv4ThVTe"
+    },
+    {
+      "_id": "Cxzoqjd0ByyfH9JD",
+      "name": "Choosing the Road in Play",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Give the party enough information to make a decision, then let them own the consequences.</p>\n<h3>Three Voices</h3><ul><li><strong>A sailor or Kalaman factor:</strong> recommends Route I because a ship moves while its passengers sleep, but warns that Frostkolt weather can erase every promised day.</li><li><strong>A Solamnic caravan master:</strong> recommends Route II because horses, ferries, inns, smiths, healers, and replacement plans exist all the way to Garnet.</li><li><strong>A frontier scout:</strong> recommends Route III because it cuts south instead of bending west, then immediately lists the places where that optimism can get someone killed.</li></ul><h3>Information the Players Should Know</h3><ul><li>The Night of the Eye is fixed. The road is not.</li><li>Normal travel estimates already include sleeping; ordinary long rests do not add an extra day.</li><li>A major side adventure can cost a day even when the party wins.</li><li>Arriving early earns actual time in Wayreth. Arriving late removes choices rather than simply inflicting damage.</li></ul><section class=\"secret\"><h3>GM Note — Commit the Choice</h3><p>Once the party leaves the first major route anchor, stop presenting the unused roads as menu options. Let the chosen route become the world they are actually traveling through.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.Cxzoqjd0ByyfH9JD"
+    },
+    {
+      "_id": "aprfNkeGjo69aw4M",
+      "name": "Running Travel: One Leg, One Decision",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Travel should create pressure and stories without becoming an accounting exercise.</p>\n<h3>Travel Turn</h3><ol><li><strong>Frame the leg.</strong> State the expected days, terrain, weather, and next reliable stop.</li><li><strong>Assign road roles.</strong> Guide, Scout, Quartermaster, Watch, and Face. Combine roles if the party is small.</li><li><strong>Present one meaningful complication.</strong> Encounter, weather, transport, politics, or information.</li><li><strong>Resolve the consequence.</strong> Clean progress, resource cost, risk, or a one-day delay.</li><li><strong>Advance the calendar visibly.</strong> The date is part of the adventure.</li></ol><h3>Delay Scale</h3><table class=\"wy-table\"><thead><tr><th>Result</th><th>Effect</th></tr></thead><tbody><tr><td>Clean</td><td>No additional time.</td></tr><tr><td>Costly</td><td>No extra day, but spend coin, supplies, a favor, a spell resource, or accept a local complication.</td></tr><tr><td>Delayed</td><td>Lose 1 day. Use this for failed travel challenges or chosen side objectives.</td></tr><tr><td>Severe</td><td>Lose 2 days. Reserve for wrecks, imprisonment, major injury, or deliberate deep detours.</td></tr></tbody></table><p>A random encounter should rarely exist only to remove hit points. It should reveal the war, the region, the moons, the Orders, a route hazard, or the party’s pursuers.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.aprfNkeGjo69aw4M"
+    },
+    {
+      "_id": "KS88qI8CXUAQIlow",
+      "name": "The Calendar and Travel Pressure",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The calendar creates urgency by changing available options rather than punishing every rest.</p>\n<table class=\"wy-table\"><thead><tr><th>Arrival state</th><th>Wayreth consequence</th></tr></thead><tbody><tr><td>By 23 Frostkolt</td><td>Excellent. Several days are available for research, politics, spell access, and personal scenes.</td></tr><tr><td>24–26 Frostkolt</td><td>On target. The Tower is busy but the party can still prepare properly.</td></tr><tr><td>27 Frostkolt</td><td>Ispin's absolute latest. Meetings are shortened and favors become costly, but a candidate can still be ready.</td></tr><tr><td>28 Frostkolt</td><td>Late. The Test schedule dominates everything and preparation becomes crisis management.</td></tr><tr><td>After 28 Frostkolt</td><td>Critical. The Forest itself becomes part of the race and the Tower is already moving toward the Eye.</td></tr><tr><td>1 Newkolt</td><td>The deadline is now a scene, not a date. The moons are rising and there is no safe preparation window left.</td></tr></tbody></table><h3>Never Charge Twice for the Same Time</h3><p>If a route leg is listed as four days, those four days already contain food, sleep, camp, and normal road pauses. Add days only for meaningful setbacks or choices.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.KS88qI8CXUAQIlow"
+    },
+    {
+      "_id": "MV0itZ7gIbdi4Ib6",
+      "name": "War Pressure: The World Does Not Wait",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The journey begins as travel through a nervous world and becomes travel through a world recognizing that war has already started.</p>\n<table class=\"wy-table\"><thead><tr><th>Pressure</th><th>Visible change</th></tr></thead><tbody><tr><td>0 — Rumor</td><td>Scattered reports, missing couriers, frightened merchants, contradictory stories.</td></tr><tr><td>1 — Mobilization</td><td>Militia musters, horses purchased by officials, road inspections, military messages.</td></tr><tr><td>2 — Displacement</td><td>Refugee wagons, shortages, closed gates after dark, ships taking priority cargo.</td></tr><tr><td>3 — Infiltration</td><td>Forged papers, spies, sabotage, collaborators, rumors of strange reptilian soldiers.</td></tr><tr><td>4 — Open war</td><td>Road closures, requisitioned ships, burned farms, organized enemy patrols.</td></tr></tbody></table><p>Raise War Pressure when the party loses several days, after major campaign events, or when the fiction demands it. Different routes show the same war differently: sailors hear it in port schedules, Heartland travelers see it in columns and garrisons, and the Wild Road meets it in refugees and mercenary traffic.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.MV0itZ7gIbdi4Ib6"
+    },
+    {
+      "_id": "yylvxaAfhZMlDufE",
+      "name": "Default 12-Session Road Arc",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The route journals are modular. This structure reaches Wayreth in roughly twelve sessions without forcing every stop to become a full adventure.</p>\n<table class=\"wy-table\"><thead><tr><th>Session</th><th>Function</th><th>Typical level</th></tr></thead><tbody><tr><td>1</td><td>Funeral, Vogler crisis, Ispin’s map and the three roads</td><td>1</td></tr><tr><td>2</td><td>Departure and first route anchor</td><td>1 → 2</td></tr><tr><td>3</td><td>First major route stop; establish the chosen road’s identity</td><td>2</td></tr><tr><td>4</td><td>First signature hazard: sea, haunted corridor, or hostile frontier</td><td>2</td></tr><tr><td>5</td><td>Krell enters the journey in a route-specific way</td><td>2 → 3</td></tr><tr><td>6</td><td>A pursuer, rival, or moral problem makes the road personal</td><td>3</td></tr><tr><td>7</td><td>Major route set piece</td><td>3</td></tr><tr><td>8</td><td>Geographical threshold: Gilthanost approach, Garnet branch, or Solace/Haven</td><td>3</td></tr><tr><td>9</td><td>The party learns that reaching Wayreth is not ordinary navigation</td><td>3 → 4</td></tr><tr><td>10</td><td>Last major civilization and resupply</td><td>4</td></tr><tr><td>11</td><td>Final approach; maps and landmarks begin to fail</td><td>4</td></tr><tr><td>12</td><td>Reach the border of the Forest of Wayreth</td><td>4</td></tr></tbody></table><h3>Eight Sessions</h3><p>Combine travel legs and run only one signature adventure. Use montage for secondary stops.</p><h3>Sixteen Sessions</h3><p>Promote two early and two late optional adventures into full sessions. A successful optional adventure need not cost a day if the party resolves it while already passing through; lingering afterward does.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.yylvxaAfhZMlDufE"
+    },
+    {
+      "_id": "Udz12NRKBkkeEwK6",
+      "name": "Transport, Horses, Ships, and Supplies",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Transport matters because it protects the timetable and changes which problems the party must solve.</p>\n<h3>Route I — Ships</h3><p>Once aboard a capable ship, the party travels around the clock. The risk is waiting for departure, losing time to weather, or being put ashore somewhere that was never part of the plan.</p><h3>Route II — Horses and River Traffic</h3><p>This route offers the best opportunity to replace mounts, hire wagons, use barges, and change plans. Garnet is the key resupply point before the route splits.</p><h3>Route III — Mobility</h3><p>Mounts are valuable but harder to replace. Narrow tracks, bad crossings, and hostile territory can erase the speed advantage of horses. Carry at least five days of food when leaving reliable settlements.</p><h3>Rest</h3><p>Normal long rests are built into travel estimates. Exhaustion should come from deprivation, forced marches, exposure, or dangerous choices—not from using the core rest rules as intended.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.Udz12NRKBkkeEwK6"
+    },
+    {
+      "_id": "Od2fNpXSTbABZORu",
+      "name": "What the Road Teaches",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Every route should deliver different evidence while converging on the same larger truths.</p>\n<table class=\"wy-table\"><thead><tr><th>Truth</th><th>Route I sources</th><th>Route II sources</th><th>Route III sources</th></tr></thead><tbody><tr><td>The war is organized</td><td>Port manifests, intercepted signals, military cargo</td><td>Knightly dispatches, refugee counts, road sabotage</td><td>Mercenaries, smugglers, border traffic</td></tr><tr><td>The Night of the Eye is real</td><td>Navigators and moon tables</td><td>Court mages and scholars</td><td>Seekers, travelers, old shrines</td></tr><tr><td>Wayreth cannot simply be mapped</td><td>Qualinesti pilots and Gilthanost guides</td><td>Conflicting Solamnic maps and Garnet travelers</td><td>Solace tales, Haven maps, Pax Tharkas records</td></tr><tr><td>The Orders are politically divided</td><td>Elven mages and sea-borne robe contacts</td><td>Urban wizards and Knightly suspicion</td><td>Renegade rumors and frontier magic</td></tr><tr><td>Krell is more than a fugitive</td><td>Shipboard evidence and magical marks</td><td>Road inspections, Dargaard lore, Garnet contacts</td><td>Fangoth custody, wilderness pursuit</td></tr><tr><td>The party is being tested before the Test</td><td>Whom they save when weather steals time</td><td>Whom they help when roads are full of need</td><td>What risks they accept when nobody can compel them</td></tr></tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.Od2fNpXSTbABZORu"
+    },
+    {
+      "_id": "f55hdflKQo1ki4Fv",
+      "name": "Ossian Krell on the Correct Routes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Krell should enter after the route has developed its own identity, and his appearance should use the chosen road rather than interrupt it.</p>\n<table class=\"wy-table\"><thead><tr><th>Route</th><th>Entrance</th><th>Immediate problem</th></tr></thead><tbody><tr><td>Sailor’s Road</td><td>Krell is found hidden aboard the ship between Kalaman and Mirivale, using dead or forged crew papers.</td><td>Exposing him may get him put ashore; hiding him makes the party responsible for every later search.</td></tr><tr><td>River and Heartland Road</td><td>Krell is traveling under guard or hidden among displaced travelers near Maelgoth/Brasdel; a Solamnic inspection is about to discover him.</td><td>The party must decide whether law, his story, or Ispin’s instructions deserve priority.</td></tr><tr><td>Wild Road</td><td>Krell is a prisoner, wanted man, or protected informant in Fangoth.</td><td>The party must use local law, bargaining, stealth, or violence to decide whether he leaves with them.</td></tr></tbody></table><h3>Skaith</h3><p>Use disguise and contradictory witness accounts more often than surprise attacks. Skaith is most dangerous when the party is no longer certain which version of events is true.</p><h3>Mereth Sorn</h3><p>Give Mereth one serious opportunity to explain why she believes Krell should die. Her argument should remain credible even when the party rejects it.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.f55hdflKQo1ki4Fv"
+    },
+    {
+      "_id": "z9UiKCGgzUrOxUGl",
+      "name": "Player Handout: Ispin’s Three Roads",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Share this after the party has examined the map and spoken to at least one competent traveler.</p>\n<h3>Route I — The Sailor’s Road</h3><p><strong>Vogler → Kalaman → Mirivale → Hylo → Gilthanost → Wayreth.</strong></p><p>Long on the map, fast when the ships cooperate. Excellent ports, continuous movement, very high weather risk.</p><h3>Route II — The River and Heartland Road</h3><p><strong>Vogler → Dargaard corridor → Maelgoth → Brasdel → Solanthus → Garnet → Gilthanost or Zaradene → Wayreth.</strong></p><p>The most adaptable road. Best supplies, horses, cities, and opportunities to change transport. It also passes through the heart of Solamnia while the war is spreading.</p><h3>Route III — The Wild Road</h3><p><strong>Vogler → Cericas → Fangoth → Solace → Haven → Pax Tharkas → Wayreth.</strong></p><p>The direct adventurer’s road. Shortest line, poorest reliability, highest encounter and political risk.</p><blockquote class=\"wy-quote\"><p>Reach Wayreth by 26 Frostkolt. Rest on the 27th. Prepare on the 28th. On 1 Newkolt, take the Test.</p><p>&mdash; Ispin Greenshield</p></blockquote>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!RUWn9hsHXYu1WY5I.z9UiKCGgzUrOxUGl"
+    }
+  ],
+  "folder": null,
+  "sort": 1800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!RUWn9hsHXYu1WY5I"
+}

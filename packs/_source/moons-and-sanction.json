@@ -1,13 +1,6 @@
 {
   "_id": "YOI2azq7HAev0hDv",
   "name": "Moons and Sanction",
-  "folder": null,
-  "sort": 500000,
-  "ownership": {
-    "default": 2
-  },
-  "flags": {},
-  "_key": "!journal!YOI2azq7HAev0hDv",
   "pages": [
     {
       "_id": "R5hDu4vT6r7Z7ZBL",
@@ -33,7 +26,35 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!YOI2azq7HAev0hDv.R5hDu4vT6r7Z7ZBL"
+    },
+    {
+      "_id": "1ydye4h0TgRtBQIs",
+      "name": "Reading the Three Moons",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">The moons are not a traffic-light system for power. They create a changing political climate that every trained wizard reads differently.</p>\n<h3>Solinari</h3><p>The long silver cycle rewards planning. White Robes schedule wards, examinations, and difficult acts of protection near the full moon, then use the waning weeks for patient work. At low sanction they become conservative with magic, relying on allies and prepared sanctuaries. A White Robe forced into haste under a dark Solinari is outside the life they designed.</p>\n<h3>Lunitari</h3><p>The red moon completes its cycle with the calendar month, making Red Robe institutions unnervingly punctual. High sanction favors invention, negotiation, transformation, and public demonstrations. During low sanction, Red Robes trade information, revise theories, and allow rivals to underestimate them. They are the Order most likely to treat weakness as a scheduled resource.</p>\n<h3>Nuitari</h3><p>The black moon turns quickly and is seen only by those attuned to it. Black Robes live with frequent reversals. Their plans use short windows, layered contingencies, and proxies who need not understand why a date matters. High sanction makes decisive action tempting; low sanction arrives soon enough to punish anyone who mistakes momentum for permanence.</p>\n<h3>At the Table</h3>\n<ul><li>Announce a moon's visible phase when a wizard of its Order enters an important scene.</li><li>Let NPC plans reveal lunar literacy: an ambush postponed by two nights is information.</li><li>Give players access to the same calendar their enemies use. The satisfaction comes from planning better, not from discovering a hidden modifier after the roll.</li><li>Use low sanction to change methods, not to make a wizard irrelevant. A weakened archmage still has apprentices, bargains, scrolls, and a locked door.</li></ul>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!YOI2azq7HAev0hDv.1ydye4h0TgRtBQIs"
     },
     {
       "_id": "dCidiFGg6BpSPqIK",
@@ -54,12 +75,40 @@
       },
       "src": null,
       "system": {},
-      "sort": 200000,
+      "sort": 300000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!YOI2azq7HAev0hDv.dCidiFGg6BpSPqIK"
+    },
+    {
+      "_id": "VXXL9RS2P4NFS81Q",
+      "name": "Conjunctions, Omens, and Campaign Clocks",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">One full moon is power. Two are politics. Three are history.</p>\n<h3>Two Moons in Strength</h3>\n<p>When two Orders stand in high sanction, their rivalry becomes visible. The Conclave schedules contested votes then only when it wants both sides confident enough to bargain. Joint rituals gain stability if the casters agree on purpose and become volatile if they agree only on wording. No extra numerical bonus is required; use the conjunction to justify larger magic and sharper demands.</p>\n<h3>One High, One Low</h3>\n<p>This is the calendar of coups, arrests, challenges, and surprise diplomacy. An Order in strength will insist that timing is coincidence. An Order in weakness will have prepared for the insult. Before an important wizard conflict, ask which side chose the date. The answer tells you who believes they are in control.</p>\n<h3>The Night of the Eye</h3>\n<p>All three full moons do not make every spell automatically succeed. They remove ceilings. A working may reach farther, bind more participants, or alter something normally too deeply rooted to move. The cost and the required decision remain. In fact, power on this scale should make consent and purpose more important, because there is no technical failure left to blame.</p>\n<h3>Campaign Clock</h3>\n<table class=\"wy-table\"><thead><tr><th>Time remaining</th><th>Signal</th><th>Escalation</th></tr></thead><tbody>\n<tr><td>Six sessions</td><td>An astrologer names the alignment and refuses to explain why they are afraid.</td><td>Factions begin acquiring components and securing promises.</td></tr>\n<tr><td>Four sessions</td><td>Two unrelated enemies choose the same deadline.</td><td>The Conclave restricts travel through Wayreth.</td></tr>\n<tr><td>Two sessions</td><td>Ritual sites are occupied; missing relics surface.</td><td>Every faction offers the party a version of the truth.</td></tr>\n<tr><td>One session</td><td>The moons are visible together before dawn.</td><td>Plans can no longer remain secret without becoming irrelevant.</td></tr>\n<tr><td>Tonight</td><td>The widget marks all three full.</td><td>Ask what each major NPC attempts while impossibility is briefly negotiable.</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!YOI2azq7HAev0hDv.VXXL9RS2P4NFS81Q"
     },
     {
       "_id": "VyQFmJZ3WYGUXUCB",
@@ -80,11 +129,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 300000,
+      "sort": 500000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!YOI2azq7HAev0hDv.VyQFmJZ3WYGUXUCB"
     },
     {
@@ -97,7 +147,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The module tracks the Krynn calendar on screen so you are not doing lunar arithmetic mid-session.</p>\n<h3>The Calendar</h3>\n<p>A year on Krynn is 336 days &mdash; twelve months of twenty-eight days, four seven-day weeks to the month. Month names are configurable between <strong>Solamnic</strong> (Newkolt, Deepkolt, Brookgreen&hellip;), <strong>Ergothi</strong> (Aelmont, Rannmont, Mishamont&hellip;), and <strong>Elven</strong> (Winter Night, Winter Deep, Spring Dawning&hellip;). It defaults to Solamnic and to the year 351 AC, where <em>Shadow of the Dragon Queen</em> opens.</p>\n<h3>Using It</h3>\n<ul>\n<li><strong>Arrows</strong> step a day at a time. GM only; players see the result immediately.</li>\n<li><strong>The cog</strong> opens the controls &mdash; set an exact date, jump by week or month, or jump straight to the next Night of the Eye.</li>\n<li><strong>Drag it</strong> anywhere. Position is saved per user, so your screen layout is yours.</li>\n<li><strong>Hover a moon</strong> for its phase, its Order, and whether it is in sanction.</li>\n</ul>\n<p>A moon in high sanction is ringed in gold. A moon in low sanction is ringed in crimson. When all three come full the whole widget lights and a banner appears, and a chat message goes out if you have left that setting on.</p>\n<h3>Settings</h3>\n<table class=\"wy-table\">\n<thead><tr><th>Setting</th><th>What it does</th></tr></thead>\n<tbody>\n<tr><td>Starting Year</td><td>The year the calendar begins at. Default 351 AC.</td></tr>\n<tr><td>Calendar Names</td><td>Solamnic, Ergothi, or Elven month names.</td></tr>\n<tr><td>Moon Offsets</td><td>Shifts each moon's phase in days. Use these to line the moons up with wherever your campaign already is.</td></tr>\n<tr><td>Show Calendar to Players</td><td>Off makes it GM-only. The GM always sees it.</td></tr>\n<tr><td>Show Nuitari to Players</td><td>Off by default. The black moon is invisible to all but those who serve it.</td></tr>\n<tr><td>Announce the Night of the Eye</td><td>Posts to chat when the moons align.</td></tr>\n<tr><td>Show the Calendar Widget</td><td>Per-user. Hides the widget for yourself without disabling the module.</td></tr>\n</tbody>\n</table>\n<h3>For Other Modules and Macros</h3>\n<p>The calendar exposes an API at <code>game.modules.get(\"wayreth-black-master\").api</code>, also aliased to <code>WayrethCalendar</code>:</p>\n<table class=\"wy-table\">\n<thead><tr><th>Call</th><th>Returns</th></tr></thead>\n<tbody>\n<tr><td><code>getDate()</code></td><td>Year, month, day, month name, weekday</td></tr>\n<tr><td><code>getMoons()</code></td><td>All three moons with phase and sanction</td></tr>\n<tr><td><code>sanctionFor(\"black\")</code></td><td><code>\"high\"</code>, <code>\"low\"</code>, or <code>null</code></td></tr>\n<tr><td><code>isNightOfTheEye()</code></td><td>Boolean</td></tr>\n<tr><td><code>daysToNightOfTheEye()</code></td><td>Days until the next alignment</td></tr>\n<tr><td><code>advance(days)</code></td><td>Moves the date. GM only.</td></tr>\n<tr><td><code>setDate(year, month, day)</code></td><td>Sets an exact date. GM only.</td></tr>\n</tbody>\n</table>\n<p>The hook <code>wayrethCalendarChanged</code> fires on every date change with the full state, so you can drive automation off it.</p>\n<section class=\"secret\">\n<h3>DM Note &mdash; The 504-Day Question</h3>\n<p>The published sources disagree with themselves. Some give the Night of the Eye as occurring every 420 days, but the three cycles are 36, 28, and 8 days, and those only come full together every <strong>504</strong> days &mdash; which is what the 3.5 Campaign Setting states and what the widget computes.</p>\n<p>If your campaign needs the alignment on a particular date regardless, use the moon offsets to move it rather than fighting the arithmetic.</p>\n</section>\n</div>"
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The module tracks the Krynn calendar on screen so you are not doing lunar arithmetic mid-session.</p>\n<h3>The Calendar</h3>\n<p>A year on Krynn is 336 days &mdash; twelve months of twenty-eight days, four seven-day weeks to the month. Month names are configurable between <strong>Solamnic</strong> (Newkolt, Deepkolt, Brookgreen&hellip;), <strong>Ergothi</strong> (Aelmont, Rannmont, Mishamont&hellip;), and <strong>Elven</strong> (Winter Night, Winter Deep, Spring Dawning&hellip;). It defaults to Solamnic and to the year 350 AC, where <em>Shadow of the Dragon Queen</em> opens.</p>\n<h3>Using It</h3>\n<ul>\n<li><strong>Arrows</strong> step a day at a time. GM only; players see the result immediately.</li>\n<li><strong>The cog</strong> opens the controls &mdash; set an exact date, jump by week or month, or jump straight to the next Night of the Eye.</li>\n<li><strong>Drag it</strong> anywhere. Position is saved per user, so your screen layout is yours.</li>\n<li><strong>Hover a moon</strong> for its phase, its Order, and whether it is in sanction.</li>\n</ul>\n<p>A moon in high sanction is ringed in gold. A moon in low sanction is ringed in crimson. When all three come full the whole widget lights and a banner appears, and a chat message goes out if you have left that setting on.</p>\n<h3>Settings</h3>\n<table class=\"wy-table\">\n<thead><tr><th>Setting</th><th>What it does</th></tr></thead>\n<tbody>\n<tr><td>Starting Year</td><td>The year the calendar begins at. Default 350 AC.</td></tr>\n<tr><td>Calendar Names</td><td>Solamnic, Ergothi, or Elven month names.</td></tr>\n<tr><td>Moon Offsets</td><td>Shifts each moon's phase in days. Use these to line the moons up with wherever your campaign already is.</td></tr>\n<tr><td>Show Calendar to Players</td><td>Off makes it GM-only. The GM always sees it.</td></tr>\n<tr><td>Show Nuitari to Players</td><td>Off by default. The black moon is invisible to all but those who serve it.</td></tr>\n<tr><td>Announce the Night of the Eye</td><td>Posts to chat when the moons align.</td></tr>\n<tr><td>Show the Calendar Widget</td><td>Per-user. Hides the widget for yourself without disabling the module.</td></tr>\n</tbody>\n</table>\n<h3>For Other Modules and Macros</h3>\n<p>The calendar exposes an API at <code>game.modules.get(\"wayreth-black-master\").api</code>, also aliased to <code>WayrethCalendar</code>:</p>\n<table class=\"wy-table\">\n<thead><tr><th>Call</th><th>Returns</th></tr></thead>\n<tbody>\n<tr><td><code>getDate()</code></td><td>Year, month, day, month name, weekday</td></tr>\n<tr><td><code>getMoons()</code></td><td>All three moons with phase and sanction</td></tr>\n<tr><td><code>sanctionFor(\"black\")</code></td><td><code>\"high\"</code>, <code>\"low\"</code>, or <code>null</code></td></tr>\n<tr><td><code>isNightOfTheEye()</code></td><td>Boolean</td></tr>\n<tr><td><code>daysToNightOfTheEye()</code></td><td>Days until the next alignment</td></tr>\n<tr><td><code>advance(days)</code></td><td>Moves the date. GM only.</td></tr>\n<tr><td><code>setDate(year, month, day)</code></td><td>Sets an exact date. GM only.</td></tr>\n</tbody>\n</table>\n<p>The hook <code>wayrethCalendarChanged</code> fires on every date change with the full state, so you can drive automation off it.</p>\n<section class=\"secret\">\n<h3>DM Note &mdash; The 504-Day Question</h3>\n<p>The published sources disagree with themselves. Some give the Night of the Eye as occurring every 420 days, but the three cycles are 36, 28, and 8 days, and those only come full together every <strong>504</strong> days &mdash; which is what the 3.5 Campaign Setting states and what the widget computes.</p>\n<p>If your campaign needs the alignment on a particular date regardless, use the moon offsets to move it rather than fighting the arithmetic.</p>\n</section>\n</div>"
       },
       "image": {},
       "video": {
@@ -106,12 +156,48 @@
       },
       "src": null,
       "system": {},
-      "sort": 400000,
+      "sort": 600000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!YOI2azq7HAev0hDv.KbINc2vxOODjOfAD"
+    },
+    {
+      "_id": "cd8myCewrIKF7Tqj",
+      "name": "Other Worlds: Toril and Oerth",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The calendar widget is not Krynn-only. <strong>Calendar System</strong> in module settings switches the whole engine &mdash; months, week, year suffix and moons.</p>\n<table class=\"wy-table\">\n<thead><tr><th>System</th><th>Year</th><th>Week</th><th>Moons</th></tr></thead>\n<tbody>\n<tr><td><strong>Krynn</strong> (Solamnic, Ergothi or Elven names)</td><td>336 days &mdash; twelve 28-day months</td><td>7 days</td><td>Solinari 36 &middot; Lunitari 28 &middot; Nuitari 8</td></tr>\n<tr><td><strong>Toril</strong> &mdash; Calendar of Harptos</td><td>365 days &mdash; twelve 30-day months and five festival days</td><td>10-day tenday</td><td>Sel&ucirc;ne, 30 days</td></tr>\n<tr><td><strong>Oerth</strong> &mdash; Greyhawk Common Year</td><td>364 days &mdash; twelve 28-day months and four 7-day festivals</td><td>7 days</td><td>Luna 28 &middot; Celene 91</td></tr>\n</tbody>\n</table>\n<h3>What Changes With the System</h3>\n<ul>\n<li><strong>Festival days are real days.</strong> Harptos's Midwinter and Greyhawk's Needfest appear in the month picker and the widget marks them.</li>\n<li><strong>Year suffix follows the world</strong> &mdash; AC on Krynn, DR on Toril, CY on Oerth.</li>\n<li><strong>Sanction is Krynn-only.</strong> On Toril and Oerth the rings still mark full and new moons, but they are labelled Full and New rather than High and Low Sanction, and the mechanics in this journal do not apply.</li>\n<li><strong>Moon offsets</strong> in settings only affect the Krynn moons. Sel&ucirc;ne, Luna and Celene are pre-set to their canonical positions.</li>\n</ul>\n<h3>Alignments</h3>\n<p><strong>Krynn:</strong> the Night of the Eye, every 504 days.</p>\n<p><strong>Oerth:</strong> Luna and Celene come full together on <strong>Richfest 4</strong> &mdash; once every 364 days, so once a year, every year. Celene is also full on the fourth day of each of the four festival weeks, and Luna is full on Fireseek 11.</p>\n<p><strong>Toril:</strong> none. A single moon has nothing to align with, so the alignment banner and chat announcement are disabled.</p>\n<section class=\"secret\">\n<h3>DM Note</h3>\n<p>Switching systems does not convert the current date &mdash; it reinterprets the same absolute day count against a different year length, so the displayed date will jump. Set the date again after switching.</p>\n<p>The scene darkness sync, the clock and the moonlight setting all work identically on every calendar.</p>\n</section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!YOI2azq7HAev0hDv.cd8myCewrIKF7Tqj"
     }
-  ]
+  ],
+  "folder": null,
+  "sort": 1400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!YOI2azq7HAev0hDv"
 }

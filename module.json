@@ -1,12 +1,11 @@
 {
   "id": "wayreth-black-master",
   "title": "Wayreth: The Black Master",
-  "description": "A campaign supplement for Dragonlance: Shadow of the Dragon Queen. The history of High Sorcery, the Conclave and the Orders, the Test of High Sorcery converted to D&D 5e (2014), and the Tower of Wayreth under a Black Robe Master. Includes a bespoke Test generator, the Marks table, and a Krynn calendar widget tracking the date and all three moons.",
-  "version": "1.2.0",
+  "description": "Master of the Black Tower — a full levels 1–20 Dragonlance campaign for D&D 5e (2014). Six session-by-session arcs from Vogler to the Abyss, 365 managed journal pages, the Test of High Sorcery, 90 robe spells, 30 magic items, six Crow legacy items whose features unlock with character level, a fully illustrated 81-creature bestiary with art and sized tokens, three fully detailed roads to Wayreth, a GM-only campaign tracker board, and a docked multi-world calendar (Krynn, Toril or Oerth) with date, time, moons and per-scene darkness syncing.",
+  "version": "1.34.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "14",
-    "maximum": "14"
+    "verified": "14"
   },
   "authors": [
     {
@@ -27,43 +26,17 @@
       }
     ]
   },
-  "packs": [
-    {
-      "name": "wayreth-journals",
-      "label": "Wayreth: The Black Master",
-      "banner": "",
-      "path": "packs/wayreth-journals",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "TRUSTED": "OBSERVER",
-        "ASSISTANT": "OWNER",
-        "GAMEMASTER": "OWNER"
-      },
-      "flags": {}
-    }
-  ],
-  "packFolders": [
-    {
-      "name": "Wayreth",
-      "sorting": "m",
-      "color": "#8b1a1a",
-      "packs": [
-        "wayreth-journals"
-      ]
-    }
-  ],
   "styles": [
     "styles/wayreth.css",
     "styles/calendar.css"
   ],
   "url": "https://github.com/pacts-and-polyhedrals/wayreth-black-master",
   "manifest": "https://github.com/pacts-and-polyhedrals/wayreth-black-master/releases/latest/download/module.json",
-  "download": "https://github.com/pacts-and-polyhedrals/wayreth-black-master/releases/download/v1.2.0/module.zip",
+  "download": "https://github.com/pacts-and-polyhedrals/wayreth-black-master/releases/download/v1.34.0/module.zip",
   "license": "Private campaign material. Not for distribution.",
   "flags": {},
   "esmodules": [
-    "scripts/wayreth-calendar.mjs"
+    "scripts/wayreth-calendar.mjs",
+    "scripts/wayreth-journals.mjs"
   ]
 }

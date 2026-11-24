@@ -1,0 +1,500 @@
+{
+  "_id": "HG0F4DxvvrFcWhEY",
+  "name": "Arc VI: Master of Past and Present",
+  "pages": [
+    {
+      "_id": "EoWM610Sg67rrie9",
+      "name": "Arc VI Overview: Master of Past and Present",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Levels 18–20 · default 10 sessions · expandable to 12. The campaign ends where every earlier question converges: who owns a soul, what Wayreth means by survival, and whether Raistlin can love Caramon without possessing him.</p>\n<p>Do not reduce the finale to “stop Raistlin from becoming evil.” By Arc VI the party may sincerely trust him, fear him, owe him lives, disagree with him, admire him, or all five at once. The final arc must honour that complexity.</p>\n<h3>Default Structure</h3><table class=\"wy-table\">\n<thead><tr><th>Sessions</th><th>Movement</th><th>Purpose</th></tr></thead>\n<tbody>\n<tr><td>1</td><td>Fistandantilus speaks</td><td>Reveal the architect and the interception of Caramon</td></tr>\n<tr><td>2</td><td>Wayreth’s Confession</td><td>Reveal the Tower’s survival blind spot</td></tr>\n<tr><td>3–4</td><td>Siege of Two Towers</td><td>Force strategic choices; Level 19</td></tr>\n<tr><td>5</td><td>Caramon’s Will</td><td>Give Caramon explicit agency immediately before the Abyss</td></tr>\n<tr><td>6</td><td>Into the Abyss</td><td>Cross the Portal</td></tr>\n<tr><td>7</td><td>Field of Lost Names</td><td>Identity and memory</td></tr>\n<tr><td>8</td><td>Palace of Chains</td><td>Destroy or preserve Dominion engine</td></tr>\n<tr><td>9</td><td>Past and Present</td><td>Raistlin / Fistandantilus confrontation</td></tr>\n<tr><td>10</td><td>Queen of Darkness</td><td>Final battle, decision, ending; Level 20</td></tr>\n</tbody>\n</table><p>Sessions 11–12 are optional epilogue sessions: one for immediate aftermath and one for political/magical settlement of the Orders, Towers, Returned and Caramon.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.EoWM610Sg67rrie9"
+    },
+    {
+      "_id": "RTrCTxJxDrMsMtTP",
+      "name": "Finale Tracker Resolution",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The tracker board determines what arguments, doors and options are available. It does not choose the ending for the players.</p>\n<table class=\"wy-table\"><thead><tr><th>Tracker</th><th>High Value</th><th>Low Value</th></tr></thead><tbody>\n<tr><td>Raistlin Trust</td><td>Raistlin reveals plans, accepts private challenge, gives party time before irreversible acts.</td><td>He compartmentalises, sets contingencies and assumes interference.</td></tr>\n<tr><td>Raistlin Control</td><td>He sees domination as safety and may defend Dominion.</td><td>He has evidence that consent can survive crisis and seeks alternatives.</td></tr>\n<tr><td>Fistandantilus Influence</td><td>The Dark One’s language feels familiar and persuasive to Raistlin.</td><td>Raistlin recognises the philosophy as someone else’s pattern sooner.</td></tr>\n<tr><td>White Robe Bond</td><td>At +6 he listens in the Abyss; at +9 he asks before the worst act.</td><td>He sees the White Robe as Par-Salian’s successor rather than an independent moral authority.</td></tr>\n<tr><td>Wayreth Accord</td><td>At +5 doors open; at +8 the Tower may act against a direct instruction to preserve a freer future.</td><td>Wayreth treats the party as external agents and obeys its Master.</td></tr>\n<tr><td>War State</td><td>High values make every delay costly and increase Takhisis’s leverage.</td><td>Low values give the party more freedom to reject emergency logic.</td></tr>\n</tbody></table>\n<h3>Rule</h3><p>Never say “your tracker is too low, so Raistlin ignores you.” Instead, show why he does not trust that argument yet and give the players a final chance to earn a change through action.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.RTrCTxJxDrMsMtTP"
+    },
+    {
+      "_id": "QshTDNJou8YhZIJH",
+      "name": "Abyss Final-Dungeon Rules",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The Abyss is not another underground complex. It is a hostile metaphysical environment that turns the campaign’s themes into geography.</p>\n<h3>Three Laws</h3><ol>\n<li>Names are anchors. A creature whose true identity is lost becomes easier for the plane to reshape.</li>\n<li>Promises have weight. Spoken bargains can become chains, doors or wounds.</li>\n<li>Memory is terrain. Places can be built from grief, love, debt or fear and change when those memories are challenged.</li>\n</ol><h3>Using the Three Components</h3><table class=\"wy-table\">\n<thead><tr><th>Artifact</th><th>Abyss Use</th></tr></thead>\n<tbody>\n<tr><td>Heart of Memory</td><td>Restores identity erased or distorted by the plane</td></tr>\n<tr><td>Chronicle of the Unbroken Hour</td><td>Keeps the party connected to one another across temporal breaks</td></tr>\n<tr><td>Bell of True Names</td><td>Calls a lost soul back to itself; breaks false identities and ownership claims</td></tr>\n</tbody>\n</table><h3>Failure Without Dead Ends</h3><p>A failed scene should cost memory, time, a promise, an ally, position or tracker leverage—not simply make the next door impossible. The finale must keep moving.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.QshTDNJou8YhZIJH"
+    },
+    {
+      "_id": "aWasNhML7yhgPbMv",
+      "name": "Wayreth’s Confession: GM Guide",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Wayreth does not become a talking castle with ordinary emotions. Its confession is delivered through future projections, ward logic and responses to the White Robe.</p>\n<h3>What the Tower Admits</h3><p>It examined possible futures as war, dragons and magical catastrophe threatened the Orders. Raistlin appeared in more survival futures than any other viable Master. It therefore chose him.</p>\n<h3>What It Cannot Understand</h3><p>The Tower’s core objective is continuation of High Sorcery. It cannot inherently distinguish:</p><blockquote class=\"wy-quote\"><p>High Sorcery surviving freely.</p></blockquote><p>from</p><blockquote class=\"wy-quote\"><p>High Sorcery surviving under the absolute domination of a single immortal Master.</p></blockquote><p>Both satisfy survival.</p>\n<h3>The White Robe’s Role</h3><p>The White Robe is not asked to replace Raistlin merely because they are White. They are asked whether survival is an adequate objective when freedom, consent and responsibility are part of what makes the institution worth preserving.</p>\n<h3>High Accord</h3><p>At Wayreth Accord +8, the party has provided the Tower with enough experiential evidence to recognise a new variable: <strong>preservation of autonomous practitioners</strong>. That lets it disobey a future order that would preserve magic only through total control.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.aWasNhML7yhgPbMv"
+    },
+    {
+      "_id": "rJRStPM8bHVC1aWc",
+      "name": "Final NPC Agendas",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Everyone enters the final arc wanting something different. None should collapse into a single “good side” or “evil side.”</p>\n<table class=\"wy-table\"><thead><tr><th>NPC / Force</th><th>Wants</th><th>Will Not Freely Accept</th></tr></thead><tbody>\n<tr><td>Raistlin</td><td>Caramon safe, Takhisis defeated, High Sorcery preserved, no future loss beyond his control.</td><td>Being powerless again.</td></tr>\n<tr><td>Caramon</td><td>To decide whether to live, to love his brother without being owned, to stop Raistlin from destroying himself.</td><td>Being used as proof that Dominion is justified.</td></tr>\n<tr><td>Fistandantilus</td><td>Raistlin to complete his philosophy voluntarily and thereby vindicate him.</td><td>The idea that anything valuable can be allowed to leave.</td></tr>\n<tr><td>Takhisis</td><td>Portal control, destruction/submission of both Towers, removal of rival claim to death and Abyssal power.</td><td>A mortal redefining the limits of divine authority.</td></tr>\n<tr><td>Wayreth</td><td>High Sorcery survives.</td><td>Extinction of the Art.</td></tr>\n<tr><td>White Robe PC</td><td>Player-defined by now.</td><td>Do not prescribe this. The campaign is testing their philosophy too.</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.rJRStPM8bHVC1aWc"
+    },
+    {
+      "_id": "qG0elvPZQTLcCfd1",
+      "name": "d12 Abyssal Manifestations",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Use these to make the plane react to the campaign history rather than generating unrelated fiend encounters.</p>\n<table class=\"wy-table\"><thead><tr><th>d12</th><th>Manifestation</th></tr></thead><tbody>\n<tr><td>1</td><td>A road sign points toward a PC's childhood home and the Palace of Chains in the same direction.</td></tr>\n<tr><td>2</td><td>A dead NPC asks the party to remember one detail everyone has forgotten.</td></tr>\n<tr><td>3</td><td>A spoken promise appears as a chain around the speaker's wrist until fulfilled or renounced.</td></tr>\n<tr><td>4</td><td>The moons of Krynn appear for one minute, all at low sanction, then vanish.</td></tr>\n<tr><td>5</td><td>Caramon hears Raistlin's childhood voice rather than the adult one.</td></tr>\n<tr><td>6</td><td>A mirror shows the Black Peace ending as a prosperous city with no visible prisons.</td></tr>\n<tr><td>7</td><td>A name carved into stone is one of the party's old Ispin-adventure NPCs.</td></tr>\n<tr><td>8</td><td>The Heart of Memory grows warm near a lie someone believes about themselves.</td></tr>\n<tr><td>9</td><td>The Chronicle shows a route that takes an hour but costs one remembered day.</td></tr>\n<tr><td>10</td><td>The Bell rings without being touched when a bound soul says “no.”</td></tr>\n<tr><td>11</td><td>Wayreth's bells sound impossibly far away, indicating the mortal link still holds.</td></tr>\n<tr><td>12</td><td>A field of black grass bends toward Raistlin as though he already rules it.</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.qG0elvPZQTLcCfd1"
+    },
+    {
+      "_id": "el9PqM7sz9CB30mg",
+      "name": "Final Consequence Matrix",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Use this before Session 10 so every major campaign system has an explicit place in the ending.</p>\n<table class=\"wy-table\"><thead><tr><th>System</th><th>Question at Finale</th><th>Possible Consequence</th></tr></thead><tbody>\n<tr><td>Caramon</td><td>Is his refusal genuinely possible?</td><td>Remains, departs, or lives independently.</td></tr>\n<tr><td>Returned</td><td>Was Dominion removed/redesigned?</td><td>Free restored community, unstable lives, or controlled military caste.</td></tr>\n<tr><td>Black Host</td><td>Were relationships contracts or ownership?</td><td>Allies depart, pacts continue, or bound army remains.</td></tr>\n<tr><td>Wayreth</td><td>Did survival gain an autonomy criterion?</td><td>Supports Raistlin, checks him, or chooses new governance.</td></tr>\n<tr><td>Palanthas Tower</td><td>Who controls the Portal?</td><td>Reopened Lore-spire, sealed Doom-spire, Raistlin's private Tower, or severed Portal.</td></tr>\n<tr><td>White Robes</td><td>Did they learn from their treatment of Raistlin?</td><td>Reform, backlash, or renewed orthodoxy.</td></tr>\n<tr><td>War State</td><td>How much of Ansalon was saved before the finale?</td><td>Changes political cost and reconstruction.</td></tr>\n<tr><td>Fistandantilus</td><td>Was his philosophy actually rejected?</td><td>Destroyed, trapped, inherited, or left as a surviving idea.</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.el9PqM7sz9CB30mg"
+    },
+    {
+      "_id": "G3QGnNjmQaVasSwP",
+      "name": "Session 1: Fistandantilus Speaks",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 1 · Level 18 · 4 hours.</strong> Reveal that the Dark One deliberately arranged the research trail and intercepted Caramon’s displaced soul.</p>\n<h3>Opening Image</h3>\n<p>The first direct manifestation occurs in a place Raistlin believes secure: his Palanthas laboratory. A reflection in the Portal continues moving after everyone else stops.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Fistandantilus</li>\n<li>Raistlin</li>\n<li>Caramon</li>\n<li>Party</li>\n<li>White Robe PC</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. The Manifestation</h4>\n<p>Fistandantilus does not possess Raistlin. He appears as an independent intelligence using the Portal, old wards and accumulated ritual connections.</p>\n<h4>2. The Claim</h4>\n<p>He states that the clues were positioned, the fragments preserved, the prophecy cultivated. Raistlin’s research was not accidental.</p>\n<h4>3. Caramon Revealed</h4>\n<p>He admits he found Caramon’s displaced soul after Silvanesti and prevented it from returning to the normal flow of death, knowing Raistlin would follow.</p>\n<h4>4. The Offer</h4>\n<p>He does not ask Raistlin to surrender his body. He asks him to finish the work and prove that loss itself can be defeated by possession.</p>\n<h4>5. Break</h4>\n<p>Raistlin attacks the manifestation or seals the Portal, but cannot erase what was said.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Fistandantilus has been an active architect across centuries.</li>\n<li>Caramon’s unreachable state was engineered after the original catastrophe.</li>\n<li>The Dark One wants voluntary philosophical succession, not crude possession.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Fistandantilus Influence now becomes active in dialogue. High Influence makes his language feel like conclusions Raistlin already reached; low Influence lets Raistlin recognise the manipulation faster. Trust +1 if the party tells Raistlin the manipulation does not erase his responsibility or grief.</p>\n<h3>End Beat</h3>\n<p>Caramon asks the party to meet him without Raistlin present.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The reveal does not absolve Raistlin. Fistandantilus manipulated the road, but every step after discovery still involved choices.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.G3QGnNjmQaVasSwP"
+    },
+    {
+      "_id": "ef6bMVkraxoBPr2F",
+      "name": "Session 2: Wayreth’s Confession",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 2 · Level 18 · 4 hours.</strong> Reveal why Wayreth chose Raistlin and give the party a mechanism for changing the Tower’s definition of survival.</p>\n<h3>Opening Image</h3>\n<p>The doorway from Palanthas opens into Wayreth without crossing the miles between them. The Tower has never done this for the party before.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Wayreth intelligence/wards</li>\n<li>White Robe PC</li>\n<li>Party</li>\n<li>Par-Salian optional</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. The Archive of Futures</h4>\n<p>Show thousands of rapidly changing projections: Towers destroyed, Orders fractured, dragons triumphant, High Sorcery erased.</p>\n<h4>2. Raistlin Recurs</h4>\n<p>In a small but significant subset, High Sorcery survives. Raistlin appears more often than any other Master candidate.</p>\n<h4>3. The Blind Spot</h4>\n<p>Show two futures the Tower scores equally: a free Conclave surviving and an immortal Raistlin ruling every wizard. Both preserve High Sorcery.</p>\n<h4>4. The White Robe’s Question</h4>\n<p>Ask what the Tower failed to measure. Let the player define the missing principle in their own words.</p>\n<h4>5. Accord Test</h4>\n<p>At high Accord, the Tower integrates the new criterion. At lower Accord, it records the argument but cannot yet elevate it over existing Master authority.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Wayreth chose survival probability, not goodness.</li>\n<li>The Tower cannot make moral judgments unless those values become operational criteria.</li>\n<li>Raistlin’s appointment was not a secret coup or simple corruption.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Wayreth Accord +2 for a concrete, operational answer to what preservation should mean. White Robe Bond may rise later when Raistlin learns what the White Robe told his Tower.</p>\n<h3>End Beat</h3>\n<p>The future archive abruptly goes black. Two red points remain: Wayreth and Palanthas, both under attack.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>This is the philosophical counterpart to the Garden Incident. The party now understands the Tower’s choice well enough to challenge it.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.ef6bMVkraxoBPr2F"
+    },
+    {
+      "_id": "qIodz8IxzLePy2K5",
+      "name": "Session 3: The Siege of Two Towers I",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 3 · Level 18 · 5 hours.</strong> Begin simultaneous assaults and force the party to allocate people, artifacts and magical resources.</p>\n<h3>Opening Image</h3>\n<p>Every sending crystal activates at once. Wayreth reports multiple Forest breaches. Palanthas reports dragons over the harbour and cult activity near the Shoikan district.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Raistlin</li>\n<li>Caramon</li>\n<li>Par-Salian/Justarius/Ladonna</li>\n<li>Palanthas command</li>\n<li>Wayreth defenders</li>\n<li>Takhisis forces</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Two Maps</h4>\n<p>Physically present both crisis maps/abstract tracks. The party cannot personally occupy both Towers at once without spending rare movement resources.</p>\n<h4>2. Allocate Assets</h4>\n<p>Black Host, Returned volunteers, Knights, Order mages, party allies and named NPCs must be assigned.</p>\n<h4>3. Wayreth Objective</h4>\n<p>Prevent enemy magical teams from forcing a permanent contact point into the Forest.</p>\n<h4>4. Palanthas Objective</h4>\n<p>Prevent cultists/Dragonarmy agents reaching the Portal support levels while dragons attack conventional defences.</p>\n<h4>5. Raistlin’s Proposal</h4>\n<p>He offers to use the Portal to move forces instantly, but doing so opens a larger Abyssal aperture during battle.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Takhisis understands both Towers are parts of one strategic system.</li>\n<li>The party’s earlier allies materially affect available resources.</li>\n<li>Every extreme shortcut strengthens the Portal’s connection to the Abyss.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>War State ±1 from each theatre’s outcome. Control ±1 if party chooses or rejects coercive shortcuts; Trust responds to competence and honesty rather than agreement.</p>\n<h3>End Beat</h3>\n<p>Whichever theatre received fewer resources suffers a breach that becomes Session 5’s primary crisis.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The finale forces choices with opportunity cost. The party cannot save everything by simply being high level.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.qIodz8IxzLePy2K5"
+    },
+    {
+      "_id": "gfpbvAcobgOWD88n",
+      "name": "Session 4: The Siege of Two Towers II",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 4 · Level 19 · 5 hours.</strong> Resolve the simultaneous siege, elevate the party to Level 19, and make the cost of delaying the Abyss expedition clear.</p>\n<h3>Opening Image</h3>\n<p>Smoke, magical darkness and moving forest paths make both battles feel unlike ordinary sieges. The party arrives at the crisis they could not prevent in Session 4.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Theatre-specific allies</li>\n<li>Takhisis elite commander</li>\n<li>Raistlin</li>\n<li>Caramon</li>\n<li>Wayreth/Palanthas Tower systems</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Breach</h4>\n<p>Use the weaker theatre from prior allocation: Wayreth archive incursion or Palanthas lower-seal penetration.</p>\n<h4>2. Tower Choice</h4>\n<p>At high Accord, Wayreth may disobey a destructive defensive order to preserve autonomous allies. At low Accord, Raistlin must explicitly countermand it.</p>\n<h4>3. Portal Surge</h4>\n<p>Takhisis briefly reaches through the larger aperture. Her presence is felt before her avatar is seen.</p>\n<h4>4. Strategic Victory</h4>\n<p>The party closes mortal-world attacks but learns the assaults will repeat while Takhisis can pressure the Portal from the other side.</p>\n<h4>5. Decision</h4>\n<p>Raistlin concludes the war cannot be won defensively. They must enter the Abyss and destroy the dominion machinery/Fistandantilus threat at its source.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Takhisis can use Portal instability to project force.</li>\n<li>Neither Tower can remain in permanent siege indefinitely.</li>\n<li>The next phase must be offensive and planar.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 19. War State stabilises based on victory. Wayreth Accord pays off here; if low, let the party earn one last increase through saving Tower inhabitants rather than merely walls.</p>\n<h3>End Beat</h3>\n<p>Raistlin opens the Portal fully enough to show a horizon that cannot exist beneath any sky on Krynn.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The mortal war is temporarily held. The campaign leaves Krynn to decide what kind of victory will return.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.gfpbvAcobgOWD88n"
+    },
+    {
+      "_id": "nQeWv5sE6TSotdE8",
+      "name": "Session 5: Caramon’s Will",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 5 · Level 18 · 3–4 hours.</strong> Give Caramon a private voice independent of both Raistlin and Fistandantilus before the final strategic crisis.</p>\n<h3>Opening Image</h3>\n<p>Caramon chooses somewhere ordinary for the conversation if possible: kitchen, quiet inn room, training yard. He does not want to discuss his soul in a laboratory.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Caramon</li>\n<li>Party</li>\n<li>Optional one trusted family/friend echo or survivor</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. What He Remembers</h4>\n<p>He remembers Silvanesti, death, fragments of being called, and waking. He does not remember Fistandantilus’s captivity as coherent time.</p>\n<h4>2. The Question</h4>\n<p>He tells the party: “I don’t know whether I came back because I wanted to.” Let the silence work.</p>\n<h4>3. What He Wants</h4>\n<p>Caramon may want to live, may be uncertain, or may ultimately want release. Let this be shaped by how the players have treated him, not a fixed answer. His non-negotiable demand is the ability to choose.</p>\n<h4>4. The Ask</h4>\n<p>He asks the party to make Raistlin hear him without turning the brothers into enemies if that can be avoided.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Caramon loves Raistlin.</li>\n<li>He does not equate love with consent to the ritual.</li>\n<li>He is prepared to oppose Dominion but not automatically prepared to die.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>White Robe Bond can rise if the PC listens to Caramon rather than using him as moral evidence. Raistlin Control may later fall if the party carries Caramon’s wishes accurately.</p>\n<h3>End Beat</h3>\n<p>Before the conversation ends, Wayreth sends an impossible message: a door appears in the wall where there was none, opening onto its deepest archive.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Caramon is not the campaign’s moral prop. This session gives the player group a person whose wishes may complicate every preferred ending.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.nQeWv5sE6TSotdE8"
+    },
+    {
+      "_id": "yew8eR0JIjBsgkxu",
+      "name": "Session 6: Into the Abyss",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 6 · Level 19 · 4 hours.</strong> Cross the Portal, establish Abyssal laws, and separate the party from ordinary logistical support.</p>\n<h3>Opening Image</h3>\n<p>The Portal opens like a wound becoming a doorway. On the other side is a plain under a sky with no moon. Names spoken aloud echo for too long.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Raistlin</li>\n<li>Party</li>\n<li>Caramon optional but strongly recommended</li>\n<li>Abyssal guide/contact if Black Host relations good</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Last Preparations</h4>\n<p>Choose what comes through. Each component/artifact matters. Contacts may provide safe first steps if prior agreements were honoured.</p>\n<h4>2. Crossing</h4>\n<p>Every character must state their own name. The plane reacts differently to names spoken willingly versus titles imposed by others.</p>\n<h4>3. Cut the Line</h4>\n<p>Once across, ordinary sending to Krynn is unreliable. The Chronicle preserves the party’s temporal link back.</p>\n<h4>4. First Threat</h4>\n<p>A soul-storm attempts to strip memories/names rather than deal ordinary damage.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Identity has metaphysical weight in the Abyss.</li>\n<li>The three Long Return artifacts function as survival tools, not only ritual components.</li>\n<li>Fistandantilus’s dominion system is embedded deeper in the plane.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Trust +1 if Raistlin allows shared operational command. Control shifts if he insists Caramon remain or go against Caramon’s stated choice.</p>\n<h3>End Beat</h3>\n<p>A road appears made from engraved names, most of them crossed out.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The Abyss literalises the campaign: names, memories, promises and ownership become physical systems.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.yew8eR0JIjBsgkxu"
+    },
+    {
+      "_id": "8B7aERuIjljH8ZRf",
+      "name": "Session 7: The Field of Lost Names",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 7 · Level 19 · 4–5 hours.</strong> Use the Bell of True Names to rescue identity and show the scale of souls affected by Abyssal power.</p>\n<h3>Opening Image</h3>\n<p>Thousands of figures wander a colourless field. They respond to descriptions of who they were but not to names they no longer remember.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Lost souls</li>\n<li>A soul the party recognises from earlier campaign events</li>\n<li>Abyssal name-thief</li>\n<li>Raistlin/Caramon</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Recognition</h4>\n<p>The party sees at least one dead NPC from an earlier arc. Do not promise resurrection; simply let recognition matter.</p>\n<h4>2. Name-Thief</h4>\n<p>An entity hoards stolen names as objects. Defeating it by destruction risks scattering them permanently.</p>\n<h4>3. Use the Bell</h4>\n<p>The Bell can call individual true names back to their owners. Each ringing attracts attention from deeper powers.</p>\n<h4>4. Caramon Echo</h4>\n<p>If Caramon accompanies the party, the field tries to split “Caramon as Raistlin remembers him” from Caramon’s current self. The Heart of Memory repairs the distinction.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>A soul can be damaged by losing identity without being destroyed.</li>\n<li>The Bell restores recognition without issuing commands.</li>\n<li>Raistlin sees a working model of power that restores without possession.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Control -1–2 if the party/raistlin use the Bell to restore rather than claim names. Fistandantilus Influence falls 1 if Raistlin explicitly recognises that restoration did not require ownership.</p>\n<h3>End Beat</h3>\n<p>The freed names form a path to a palace whose towers are made from chains.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>This session supplies evidence for an alternative philosophy: power can return something to itself rather than to the caster.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.8B7aERuIjljH8ZRf"
+    },
+    {
+      "_id": "P2rzYZreYR74uXcc",
+      "name": "Session 8: The Palace of Chains",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 8 · Level 19 · 5 hours.</strong> Confront the physical mechanism behind Dominion resurrection and decide whether to destroy, seize or redesign it.</p>\n<h3>Opening Image</h3>\n<p>Every chain in the palace is attached to something invisible. Touching one produces a memory: a promise made under duress, a debt, a true name, a dead person being told to return.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Dominion engine</li>\n<li>Bound souls</li>\n<li>Fistandantilus projections</li>\n<li>Raistlin</li>\n<li>Caramon</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Map the Mechanism</h4>\n<p>The engine converts emotional/temporal anchors into ownership channels. The Long Return’s command flaw originates here.</p>\n<h4>2. Useful Power</h4>\n<p>Destroying it immediately will also sever several protections currently keeping Returned stable on Krynn. This prevents a trivial moral choice.</p>\n<h4>3. Redesign Option</h4>\n<p>With sufficient research and party creativity, the engine can be altered so anchors maintain connection without command authority. It is difficult and may require temporary sacrifice.</p>\n<h4>4. Raistlin’s Choice</h4>\n<p>High Control Raistlin argues to seize it until the war ends. Low Control/Bond Raistlin accepts destruction/redesign. Middling values produce a genuine argument.</p>\n<h4>5. Break the Chains</h4>\n<p>Resolve combat/puzzle against the engine’s guardians while the philosophical choice is implemented.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Dominion is a separate layer imposed on restoration.</li>\n<li>The Returned can potentially survive without obedience if the engine is redesigned.</li>\n<li>Fistandantilus built metaphysical possession into his system deliberately.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Control can move ±3. White Robe Bond +1–2 if the PC offers a technically credible alternative. Fistandantilus Influence falls if his machinery is rejected in principle, even if temporarily preserved for lives.</p>\n<h3>End Beat</h3>\n<p>When the central chain breaks or changes, a door opens and Fistandantilus stands beyond it in person—or as close to person as he can be here.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>This is the last mechanical argument. Session 9 is personal.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.P2rzYZreYR74uXcc"
+    },
+    {
+      "_id": "56sDsO9J3sESfVqO",
+      "name": "Session 9: The Past and Present",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 9 · Level 19 · 5 hours.</strong> Stage the direct Raistlin–Fistandantilus confrontation and force the philosophy of possession into explicit language.</p>\n<h3>Opening Image</h3>\n<p>Fistandantilus greets Raistlin not as a victim or apprentice but as a colleague who has finally arrived late to his own conclusion.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Fistandantilus</li>\n<li>Raistlin</li>\n<li>Caramon</li>\n<li>White Robe PC</li>\n<li>Party</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. No Possession</h4>\n<p>Fistandantilus explicitly rejects crude body theft as unnecessary. He wants Raistlin to choose the work.</p>\n<h4>2. The Offer</h4>\n<p>Caramon permanently restored. Dead companions returned. Takhisis defeated. Orders protected. Portal controlled. No future loss that Raistlin does not permit.</p>\n<h4>3. The Price</h4>\n<p>Nothing he loves will ever again be allowed to leave him.</p>\n<h4>4. Caramon Answers</h4>\n<p>Caramon speaks for himself. His answer depends on Session 2 and the condition of the command channel.</p>\n<h4>5. Party Argument</h4>\n<p>Use trackers as openness, not outcome. At White Bond +6 Raistlin genuinely listens. At +9 he asks the White Robe what they would do before deciding.</p>\n<h4>6. Break with the Dark One—or Accept</h4>\n<p>Raistlin’s decision can be provisional; Takhisis interrupts before a clean philosophical ending.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Fistandantilus’s core belief is that value creates a right to possession.</li>\n<li>Raistlin’s grief has approached the same conclusion but does not have to finish there.</li>\n<li>Caramon’s independent will is the factual test of the philosophy.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>This session can move Trust, Control, Influence and White Bond by large final amounts if player actions justify it. Do not let numbers substitute for scene quality.</p>\n<h3>End Beat</h3>\n<p>The Abyss shakes. Takhisis arrives before the argument can become private again.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Everything in the campaign has prepared the party to speak here with evidence: roads saved, Returned met, souls called, Towers defended, and Caramon himself present.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.56sDsO9J3sESfVqO"
+    },
+    {
+      "_id": "69qVdT6WdzZDDAdj",
+      "name": "Session 10: The Queen of Darkness",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 10 · Level 20 · 5–6 hours.</strong> Resolve Takhisis, Fistandantilus, the Portal and Raistlin’s final decision without erasing the consequences of earlier choices.</p>\n<h3>Opening Image</h3>\n<p>The final battlefield is not a throne room. It is the collapsing intersection of the Portal, the Palace of Chains, Caramon’s soul-anchor and the paths back to Krynn.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Takhisis avatar</li>\n<li>Raistlin</li>\n<li>Fistandantilus</li>\n<li>Caramon</li>\n<li>Party</li>\n<li>Abyssal allies/enemies based on Black Host choices</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Takhisis’s Claim</h4>\n<p>She names both wizards thieves attempting to seize powers belonging to gods. She attacks the bonds holding the party together, not just hit points.</p>\n<h4>2. Three Fronts</h4>\n<p>Run simultaneous objectives: survive/defeat avatar, stop Fistandantilus taking the Dominion system, stabilise the Portal/Caramon link.</p>\n<h4>3. Raistlin’s Decision</h4>\n<p>Depending on relationship and player persuasion, he may release Caramon, share authority, seize the system, sacrifice himself, or attempt transcendence.</p>\n<h4>4. Fistandantilus End</h4>\n<p>The Dark One is destroyed, trapped, absorbed, released to oblivion, or denied succession. Do not let him escape merely to preserve a sequel unless players create that outcome.</p>\n<h4>5. Close or Transform the Portal</h4>\n<p>Determine what happens to the Returned, Black Host contracts and both Towers.</p>\n<h4>6. Return</h4>\n<p>The party crosses back to Krynn—or some do not—into a world whose war state reflects the campaign they actually played.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The final answer belongs to the party, not to a preselected canon ending.</li>\n<li>Caramon chooses his own fate if free enough to do so.</li>\n<li>Wayreth’s future depends on both survival and whatever principle the party taught it.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 20 at resolution. Use final tracker values to describe consequences and relationships, not to award “good” or “bad” points.</p>\n<h3>End Beat</h3>\n<p>Choose the ending family that follows from play, then give every PC an individual epilogue question: <strong>What did power cost you, and what did you refuse to let it take?</strong></p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The campaign began with a funeral and a road to a Tower. It ends with the party deciding whether love, magic and survival require ownership—or whether the greatest act of power is sometimes to let another person choose.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.69qVdT6WdzZDDAdj"
+    },
+    {
+      "_id": "E2fNn1VpbDFADKh1",
+      "name": "Ending Families & Epilogue",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Use these as consequence frameworks, not locked scripts. Mix elements when play demands it.</p>\n<h3>The Black Mage Remains</h3><p>Raistlin releases Caramon, destroys Dominion, defeats Takhisis and remains Black Robe Master of Wayreth/Palanthas: dangerous, proud and no longer willing to enslave the dead.</p>\n<h3>White and Black</h3><p>Raistlin and the White Robe become mutual counterweights in a reformed Orders system where forbidden research is judged by consent, consequence and responsibility rather than colour alone.</p>\n<h3>The Black Peace</h3><p>The party supports Raistlin’s control. He masters Returned and Black Host, defeats Takhisis, ends the war and creates peace in which death itself answers to him.</p>\n<h3>The Last Sacrifice</h3><p>Raistlin releases Caramon, traps himself with Fistandantilus and greater Abyssal powers beyond the Portal, and closes it. Wayreth’s bells ring; the Master’s chamber opens to another.</p>\n<h3>Master of Past and Present</h3><p>Raistlin refuses all restraint, destroys Fistandantilus, defeats Takhisis, takes Abyssal power and transcends mortality. The last confrontation becomes the PCs against the man they helped reach this point.</p>\n<h3>Epilogue Questions</h3><ul>\n<li>What becomes of the Returned?</li>\n<li>What legal/political status does the Black Host agreement leave behind?</li>\n<li>Who controls the Tower of Palanthas?</li>\n<li>Does Wayreth still recognise Raistlin as Master?</li>\n<li>What do the three Orders change because of the White Robe’s example?</li>\n<li>Does Caramon remain, depart, or build a life independent of his brother?</li>\n<li>Which place from Arc I is finally at peace—and which never recovers?</li>\n</ul>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!HG0F4DxvvrFcWhEY.E2fNn1VpbDFADKh1"
+    }
+  ],
+  "folder": null,
+  "sort": 900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!HG0F4DxvvrFcWhEY"
+}

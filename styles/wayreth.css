@@ -2,7 +2,7 @@
 
 /* ---------------------------------------------------------------
    Wayreth: The Black Master
-   Scoped to journal sheets rendered from this module's compendium.
+   Scoped to journal sheets rendered from this module.
    --------------------------------------------------------------- */
 
 .journal-entry-page.wayreth,
@@ -121,6 +121,7 @@
   padding: 0.62rem 0.8rem;
   border-top: 1px solid var(--wy-rule);
   vertical-align: top;
+  overflow-wrap: anywhere;
 }
 
 .wayreth-journal .wy-table tr:nth-child(even) td {
@@ -130,7 +131,7 @@
 .wayreth-journal .wy-table td:first-child {
   font-family: 'Cinzel', serif;
   color: var(--wy-gold);
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .wayreth-journal ul,
@@ -138,8 +139,7 @@
 .wayreth-journal li { margin-bottom: 0.42rem; }
 
 /* -------- DM secrets --------
-   Foundry hides section.secret from users without OWNER permission.
-   Pack ownership is set to OBSERVER for players, so these stay dark. */
+   Foundry hides section.secret from users without OWNER permission. */
 .wayreth-journal section.secret {
   background: linear-gradient(180deg, rgba(139, 26, 26, 0.16), rgba(139, 26, 26, 0.06));
   border: 1px solid var(--wy-crimson);
@@ -167,7 +167,209 @@
 
 .wayreth-journal section.secret > h3:first-of-type { margin-top: 0; }
 
-/* Compendium sidebar tint */
-.directory-item[data-pack="wayreth-black-master.wayreth-journals"] {
-  border-left: 2px solid var(--wy-crimson, #8b1a1a);
+/* ------------------------------------------------------------------ *
+ *  Legacy items
+ *
+ *  An item description renders inside the dnd5e item sheet, which is
+ *  narrower than a journal page, so the tier headings get a rule and a
+ *  little breathing room to keep the four states visually separate.
+ * ------------------------------------------------------------------ */
+
+.wy-legacy h3 {
+  border-bottom: 1px solid var(--wy-rule);
+  padding-bottom: 0.3rem;
+  margin-top: 1.6rem;
+}
+
+.wy-legacy h4 {
+  font-size: 1rem;
+  color: var(--wy-gold);
+  text-transform: none;
+  letter-spacing: 0.03em;
+  margin: 1.1rem 0 0.35rem;
+}
+
+.wy-legacy ul {
+  margin: 0 0 0.95rem;
+  padding-left: 1.3rem;
+}
+
+.wy-legacy .wy-lead {
+  font-size: 1.05rem;
+  margin-bottom: 1rem;
+}
+
+.wy-legacy blockquote.wy-quote {
+  margin: 0 0 1.2rem;
+}
+
+/* The one-line "what this costs" stat block above each feature in the player
+   reference journals. It has to read as machine-readable fact next to the
+   prose, so it is set apart rather than styled as another paragraph. */
+
+.wayreth-journal .wy-cost {
+  font-family: 'Cinzel', 'Trajan Pro', serif;
+  font-size: 0.86rem;
+  letter-spacing: 0.05em;
+  color: var(--wy-gold);
+  background: rgba(0, 0, 0, 0.22);
+  border-left: 2px solid var(--wy-crimson);
+  padding: 0.3rem 0.7rem;
+  margin: 0 0 0.6rem;
+}
+
+.wayreth-journal .wy-cost strong { color: var(--wy-crimson-bright); }
+
+/* ------------------------------------------------------------------ *
+ *  Bestiary art
+ *
+ *  The portraits are full-body figures on transparent backgrounds, so they
+ *  are given a dark plate to sit on rather than being left to float on
+ *  whatever the journal background happens to be.
+ * ------------------------------------------------------------------ */
+
+.wayreth-journal .wy-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0.9rem;
+  margin: 1.2rem 0 1.6rem;
+}
+
+.wayreth-journal .wy-plate {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.34), rgba(0, 0, 0, 0.52));
+  border: 1px solid var(--wy-rule);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.wayreth-journal .wy-plate img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: contain;
+  border: none;
+  margin: 0;
+  background: transparent;
+}
+
+.wayreth-journal .wy-plate figcaption {
+  padding: 0.45rem 0.55rem 0.55rem;
+  border-top: 1px solid var(--wy-rule);
+  font-size: 0.82rem;
+  line-height: 1.3;
+}
+
+.wayreth-journal .wy-plate figcaption strong {
+  display: block;
+  font-family: 'Cinzel', 'Trajan Pro', serif;
+  color: var(--wy-gold);
+  letter-spacing: 0.02em;
+}
+
+.wayreth-journal .wy-plate-stats {
+  display: block;
+  margin-top: 0.15rem;
+  font-size: 0.76rem;
+  opacity: 0.82;
+}
+
+/* A single portrait set beside the text on a stat-block page. */
+
+.wayreth-journal .wy-portrait {
+  float: right;
+  width: 190px;
+  max-width: 42%;
+  margin: 0 0 0.9rem 1.1rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5));
+  border: 1px solid var(--wy-rule);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.wayreth-journal .wy-portrait img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: contain;
+  border: none;
+  margin: 0;
+}
+
+.wayreth-journal .wy-portrait figcaption {
+  padding: 0.35rem 0.5rem 0.45rem;
+  border-top: 1px solid var(--wy-rule);
+  font-family: 'Cinzel', 'Trajan Pro', serif;
+  font-size: 0.78rem;
+  color: var(--wy-gold);
+  text-align: center;
+}
+
+@media (max-width: 560px) {
+  .wayreth-journal .wy-portrait { float: none; width: 100%; max-width: none; margin: 0 0 1rem; }
+  .wayreth-journal .wy-gallery { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); }
+}
+
+/* --------------------------------------------------------------------------
+   Player handouts (1.32.0)
+
+   The card a player receives. Deliberately plain: it carries read-aloud text
+   and a short list of what the characters can act on, and nothing else. If a
+   card ever looks like a GM note, something has gone wrong upstream.
+   -------------------------------------------------------------------------- */
+
+.wayreth-handout {
+  border-left: 3px solid #b79756;
+  padding: 0.35rem 0 0.35rem 0.75rem;
+}
+
+.wayreth-handout-title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  margin: 0 0 0.35rem;
+  color: #6b4a86;
+  border: none;
+}
+
+.wayreth-handout-read {
+  margin: 0 0 0.5rem;
+  line-height: 1.5;
+}
+
+.wayreth-handout-know {
+  margin: 0;
+  padding-left: 1.1rem;
+  font-size: 0.92em;
+  color: #4a4138;
+}
+
+.wayreth-handout-know li { margin-bottom: 0.2rem; }
+
+.wayreth-handouts .wayreth-handout-list {
+  list-style: none;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  max-height: 24rem;
+  overflow-y: auto;
+}
+
+.wayreth-handouts .wayreth-handout-row {
+  display: grid;
+  grid-template-columns: 14rem 1fr;
+  gap: 0.6rem;
+  align-items: center;
+  padding: 0.25rem 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.wayreth-handouts .wayreth-handout-row button {
+  text-align: left;
+  font-weight: 600;
+}
+
+.wayreth-handouts .wayreth-handout-row span {
+  font-size: 0.85em;
+  color: #5b5146;
 }

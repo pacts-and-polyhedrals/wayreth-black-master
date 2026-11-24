@@ -1,0 +1,608 @@
+{
+  "_id": "felvHcLeanQSmxep",
+  "name": "Arc II: The Black Master's Errand",
+  "pages": [
+    {
+      "_id": "AP7khj51sGUJSA3t",
+      "name": "Arc II Overview: The Black Master’s Errand",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Levels 5–8 · default 14 sessions · expandable to 16. Arc II turns the roads the characters learned in Arc I into a continent at war.</p>\n<p>The party leaves Wayreth no longer as unknown travellers. They carry the seal of a Black Robe whom the Tower itself has named Master. That authority opens doors, alarms allies, interests enemies, and gives the Dragonarmy a reason to follow rather than simply kill them.</p>\n<h3>Arc Objective</h3>\n<p>Raistlin publicly sends the party to Palanthas to obtain the <em>Chronicle of the Last Days of the Tower of Palanthas</em>. Privately, he asks them to test the Shoikan Grove with a black crystalline token carrying his signature. He does not reveal the true question: <strong>does the cursed Tower recognise him as the Master of Past and Present?</strong></p>\n<h3>Default Progression</h3><table class=\"wy-table\">\n<thead><tr><th>Sessions</th><th>Movement</th><th>Milestone</th></tr></thead>\n<tbody>\n<tr><td>1–2</td><td>Wayreth and departure</td><td>Mission, war rules, route decision</td></tr>\n<tr><td>3–5</td><td>Route-specific southern/central leg</td><td>War reaches the party; Veyrath begins observing</td></tr>\n<tr><td>6–8</td><td>Convergence on northern Solamnia</td><td>Level 6, then Level 7 at High Clerist approaches</td></tr>\n<tr><td>9–12</td><td>Palanthas sandbox</td><td>City, Library, missing records, faction pressure</td></tr>\n<tr><td>13–14</td><td>Shoikan Grove</td><td>The Grove answers; Level 8</td></tr>\n</tbody>\n</table><p>Sessions 15–16 can be added as a White Robe inquiry inside Palanthas and a Veyrath counter-operation if the table wants the full sixteen-session version.</p>\n<h3>Arc Mood</h3><p>Arc I asked, “Can we reach the Tower in time?” Arc II asks, “What happened to the world while we were inside?” The answer should be visible in food prices, closed bridges, abandoned houses, campfires of refugees, soldiers sleeping in temples, and maps with new red marks every week.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.AP7khj51sGUJSA3t"
+    },
+    {
+      "_id": "VKmcpHW3hK8sg05v",
+      "name": "Arc II Narrative & Tracker Map",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The road to Palanthas is the first long test of what the party thinks Raistlin is becoming, and of what he thinks they are.</p>\n<h3>Raistlin Trust</h3><p>Reward intelligent honesty, discretion, protecting mission-critical information, and disagreement that offers a workable alternative. Penalise pointless betrayal, public grandstanding with his secrets, or destruction of evidence without understanding it.</p>\n<h3>Raistlin Control</h3><p>Arc II should move this only lightly. The important tests are whether the party solves wartime problems by coercion when other solutions exist, and whether they treat frightened civilians as pieces on a board. Raistlin notices methods.</p>\n<h3>Fistandantilus Influence</h3><p>Do not make Fistandantilus obvious yet. His influence appears as recurring phrasing in old records, improbable coincidences, and historical documents that seem almost selected for Raistlin. Increase this tracker when the party delivers precisely the clues his old work needs without asking who arranged the trail.</p>\n<h3>White Robe Bond</h3><p>Two moments matter: the White Robe’s answer in Solanthus when accused of serving Raistlin too closely, and how they describe the Shoikan response to Raistlin. Neither has a correct moral answer; each reveals whether they can challenge him without becoming Par-Salian.</p>\n<h3>Wayreth Accord</h3><p>The Tower is distant but not absent. Its charter, seals and sending channels behave slightly differently for characters it has begun to recognise. At +5 or higher, a Wayreth door or messenger spell may respond to the party before a Tower official authorises it.</p>\n<h3>War State</h3><p>Arc II normally begins at 2–3 and ends around 5–6. Side quests can hold a region together or allow it to collapse. Do not increase War State merely because time passes; increase it when strategic conditions worsen.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.VKmcpHW3hK8sg05v"
+    },
+    {
+      "_id": "jd9ZveRgrG95XXbj",
+      "name": "War-Road Toolkit",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Use this page whenever the party crosses more than a day of contested territory. The encounter is not the point; the state of the world is.</p>\n<h3>Daily Travel Questions</h3><ol>\n<li>Who controls the road today?</li>\n<li>What does food cost here compared with Arc I?</li>\n<li>Who is moving in the opposite direction and why?</li>\n<li>What military information is visible to an experienced observer?</li>\n<li>What does showing Raistlin’s seal solve, and who notices it?</li>\n</ol><h3>d12 War-Road Encounters</h3><table class=\"wy-table\">\n<thead><tr><th>d12</th><th>Encounter</th><th>What It Reveals</th></tr></thead>\n<tbody>\n<tr><td>1</td><td>A refugee cart has a broken axle; the family refuses to abandon a locked chest.</td><td>The chest contains apprenticeship papers and spellbooks. Anti-magic panic has reached ordinary homes.</td></tr>\n<tr><td>2</td><td>Solamnic scouts ride hard past the party, then one returns.</td><td>A bridge ahead will be burned by sunset. The party can save hours by helping the evacuation.</td></tr>\n<tr><td>3</td><td>A Dragonarmy checkpoint uses polite clerks, not soldiers.</td><td>The occupation is learning administration. Papers matter more than swords.</td></tr>\n<tr><td>4</td><td>A field hospital has more wounded civilians than soldiers.</td><td>The front is moving through settlements, not around them.</td></tr>\n<tr><td>5</td><td>Three merchants bid for the same sack of salt.</td><td>Supply chains are failing. Prices rise one step until the next major city.</td></tr>\n<tr><td>6</td><td>An abandoned shrine has six fresh bedrolls and no bodies.</td><td>Someone left in a hurry; Veyrath’s observers may have been here.</td></tr>\n<tr><td>7</td><td>A young draconian corpse turns to stone among human dead.</td><td>The party can learn how Baaz death works before a larger battle.</td></tr>\n<tr><td>8</td><td>A knight arrests a farmer for selling grain to the enemy.</td><td>Occupation, survival and treason are becoming the same argument.</td></tr>\n<tr><td>9</td><td>A black-robed courier asks to travel with them for one night.</td><td>Wayreth’s network is moving research and people ahead of the war.</td></tr>\n<tr><td>10</td><td>A village has painted every door with the same white circle.</td><td>A rumour says dragons avoid marked houses. It is false, but people need something to believe.</td></tr>\n<tr><td>11</td><td>A patrol carries a sketch of one PC.</td><td>The party has become an intelligence target.</td></tr>\n<tr><td>12</td><td>A road is completely empty for ten miles.</td><td>Something important moved through recently. Let the party determine whether it was army, dragon, or undead host.</td></tr>\n</tbody>\n</table><h3>Delay Rule</h3><p>A meaningful detour costs ½–1 day and may improve War State locally, earn a contact, or reveal intelligence. A catastrophic failure costs 1–2 days and gives Veyrath one additional opportunity to move ahead of them.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.jd9ZveRgrG95XXbj"
+    },
+    {
+      "_id": "nBgUTNLMT7Zj5lCj",
+      "name": "Route A: Central War Road",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Wayreth → Solace → Haven → Garnet → Solanthus → High Clerist’s Tower → Palanthas. The most reliable road, and the route on which the advancing war is hardest to ignore.</p>\n<h3>Travel Character</h3><p>The road is known, settlements are frequent, and replacement mounts exist. That is exactly why armies use it. The characters repeatedly revisit places associated with safety and find them repurposed for war.</p>\n<h3>Route Beats</h3><table class=\"wy-table\">\n<thead><tr><th>Leg</th><th>Expected Time</th><th>Campaign Use</th></tr></thead>\n<tbody>\n<tr><td>Wayreth → Solace</td><td>2–3 days</td><td>First refugee columns; a familiar place changed</td></tr>\n<tr><td>Solace → Haven</td><td>2 days</td><td>Civil authority, Seekers, spies</td></tr>\n<tr><td>Haven → Garnet</td><td>3–4 days</td><td>Supply pressure, horse market, military traffic</td></tr>\n<tr><td>Garnet → Solanthus</td><td>3–4 days</td><td>Knights and fortification</td></tr>\n<tr><td>Solanthus → High Clerist</td><td>3–5 days</td><td>War camps, engineers, first major enemy operation</td></tr>\n<tr><td>High Clerist → Palanthas</td><td>2–3 days</td><td>Northern road, growing Palanthian complacency</td></tr>\n</tbody>\n</table><h3>Signature Consequence</h3><p>Route A gives the party the strongest relationship with Solamnic command. In Arc V, those officers remember whether the party protected supply trains or treated the road as someone else’s problem.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.nBgUTNLMT7Zj5lCj"
+    },
+    {
+      "_id": "6UkHbdftvN1xS9lS",
+      "name": "Route B: Lemish Infiltration",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Wayreth → Fangoth → Lemish → Maelgoth → Vingaard region → Solanthus → Palanthas. Shorter in places, politically dangerous everywhere.</p>\n<h3>Travel Character</h3><p>Lemish is not a single hostile camp. Some officials collaborate enthusiastically, some because they believe the Dragonarmy will win, some to preserve their towns, and some while quietly selling information to both sides. The party survives by learning which is which.</p>\n<h3>Documents</h3><p>The route is built around papers: Wayreth charter, forged Lemish work orders, merchant warrants, military passes, and eventually Veyrath’s own cipher forms. Every checkpoint should ask for a different proof of legitimacy.</p>\n<h3>Fangoth</h3><p>The hobgoblin town should feel governed, armed, transactional, and perfectly capable of arresting adventurers without needing to be a dungeon. A magistrate named <strong>Kargesh Vaal</strong> (campaign NPC) recognises that Raistlin’s seal is politically valuable and offers legal passage in exchange for one carefully bounded service.</p>\n<h3>Lemish Core</h3><p>Show comfortable collaborators. A warm dining room with Dragonarmy officers is more disturbing than another battlefield. The party can steal a dispatch naming <strong>Palanthas, Wayreth and the High Clerist’s Tower</strong> as priority magical targets.</p>\n<h3>Signature Consequence</h3><p>Route B produces the best intelligence network. If handled well, one Lemish contact becomes a reliable source during Arcs V–VI.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.6UkHbdftvN1xS9lS"
+    },
+    {
+      "_id": "SpE00O325qfUWf2u",
+      "name": "Route C: Western Sea Road",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Wayreth → Gilthanost → western Qualinesti coast → Ergoth waters → Mirivale → Palanthas. It avoids many armies and replaces them with weather, ships, politics and naval intelligence.</p>\n<h3>Travel Character</h3><p>The party is no longer counting inns; it is counting captains willing to risk the sea. Passage can be bought, earned, or arranged through elven and Wayreth contacts. Once aboard, the vessel travels while the party sleeps, but a storm can erase every saved day.</p>\n<h3>Gilthanost</h3><p>The departure point allows the party to see how Qualinesti hears of the war: through displaced elves, anxious border patrols, and ships carrying families west.</p>\n<h3>Ergoth Waters</h3><p>Use merchant convoys, privateers, naval patrols and false flags. War State 5+ means captains demand written guarantees against confiscation by either side.</p>\n<h3>Mirivale</h3><p>The familiar Arc I port is now crowded with ships waiting for safer convoy windows. A harbour-master named <strong>Selvar Tain</strong> (campaign NPC) has a ledger showing that someone matching Veyrath’s description booked three different passages and took none of them.</p>\n<h3>Signature Consequence</h3><p>Route C creates maritime contacts and a potential evacuation corridor for Palanthas later. If the party protects it, Arc V gains a civilian escape route.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.SpE00O325qfUWf2u"
+    },
+    {
+      "_id": "OcTQsh7UsiqwYQ3q",
+      "name": "Commander Veyrath: Intelligence Antagonist",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Veyrath is dangerous because he does not need to win a fight. He needs the party to reveal what question Raistlin is asking.</p>\n<h3>Presentation</h3><p>Veyrath is courteous, professionally dressed, never raises his voice, and does not lie when a carefully limited truth serves better. He calls the party by name the first time they meet. He is interested in the White Robe because a White Robe working for the new Black Master is itself intelligence.</p>\n<h3>His Method</h3><ol>\n<li>Identify what the party protects.</li>\n<li>Create a problem in which using the protected resource is easiest.</li>\n<li>Observe who they contact afterward.</li>\n<li>Let them believe they escaped.</li>\n<li>Move one agent ahead of them.</li>\n</ol><h3>What He Wants</h3><p>Not the Chronicle. Not the Shoikan token itself. He wants to know why Raistlin is looking toward Palanthas and whether the new Master is building a weapon against Takhisis.</p>\n<h3>Escalation</h3><table class=\"wy-table\">\n<thead><tr><th>Stage</th><th>Behaviour</th></tr></thead>\n<tbody>\n<tr><td>Observation</td><td>Sketches, inn ledgers, questions after the party leaves</td></tr>\n<tr><td>Conversation</td><td>A direct, civil meeting; he offers useful information</td></tr>\n<tr><td>Interference</td><td>Documents stolen, contact compromised, route redirected</td></tr>\n<tr><td>High Clerist operation</td><td>Attempts to take Raistlin’s sealed instructions</td></tr>\n<tr><td>Palanthas</td><td>Works through proxies; he wants the Grove result</td></tr>\n<tr><td>Arc III</td><td>His network or successors penetrate the lower Tower seals</td></tr>\n</tbody>\n</table><h3>Do Not Waste Him</h3><p>If combat begins too early, Veyrath withdraws under prepared cover. If finally cornered, he values surviving with information over pride. His defeat should be an intelligence defeat before it is a hit-point defeat.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.OcTQsh7UsiqwYQ3q"
+    },
+    {
+      "_id": "j6ax6NtgMhbSb0bC",
+      "name": "Palanthas Gazetteer: White City, Black Heart",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Palanthas must be somewhere the characters could love. Otherwise the black Tower has nothing meaningful to threaten.</p>\n<h3>First Impression</h3><p>Approach through cultivated northern country and let the city arrive in layers: towers and white walls; gardens on terraces; the harbour forested with masts; bells; libraries; university roofs; markets; wealthy homes. Then point out the one vertical shape the eye has been avoiding: the ruined Tower, more than six hundred feet of grey-black stone and broken minarets inside the Shoikan Grove.</p>\n<h3>Districts</h3><table class=\"wy-table\">\n<thead><tr><th>District</th><th>Knowledge & Play</th></tr></thead>\n<tbody>\n<tr><td>Great Library Quarter</td><td>Astinus, Aesthetics, scribes, visiting historians. Questions are welcome; access is not automatic.</td></tr>\n<tr><td>University District</td><td>Arcane theory without Tower authority, natural philosophy, students, old copies of pre-Cataclysm works.</td></tr>\n<tr><td>Noble Quarter</td><td>Council houses, foreign envoys, war denial, private patronage.</td></tr>\n<tr><td>Harbour</td><td>Sailors, smugglers, refugees, Dragonarmy observers, western shipping intelligence.</td></tr>\n<tr><td>Old City</td><td>Older foundations, cisterns, service tunnels, fragments of structures predating current streets.</td></tr>\n<tr><td>Shoikan District</td><td>Blocks of half-empty property around the grove; shutters close early; locals cross the street rather than pass its boundary.</td></tr>\n</tbody>\n</table><h3>Local Knowledge</h3><p>Most Palanthians have lived beside the Doom-spire all their lives. They do not treat it as a mysterious adventure site. They treat it like a condemned district after a plague: dangerous, shameful, permanent, and best ignored.</p>\n<h3>Historical Truth for the GM</h3><p>The Lore-spire was built as the greatest shared repository of the three Orders. The Shoikan Grove predates the curse; Rannoch’s dying curse twisted the Tower and bound additional undead guardians. In this campaign’s altered chronology, Raistlin has not yet claimed Palanthas. The party is arriving at the moment when history begins to bend.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.j6ax6NtgMhbSb0bC"
+    },
+    {
+      "_id": "wlUh6TbqsvjNMbVQ",
+      "name": "Session 1: The Master’s Chamber",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 1 · Level 5 · 3–4 hours.</strong> Establish Raistlin’s errand, the Caramon motif, and the distinction between public, confidential and secret objectives.</p>\n<h3>Opening Image</h3>\n<p>The Master’s chamber is quieter than any administrative office has a right to be. The hearth is cold. Above it hangs a greatsword far too heavy for Raistlin to use. He never looks at it while speaking.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Raistlin Majere — newly recognised Master of Wayreth</li>\n<li>A Black Robe secretary who leaves before the confidential portion</li>\n<li>The White Robe PC as ideological counterweight</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. No Ceremony</h4>\n<p>Raistlin summons the party alone. There is no Conclave vote, no public commission, and no attempt to make the mission prestigious. Let the absence of witnesses communicate trust and secrecy.</p>\n<h4>2. The Public Request</h4>\n<p>He asks for the Chronicle from Astinus. Give the players a physical letter and travel charter. The letter is formal; Raistlin’s spoken explanation is deliberately broad.</p>\n<h4>3. The Black Token</h4>\n<p>After the public business is finished, he gives them a coal-black crystalline token. It is cool until held by an arcane caster, when one edge warms. He asks them to approach the Shoikan Grove and record precisely what happens.</p>\n<h4>4. Questions</h4>\n<p>Allow full questioning. Raistlin answers strategy, routes and war questions. He deflects Caramon, soul theory, and why the specific Chronicle matters. A careful review of his request list shows Fistandantilus, necromancy, soul theory, Lost Battles, Palanthas Tower and planar portals.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Palanthas holds records Wayreth does not.</li>\n<li>The Shoikan Grove cannot normally be entered without Black-Robe protection.</li>\n<li>Raistlin expects the war to reach western Solamnia.</li>\n<li>The sword above the hearth belongs to someone important, but no one names Caramon yet.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Raistlin Trust +1 if the party asks difficult questions without turning the audience into accusation. White Robe Bond +1 if the White Robe challenges the mismatch between “war history” and “soul theory” intelligently.</p>\n<h3>End Beat</h3>\n<p>At the gate out of Wayreth, the party sees a new map covered in red pins. There are more than when they arrived for the Test.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The errand begins as historical research. Every clue should quietly point toward a brother the party does not yet know Raistlin lost.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.wlUh6TbqsvjNMbVQ"
+    },
+    {
+      "_id": "MQ1skN6bUeg7CGGF",
+      "name": "Session 2: The Road of Ash",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 2 · Level 5 · 3–4 hours.</strong> Teach the new wartime travel procedure and force the route decision under conditions that make all three choices legitimate.</p>\n<h3>Opening Image</h3>\n<p>Outside Wayreth the first farm looks normal until the party notices every window is boarded from the inside and a wagon track leads west. The road they used weeks ago now has a checkpoint built across it.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Wayreth quartermaster</li>\n<li>A displaced farming family</li>\n<li>A Solamnic patrol captain</li>\n<li>Optional Black Robe courier</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Choose the Road</h4>\n<p>Lay out Routes A–C with time, risk and likely contacts. Let the party use what they learned in Arc I; do not tell them a “best” route.</p>\n<h4>2. Checkpoint</h4>\n<p>Run a low-stakes document problem. The party can use Wayreth papers, Raistlin’s seal, persuasion, disguise or a detour. The point is to teach that authority has consequences.</p>\n<h4>3. Refugee Column</h4>\n<p>A family recognises one of the Arc I regions the party visited and reports conditions there. Reuse an NPC name if possible. Their presence makes the timeline personal.</p>\n<h4>4. Night Camp</h4>\n<p>End with distant red light on the horizon. It may be burning fields, a military camp, or a dragon sighting; the party cannot be sure.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Road control changes by the day.</li>\n<li>Prices and mounts have risen sharply.</li>\n<li>Dragonarmy intelligence is collecting descriptions of travellers from Wayreth.</li>\n<li>The western front is moving faster than reliable news.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>War State +1 only if the local strategic situation actually worsens. Raistlin Control moves ±1 if the party’s solution to the checkpoint establishes a pattern of coercion or restraint.</p>\n<h3>End Beat</h3>\n<p>The route is chosen. Record it prominently: later sessions and Arc V callbacks depend on it.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Arc II deliberately mirrors Arc I travel. Familiar locations should be used as before/after photographs of the war.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.MQ1skN6bUeg7CGGF"
+    },
+    {
+      "_id": "ApUoeLGxrCxdFhzJ",
+      "name": "Session 3: First Route Threshold",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 3 · Level 5 · 3–4 hours.</strong> Give each route its first signature location and show that someone is already tracking the Black Master’s agents.</p>\n<h3>Opening Image</h3>\n<p>The route stops being an abstract line on a map. The party reaches the first place where people know the phrase “Black Master” before they have introduced themselves.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Route A: Solace refugees, Inn staff, respectable merchant-spy</li>\n<li>Route B: Magistrate Kargesh Vaal and Fangoth brokers</li>\n<li>Route C: Gilthanost border guide and elven shipping agent</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Arrival</h4>\n<p>A: Solace has bedrolls under vallenwoods and ration notices. B: Fangoth is orderly, armed and bureaucratic. C: Gilthanost has elven families waiting for westbound passage.</p>\n<h4>2. Local Problem</h4>\n<p>A refugee family is accused of spying in Solace. B the party needs legal passage through a hobgoblin-controlled gate. C a captain cancels because a convoy has vanished.</p>\n<h4>3. The Wrong Suspect</h4>\n<p>In every route, the obvious target is not the real intelligence source. Let investigation reveal a respectable intermediary who records descriptions and destinations.</p>\n<h4>4. First Veyrath Sign</h4>\n<p>A coded note contains only initials, a time, and the phrase “do not detain.” The order is to watch the party, not stop them.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Enemy intelligence knows Raistlin sent agents west/north.</li>\n<li>Dragonarmy services include clerks, informants and paid civilians, not only soldiers.</li>\n<li>The party’s route is probably already known.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Raistlin Trust +1 if the party protects the mission while solving the local problem. War State may improve locally if they expose the correct spy without harming innocents.</p>\n<h3>End Beat</h3>\n<p>The party finds evidence that the observer left before they arrived.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Veyrath is introduced first as a method, not a face. Players should become curious about the person who ordered their own agents not to interfere.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.ApUoeLGxrCxdFhzJ"
+    },
+    {
+      "_id": "sd2Wl0Kw4waQllGc",
+      "name": "Session 4: Second Route Threshold",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 4 · Level 5 · 3–4 hours.</strong> Deepen route identity and offer a problem with no purely tactical solution.</p>\n<h3>Opening Image</h3>\n<p>The party reaches a place where the war has created winners as well as victims, and some of the winners are perfectly decent people making compromises.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Route A: Haven Seeker official, smuggler Mara Voss (campaign NPC)</li>\n<li>Route B: Lemish customs factor, collaborator household</li>\n<li>Route C: Captain Orven Pell (campaign NPC), convoy masters</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. The Comfortable Compromise</h4>\n<p>A: Haven authorities quietly trade with both sides. B: Lemish collaborators host Dragonarmy officers in comfort. C: merchants pay protection to privateers flying three flags.</p>\n<h4>2. The Offer</h4>\n<p>Someone offers exactly what the party needs—documents, route, convoy position—in exchange for information that seems harmless.</p>\n<h4>3. Cost Revealed</h4>\n<p>The information would expose refugees, smugglers or a rival intelligence cell. The party can refuse, substitute, deceive or pay another price.</p>\n<h4>4. Veyrath’s Courtesy</h4>\n<p>A sealed note arrives after the decision: “Thank you for confirming what you value.” It is signed Commander Veyrath.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Commander Veyrath is a senior intelligence officer.</li>\n<li>He has enough coverage to learn local choices quickly.</li>\n<li>He is interested in motives and values, not only destinations.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Raistlin Control -1 for a successful solution preserving agency at real cost; +1 if the party casually sacrifices uninvolved people for speed. Trust unaffected unless mission security is compromised.</p>\n<h3>End Beat</h3>\n<p>The party receives the next leg’s route information and knows Veyrath is deliberately speaking to them.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The antagonist now has a voice. He should feel more intrusive because he understands choices the PCs thought were private.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.sd2Wl0Kw4waQllGc"
+    },
+    {
+      "_id": "NOBSaqfgzFJaKsLo",
+      "name": "Session 5: Veyrath’s Net",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 5 · Level 5–6 · 3–4 hours.</strong> Put Veyrath in the same room as the party without making combat the obvious answer.</p>\n<h3>Opening Image</h3>\n<p>Dinner is already on the table when the party enters the inn’s private room. Commander Veyrath is seated alone, hands visible, with no weapon on the table.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Commander Veyrath</li>\n<li>Neutral innkeeper or host</li>\n<li>One discreet Dragonarmy observer outside</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Invitation</h4>\n<p>Veyrath arranges a meeting in neutral ground. If refused, he engineers a road closure and offers the same conversation while everyone waits.</p>\n<h4>2. Useful Truth</h4>\n<p>He gives them accurate intelligence about a Dragonarmy movement that would otherwise cost a day. He asks nothing in return at first.</p>\n<h4>3. Questions</h4>\n<p>He asks why a White Robe serves a Black Master, why Raistlin wants history rather than soldiers, and whether the party believes the Towers should remain neutral during war.</p>\n<h4>4. Exit</h4>\n<p>He does not arrest them. He tells them one of their papers is compromised and which one. He is correct.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Veyrath believes Raistlin is developing a magical strategic answer to Takhisis.</li>\n<li>Dragonarmy high command has Palanthas and Wayreth on long-term intelligence lists.</li>\n<li>Veyrath has not yet identified the Shoikan objective.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Raistlin Trust +1 if the party gives Veyrath nothing mission-critical without resorting to obvious lies that can be disproved. White Robe Bond has no automatic change, but record the White Robe’s answer.</p>\n<h3>End Beat</h3>\n<p>When they leave, Veyrath has already gone by another door. The compromised document is exactly where he said it was.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Veyrath is the mirror of Raistlin’s intelligence: patient, curious, and willing to let people walk away. The difference is what each believes people are for.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.NOBSaqfgzFJaKsLo"
+    },
+    {
+      "_id": "x4kvhPzLt3em5Ek1",
+      "name": "Session 6: Mid-Route Crisis",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 6 · Level 6 · 4 hours.</strong> Deliver a route-specific set piece, expose strategic intelligence, and move the party into the northern half of the arc.</p>\n<h3>Opening Image</h3>\n<p>The route’s most useful infrastructure is about to fail: a supply hub, a cipher network, or a harbour convoy. Saving it costs time; abandoning it costs people.</p>\n<h3>People in Play</h3>\n<ul>\n<li>A: Garnet stablemaster and Solamnic quartermaster</li>\n<li>B: Maelgoth cipher clerk and resistance contact</li>\n<li>C: Mirivale harbour-master Selvar Tain</li>\n<li>Veyrath proxy</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Crisis</h4>\n<p>A: remount depot targeted by sabotage. B: a courier is missing with both Dragonarmy and resistance ciphers. C: a convoy channel is mined/sabotaged and captains will not sail.</p>\n<h4>2. Investigation</h4>\n<p>Evidence points to local profiteers first, then to a Veyrath proxy using them. The proxy’s orders avoid unnecessary casualties; they want delay and observation.</p>\n<h4>3. Decision</h4>\n<p>The party can spend a day solving the whole problem or secure only their own passage. Make both choices mechanically meaningful.</p>\n<h4>4. Recovered Dispatch</h4>\n<p>The party obtains a fragment listing Palanthas, Wayreth and the High Clerist’s Tower as priority magical targets.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Wayreth itself is now a named Dragonarmy target.</li>\n<li>The High Clerist’s Tower is recognised as strategically decisive.</li>\n<li>Veyrath is coordinating delay rather than assassination.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 6 if not already awarded. War State -1 locally for a full rescue, +1 if the infrastructure collapses. Raistlin Trust +1 for securing intelligence and sending it to Wayreth.</p>\n<h3>End Beat</h3>\n<p>The northern road/sea opens. The party now knows they are carrying information Wayreth needs as much as Wayreth’s mission needs them.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>This is where the errand stops feeling like Raistlin’s private obsession and becomes visibly connected to the war.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.x4kvhPzLt3em5Ek1"
+    },
+    {
+      "_id": "bJaaFYLU6c30j3P8",
+      "name": "Session 7: Northern Convergence",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 7 · Level 6 · 3–4 hours.</strong> Bring route branches back toward common northern Solamnia and put the White Robe’s reputation under scrutiny.</p>\n<h3>Opening Image</h3>\n<p>Solanthus—or its maritime equivalent—is crowded with people who have uniforms, titles and opinions about why the party has a Black Tower seal.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Solamnic command officer</li>\n<li>White Robe observer Merissa Tal (campaign NPC)</li>\n<li>War-map clerk</li>\n<li>Route-specific contact returning from earlier sessions</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Resupply</h4>\n<p>Make mounts, armour repair, healing, components and reliable maps available. Let the party feel what civilisation can still provide.</p>\n<h4>2. War Briefing</h4>\n<p>Show actual fronts, not vague rumours. Several settlements from Arc I are now threatened or lost depending on War State.</p>\n<h4>3. White Robe Interview</h4>\n<p>Merissa Tal privately asks the White Robe: “You serve Raistlin too closely.” She is not hostile; she is afraid the Order has repeated an old mistake by yielding moral authority to expedience.</p>\n<h4>4. Intelligence Choice</h4>\n<p>The party can give Solamnic command the dispatch naming Wayreth, but doing so spreads Raistlin’s involvement to another institution.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Palanthas is reinforcing but remains politically divided over how imminent the war is.</li>\n<li>The High Clerist corridor is being prepared.</li>\n<li>The White Robe’s relationship with Raistlin is already being discussed inside the Order.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>White Robe Bond +1 if the PC can defend cooperation without surrendering independent judgment; -1 if they merely invoke Raistlin’s authority or condemn their Order wholesale. Trust may rise if mission secrets remain protected.</p>\n<h3>End Beat</h3>\n<p>The party leaves with fresh supplies and the uncomfortable knowledge that both Black and White Robes are watching what the White Robe becomes.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>This scene establishes that the White Robe’s final authority in Arc VI must be earned socially and morally, not simply granted by level.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.bJaaFYLU6c30j3P8"
+    },
+    {
+      "_id": "YYoDg6kmDnVWDbFm",
+      "name": "Session 8: The High Clerist’s Shadow",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 8 · Level 7 · 4 hours.</strong> Foreshadow the later battlefield and give Veyrath his first direct operational strike.</p>\n<h3>Opening Image</h3>\n<p>The High Clerist’s Tower is not yet under full siege. That makes the activity around it more ominous: engineers measuring kill zones, wagons of stone, knights drilling in cold courtyards, and empty ground everyone knows will soon hold an army.</p>\n<h3>People in Play</h3>\n<ul>\n<li>High Clerist engineering captain</li>\n<li>Knight commander</li>\n<li>Commander Veyrath and strike team</li>\n<li>Civilian supply workers</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Reconnaissance</h4>\n<p>Allow the party to explore the approaches and learn why this place controls the northern road. Mention old anti-dragon architecture and the history of dragon orbs without solving future battles.</p>\n<h4>2. Raid</h4>\n<p>A Dragonarmy intelligence raid targets command papers. The visible assault is a diversion.</p>\n<h4>3. The Real Theft</h4>\n<p>Veyrath’s team goes for Raistlin’s sealed instructions while the party is helping defenders. Give players a fair chance to notice the split objective.</p>\n<h4>4. Pursuit</h4>\n<p>If Veyrath gains the public letter, he deliberately leaves with it. If stopped, he abandons a cipher key that becomes useful in Palanthas.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The High Clerist’s Tower will become a major battlefield.</li>\n<li>Veyrath still prioritises Raistlin’s intent over killing the party.</li>\n<li>Palanthas believes this fortification will keep the war distant.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 7. War State -1 if the raid is decisively stopped; +1 if critical fortification plans are lost. Trust +1 if the confidential Shoikan objective remains secret.</p>\n<h3>End Beat</h3>\n<p>From the northern ridge, Palanthas can be seen in the far distance on a clear day: white against the sea.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The players must remember this place when they return in Arc V and find the empty fields full of dead and dragons.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.YYoDg6kmDnVWDbFm"
+    },
+    {
+      "_id": "m6o6MAIj9VKmmLM6",
+      "name": "Session 9: Palanthas",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 9 · Level 7 · 3–4 hours.</strong> Make the city worth caring about and establish the cursed Tower as an everyday wound rather than a new discovery.</p>\n<h3>Opening Image</h3>\n<p>Palanthas is brighter than the road behind them: white stone, gardens, scholars, ships, music and markets. Only after the first description do you mention the black Tower standing in the city’s heart.</p>\n<h3>People in Play</h3>\n<ul>\n<li>City gate official</li>\n<li>Aesthetic guide</li>\n<li>Harbour contact</li>\n<li>Palanthas councillor or magistrate</li>\n<li>Street residents of the Shoikan district</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Entry</h4>\n<p>The city is orderly enough that weapons, affiliations and letters matter. Raistlin’s seal gets immediate attention and a politely accelerated permit.</p>\n<h4>2. Orientation</h4>\n<p>Walk the party through Great Library Quarter, University District, harbour, Old City and the edge of the Shoikan district.</p>\n<h4>3. The Grove Boundary</h4>\n<p>Animals refuse to approach. Locals avoid facing the trees. A child has been told the Tower is empty and asks why it has lights some nights.</p>\n<h4>4. Choose Lodging</h4>\n<p>Let the party choose respectable, scholarly, harbour or near-Grove lodging. This determines which faction finds them first in Session 10.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Tower has been sealed for centuries in local memory.</li>\n<li>The Shoikan Grove existed before Rannoch but became far worse after the curse.</li>\n<li>Most locals consider Tower questions vulgar, dangerous or tourist foolishness.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>No automatic tracker movement. This session is investment. If the party treats Palanthas purely as a quest hub, use NPC warmth rather than punishment to invite curiosity.</p>\n<h3>End Beat</h3>\n<p>At night, one PC sees a faint light high in a Tower window. When they look again, it is gone.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Palanthas must become a place, not scenery. The later siege and Portal decisions only matter if the party has favourite streets and people here.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.m6o6MAIj9VKmmLM6"
+    },
+    {
+      "_id": "bL3cxca54IYGsned",
+      "name": "Session 10: City of White Stone, Black Shadow",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 10 · Level 7 · 4 hours.</strong> Open Palanthas as a sandbox and let multiple factions react to the party’s presence.</p>\n<h3>Opening Image</h3>\n<p>By breakfast, three invitations have arrived: one from a university scholar, one from a councillor, and one with no signature asking them to come to the harbour.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Professor Caldra Venn (campaign NPC, University historian)</li>\n<li>Councillor Mera Ostin (campaign NPC)</li>\n<li>Harbour smuggler/contact</li>\n<li>White Robe critic</li>\n<li>Dragonarmy observer</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Three Invitations</h4>\n<p>Let the party choose order or ignore one. Each offers information and asks a different favour.</p>\n<h4>2. University</h4>\n<p>Caldra shows pre-Lost Battles plans proving the Tower was once the greatest shared repository of all three Orders.</p>\n<h4>3. Council</h4>\n<p>Mera wants assurances that Raistlin is not claiming property inside Palanthas. The city fears a magical jurisdiction crisis almost as much as invasion.</p>\n<h4>4. Harbour</h4>\n<p>A contact reports Veyrath’s people entered the city days ahead under merchant identities.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Lore-spire was built for scholarship shared by all Orders.</li>\n<li>Palanthas and the Orders have a long history of uneasy bargains.</li>\n<li>Veyrath has at least one cell in the city.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Raistlin Trust may shift if the party publicly promises authority they do not possess. White Robe Bond +1 if the White Robe protects the city’s legitimate concerns while still pursuing the mission.</p>\n<h3>End Beat</h3>\n<p>The Great Library grants an appointment with Astinus for the next day. The appointment time was written in its ledger before the party entered Palanthas.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Astinus’s foreknowledge should feel factual, not theatrical. He does not perform mystery; history simply reaches him.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.bL3cxca54IYGsned"
+    },
+    {
+      "_id": "HiUhDH193sga5NfZ",
+      "name": "Session 11: Astinus",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 11 · Level 7 · 3–4 hours.</strong> Replace a simple fetch quest with the first explicit statement of what Raistlin is truly testing.</p>\n<h3>Opening Image</h3>\n<p>The Great Library is quieter than Wayreth. The Aesthetics move with the practiced efficiency of people who believe interruption is a kind of vandalism.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Astinus</li>\n<li>Senior Aesthetic Teren (campaign NPC)</li>\n<li>White Robe PC</li>\n<li>Party spokesperson</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. The Request</h4>\n<p>Present Raistlin’s letter. Astinus reads it even if he plainly knew its contents.</p>\n<h4>2. Refusal</h4>\n<p>He refuses access to the Chronicle. Allow negotiation, argument and research credentials; he remains calm and unmoved.</p>\n<h4>3. Correction</h4>\n<p>When the party insists the book is the mission, Astinus says: “Raistlin does not want my book.” Later: “He wants to know whether the Tower has been waiting for him.”</p>\n<h4>4. History Lesson</h4>\n<p>Astinus gives the minimum necessary history of the Lore-spire, Andras Rannoch’s curse, Fistandantilus and the Portal. He refuses to say whether Raistlin is the prophesied Master.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Rannoch’s curse names a Master of Past and Present.</li>\n<li>Fistandantilus planned around the Tower and the Portal.</li>\n<li>The Portal can access the Abyss under particular conditions.</li>\n<li>Astinus believes Raistlin’s real question concerns recognition, not text.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Fistandantilus Influence +1 because the party now has a historical line directly connecting the Dark One, Rannoch, the Portal and Raistlin. White Robe Bond may rise if the PC asks about consequences rather than entitlement.</p>\n<h3>End Beat</h3>\n<p>Astinus permits the party to consult secondary records but not the Chronicle. One requested volume is already missing.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The campaign changes category here: from war-road espionage to historical conspiracy.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.HiUhDH193sga5NfZ"
+    },
+    {
+      "_id": "BZt7n4LPKbHcWWws",
+      "name": "Session 12: The Missing Record",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 12 · Level 7 · 4 hours.</strong> Use Palanthas investigation to prove someone else is assembling the same history and to seed Arc III’s first murder.</p>\n<h3>Opening Image</h3>\n<p>The catalogue entry exists. The shelf mark exists. The checkout record does not. The volume is simply absent from a collection where absence is itself an event.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Senior Aesthetic Teren</li>\n<li>Professor Caldra Venn</li>\n<li>A frightened junior copyist</li>\n<li>Veyrath proxy</li>\n<li>Future victim: Aesthetic researcher Pellan Marr (campaign NPC)</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Audit</h4>\n<p>The party traces who had physical access. Avoid a single Investigation roll; use interviews, shelf dust, copy requests, seal wax and corridor timing.</p>\n<h4>2. False Trail</h4>\n<p>Evidence points toward a university scholar. The scholar did copy related Fistandantilus material, but for legitimate study.</p>\n<h4>3. Harbour Link</h4>\n<p>The missing record was removed through a delivery cart whose driver was paid with foreign coin. Veyrath’s cell is involved, but they were following another researcher.</p>\n<h4>4. Pellan Marr</h4>\n<p>Pellan admits he has been privately studying temporal traces around the Grove. He found a magical signature that resembles Raistlin’s work but predates him.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Someone is gathering the same records independently of Raistlin.</li>\n<li>A pre-Raistlin signature resembles his magic.</li>\n<li>The Grove and Tower may be producing temporal echoes.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Fistandantilus Influence +1 if the party delivers Pellan’s observation to Raistlin without independent scrutiny. Trust +1 for recovering the missing material or identifying the leak.</p>\n<h3>End Beat</h3>\n<p>Pellan agrees to meet after the Grove experiment. In Arc III, he will be found dead near the trees.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Fistandantilus should still be a hypothesis the players can reject. The pattern becomes undeniable only inside the Tower.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.BZt7n4LPKbHcWWws"
+    },
+    {
+      "_id": "f3K1xXPYHmj32jAz",
+      "name": "Session 13: Shoikan Perimeter",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 13 · Level 7 · 4 hours.</strong> Make the Shoikan Grove terrifying enough that the token’s response is meaningful.</p>\n<h3>Opening Image</h3>\n<p>The final occupied house ends half a street before the trees. Beyond it, afternoon light seems to stop. The oaks are enormous, gnarled and black-barked, their pale branches like exposed bone.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Party only for most of the session</li>\n<li>Optional local guide who refuses to cross the last street</li>\n<li>Undead manifestations of the Grove</li>\n<li>Rannoch’s distant presence</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Preparation</h4>\n<p>Let players research protections, history, previous attempts and the token. They learn that ordinary bravery does not defeat the Grove.</p>\n<h4>2. Boundary Test</h4>\n<p>Animals refuse, flames gutter, sounds change. Run fear and psychic pressure without immediately attacking.</p>\n<h4>3. First Steps</h4>\n<p>If anyone enters without presenting the token, the Grove escalates: whispers, bloody footprints, hands under soil, spectres glimpsed between trunks. Do not make it a fair dungeon yet.</p>\n<h4>4. Token Raised</h4>\n<p>The black crystal becomes warm. The fear does not vanish instantly; it recedes in layers, as though something inside is recognising a signature.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Grove is an ancient Black-Robe guardian later twisted by Rannoch’s curse.</li>\n<li>Undead inside are bound to guard rather than hunt beyond the boundary.</li>\n<li>The token is not merely protection—it is being recognised.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Wayreth Accord +1 if the party treats the guardian system as a magical intelligence rather than an obstacle to smash. White Robe Bond may shift based on whether the PC trusts Raistlin’s token enough to proceed.</p>\n<h3>End Beat</h3>\n<p>Trees bend away from a narrow path that was not visible before.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The route is opening for Raistlin’s authority, not the party’s. Preserve that distinction for Arc III.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.f3K1xXPYHmj32jAz"
+    },
+    {
+      "_id": "R6xDJEh0sU38JZPK",
+      "name": "Session 14: The Grove Answers",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 14 · Level 8 · 3–4 hours.</strong> End Arc II by confirming the prophecy and showing Raistlin’s first genuine fear of success.</p>\n<h3>Opening Image</h3>\n<p>The path reaches far enough into the trees for the Tower gates to become visible through black branches. No one has crossed this far in living memory and returned with a coherent account.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Party</li>\n<li>Shoikan guardians held at bay by the token</li>\n<li>A whispering Tower/Grove presence</li>\n<li>Raistlin by later report</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. The Path</h4>\n<p>Walk slowly. Use sights from the Grove—hollow faces, blood filling footprints, skeletal hands—but none touch the bearer while the token is active.</p>\n<h4>2. Recognition</h4>\n<p>At the point where the party expects the path to end, the branches bow further. The air stills.</p>\n<h4>3. The Words</h4>\n<p>A whisper passes from tree to tree: “The Master comes.” It is not spoken by a visible creature. The path toward the gate remains open only a few minutes.</p>\n<h4>4. Report</h4>\n<p>The party contacts or returns to Raistlin. Describe exactly one lapse in control: he looks frightened. Then he says, “Remain in Palanthas.” End the audience before explanations.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Shoikan system accepts Raistlin’s signature as belonging to its prophesied Master.</li>\n<li>The party is now the only living group besides Raistlin who knows this has been confirmed.</li>\n<li>Raistlin did not expect certainty, despite sending them to seek it.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 8. Raistlin Trust +1 if the report is precise and private. White Robe Bond +1 if the White Robe reports both the result and concern about what it means. Fistandantilus Influence +1 automatically: the old plan has advanced.</p>\n<h3>End Beat</h3>\n<p>Cut to Palanthas at night. High in the Doom-spire, a light appears in a window that has been dark for centuries.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Raistlin is frightened because the universe has just told him that the path to Caramon may actually work. Success—not failure—is the danger that launches Arc III.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!felvHcLeanQSmxep.R6xDJEh0sU38JZPK"
+    }
+  ],
+  "folder": null,
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!felvHcLeanQSmxep"
+}

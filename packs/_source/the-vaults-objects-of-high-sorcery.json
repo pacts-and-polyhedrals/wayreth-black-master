@@ -1,13 +1,6 @@
 {
   "_id": "WzyCveh65ooDa6Tk",
   "name": "The Vaults: Objects of High Sorcery",
-  "folder": null,
-  "sort": 600000,
-  "ownership": {
-    "default": 2
-  },
-  "flags": {},
-  "_key": "!journal!WzyCveh65ooDa6Tk",
   "pages": [
     {
       "_id": "c5MQcBNmyBgfrxtr",
@@ -33,7 +26,35 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!WzyCveh65ooDa6Tk.c5MQcBNmyBgfrxtr"
+    },
+    {
+      "_id": "gEcH82QdGyOt0lM9",
+      "name": "Custody, Provenance, and the Price of Borrowing",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">The vault is not a treasure room. It is an argument, three thousand years long, about whether dangerous knowledge is safer remembered.</p>\n<h3>How an Object Enters</h3>\n<p>Every holding receives a provenance record: maker if known, age, prior owners, means of recovery, observed powers, suspected purpose, lunar affinities, attempts at destruction, and the names of everyone harmed during examination. Objects without histories are treated as more dangerous than objects with terrible ones.</p>\n<p>Confiscation requires a Conclave writ unless the object is actively consuming a person, opening an uncontrolled gate, or teaching itself to new users. Donations are accepted only after three interviews. The Tower has learned that a dying wizard's generosity often conceals a final experiment.</p>\n<h3>Classification</h3>\n<table class=\"wy-table\"><thead><tr><th>Seal</th><th>Meaning</th><th>Access</th></tr></thead><tbody>\n<tr><td>White wax</td><td>Stable, understood, replaceable.</td><td>Lending by a librarian and one sponsor.</td></tr>\n<tr><td>Red wax</td><td>Stable but unique, politically sensitive, or incompletely understood.</td><td>Two Conclave members from different Orders.</td></tr>\n<tr><td>Black wax</td><td>Intelligent, contagious, soul-altering, or capable of mass harm.</td><td>The Master plus two Heads; never removed from Wayreth.</td></tr>\n<tr><td>No seal</td><td>Classification refused by the object or interrupted by casualties.</td><td>No handling. Observation through the catalogue only.</td></tr>\n</tbody></table>\n<h3>Borrowing</h3>\n<p>A lent item is entered against the borrower's true name, destination, declared purpose, and return moon. The Tower knows when the item crosses the forest and when it changes hands. Failure to return it closes Wayreth to the borrower; deliberate misuse closes the forest to everyone who knowingly assisted.</p>\n<p>For player characters, a loan is more interesting than a gift. Give the item enough power to change one phase of the campaign, a condition that invites a hard choice, and a named librarian who will ask what it cost.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!WzyCveh65ooDa6Tk.gEcH82QdGyOt0lM9"
     },
     {
       "_id": "5djEnBwAtpaDaeXd",
@@ -54,11 +75,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 200000,
+      "sort": 300000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!WzyCveh65ooDa6Tk.5djEnBwAtpaDaeXd"
     },
     {
@@ -80,11 +102,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 300000,
+      "sort": 400000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!WzyCveh65ooDa6Tk.0IWIXEzCnRaCyvZ7"
     },
     {
@@ -106,11 +129,12 @@
       },
       "src": null,
       "system": {},
-      "sort": 400000,
+      "sort": 500000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!WzyCveh65ooDa6Tk.4ddM98HR21inNAgI"
     },
     {
@@ -123,7 +147,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<div class=\"wayreth-journal\">\n<h3>Staff of the Fallen Tower</h3>\n<p><em>Staff, very rare (requires attunement by a wizard)</em></p>\n<p>Cut from a roof-beam of the Tower of Daltigoth before it came down. Ten charges, regains 1d6+4 daily at dawn.</p>\n<p>Expend charges to cast: <em>counterspell</em> (3), <em>dispel magic</em> (3), <em>wall of force</em> (5), <em>mordenkainen's private sanctum</em> (4).</p>\n<p>Additionally, while holding the staff, you have advantage on saving throws against spells cast by creatures inside a structure you are also inside. The staff remembers being a building.</p>\n<h3>The Grey Staff</h3>\n<p><em>Staff, legendary (requires attunement by a Wizard of High Sorcery)</em></p>\n<p>Plain grey wood, warm to the touch. It has no charges and casts no spells.</p>\n<p>While attuned, once per long rest you may declare that a spell you are about to cast will succeed. It does &mdash; no attack roll, no saving throw, no counterspell, no resistance, no immunity. It simply happens as described.</p>\n<p>You then roll a d20. On a 10 or lower, the staff takes something in exchange: roll on the Mark table in <em>The Test of High Sorcery</em>. The Mark is permanent and the staff does not warn you which one it has chosen until it is done.</p>\n<h3>The Hourglass of Fistandantilus</h3>\n<p><em>Wondrous item, artifact (requires attunement)</em></p>\n<p>Interdicted. Held in the deepest vault under three separate Conclave seals, two of which have been renewed in the last year.</p>\n<p>A small hourglass of black glass. The sand does not fall.</p>\n<p><strong>Properties.</strong> While attuned, you gain the following:</p>\n<ul>\n<li>You have advantage on death saving throws, and you do not age.</li>\n<li>Once per long rest, as a reaction when a creature within 60 feet drops to 0 hit points, you may regain hit points equal to half that creature's hit point maximum.</li>\n<li>Once per long rest, you may take an additional action on your turn.</li>\n</ul>\n<p><strong>The Cost.</strong> Each time you use either of the last two properties, the sand falls a little. After the seventh use, the attunement cannot be ended by any means short of a <em>wish</em> or the intervention of a god of magic.</p>\n<p><strong>The Occupant.</strong> The hourglass is not an item with a curse. It is a container, and there is something in it, and it has been extremely patient.</p>\n<section class=\"secret\">\n<h3>DM Note &mdash; The Hourglass</h3>\n<p>This is a campaign-ending object and should be treated as one. Do not put it in the party's hands casually.</p>\n<p>Its best use is as a <em>question</em>. The party learns it is in the vault. They learn the seals have been renewed twice in the last year, which means someone has been down there disturbing them. They are never told who or why.</p>\n<p>If you selected the <strong>Survival</strong> agenda, this is what Raistlin is doing in the vaults most nights, and the correct climax of your campaign is the party arriving too late, or just barely in time, to be present for a decision that is not theirs to make.</p>\n<p>If you selected <strong>Palanthas</strong>, note that \"the master of both past and present\" reads very differently once you know what is in the hourglass and how long it has been waiting for a body.</p>\n</section>\n</div>"
+        "content": "<div class=\"wayreth-journal\">\n<h3>Staff of Magius</h3>\n<p><em>Staff, artifact (unique; requires attunement by a Wizard of High Sorcery)</em></p>\n<p>Dark mahogany topped by a golden dragon claw holding a pale crystal. It is a +2 quarterstaff and arcane focus. While held, it grants +2 AC and +2 to saving throws. The crystal answers <em>Shirak</em> with light and <em>Dulak</em> with darkness.</p>\n<p>The staff has 10 charges (regaining 1d6+4 at dawn) used for <em>feather fall</em>, <em>daylight</em>, <em>knock</em>, <em>control water</em>, <em>teleport</em>, and Magius's shaping of light, air, and mind magic. It returns to its attuned owner on command.</p>\n<p><strong>Raistlin's Awakening.</strong> In Raistlin's hands the staff reveals deeper defenses, spell attack enhancement, force behind its blows, and a five-level spell reservoir. Those powers are not assumed to unlock for another bearer.</p>\n<h3>Staff of the Fallen Tower</h3>\n<p><em>Staff, very rare (requires attunement by a wizard)</em></p>\n<p>Cut from a roof-beam of the Tower of Daltigoth before it came down. Ten charges, regains 1d6+4 daily at dawn.</p>\n<p>Expend charges to cast: <em>counterspell</em> (3), <em>dispel magic</em> (3), <em>wall of force</em> (5), <em>mordenkainen's private sanctum</em> (4).</p>\n<p>Additionally, while holding the staff, you have advantage on saving throws against spells cast by creatures inside a structure you are also inside. The staff remembers being a building.</p>\n<h3>The Grey Staff</h3>\n<p><em>Staff, legendary (requires attunement by a Wizard of High Sorcery)</em></p>\n<p>Plain grey wood, warm to the touch. It has no charges and casts no spells.</p>\n<p>While attuned, once per long rest you may declare that a spell you are about to cast will succeed. It does &mdash; no attack roll, no saving throw, no counterspell, no resistance, no immunity. It simply happens as described.</p>\n<p>You then roll a d20. On a 10 or lower, the staff takes something in exchange: roll on the Mark table in <em>The Test of High Sorcery</em>. The Mark is permanent and the staff does not warn you which one it has chosen until it is done.</p>\n<h3>The Hourglass of Fistandantilus</h3>\n<p><em>Wondrous item, artifact (requires attunement)</em></p>\n<p>Interdicted. Held in the deepest vault under three separate Conclave seals, two of which have been renewed in the last year.</p>\n<p>A small hourglass of black glass. The sand does not fall.</p>\n<p><strong>Properties.</strong> While attuned, you gain the following:</p>\n<ul>\n<li>You have advantage on death saving throws, and you do not age.</li>\n<li>Once per long rest, as a reaction when a creature within 60 feet drops to 0 hit points, you may regain hit points equal to half that creature's hit point maximum.</li>\n<li>Once per long rest, you may take an additional action on your turn.</li>\n</ul>\n<p><strong>The Cost.</strong> Each time you use either of the last two properties, the sand falls a little. After the seventh use, the attunement cannot be ended by any means short of a <em>wish</em> or the intervention of a god of magic.</p>\n<p><strong>The Occupant.</strong> The hourglass is not an item with a curse. It is a container, and there is something in it, and it has been extremely patient.</p>\n<section class=\"secret\">\n<h3>DM Note &mdash; The Hourglass</h3>\n<p>This is a campaign-ending object and should be treated as one. Do not put it in the party's hands casually.</p>\n<p>Its best use is as a <em>question</em>. The party learns it is in the vault. They learn the seals have been renewed twice in the last year, which means someone has been down there disturbing them. They are never told who or why.</p>\n<p>If you selected the <strong>Survival</strong> agenda, this is what Raistlin is doing in the vaults most nights, and the correct climax of your campaign is the party arriving too late, or just barely in time, to be present for a decision that is not theirs to make.</p>\n<p>If you selected <strong>Palanthas</strong>, note that \"the master of both past and present\" reads very differently once you know what is in the hourglass and how long it has been waiting for a body.</p>\n</section>\n</div>"
       },
       "image": {},
       "video": {
@@ -132,12 +156,48 @@
       },
       "src": null,
       "system": {},
-      "sort": 500000,
+      "sort": 600000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!WzyCveh65ooDa6Tk.R49Y8sWwyh3ywvFo"
+    },
+    {
+      "_id": "yIYeiYMBI2IvgTSx",
+      "name": "Restricted Catalogue: Twelve Holdings",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">These objects are original additions for this campaign. Each is useful enough to tempt and specific enough to create a story.</p>\n<table class=\"wy-table\"><thead><tr><th>Object</th><th>Power</th><th>Complication</th></tr></thead><tbody>\n<tr><td><strong>Ashglass Lens</strong></td><td>Once per dawn, see the last spell cast in a room as a silent image.</td><td>The lens also shows one spell the viewer regrets not casting.</td></tr>\n<tr><td><strong>Bell of the Unentered Door</strong></td><td>Rings when a portal within 300 feet leads somewhere other than its frame suggests.</td><td>Every false door nearby opens for one round.</td></tr>\n<tr><td><strong>Black Thread Spool</strong></td><td>Stitch a torn spell scroll so it can be cast once without a check.</td><td>The caster permanently forgets a mundane memory chosen by the DM.</td></tr>\n<tr><td><strong>Chalice of Second Water</strong></td><td>Purifies poison, disease, or magical corruption from one drink each night.</td><td>The removed impurity remains alive in the cup until sunrise.</td></tr>\n<tr><td><strong>Compass of Absent Roads</strong></td><td>Points toward the nearest route deliberately erased from maps.</td><td>It never points home.</td></tr>\n<tr><td><strong>Ember Index</strong></td><td>A brass bookmark that preserves one page from fire, acid, or decay.</td><td>Another page in the same book becomes blank.</td></tr>\n<tr><td><strong>Hour Candle</strong></td><td>Burn it to extend a ritual's safe casting time by one hour.</td><td>Everyone participating ages one day and dreams the missing time.</td></tr>\n<tr><td><strong>Mercy Needle</strong></td><td>As an action, end one charm or possession within reach.</td><td>The wielder experiences the expelled influence's strongest desire.</td></tr>\n<tr><td><strong>Moonless Ink</strong></td><td>Writing is visible only under Nuitari or to a named reader.</td><td>If the reader dies, the text selects its own next reader.</td></tr>\n<tr><td><strong>Red Measure</strong></td><td>Determines the exact material value required by a spell.</td><td>It also states the human cost when one exists.</td></tr>\n<tr><td><strong>Stone of the Fifth Foundation</strong></td><td>For one minute, reveals stress, wards, and hidden spaces in a structure.</td><td>The structure becomes aware of the viewer.</td></tr>\n<tr><td><strong>White Thorn</strong></td><td>Plant it to create a 20-foot sanctuary against summoned creatures for one hour.</td><td>Nothing inside can knowingly speak a lie.</td></tr>\n</tbody></table>\n<h3>Using the Catalogue</h3><p>Choose one holding that solves the party's immediate technical problem and makes their moral problem harder. The vault should never feel like a shop. It is a place where every solution has already survived somebody else's disaster.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!WzyCveh65ooDa6Tk.yIYeiYMBI2IvgTSx"
     }
-  ]
+  ],
+  "folder": null,
+  "sort": 1500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!WzyCveh65ooDa6Tk"
 }

@@ -1,4 +1,4 @@
-import { ClassicLevel } from "classic-level";
+import { compilePack } from "@foundryvtt/foundryvtt-cli";
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
@@ -19,36 +19,33 @@ function makeId(seed) {
 }
 
 const FILES = [
-  "history.json",
-  "master.json",
-  "test.json",
-  "tower.json",
-  "moons.json",
-  "items.json",
-  "npcs.json",
-  "adventure.json"
+  "campaign-bible.json", "campaign-timeline.json", "arc-one.json",
+  "arc-two.json", "arc-three.json", "arcs-four-five-six.json",
+  "arc-four.json", "arc-five.json", "arc-six.json",
+  "history.json", "master.json", "test.json", "tower.json",
+  "moons.json", "items.json", "npcs.json", "adventure.json",
+  "road-guide.json", "route-solamnic.json", "route-lemish.json", "route-elven.json",
+  "session-zero.json", "session-zero-player.json", "spells-guide.json",
+  "bestiary-gallery.json",
+  "legacy-guide.json",
+  "legacy-player-alice.json", "legacy-player-solanthis.json", "legacy-player-jinx.json",
+  "legacy-player-sylas.json", "legacy-player-clipper.json", "legacy-player-kattal.json"
 ];
 
-const journals = [];
-const pages = [];
+const slug = s => s.replace(/[^a-z0-9]+/gi, "-").replace(/^-|-$/g, "").toLowerCase();
+
+fs.rmSync(SOURCE, { recursive: true, force: true });
+fs.mkdirSync(SOURCE, { recursive: true });
+
+let pageTotal = 0;
 
 FILES.forEach((file, journalIndex) => {
   const raw = JSON.parse(fs.readFileSync(path.join(CONTENT, file), "utf8"));
   const journalId = makeId(`journal:${raw.name}`);
 
-  journals.push({
-    _id: journalId,
-    name: raw.name,
-    folder: null,
-    sort: (journalIndex + 1) * 100000,
-    ownership: { default: 2 }, // OBSERVER: players can read, secrets stay hidden
-    flags: {},
-    _key: `!journal!${journalId}`
-  });
-
-  raw.pages.forEach((page, pageIndex) => {
+  const pages = raw.pages.map((page, pageIndex) => {
     const pageId = makeId(`page:${raw.name}:${page.name}`);
-    pages.push({
+    return {
       _id: pageId,
       name: page.name,
       type: "text",
@@ -61,32 +58,36 @@ FILES.forEach((file, journalIndex) => {
       sort: (pageIndex + 1) * 100000,
       ownership: { default: -1 },
       flags: {},
+      _stats: {},
+      // The CLI reads _key off every document in the hierarchy, parent and
+      // embedded alike. Embedded keys are !<parent>.<collection>!<parentId>.<childId>
       _key: `!journal.pages!${journalId}.${pageId}`
-    });
+    };
   });
+
+  const journal = {
+    _id: journalId,
+    name: raw.name,
+    // compilePack maps this down to an array of page IDs in the stored value,
+    // but it must be present — a journal packed without it renders blank.
+    pages,
+    folder: null,
+    sort: (journalIndex + 1) * 100000,
+    // Player-facing reference journals mirror the runtime installer; campaign and GM runbooks remain GM-only.
+    ownership: { default: ["history.json", "spells-guide.json", "session-zero-player.json"].includes(file) ? 2 : 0 },
+    flags: {},
+    _stats: {},
+    _key: `!journal!${journalId}`
+  };
+
+  fs.writeFileSync(path.join(SOURCE, `${slug(raw.name)}.json`), JSON.stringify(journal, null, 2));
+  pageTotal += pages.length;
 });
 
-// Write human-editable source JSON alongside the built pack, so the module can
-// be rebuilt or hand-edited later without going back through the content files.
-fs.mkdirSync(SOURCE, { recursive: true });
-for (const j of journals) {
-  const own = pages.filter(p => p._key.includes(`!${j._id}.`));
-  fs.writeFileSync(
-    path.join(SOURCE, `${j.name.replace(/[^a-z0-9]+/gi, "-").toLowerCase()}.json`),
-    JSON.stringify({ ...j, pages: own }, null, 2)
-  );
-}
-
-// Build the LevelDB pack.
 fs.rmSync(PACK, { recursive: true, force: true });
-const db = new ClassicLevel(PACK, { valueEncoding: "json" });
-await db.open();
-const batch = db.batch();
-for (const doc of [...journals, ...pages]) {
-  const { _key, ...value } = doc;
-  batch.put(_key, value);
-}
-await batch.write();
-await db.close();
+await compilePack(SOURCE, PACK, { recursive: false, log: false });
 
-console.log(`Packed ${journals.length} journals / ${pages.length} pages -> packs/wayreth-journals`);
+// Strip LevelDB runtime artifacts before release.
+for (const f of ["LOCK", "LOG", "LOG.old"]) fs.rmSync(path.join(PACK, f), { force: true });
+
+console.log(`Packed ${FILES.length} journals / ${pageTotal} pages -> packs/wayreth-journals`);

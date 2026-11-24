@@ -1,0 +1,82 @@
+type,cr,name,portrait,token
+Aberration,9,Dream of the Fallen,assets/bestiary/Aberration/CR09.00_49_Dream_of_the_Fallen.webp,assets/tokens/Aberration/CR09.00_49_Dream_of_the_Fallen.webp
+Aberration,13,Lorac's Remnant,assets/bestiary/Aberration/CR13.00_50_Loracs_Remnant.webp,assets/tokens/Aberration/CR13.00_50_Loracs_Remnant.webp
+Beast,1,Forest Wolf Pack Leader,assets/bestiary/Beast/CR01.00_73_Forest_Wolf_Pack_Leader.webp,assets/tokens/Beast/CR01.00_73_Forest_Wolf_Pack_Leader.webp
+Dragon,1,Baaz Draconian,assets/bestiary/Dragon/CR01.00_01_Baaz_Draconian.webp,assets/tokens/Dragon/CR01.00_01_Baaz_Draconian.webp
+Dragon,2,"Black Dragon, Wyrmling",assets/bestiary/Dragon/CR02.00_21_Black_Dragon_Wyrmling.webp,assets/tokens/Dragon/CR02.00_21_Black_Dragon_Wyrmling.webp
+Dragon,2,"Green Dragon, Wyrmling",assets/bestiary/Dragon/CR02.00_22_Green_Dragon_Wyrmling.webp,assets/tokens/Dragon/CR02.00_22_Green_Dragon_Wyrmling.webp
+Dragon,2,"White Dragon, Wyrmling",assets/bestiary/Dragon/CR02.00_20_White_Dragon_Wyrmling.webp,assets/tokens/Dragon/CR02.00_20_White_Dragon_Wyrmling.webp
+Dragon,3,"Blue Dragon, Wyrmling",assets/bestiary/Dragon/CR03.00_23_Blue_Dragon_Wyrmling.webp,assets/tokens/Dragon/CR03.00_23_Blue_Dragon_Wyrmling.webp
+Dragon,3,Kapak Draconian,assets/bestiary/Dragon/CR03.00_02_Kapak_Draconian.webp,assets/tokens/Dragon/CR03.00_02_Kapak_Draconian.webp
+Dragon,4,Bozak Draconian,assets/bestiary/Dragon/CR04.00_03_Bozak_Draconian.webp,assets/tokens/Dragon/CR04.00_03_Bozak_Draconian.webp
+Dragon,4,"Red Dragon, Wyrmling",assets/bestiary/Dragon/CR04.00_24_Red_Dragon_Wyrmling.webp,assets/tokens/Dragon/CR04.00_24_Red_Dragon_Wyrmling.webp
+Dragon,6,"Brass Dragon, Young",assets/bestiary/Dragon/CR06.00_32_Brass_Dragon_Young.webp,assets/tokens/Dragon/CR06.00_32_Brass_Dragon_Young.webp
+Dragon,6,Sivak Draconian,assets/bestiary/Dragon/CR06.00_04_Sivak_Draconian.webp,assets/tokens/Dragon/CR06.00_04_Sivak_Draconian.webp
+Dragon,6,"White Dragon, Young",assets/bestiary/Dragon/CR06.00_17_White_Dragon_Young.webp,assets/tokens/Dragon/CR06.00_17_White_Dragon_Young.webp
+Dragon,7,"Black Dragon, Young",assets/bestiary/Dragon/CR07.00_16_Black_Dragon_Young.webp,assets/tokens/Dragon/CR07.00_16_Black_Dragon_Young.webp
+Dragon,7,"Copper Dragon, Young",assets/bestiary/Dragon/CR07.00_34_Copper_Dragon_Young.webp,assets/tokens/Dragon/CR07.00_34_Copper_Dragon_Young.webp
+Dragon,8,"Bronze Dragon, Young",assets/bestiary/Dragon/CR08.00_33_Bronze_Dragon_Young.webp,assets/tokens/Dragon/CR08.00_33_Bronze_Dragon_Young.webp
+Dragon,8,"Green Dragon, Young",assets/bestiary/Dragon/CR08.00_15_Green_Dragon_Young.webp,assets/tokens/Dragon/CR08.00_15_Green_Dragon_Young.webp
+Dragon,9,Aurak Draconian,assets/bestiary/Dragon/CR09.00_05_Aurak_Draconian.webp,assets/tokens/Dragon/CR09.00_05_Aurak_Draconian.webp
+Dragon,9,"Blue Dragon, Young",assets/bestiary/Dragon/CR09.00_13_Blue_Dragon_Young.webp,assets/tokens/Dragon/CR09.00_13_Blue_Dragon_Young.webp
+Dragon,9,"Silver Dragon, Young",assets/bestiary/Dragon/CR09.00_18_Silver_Dragon_Young.webp,assets/tokens/Dragon/CR09.00_18_Silver_Dragon_Young.webp
+Dragon,9,"Skaith, Sivak Infiltrator",assets/bestiary/Dragon/CR09.00_61_Skaith_Sivak_Infiltrator.webp,assets/tokens/Dragon/CR09.00_61_Skaith_Sivak_Infiltrator.webp
+Dragon,10,"Gold Dragon, Young",assets/bestiary/Dragon/CR10.00_19_Gold_Dragon_Young.webp,assets/tokens/Dragon/CR10.00_19_Gold_Dragon_Young.webp
+Dragon,10,"Red Dragon, Young",assets/bestiary/Dragon/CR10.00_11_Red_Dragon_Young.webp,assets/tokens/Dragon/CR10.00_11_Red_Dragon_Young.webp
+Dragon,13,"White Dragon, Adult",assets/bestiary/Dragon/CR13.00_25_White_Dragon_Adult.webp,assets/tokens/Dragon/CR13.00_25_White_Dragon_Adult.webp
+Dragon,14,"Black Dragon, Adult",assets/bestiary/Dragon/CR14.00_26_Black_Dragon_Adult.webp,assets/tokens/Dragon/CR14.00_26_Black_Dragon_Adult.webp
+Dragon,15,"Green Dragon, Adult",assets/bestiary/Dragon/CR15.00_27_Green_Dragon_Adult.webp,assets/tokens/Dragon/CR15.00_27_Green_Dragon_Adult.webp
+Dragon,16,"Blue Dragon, Adult",assets/bestiary/Dragon/CR16.00_14_Blue_Dragon_Adult.webp,assets/tokens/Dragon/CR16.00_14_Blue_Dragon_Adult.webp
+Dragon,16,"Silver Dragon, Adult",assets/bestiary/Dragon/CR16.00_35_Silver_Dragon_Adult.webp,assets/tokens/Dragon/CR16.00_35_Silver_Dragon_Adult.webp
+Dragon,17,"Red Dragon, Adult",assets/bestiary/Dragon/CR17.00_12_Red_Dragon_Adult.webp,assets/tokens/Dragon/CR17.00_12_Red_Dragon_Adult.webp
+Dragon,19,Cyan Bloodbane,assets/bestiary/Dragon/CR19.00_59_Cyan_Bloodbane.webp,assets/tokens/Dragon/CR19.00_59_Cyan_Bloodbane.webp
+Dragon,23,"Blue Dragon, Ancient",assets/bestiary/Dragon/CR23.00_28_Blue_Dragon_Ancient.webp,assets/tokens/Dragon/CR23.00_28_Blue_Dragon_Ancient.webp
+Dragon,23,"Silver Dragon, Ancient",assets/bestiary/Dragon/CR23.00_30_Silver_Dragon_Ancient.webp,assets/tokens/Dragon/CR23.00_30_Silver_Dragon_Ancient.webp
+Dragon,24,"Gold Dragon, Ancient",assets/bestiary/Dragon/CR24.00_31_Gold_Dragon_Ancient.webp,assets/tokens/Dragon/CR24.00_31_Gold_Dragon_Ancient.webp
+Dragon,24,"Red Dragon, Ancient",assets/bestiary/Dragon/CR24.00_29_Red_Dragon_Ancient.webp,assets/tokens/Dragon/CR24.00_29_Red_Dragon_Ancient.webp
+Dragon,25,"Vaelzhar, the Unremembered",assets/bestiary/Dragon/CR25.00_79_Vaelzhar_the_Unremembered.webp,assets/tokens/Dragon/CR25.00_79_Vaelzhar_the_Unremembered.webp
+Dragon,26,"Nythravel, the Upward Shadow",assets/bestiary/Dragon/CR26.00_80_Nythravel_the_Upward_Shadow.webp,assets/tokens/Dragon/CR26.00_80_Nythravel_the_Upward_Shadow.webp
+Dragon,27,"Kharzoryx, the Blue Pyre",assets/bestiary/Dragon/CR27.00_81_Kharzoryx_the_Blue_Pyre.webp,assets/tokens/Dragon/CR27.00_81_Kharzoryx_the_Blue_Pyre.webp
+Fiend,4,Bound Abyssal Lesser,assets/bestiary/Fiend/CR04.00_62_Bound_Abyssal_Lesser.webp,assets/tokens/Fiend/CR04.00_62_Bound_Abyssal_Lesser.webp
+Fiend,5,Chained Tormentor,assets/bestiary/Fiend/CR05.00_44_Chained_Tormentor.webp,assets/tokens/Fiend/CR05.00_44_Chained_Tormentor.webp
+Fiend,8,Abyssal Warbeast,assets/bestiary/Fiend/CR08.00_63_Abyssal_Warbeast.webp,assets/tokens/Fiend/CR08.00_63_Abyssal_Warbeast.webp
+Fiend,11,Abyssal Siegebreaker,assets/bestiary/Fiend/CR11.00_45_Abyssal_Siegebreaker.webp,assets/tokens/Fiend/CR11.00_45_Abyssal_Siegebreaker.webp
+Fiend,11,Nameless One of the Field,assets/bestiary/Fiend/CR11.00_64_Nameless_One_of_the_Field.webp,assets/tokens/Fiend/CR11.00_64_Nameless_One_of_the_Field.webp
+Fiend,15,Warden of the Palace of Chains,assets/bestiary/Fiend/CR15.00_46_Warden_of_the_Palace_of_Chains.webp,assets/tokens/Fiend/CR15.00_46_Warden_of_the_Palace_of_Chains.webp
+Fiend,18,Herald of the Dark Queen,assets/bestiary/Fiend/CR18.00_47_Herald_of_the_Dark_Queen.webp,assets/tokens/Fiend/CR18.00_47_Herald_of_the_Dark_Queen.webp
+Humanoid,0.25,Hill Brigand,assets/bestiary/Humanoid/CR00.25_72_Hill_Brigand.webp,assets/tokens/Humanoid/CR00.25_72_Hill_Brigand.webp
+Humanoid,0.5,Dragonarmy Recruit,assets/bestiary/Humanoid/CR00.50_06_Dragonarmy_Recruit.webp,assets/tokens/Humanoid/CR00.50_06_Dragonarmy_Recruit.webp
+Humanoid,0.5,Solamnic Foot Soldier,assets/bestiary/Humanoid/CR00.50_39_Solamnic_Foot_Soldier.webp,assets/tokens/Humanoid/CR00.50_39_Solamnic_Foot_Soldier.webp
+Humanoid,1,Aesthetic of the Great Library,assets/bestiary/Humanoid/CR01.00_43_Aesthetic_of_the_Great_Library.webp,assets/tokens/Humanoid/CR01.00_43_Aesthetic_of_the_Great_Library.webp
+Humanoid,1,Palanthas City Guard,assets/bestiary/Humanoid/CR01.00_42_Palanthas_City_Guard.webp,assets/tokens/Humanoid/CR01.00_42_Palanthas_City_Guard.webp
+Humanoid,2,High Clerist Siege Engineer,assets/bestiary/Humanoid/CR02.00_41_High_Clerist_Siege_Engineer.webp,assets/tokens/Humanoid/CR02.00_41_High_Clerist_Siege_Engineer.webp
+Humanoid,2,Ossian Krell,assets/bestiary/Humanoid/CR02.00_77_Ossian_Krell.webp,assets/tokens/Humanoid/CR02.00_77_Ossian_Krell.webp
+Humanoid,3,Dragonarmy Veteran,assets/bestiary/Humanoid/CR03.00_07_Dragonarmy_Veteran.webp,assets/tokens/Humanoid/CR03.00_07_Dragonarmy_Veteran.webp
+Humanoid,3,Knight of the Crown,assets/bestiary/Humanoid/CR03.00_36_Knight_of_the_Crown.webp,assets/tokens/Humanoid/CR03.00_36_Knight_of_the_Crown.webp
+Humanoid,4,Solanthus Watch Captain,assets/bestiary/Humanoid/CR04.00_40_Solanthus_Watch_Captain.webp,assets/tokens/Humanoid/CR04.00_40_Solanthus_Watch_Captain.webp
+Humanoid,5,Dragonarmy Intelligence Agent,assets/bestiary/Humanoid/CR05.00_10_Dragonarmy_Intelligence_Agent.webp,assets/tokens/Humanoid/CR05.00_10_Dragonarmy_Intelligence_Agent.webp
+Humanoid,5,Lost Wanderer of Wayreth,assets/bestiary/Humanoid/CR05.00_74_Lost_Wanderer_of_Wayreth.webp,assets/tokens/Humanoid/CR05.00_74_Lost_Wanderer_of_Wayreth.webp
+Humanoid,6,Dragonarmy Officer,assets/bestiary/Humanoid/CR06.00_08_Dragonarmy_Officer.webp,assets/tokens/Humanoid/CR06.00_08_Dragonarmy_Officer.webp
+Humanoid,6,Knight of the Sword,assets/bestiary/Humanoid/CR06.00_37_Knight_of_the_Sword.webp,assets/tokens/Humanoid/CR06.00_37_Knight_of_the_Sword.webp
+Humanoid,7,Dragonarmy Battle Mage,assets/bestiary/Humanoid/CR07.00_09_Dragonarmy_Battle_Mage.webp,assets/tokens/Humanoid/CR07.00_09_Dragonarmy_Battle_Mage.webp
+Humanoid,8,Commander Veyrath,assets/bestiary/Humanoid/CR08.00_75_Commander_Veyrath.webp,assets/tokens/Humanoid/CR08.00_75_Commander_Veyrath.webp
+Humanoid,8,Dalamar Argent,assets/bestiary/Humanoid/CR08.00_55_Dalamar_Argent.webp,assets/tokens/Humanoid/CR08.00_55_Dalamar_Argent.webp
+Humanoid,9,"Mereth Sorn, Renegade",assets/bestiary/Humanoid/CR09.00_76_Mereth_Sorn_Renegade.webp,assets/tokens/Humanoid/CR09.00_76_Mereth_Sorn_Renegade.webp
+Humanoid,9,Renegade Hunter,assets/bestiary/Humanoid/CR09.00_70_Renegade_Hunter.webp,assets/tokens/Humanoid/CR09.00_70_Renegade_Hunter.webp
+Humanoid,10,Knight of the Rose,assets/bestiary/Humanoid/CR10.00_38_Knight_of_the_Rose.webp,assets/tokens/Humanoid/CR10.00_38_Knight_of_the_Rose.webp
+Humanoid,12,Kitiara uth Matar,assets/bestiary/Humanoid/CR12.00_57_Kitiara_uth_Matar.webp,assets/tokens/Humanoid/CR12.00_57_Kitiara_uth_Matar.webp
+Humanoid,13,Justarius of the Red Robes,assets/bestiary/Humanoid/CR13.00_54_Justarius_of_the_Red_Robes.webp,assets/tokens/Humanoid/CR13.00_54_Justarius_of_the_Red_Robes.webp
+Humanoid,14,Ladonna of the Black Robes,assets/bestiary/Humanoid/CR14.00_53_Ladonna_of_the_Black_Robes.webp,assets/tokens/Humanoid/CR14.00_53_Ladonna_of_the_Black_Robes.webp
+Humanoid,15,Par-Salian of the White Robes,assets/bestiary/Humanoid/CR15.00_52_Par_Salian_of_the_White_Robes.webp,assets/tokens/Humanoid/CR15.00_52_Par_Salian_of_the_White_Robes.webp
+Humanoid,21,"Raistlin Majere, Master of Wayreth",assets/bestiary/Humanoid/CR21.00_51_Raistlin_Majere_Master_of_Wayreth.webp,assets/tokens/Humanoid/CR21.00_51_Raistlin_Majere_Master_of_Wayreth.webp
+Humanoid,26,Astinus of Palanthas,assets/bestiary/Humanoid/CR26.00_60_Astinus_of_Palanthas.webp,assets/tokens/Humanoid/CR26.00_60_Astinus_of_Palanthas.webp
+Plant,6,Nightmare Tree,assets/bestiary/Plant/CR06.00_48_Nightmare_Tree.webp,assets/tokens/Plant/CR06.00_48_Nightmare_Tree.webp
+Plant,7,Shoikan Grove Sentinel,assets/bestiary/Plant/CR07.00_71_Shoikan_Grove_Sentinel.webp,assets/tokens/Plant/CR07.00_71_Shoikan_Grove_Sentinel.webp
+Undead,4,The Returned,assets/bestiary/Undead/CR04.00_67_The_Returned.webp,assets/tokens/Undead/CR04.00_67_The_Returned.webp
+Undead,5,Skeletal Knight of Dargaard,assets/bestiary/Undead/CR05.00_65_Skeletal_Knight_of_Dargaard.webp,assets/tokens/Undead/CR05.00_65_Skeletal_Knight_of_Dargaard.webp
+Undead,6,Banshee of the Keep,assets/bestiary/Undead/CR06.00_66_Banshee_of_the_Keep.webp,assets/tokens/Undead/CR06.00_66_Banshee_of_the_Keep.webp
+Undead,9,Vault Experiment,assets/bestiary/Undead/CR09.00_68_Vault_Experiment.webp,assets/tokens/Undead/CR09.00_68_Vault_Experiment.webp
+Undead,12,"Caramon Majere, Returned",assets/bestiary/Undead/CR12.00_78_Caramon_Majere_Returned.webp,assets/tokens/Undead/CR12.00_78_Caramon_Majere_Returned.webp
+Undead,12,Guardian of the Tower,assets/bestiary/Undead/CR12.00_69_Guardian_of_the_Tower.webp,assets/tokens/Undead/CR12.00_69_Guardian_of_the_Tower.webp
+Undead,20,Fistandantilus,assets/bestiary/Undead/CR20.00_58_Fistandantilus.webp,assets/tokens/Undead/CR20.00_58_Fistandantilus.webp
+Undead,22,"Lord Soth, Knight of the Black Rose",assets/bestiary/Undead/CR22.00_56_Lord_Soth_Knight_of_the_Black_Rose.webp,assets/tokens/Undead/CR22.00_56_Lord_Soth_Knight_of_the_Black_Rose.webp

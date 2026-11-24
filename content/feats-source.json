@@ -1,0 +1,70 @@
+{
+  "feats": [
+    {
+      "name": "Wizard of High Sorcery (White Robe)",
+      "order": "White",
+      "identifier": "wizard-of-high-sorcery-white",
+      "img": "icons/magic/light/explosion-star-glow-silhouette.webp",
+      "requirements": "Passed the Test of High Sorcery; sworn to Solinari",
+      "moon": "Solinari",
+      "price": "The Silver Toll",
+      "priceText": "you take <strong>2d10 force damage per additional level</strong>, and your hit point maximum is reduced by the total rolled until you finish a long rest. This cannot be prevented, resisted, or reduced. If it reduces your maximum to 0, you die.",
+      "priceNote": "The Silver Toll is the only Price payable with no spell slots remaining, and the only one payable while unconscious. A White Robe can always overreach. That is why they die doing it.",
+      "flavour": "You wear the white and you have paid for it. Solinari's servants are taught that a shield is only a shield if somebody is standing behind it."
+    },
+    {
+      "name": "Wizard of High Sorcery (Red Robe)",
+      "order": "Red",
+      "identifier": "wizard-of-high-sorcery-red",
+      "img": "icons/magic/fire/explosion-fireball-medium-red.webp",
+      "requirements": "Passed the Test of High Sorcery; sworn to Lunitari",
+      "moon": "Lunitari",
+      "price": "Lunitari's Ledger",
+      "priceText": "immediately expend additional spell slots whose combined level equals <strong>twice the additional levels</strong>. Any shortfall costs you <strong>one level of exhaustion per level unpaid</strong>. You choose the split, and may pay in exhaustion even with slots available.",
+      "priceNote": "A Red Robe rich in slots overreaches at no personal cost. A Red Robe late in a long day is as fragile as anyone.",
+      "flavour": "You wear the red and serve the art before any cause. The Order holds that magic is neither given nor taken but exchanged, and that an unbalanced ledger is a debt which collects itself."
+    },
+    {
+      "name": "Wizard of High Sorcery (Black Robe)",
+      "order": "Black",
+      "identifier": "wizard-of-high-sorcery-black",
+      "img": "icons/magic/unholy/orb-swirling-purple.webp",
+      "requirements": "Passed the Test of High Sorcery; sworn to Nuitari",
+      "moon": "Nuitari",
+      "price": "Nuitari's Due",
+      "priceText": "<strong>3d10 necrotic damage per additional level</strong>, and the victim's hit point maximum is reduced by the amount taken until they finish a long rest. By default you pay it &mdash; but you may instead take the Due from another creature within 30 feet that is willing; grappled, restrained, paralyzed, unconscious or incapacitated; or bound to you by oath, contract, geas or soul seal. That creature receives no saving throw.",
+      "priceNote": "The only Price with a choice in it, and the choice is whether the cost lands on you or on someone who cannot stop you.",
+      "flavour": "You wear the black and Nuitari knows your name. The black moon does not accept payment in effort or in coin. It accepts life."
+    }
+  ],
+  "extras": [
+    {
+      "name": "Conclave Standing",
+      "identifier": "conclave-standing",
+      "img": "icons/sundries/documents/document-sealed-signature-brown.webp",
+      "requirements": "Wizard of High Sorcery",
+      "html": "<p><em>Prerequisite: any Wizard of High Sorcery feat</em></p><p>The Conclave has entered your name in its own hand, and the Orders treat you as one of their own rather than as a licensed stranger.</p><ul><li>You gain access to the <strong>Second Library</strong> at Wayreth and to your Order's working records. You have advantage on Intelligence (Arcana) and Intelligence (History) checks made with a day or more of research inside a Tower of High Sorcery.</li><li>You may <strong>requisition one item</strong> from the Wayreth vaults per downtime period, subject to the Master's approval. Granted items are recorded; the record is how the Conclave learns what you are doing.</li><li>You may invoke the Conclave's writ. Once per long rest, when dealing with a wizard who has taken the Test, you may make a Charisma (Persuasion or Intimidation) check with advantage by citing your standing. This does not work twice on the same person.</li><li><strong>Renegade hunters will parley with you</strong> before acting, and will honour the parley. This has saved more lives than any spell in your book.</li></ul><p>Standing is not rank. It confers no authority over other members of your Order, and the Orders are careful about the distinction in ways that outsiders find baffling.</p>"
+    },
+    {
+      "name": "Marked by the Test",
+      "identifier": "marked-by-the-test",
+      "img": "icons/magic/time/hourglass-yellow-purple.webp",
+      "requirements": "Wizard of High Sorcery",
+      "html": "<p><em>Prerequisite: any Wizard of High Sorcery feat</em></p><p>What the Test took from you has not settled. It is still working.</p><ul><li>Increase your Intelligence, Wisdom or Charisma by 1, to a maximum of 20.</li><li>Your Mark deepens. Choose the Mark you received on passing the Test. <strong>Both its boon and its cost increase in force</strong> &mdash; the DM adjusts the entry, and the cost must grow at least as much as the benefit does. See the Mark table in <em>The Test of High Sorcery</em>.</li><li>Once per long rest, when you fail a saving throw, you may choose to succeed instead. You then take 4d10 psychic damage that cannot be prevented or reduced, and your Mark's cost applies again immediately regardless of any limit on it.</li></ul><p>Candidates who take this feat are recognisable to other Wizards of High Sorcery on sight, and are treated with a wariness that has nothing to do with power.</p>"
+    },
+    {
+      "name": "Moon-Sworn",
+      "identifier": "moon-sworn",
+      "img": "icons/magic/nature/moon-blue-glowing.webp",
+      "requirements": "Wizard of High Sorcery",
+      "html": "<p><em>Prerequisite: any Wizard of High Sorcery feat</em></p><p>You have learned to read your moon closely enough to plan around it, which is the difference between a wizard and a wizard who survives.</p><ul><li>You always know the current phase of your Order's moon and the exact number of days until its next high and low sanction, even underground, on another plane, or blind.</li><li><strong>During high sanction</strong>, you may cast one spell per long rest at one slot level higher without expending the higher slot. This is not Overreaching and costs no Price.</li><li><strong>During low sanction</strong>, you no longer lose access to your highest available slot level. The other penalties still apply.</li><li>On the night your world's moons align &mdash; the Night of the Eye on Krynn, the conjunction of Luna and Celene on Oerth &mdash; you may cast one spell of 5th level or lower without expending a slot or components.</li></ul><p>Black Robes with this feat are unnerving company, because they can tell you the phase of a moon nobody else can see.</p>"
+    },
+    {
+      "name": "Renegade Arcanist",
+      "identifier": "renegade-arcanist",
+      "img": "icons/magic/control/silhouette-hold-change-blue.webp",
+      "requirements": "Refused or fled the Test of High Sorcery",
+      "html": "<p><em>Prerequisite: you have refused the Test, or fled it. You cannot take this feat and a Wizard of High Sorcery feat.</em></p><p>You owe the Conclave nothing, and they have written that down.</p><ul><li>Increase your Intelligence by 1, to a maximum of 20.</li><li><strong>No Order's rules bind your spellbook.</strong> You may scribe any wizard spell you find regardless of school or Order restriction, and you suffer no penalty for spells the Conclave has interdicted.</li><li>You have advantage on saving throws against divination magic used to locate you, and against any effect that would compel you to reveal your location or your teacher.</li><li>Once per long rest, when a spell you cast is countered or dispelled, you may immediately recast it using the same slot level without expending a slot.</li></ul><p><strong>You cannot Overreach.</strong> The Price of the Test is only available to those who paid it, and no amount of raw talent substitutes.</p><p>You do not suffer moon sanction &mdash; neither its benefits nor its penalties. Renegade hunters are dispatched against you at the DM's discretion, they are competent, and they will explain the Conclave's position at length before they act.</p>"
+    }
+  ]
+}

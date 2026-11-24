@@ -1,0 +1,25 @@
+{
+  "name": "Arcs IV–VI: Strategic Master Index",
+  "pages": [
+    {
+      "name": "Later Arcs Master Index",
+      "html": "<p class=\"wy-lead\">Arcs IV–VI now have dedicated session-by-session runbooks. Use this journal as the strategic overview connecting them.</p>\n<table class=\"wy-table\"><thead><tr><th>Arc</th><th>Levels</th><th>Default Sessions</th><th>Core Movement</th></tr></thead><tbody>\n<tr><td>IV — The Long Return</td><td>12–15</td><td>13</td><td>Recover Memory, Time and True Name components</td></tr>\n<tr><td>V — The War Beneath the War</td><td>15–18</td><td>12</td><td>Black Host, Returned, Wayreth, High Clerist, Palanthas, Caramon</td></tr>\n<tr><td>VI — Master of Past and Present</td><td>18–20</td><td>10</td><td>Fistandantilus, Wayreth’s confession, two-Tower siege, Abyss</td></tr>\n</tbody></table>\n<p>Read each dedicated Arc journal before running it. Tracker guidance is embedded at session level so decisions accumulate instead of being retrofitted at the finale.</p>"
+    },
+    {
+      "name": "Narrative Through-Line",
+      "html": "<p class=\"wy-lead\">Raistlin’s story advances by conclusions that remain understandable until taken one step too far.</p>\n<ol><li>Caramon died in a magical catastrophe and cannot be reached conventionally.</li><li>Fistandantilus studied unreachable souls.</li><li>The Palanthas Portal can cross boundaries ordinary resurrection cannot.</li><li>The Long Return can rebuild identity and reach Caramon.</li><li>Fistandantilus’s version replaces the subject’s Will with Dominion.</li><li>War makes the same methods useful on a larger scale.</li><li>Success convinces Raistlin that control prevents loss.</li><li>Caramon’s own will proves that love and possession are not the same.</li></ol>\n<p>Never skip the useful stage. The Black Host must save lives. The Returned must be people. Wayreth’s ruthlessness must protect the Art. Otherwise the later argument has no weight.</p>"
+    },
+    {
+      "name": "Arc IV Components at a Glance",
+      "html": "<p class=\"wy-lead\">The three artifacts are both quest rewards and final-dungeon tools.</p>\n<table class=\"wy-table\"><thead><tr><th>Component</th><th>Recovered</th><th>Lesson</th><th>Final Use</th></tr></thead><tbody>\n<tr><td>Heart of Memory</td><td>Silvanesti</td><td>Identity leaves recoverable imprints</td><td>Repairs names/memories damaged in the Abyss</td></tr>\n<tr><td>Chronicle of the Unbroken Hour</td><td>Zhaman</td><td>A living anchor can bridge temporal displacement</td><td>Keeps party connected across Abyssal time breaks</td></tr>\n<tr><td>Bell of True Names</td><td>Istar</td><td>A soul can be called but refusal is valid</td><td>Restores true identity without ownership</td></tr>\n</tbody></table>"
+    },
+    {
+      "name": "Arc V War Beneath the War Summary",
+      "html": "<p class=\"wy-lead\">Raistlin scales private research into wartime systems, and each system creates real benefits and real dangers.</p>\n<h3>Black Host</h3><p>Enemies of Takhisis bound by true names, contracts/geasa and soul seals. It works; loopholes determine whether it becomes alliance or enslavement.</p>\n<h3>Returned</h3><p>Living restored defenders with names, families and personalities. The flaw is command authority: they obey ritual commands before conscious choice.</p>\n<h3>Wayreth</h3><p>The Tower’s transdimensional defence can defeat armies but will sacrifice individuals if survival logic demands it.</p>\n<h3>High Clerist & Palanthas</h3><p>Places visited earlier return as battlefields. Every old relationship should be cashed in for supplies, refuge, intelligence or loss.</p>\n<h3>Caramon</h3><p>His resurrection succeeds. The question becomes whether he is free.</p>"
+    },
+    {
+      "name": "Five Ending Families",
+      "html": "<p class=\"wy-lead\">The finale is not a morality scoreboard. These are consequence families shaped by trackers and player decisions.</p>\n<ul><li><strong>The Black Mage Remains:</strong> Raistlin releases Caramon and rejects Dominion while remaining dangerous and Black.</li><li><strong>White and Black:</strong> the White Robe becomes the counterweight in a reformed Orders system.</li><li><strong>The Black Peace:</strong> Raistlin’s control wins the war and creates safety under ownership.</li><li><strong>The Last Sacrifice:</strong> Raistlin frees Caramon and seals himself beyond the Portal with the greater threat.</li><li><strong>Master of Past and Present:</strong> Raistlin transcends restraint and becomes the final adversary.</li></ul>\n<p>Mix outcomes when the campaign demands it. A low War State may allow a gentler ending; a high War State can make the same moral stance materially harder without making it wrong.</p>"
+    }
+  ]
+}

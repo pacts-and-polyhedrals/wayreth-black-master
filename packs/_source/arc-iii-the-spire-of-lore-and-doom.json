@@ -1,0 +1,635 @@
+{
+  "_id": "105nl8zROtX9mlbM",
+  "name": "Arc III: The Spire of Lore and Doom",
+  "pages": [
+    {
+      "_id": "uId8DF0SAqmKHihd",
+      "name": "Arc III Overview: The Spire of Lore and Doom",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Levels 8–12 · default 16 sessions · expandable to 18. Palanthas becomes the campaign’s first true urban sandbox before the cursed Tower becomes a multi-session megadungeon.</p>\n<p>The party remains in Palanthas after the Shoikan Grove recognises Raistlin’s token. They are now watched by every faction that understands even a fraction of what happened. The city calls them the Hands of Wayreth; some say the Black Master’s Hands.</p>\n<h3>Arc Structure</h3><table class=\"wy-table\">\n<thead><tr><th>Sessions</th><th>Phase</th><th>Result</th></tr></thead>\n<tbody>\n<tr><td>1–3</td><td>Palanthas investigation</td><td>Fistandantilus trail; the Long Return named</td></tr>\n<tr><td>4–5</td><td>Shoikan Grove</td><td>Party reaches subordinate entrance</td></tr>\n<tr><td>6–10</td><td>Upper/middle Tower</td><td>History, Orders, Caramon revelation, Garden Incident</td></tr>\n<tr><td>11–15</td><td>Deep Tower</td><td>Rannoch, Fistandantilus, possible futures, necromantic proof, lower seals</td></tr>\n<tr><td>16</td><td>Portal and Master</td><td>Raistlin arrives; Master of Past and Present; Level 12</td></tr>\n</tbody>\n</table><p>The Tower is not simply twelve floors. Published lore describes a vast 33-floor structure with a hollow core and a spiral stair climbing through it. For table play, treat the twelve named adventure zones as the meaningful floors/complexes. Between them are sealed residences, empty archives, collapsed landings and duplicate service levels that preserve the Tower’s impossible scale without requiring thirty-three maps.</p>\n<h3>Arc Question</h3><p>Can knowledge be recovered without becoming its old owner? The party spends the arc learning exactly what Fistandantilus discovered and exactly why Raistlin is capable of finishing it.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.uId8DF0SAqmKHihd"
+    },
+    {
+      "_id": "F9C3VNptXEY29YFk",
+      "name": "Palanthas Sandbox Operations",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Palanthas should remain alive around the dungeon. The party may leave the Grove, consult the Library, bargain with factions and return with new plans.</p>\n<h3>Three Clocks</h3><table class=\"wy-table\">\n<thead><tr><th>Clock</th><th>Advance When</th><th>At 4</th></tr></thead>\n<tbody>\n<tr><td>Veyrath Cell</td><td>The party makes a public move or leaves evidence unsecured</td><td>Enemy agents attempt entry to the Tower behind them</td></tr>\n<tr><td>Palanthas Alarm</td><td>Undead incidents, Grove disturbances or public magic occur</td><td>Council considers sealing the district and arresting collaborators</td></tr>\n<tr><td>Raistlin Arrival</td><td>Major Tower recognition events are reported</td><td>Raistlin comes personally; normally held until Session 16</td></tr>\n</tbody>\n</table><h3>Downtime Between Delves</h3><p>One night in Palanthas can restore resources, research a clue, meet one faction, and allow one clock to move. This makes returning to the city meaningful without removing pressure.</p>\n<h3>Research Sources</h3><ul>\n<li>Great Library: histories, dates, copies, chronicled public events.</li>\n<li>University: magical theories, architectural plans, scholarly rivalry.</li>\n<li>Order contacts: secret doctrine, spell provenance, political context.</li>\n<li>Old City: physical evidence and forgotten access routes.</li>\n<li>Harbour: intelligence, smuggling, enemy movement.</li>\n<li>Shoikan district residents: folklore, missing people, what the Grove does rather than why.</li>\n</ul><h3>Do Not Close the City Too Early</h3><p>The Tower is the central mystery, but the party should still care about inns, scholars, neighbours and streets. Their later choices during the siege depend on relationships built here.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.F9C3VNptXEY29YFk"
+    },
+    {
+      "_id": "daWdzR4H1NbgbOrj",
+      "name": "Arc III Factions",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Every faction wants the Tower problem solved differently. None should exist merely to obstruct the party.</p>\n<table class=\"wy-table\"><thead><tr><th>Faction</th><th>Public Position</th><th>Private Fear</th></tr></thead><tbody>\n<tr><td>Raistlin</td><td>Recover dangerous historical knowledge before Takhisis does.</td><td>That the Tower will reject him—or accept him and prove the path real.</td></tr>\n<tr><td>Astinus & Aesthetics</td><td>Record and preserve.</td><td>That intervention would create the history they are trying to observe.</td></tr>\n<tr><td>Palanthas Council</td><td>Keep citizens safe and the cursed district contained.</td><td>A second magical sovereign inside their walls.</td></tr>\n<tr><td>Knights of Solamnia</td><td>Prevent an enemy from gaining the Tower.</td><td>That Raistlin may be an ally they cannot control.</td></tr>\n<tr><td>White Robe opposition</td><td>Demand oversight of forbidden research.</td><td>That their earlier rigidity helped create the Black Master.</td></tr>\n<tr><td>Dragonarmy Intelligence</td><td>Officially nonexistent in the city.</td><td>That Raistlin is developing a weapon capable of changing the war.</td></tr>\n<tr><td>Cult of Takhisis</td><td>Hidden religious cell.</td><td>That the Portal can be turned against the Queen.</td></tr>\n<tr><td>Shoikan Grove</td><td>No human policy.</td><td>It is waiting for the Master named in its curse.</td></tr>\n<tr><td>Fistandantilus</td><td>Not yet recognised as an active faction.</td><td>That Raistlin will choose love without possession and abandon the work.</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.daWdzR4H1NbgbOrj"
+    },
+    {
+      "_id": "DJYtR60HpCifjJDo",
+      "name": "The Long Return: Clue Matrix",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The Long Return should emerge as a theory in pieces. Do not hand the party a complete ritual until Arc IV.</p>\n<table class=\"wy-table\"><thead><tr><th>Component</th><th>What Conventional Resurrection Does</th><th>Fistandantilus’s Question</th><th>Arc III Evidence</th></tr></thead><tbody>\n<tr><td>Flesh</td><td>Repairs or recreates a viable body.</td><td>Can a vessel be rebuilt after centuries?</td><td>Necromantic Vault; restored bodies.</td></tr>\n<tr><td>Soul</td><td>Calls a reachable spirit.</td><td>Can an unreachable/displaced soul be located?</td><td>Portal theory; Silvanesti notes.</td></tr>\n<tr><td>Memory</td><td>Assumes identity returns with soul.</td><td>Can reality’s memory reconstruct what death erased?</td><td>Chamber of Echoes; Long Return fragments.</td></tr>\n<tr><td>Will</td><td>Most true resurrection permits refusal.</td><td>Can refusal be removed?</td><td>Necromantic Vault obedience; final missing section.</td></tr>\n</tbody></table>\n<p>Fistandantilus’s most dangerous discovery is not resurrection. It is treating <strong>Will</strong> as a technical defect in the ritual.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.DJYtR60HpCifjJDo"
+    },
+    {
+      "_id": "BqQKMYvrstRUZdtF",
+      "name": "Shoikan Grove: GM Guide",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The Grove is not a forest encounter table. It is an ancient Black-Robe guardian system layered with Rannoch’s curse and centuries of trapped death.</p>\n<h3>Visual Language</h3><p>Enormous oaks. Bark black as pitch. Wounds in the trunks leaking red sap. Pale, bone-like branches. Sparse grey leaves. No natural sunlight beneath the canopy. Faces appear in shadows. Footprints fill with blood. Hands press upward beneath damp soil.</p>\n<h3>Six Zones</h3><table class=\"wy-table\">\n<thead><tr><th>Zone</th><th>Experience</th><th>Purpose</th></tr></thead>\n<tbody>\n<tr><td>1 Gate of Terror</td><td>Pure supernatural fear</td><td>Tests whether the party relies only on immunity and numbers</td></tr>\n<tr><td>2 Path of Regret</td><td>Past choices made uglier</td><td>Seeds personal material and tracker consequences</td></tr>\n<tr><td>3 Dead Clearing</td><td>Remains/spirits of failed intruders</td><td>Shows the cost of claiming the prophecy</td></tr>\n<tr><td>4 Three Roads</td><td>Power, knowledge, sacrifice paths</td><td>Choice reveals motive, not correct route</td></tr>\n<tr><td>5 Master’s Road</td><td>Refuses PCs directly</td><td>Clarifies recognition belongs to Raistlin</td></tr>\n<tr><td>6 Servants’ Gate</td><td>A subordinate entrance opens</td><td>Tower admits the Master’s agents, not masters</td></tr>\n</tbody>\n</table><h3>Protection</h3><p>The black token functions as Raistlin’s campaign equivalent of a Nightjewel/protective signature. It does not make the Grove safe. It prevents the guardian system from treating the party as ordinary intruders while allowing psychic and historical manifestations to continue.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.BqQKMYvrstRUZdtF"
+    },
+    {
+      "_id": "folUFVi1mlzaaeTE",
+      "name": "Tower Structure & Campaign Adaptation",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The Doom-spire is more than six hundred feet tall, hollow through its centre, with a spiral stair and thirty-three floors. The campaign uses twelve principal zones for playable clarity.</p>\n<h3>Exterior</h3><p>In this pre-claim state, the once white-and-red Lore-spire is grey shot with black. Its minarets are broken and rust-coloured. Gold and silver gates have twisted into dull blackened metal. Windows are dark. The surviving fabric of Rannoch’s robe moves at the gate without wind.</p>\n<h3>Interior Geometry</h3><p>The central stair has no railing and opens into a drop that runs down the Tower’s hollow heart. Landings lead to galleries, archives, old residences, museums, classrooms and laboratories. Many are empty because the Orders removed what they could before abandoning Palanthas.</p>\n<h3>Twelve Adventure Zones</h3><ol>\n<li>Hall of Silence</li>\n<li>Hall of the Three Moons</li>\n<li>Abandoned Conclave</li>\n<li>Apprentice Quarters</li>\n<li>Forbidden Library</li>\n<li>Chamber of Echoes</li>\n<li>Rannoch’s Sanctum</li>\n<li>Fistandantilus’s Laboratory</li>\n<li>Observatory of Time</li>\n<li>Necromantic Vault</li>\n<li>Lower Seals</li>\n<li>Great Laboratory and Portal</li>\n</ol><h3>Campaign Divergence</h3><p>Published history later has Raistlin claim this Tower after the War of the Lance. In this campaign, events are happening earlier because Caramon’s death and Wayreth’s choice altered Raistlin’s path. Preserve the old architecture and prophecy; let the timeline itself become part of the mystery.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.folUFVi1mlzaaeTE"
+    },
+    {
+      "_id": "GIKB0sMGh0A1erD2",
+      "name": "Tower Phenomena d12",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Roll only when a quiet corridor needs meaning. Every phenomenon should tell the party something about the Tower, its curse, or its expected Master.</p>\n<table class=\"wy-table\"><thead><tr><th>d12</th><th>Phenomenon</th></tr></thead><tbody>\n<tr><td>1</td><td>A door opens onto a room exactly as it looked before the Lost Battles, then closes on darkness.</td></tr>\n<tr><td>2</td><td>Three coloured lights orbit a landing; the black light follows the White Robe.</td></tr>\n<tr><td>3</td><td>Someone hears Caramon’s laugh without knowing whose voice it is.</td></tr>\n<tr><td>4</td><td>A library shelf is empty except for dust outlines of books removed centuries ago.</td></tr>\n<tr><td>5</td><td>The stair below appears to stretch for miles; looking up restores normal distance.</td></tr>\n<tr><td>6</td><td>A spectral apprentice recites a lesson and waits for a player to answer.</td></tr>\n<tr><td>7</td><td>A mirror briefly gives one PC Raistlin’s hourglass eyes.</td></tr>\n<tr><td>8</td><td>Ink writes the words <em>not yet</em> across an abandoned desk.</td></tr>\n<tr><td>9</td><td>A bell sounds from Wayreth, impossible across the continent.</td></tr>\n<tr><td>10</td><td>One PC’s shadow walks half a step ahead and turns a corner first.</td></tr>\n<tr><td>11</td><td>A map of the Tower labels a floor with the PC’s name.</td></tr>\n<tr><td>12</td><td>For one breath, the walls become polished black and the broken domes seem restored in blood-red stone—a glimpse of a possible future.</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.GIKB0sMGh0A1erD2"
+    },
+    {
+      "_id": "mFZmw2unLvoOB3h2",
+      "name": "Session 1: The Dead Wizard",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 1 · Level 8 · 4 hours.</strong> Open Arc III with a murder that makes Fistandantilus’s presence practical rather than theoretical.</p>\n<h3>Opening Image</h3>\n<p>Pellan Marr, the Aesthetic researcher who promised the party a meeting, is found at dawn one street from the Shoikan boundary. His body is cold. The frost around it points in three different directions.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Pellan Marr — victim</li>\n<li>Senior Aesthetic Teren</li>\n<li>Professor Caldra Venn</li>\n<li>Palanthas watch captain</li>\n<li>Veyrath observer</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Scene Examination</h4>\n<p>The corpse shows necromantic residue and temporal distortion. A magical signature resembles Raistlin’s casting style but is older than his birth.</p>\n<h4>2. Witnesses</h4>\n<p>Residents heard Pellan arguing with someone who had Raistlin’s voice. Nobody saw a second person.</p>\n<h4>3. Library Audit</h4>\n<p>Pellan borrowed texts on Rannoch, Fistandantilus and temporal anchors. One page has been cut out with impossible precision.</p>\n<h4>4. False Accusation</h4>\n<p>A Palanthas official suggests Raistlin killed a scholar from Wayreth. The party must decide what they publicly reveal.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Temporal and necromantic effects were combined.</li>\n<li>The signature resembles Raistlin but predates him.</li>\n<li>Pellan had found the phrase “Long Return.”</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Fistandantilus Influence +1 automatically. Raistlin Trust +1 if the party informs him privately before the city can use the death politically; -1 if they conceal evidence from everyone including him without a plan.</p>\n<h3>End Beat</h3>\n<p>In Pellan’s room, the party finds a scrap: <strong>FLESH — SOUL — MEMORY — WILL</strong>. Only the first three are annotated.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Fistandantilus is no longer background lore. Someone or something has acted in the present using his magical vocabulary.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.mFZmw2unLvoOB3h2"
+    },
+    {
+      "_id": "HOCF0SzCtSPjryrX",
+      "name": "Session 2: The Lost Records",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 2 · Level 8 · 3–4 hours.</strong> Turn Palanthas into an investigative map and let players choose how to pursue the Long Return.</p>\n<h3>Opening Image</h3>\n<p>Four institutions hold four incomplete versions of the same history, and each believes its copy is the reliable one.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Astinus/Aesthetics</li>\n<li>Professor Caldra Venn</li>\n<li>White Robe archivist</li>\n<li>Old City antiquarian</li>\n<li>Harbour fence</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Choose Leads</h4>\n<p>Offer university archive, Aesthetic vault, noble collection and an Old City wizard estate. Each reveals a different component.</p>\n<h4>2. Contradictions</h4>\n<p>Dates disagree by days in documents that should be exact. The discrepancies line up with historical Night of the Eye events.</p>\n<h4>3. The Missing Name</h4>\n<p>Several records refer to a “living anchor” but the proper name has been removed from all copies.</p>\n<h4>4. Veyrath Pressure</h4>\n<p>A rival team steals a decoy record. If the party anticipated them, they can feed Veyrath a false destination.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Long Return is Fistandantilus’s theory of restoring the ancient dead.</li>\n<li>It divides identity into Flesh, Soul, Memory and Will.</li>\n<li>The Will section is missing from every accessible copy.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Fistandantilus Influence +1 if the party follows clues exactly as laid without questioning their convenience. Trust +1 for feeding Veyrath false but plausible intelligence.</p>\n<h3>End Beat</h3>\n<p>The oldest map marks a sealed residence beneath the Old City as belonging to a Black Robe who corresponded with Fistandantilus.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The mystery becomes a scavenger trail designed by someone centuries ago. The party should begin asking who expected them to follow it.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.HOCF0SzCtSPjryrX"
+    },
+    {
+      "_id": "lsrPSd5PpjGIepNP",
+      "name": "Session 3: Under the Old City",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 3 · Level 8 · 4 hours.</strong> Recover the first substantial Long Return fragment and expose a physical route beneath Palanthas toward the Grove.</p>\n<h3>Opening Image</h3>\n<p>Beneath a wine cellar is masonry older than the street above it. The air smells of dust and old spell components rather than sewer water.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Old City antiquarian</li>\n<li>Spectral household servant</li>\n<li>Dragonarmy infiltrators</li>\n<li>Black Robe historical echo</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Hidden Residence</h4>\n<p>Explore a pre-Cataclysm wizard dwelling with intact study wards, domestic rooms and a collapsed tunnel leading toward the Tower district.</p>\n<h4>2. Correspondence</h4>\n<p>Letters show Fistandantilus requesting research on memory after death, not merely animation or resurrection.</p>\n<h4>3. Ambush</h4>\n<p>Veyrath’s cell arrives through a second entrance. Give the party a chance to negotiate, trap, misdirect or fight them.</p>\n<h4>4. The Fragment</h4>\n<p>A metal folio survives: Memory can be rebuilt from imprints left in places, objects and people. Caramon’s sword motif gains retrospective meaning, though the party may not know why.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Memory is a recoverable magical component.</li>\n<li>Fistandantilus researched emotional objects as anchors.</li>\n<li>A service tunnel once connected this quarter to Tower support structures.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Raistlin Trust +1 if the fragment reaches him intact. Control -1 if the party spares/captures infiltrators despite inconvenience; +1 only for gratuitous domination, not ordinary combat.</p>\n<h3>End Beat</h3>\n<p>The old tunnel ends at roots: black, wet, living roots of the Shoikan Grove pushing through stone.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The investigation now physically joins the city to the Grove. Session 4 crosses that boundary.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.lsrPSd5PpjGIepNP"
+    },
+    {
+      "_id": "LXmNAFYo09M1xAJA",
+      "name": "Session 4: Gate of Terror",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 4 · Level 8 · 4 hours.</strong> Enter the Shoikan Grove as a psychological dungeon rather than a simple combat zone.</p>\n<h3>Opening Image</h3>\n<p>The token protects the party from immediate annihilation, not from knowing what the Grove is designed to make them feel.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Party</li>\n<li>Shoikan dead</li>\n<li>Personal memory manifestations</li>\n<li>Distant Rannoch</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Gate of Terror</h4>\n<p>Each PC experiences their deepest current fear. Tie at least one vision to a tracker choice already made rather than a generic phobia.</p>\n<h4>2. Path of Regret</h4>\n<p>Replay one Arc I/II decision with consequences exaggerated until the players question whether the outcome was worth it.</p>\n<h4>3. Dead Clearing</h4>\n<p>Failed intruders remain as bones, spectres and objects. One carries the badge of a wizard school that still exists.</p>\n<h4>4. Shelter</h4>\n<p>The token creates a small still point where the party can short rest. On its surface, a glyph has appeared that was not there outside.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Grove responds to identity and authority.</li>\n<li>Previous powerful wizards failed here.</li>\n<li>Rannoch’s curse did not create the Grove but weaponised death within it.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>White Robe Bond +1 if the PC acknowledges a real past failure without surrendering judgment; no movement for simply “passing” fear. Wayreth Accord +1 for treating guardian magic as communicative.</p>\n<h3>End Beat</h3>\n<p>Three paths open ahead, each marked by a single word in Magius: <strong>POWER, KNOWLEDGE, SACRIFICE.</strong></p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The Grove tests motive. All roads can ultimately work; the choice changes what it shows them.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.LXmNAFYo09M1xAJA"
+    },
+    {
+      "_id": "uxfgZHQlARSXFEB0",
+      "name": "Session 5: The Servants’ Gate",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 5 · Level 8 · 4 hours.</strong> Complete the Grove and establish the party’s subordinate relationship to the prophesied Master.</p>\n<h3>Opening Image</h3>\n<p>Whichever road the party chose, it ends at the same black wall—but at a different emotional cost.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Party</li>\n<li>Rannoch echo</li>\n<li>Tower guardian</li>\n<li>Grove manifestations</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Three Roads Resolution</h4>\n<p>Power offers a shortcut requiring domination of a spirit. Knowledge offers a riddle that reveals a dangerous truth. Sacrifice demands a real resource or memory be relinquished temporarily. Do not label one morally correct.</p>\n<h4>2. Master’s Road</h4>\n<p>A straight road to the main gate appears and then refuses them. The token burns cold. A message forms: <em>Not the Master.</em></p>\n<h4>3. Subordinate Route</h4>\n<p>An older service path opens around the wall to a servants’ gate. This gate recognises the token and the party’s role.</p>\n<h4>4. Entry</h4>\n<p>The door opens into absolute silence. The Grove closes behind them. For the first time in centuries, living people stand inside the Doom-spire without the Master present.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Tower distinguishes Master from agents.</li>\n<li>Raistlin’s recognition is specific, not transferable.</li>\n<li>The party has a legitimate subordinate entrance while the main gate remains cursed.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Wayreth Accord +1–2 if the party solved the Grove without attempting to force the Master’s Road. Raistlin Control shifts according to the road solution, not road choice.</p>\n<h3>End Beat</h3>\n<p>The inner door closes. Their footsteps make no echo.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Raistlin has not entered yet. The party must discover enough truth to understand what his arrival will mean.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.uxfgZHQlARSXFEB0"
+    },
+    {
+      "_id": "bnB2s81ZeDtCgKW3",
+      "name": "Session 6: Hall of Silence & Three Moons",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 6 · Level 8–9 · 4 hours.</strong> Introduce Tower scale, activate the three-moon machinery, and make the party feel observed by an artifact built for all Orders.</p>\n<h3>Opening Image</h3>\n<p>The central hall is hollow from base to impossible height. A stair without railing spirals upward around open air. Dust lies everywhere except on one narrow path ahead.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Party</li>\n<li>Invisible servant echoes</li>\n<li>Three-moon orrery</li>\n<li>Optional spectral instructor</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Hall of Silence</h4>\n<p>Explore abandoned receiving rooms, stripped display cases and service passages. Sounds die unnaturally; doors close softly by themselves.</p>\n<h4>2. Restore Access</h4>\n<p>A ward nexus must be powered by three distinct magical principles—protection, transformation and destructive command—mirroring the Orders without demanding matching PCs.</p>\n<h4>3. Hall of Three Moons</h4>\n<p>Three enormous mechanisms represent Solinari, Lunitari and Nuitari. The White Robe activates Solinari. Other arcane PCs may trigger different responses.</p>\n<h4>4. Unexpected Response</h4>\n<p>When Raistlin’s token is placed near the central mechanism, all three orreries move one fraction of a turn, then stop.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Tower was built for cooperation among all Orders.</li>\n<li>Its systems recognise Order affiliations.</li>\n<li>Raistlin’s signature produces a response across all three moon mechanisms.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Wayreth Accord +1 for collaborative solution. Fistandantilus Influence +1 only if the party interprets the all-three response as proof of destiny rather than evidence requiring caution.</p>\n<h3>End Beat</h3>\n<p>A stair segment rotates into place, opening the route toward the old Conclave rooms.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The all-three response previews Raistlin’s final arrival without giving him the scene yet.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.bnB2s81ZeDtCgKW3"
+    },
+    {
+      "_id": "SkzuMuK1c4V8Cdxi",
+      "name": "Session 7: The Abandoned Conclave",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 7 · Level 9 · 4 hours.</strong> Teach the Lost Battles as experienced political memory and show how institutional fear can become cruelty.</p>\n<h3>Opening Image</h3>\n<p>The council chamber is intact. Twenty-one seats remain. When the party enters, spectral occupants appear and continue a debate abandoned centuries ago.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Echoes of Conclave members</li>\n<li>Highmage Merroc echo</li>\n<li>Rannoch in earlier life</li>\n<li>Projected Knights/Kingpriest envoys</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Living Debate</h4>\n<p>Players can ask questions and be answered as though they are delegates from the past. The echoes cannot perceive modern names reliably.</p>\n<h4>2. Lost Battles</h4>\n<p>The chamber reenacts evacuation arguments, Tower destruction, artefact removal and the fear of the Portal falling into hostile hands.</p>\n<h4>3. Andras</h4>\n<p>Show him first as a manipulated, grieving wizard rather than a gate spectre. Fistandantilus repeatedly offers him “one more necessary act.”</p>\n<h4>4. Vote</h4>\n<p>The party is asked to cast symbolic votes on whether to destroy knowledge to keep it from enemies. Their vote cannot change history but changes what memory unlocks.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Orders destroyed their own Towers rather than surrender them.</li>\n<li>Fistandantilus manipulated Andras before the curse.</li>\n<li>The Portal was moved away from Palanthas before Fistandantilus sought it.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>White Robe Bond +1 if the PC can critique the White/Conclave decisions without pretending there was an easy alternative. Control shifts if the party frames destruction or domination as automatic solutions.</p>\n<h3>End Beat</h3>\n<p>The final echo says: “The apprentices must be evacuated.” A door to their quarters opens.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The arc’s institutional theme matters because Raistlin’s break with the White Robes must feel like a reaction to real failures, not simple villainy.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.SkzuMuK1c4V8Cdxi"
+    },
+    {
+      "_id": "UZVXBUgGX9S7bTg9",
+      "name": "Session 8: The Apprentice Quarters",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 8 · Level 9 · 3–4 hours.</strong> Humanise the ancient Tower and confront the party with young dead who never became legendary archmages.</p>\n<h3>Opening Image</h3>\n<p>Dormitories still contain half-packed trunks. A slate has tomorrow’s lessons written on it. Tomorrow never happened.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Sane apprentice spirits</li>\n<li>Hostile repetitive spirits</li>\n<li>One spirit who recognises the White Robe as “late”</li>\n<li>Invisible servants</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Dormitory Life</h4>\n<p>Let players find letters home, failed exercises, petty rivalries and mundane chores. The old Orders become people.</p>\n<h4>2. The Lesson Repeats</h4>\n<p>A classroom cycles through a lesson on ethical summoning. Breaking the loop requires answering why a summoned creature’s consent matters.</p>\n<h4>3. The Late Student</h4>\n<p>A spirit addresses the White Robe: “You are late.” It believes the current candidate was expected generations ago.</p>\n<h4>4. Release or Use</h4>\n<p>The party can free spirits by completing evacuation rites, or compel them for information. Both work; one is faster.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Consent was debated inside old magical curricula, not invented by the current party.</li>\n<li>Some dead have been trapped by the curse rather than choice.</li>\n<li>The phrase “late” suggests temporal expectation inside the Tower.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Raistlin Control -1 for freeing spirits at meaningful cost; +1 if they compel them when a viable release route is known. White Robe Bond can rise through compassion with responsibility.</p>\n<h3>End Beat</h3>\n<p>A freed apprentice points toward a sealed library door and says, “He hid the ugly books where all of us could see the lock.”</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The Will component of the Long Return is being foreshadowed through small acts before the ritual is explicit.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.UZVXBUgGX9S7bTg9"
+    },
+    {
+      "_id": "EG8q1w2gg7DUzuf5",
+      "name": "Session 9: The Forbidden Library",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 9 · Level 9–10 · 4 hours.</strong> Recover the first substantial Long Return text and make dangerous knowledge genuinely useful.</p>\n<h3>Opening Image</h3>\n<p>The library door is covered with warnings in three different hands. One warning says simply: <em>Do not burn what frightens you. Understand it first.</em></p>\n<h3>People in Play</h3>\n<ul>\n<li>Party</li>\n<li>Archive ward</li>\n<li>Fistandantilus textual echo</li>\n<li>Optional Veyrath infiltrator separated from team</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Ward of Classification</h4>\n<p>The lock opens only if books are sorted by consequence rather than school: destructive, coercive, transformative, restorative, planar.</p>\n<h4>2. Research</h4>\n<p>Find necromancy, soul theory, chronomancy, planar binding, Dragon Orb material and Fistandantilus fragments.</p>\n<h4>3. The Long Return</h4>\n<p>Recover sections proving that Memory can be reconstructed and that a distant soul may be reached through a Portal/anchor combination.</p>\n<h4>4. Intruder</h4>\n<p>A lone enemy scholar can be captured. They reveal Veyrath’s cell followed the party through the Grove using the briefly opened path, not Raistlin’s token.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Fistandantilus separated resurrection into components.</li>\n<li>A living emotional anchor can make an otherwise unreachable soul locatable.</li>\n<li>The missing Will section was removed deliberately, not lost by accident.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 10 if pacing needs a mid-arc milestone; otherwise award at Session 10. Fistandantilus Influence +1 for using his framework; Control does not move merely for researching dark magic.</p>\n<h3>End Beat</h3>\n<p>A hidden catalogue references a chamber capable of replaying the memories of the Tower’s recognised Master.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The library establishes the campaign’s rule: forbidden knowledge is not automatically evil. The choices made with it are what matter.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.EG8q1w2gg7DUzuf5"
+    },
+    {
+      "_id": "s1hNnUCawPmLM3Yx",
+      "name": "Session 10: The Chamber of Echoes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 10 · Level 10 · 4–5 hours.</strong> Reveal Caramon’s death and the Garden Incident, converting Raistlin from enigmatic patron into the emotional centre of the campaign.</p>\n<h3>Opening Image</h3>\n<p>The chamber activates from Raistlin’s token. It does not show historical Tower memories. It shows the memories the Tower associates with its current Master.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Raistlin memory echo</li>\n<li>Caramon memory echo</li>\n<li>Par-Salian memory echo</li>\n<li>White/Red/Black Order witnesses in memories</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Silvanesti</h4>\n<p>Show Caramon’s death inside Lorac’s Nightmare and Raistlin surviving. Do not rush. The sword from the Master’s chamber is visible in Caramon’s hand.</p>\n<h4>2. Search</h4>\n<p>Raistlin combs the nightmare for his brother, attempts conventional resurrection, seeks specialists and gets the same answer: the soul is unreachable.</p>\n<h4>3. Refusal</h4>\n<p>The White Robes confiscate temporal/necromantic research and Par-Salian blocks access. Make their reasons understandable and their method cold.</p>\n<h4>4. Red to Black</h4>\n<p>Raistlin takes the Black not as theatrical corruption but because the Black Order will let him continue.</p>\n<h4>5. Garden Incident</h4>\n<p>Par-Salian takes his customary walk. Wayreth refuses to let him return. Paths loop. Teleportation places him at the garden gate. At the same hour the Forest opens for Raistlin, gates unlock, stairs move, lights awaken, the Master’s chambers open, and the wards record one word: <strong>MASTER</strong>.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Caramon is dead in this timeline.</li>\n<li>Raistlin’s entire research programme began as an attempt to retrieve him.</li>\n<li>Wayreth chose Raistlin before the Conclave ratified him.</li>\n<li>The Tower chose survival probability, not moral virtue.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 10. Raistlin Trust +1 if the party later tells him they saw this rather than hiding it; White Robe Bond may shift ±2 depending on whether the PC responds with compassion plus limits or mere condemnation. Fistandantilus Influence unchanged: this is Raistlin’s grief, not the Dark One’s philosophy yet.</p>\n<h3>End Beat</h3>\n<p>The final memory freezes on Raistlin seated in the Master’s chamber beneath Caramon’s sword. A new door opens behind the image.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>This is the reveal the first two arcs have been building toward. From here onward, every ethical choice must be understood against the fact that Raistlin’s original desire is painfully human.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.s1hNnUCawPmLM3Yx"
+    },
+    {
+      "_id": "owIZU5Qi1BXdd2VX",
+      "name": "Session 11: Rannoch’s Sanctum",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 11 · Level 10 · 4 hours.</strong> Confront Andras Rannoch as both guardian and victim of Fistandantilus’s long plan.</p>\n<h3>Opening Image</h3>\n<p>The sanctum is built around a vertical shaft facing the gates below. Rannoch’s spirit is strongest here, where every version of his death overlaps.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Spectre/echo of Andras Rannoch</li>\n<li>Memories of Fistandantilus</li>\n<li>Guardian dead</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Accusation</h4>\n<p>Rannoch calls the party servants of the next Dark One. He believes Raistlin is not escaping Fistandantilus’s pattern but fulfilling it early.</p>\n<h4>2. His History</h4>\n<p>Through argument or memory fragments, learn that Fistandantilus rescued, taught and weaponised Andras until grief and vengeance made him useful.</p>\n<h4>3. Choice</h4>\n<p>Defeat, persuade or release him. Release requires acknowledging his guilt without pretending manipulation erases responsibility.</p>\n<h4>4. Curse Key</h4>\n<p>Rannoch reveals the curse’s condition was chosen with knowledge that a Master of Past and Present would eventually come.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Fistandantilus planned for a future Master.</li>\n<li>Andras acted as Fistandantilus’s instrument in establishing the curse.</li>\n<li>The prophecy is engineered as well as mystical.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Fistandantilus Influence +1. Raistlin Control -1 for releasing Rannoch through responsibility/consent; +1 if the party permanently binds him for convenience. Wayreth Accord +1 if released.</p>\n<h3>End Beat</h3>\n<p>Rannoch names a laboratory one level below that belonged to “the Dark One before he had a face here.”</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The party should now suspect the prophecy may be a trap built to look like destiny.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.owIZU5Qi1BXdd2VX"
+    },
+    {
+      "_id": "bylpjfCqrcyAIWRS",
+      "name": "Session 12: Fistandantilus’s Laboratory",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 12 · Level 10–11 · 4 hours.</strong> Make the Dark One’s long preparation undeniable and blur the line between prediction, time, and manipulation.</p>\n<h3>Opening Image</h3>\n<p>Some papers are brittle with centuries. Others smell of fresh ink. Several lines are in Raistlin’s hand. Several more are in Fistandantilus’s, and there are places where no one at the table can tell which is which.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Fistandantilus textual/illusion echo</li>\n<li>Arcane simulacra</li>\n<li>Party</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Impossible Documents</h4>\n<p>Date papers across centuries. One references “the golden-skinned heir” before Raistlin’s birth. Another describes a powerful twin without naming Caramon.</p>\n<h4>2. Handwriting Test</h4>\n<p>Allow magical and mundane analysis. The scripts are distinct at first and converge around passages about Will and possession.</p>\n<h4>3. Prepared Trail</h4>\n<p>A sequence of sealed drawers opens only to spells/phrases the party learned in earlier clues, proving the trail expected a future reader.</p>\n<h4>4. The Missing Work</h4>\n<p>The final drawer is empty except for a map to three sites: Silvanesti, Zhaman, Istar. These become Arc IV.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Fistandantilus expected a successor fitting Raistlin’s circumstances.</li>\n<li>Three physical research components are missing.</li>\n<li>The final unresolved problem is Will.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 11 if not already. Fistandantilus Influence +2. Raistlin Trust depends on whether the party reports the “golden-skinned heir” language honestly.</p>\n<h3>End Beat</h3>\n<p>One page writes a new line while the party watches: <em>You are closer than he was.</em></p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Fistandantilus is now acting across the line between record and present. Do not yet have him speak directly; save direct manifestation for Arc VI.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.bylpjfCqrcyAIWRS"
+    },
+    {
+      "_id": "a1bwSOnTTYLtuReu",
+      "name": "Session 13: Observatory of Time",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 13 · Level 11 · 4 hours.</strong> Show possible futures without declaring a canonical answer and let players see their own effect on Raistlin.</p>\n<h3>Opening Image</h3>\n<p>The observatory dome has no visible sky. Instead, six futures occupy six wedges of the room like windows that can be walked into.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Possible Raistlins</li>\n<li>Possible White Robe</li>\n<li>Possible party members</li>\n<li>Caramon in several states</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Future One</h4>\n<p>Raistlin defeats Takhisis and remains mortal. The Orders survive, changed.</p>\n<h4>2. Future Two</h4>\n<p>Raistlin rules Krynn as an authoritarian archmage. The war is over. The streets are safe.</p>\n<h4>3. Future Three</h4>\n<p>Raistlin becomes a god above a dead world.</p>\n<h4>4. Future Four</h4>\n<p>Raistlin sacrifices himself and the Towers outlive him.</p>\n<h4>5. Future Five</h4>\n<p>The White Robe kills Raistlin before the Portal opens; the consequences are not all good.</p>\n<h4>6. Future Six</h4>\n<p>Raistlin and the White Robe stand together before the Portal, arguing while everything depends on the argument.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>None of the futures is marked true.</li>\n<li>The party’s presence changes probabilities inside several visions.</li>\n<li>Wayreth’s original choice can be understood as probability without morality.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Wayreth Accord +1–2 if the party grasps the Tower’s survival logic without treating a vision as instruction. White Robe Bond +1 if the PC refuses the premise that only killing or obeying Raistlin are options.</p>\n<h3>End Beat</h3>\n<p>The visions collapse to one image: a vault containing people who should be dead.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The finale is not predetermined. The tracker board measures relationships and habits, not a hidden “correct ending.”</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.a1bwSOnTTYLtuReu"
+    },
+    {
+      "_id": "VKr3pJCUr5IrWbXV",
+      "name": "Session 14: The Necromantic Vault",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 14 · Level 11 · 4 hours.</strong> Prove Fistandantilus could restore the dead and reveal the obedience flaw at the heart of his method.</p>\n<h3>Opening Image</h3>\n<p>The first restored person looks alive. They breathe, shiver, remember their name, and ask what year it is.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Restored experimental subjects</li>\n<li>Vault wardens</li>\n<li>Fistandantilus recorded instructions</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. The Living Dead</h4>\n<p>Do not use zombie aesthetics. Subjects have memories, personalities and fear. Some are centuries displaced.</p>\n<h4>2. Command Reflex</h4>\n<p>When a Fistandantilus instruction is spoken, every restored subject obeys before consciously deciding to.</p>\n<h4>3. Ethical Problem</h4>\n<p>One subject begs the party to destroy the command lattice even if doing so may kill them. Another refuses because they want to live.</p>\n<h4>4. Technical Proof</h4>\n<p>The ritual successfully rebuilt Flesh, called Soul and reconstructed Memory. The Will component was replaced by obedience.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Long Return works.</li>\n<li>Fistandantilus’s version binds Will.</li>\n<li>Restoration and enslavement can be technically inseparable if the ritual is not changed.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Raistlin Control ±2 based on the party’s handling of the subjects and what they recommend to Raistlin. White Robe Bond +1 for a solution that respects conflicting wishes rather than imposing one group answer.</p>\n<h3>End Beat</h3>\n<p>The vault’s lower seal opens only after the command lattice is resolved. Something on the far side is already trying to come through.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>This is the first proof that Raistlin’s dream is possible and therefore the first real temptation to excuse the flaw.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.VKr3pJCUr5IrWbXV"
+    },
+    {
+      "_id": "WBT8UA4UnkfIglel",
+      "name": "Session 15: The Lower Seals",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 15 · Level 11 · 4–5 hours.</strong> Turn the final descent into simultaneous dungeon defense and intelligence conflict.</p>\n<h3>Opening Image</h3>\n<p>The air below the vault moves inward toward the Portal chamber, as if the Tower is breathing. The seal wards are failing in a pattern that is not natural decay.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Veyrath or his elite agents</li>\n<li>Cult of Takhisis cell</li>\n<li>Planar anomalies</li>\n<li>Ancient arcane guardians</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Breach Map</h4>\n<p>Three seals fail at different depths. The party must decide order while enemy agents enter through a route opened during earlier Grove disturbances.</p>\n<h4>2. Enemy Objective</h4>\n<p>Veyrath wants evidence; the cult wants the Portal damaged or claimed. Their goals conflict, giving the party leverage.</p>\n<h4>3. Planar Guardians</h4>\n<p>Creatures appear only partially in the world. Use environmental effects and short combats rather than a single boss.</p>\n<h4>4. Veyrath Resolution</h4>\n<p>Give the party a chance to finally defeat Veyrath strategically: expose his network, turn him, capture him, or force him to retreat with the wrong conclusion.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Takhisis’s servants know a Portal exists.</li>\n<li>The Portal is not simply a gate; it can affect souls across planar boundaries.</li>\n<li>Enemy high command will eventually act directly against both Towers.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>War State ±1 based on the intelligence outcome. Trust +1 for defending the mission without sacrificing Palanthas civilians. Control changes only for choices of binding/coercion.</p>\n<h3>End Beat</h3>\n<p>Beyond the final seal stands a black velvet curtain. Behind it, something that is not wind moves the fabric.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The Portal chamber is the hinge between private grief and world war. Arc III ends when Raistlin comes to see it himself.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.WBT8UA4UnkfIglel"
+    },
+    {
+      "_id": "9lexN6BdBNqetDNK",
+      "name": "Session 16: The Master Arrives",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 16 · Level 12 · 4–5 hours.</strong> Pay off three arcs of prophecy by letting Raistlin claim recognition without yet opening the Portal.</p>\n<h3>Opening Image</h3>\n<p>Palanthas gathers to watch because word has spread that Raistlin Majere is walking toward the Shoikan Grove. He comes alone.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Raistlin Majere</li>\n<li>Party</li>\n<li>Palanthas citizens</li>\n<li>Astinus observers</li>\n<li>Order representatives</li>\n<li>Shoikan guardians</li>\n<li>Tower itself</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. The Walk</h4>\n<p>Raistlin approaches the Grove. Terror vanishes before him. Trees bow away. He casts no spell.</p>\n<h4>2. The Gate</h4>\n<p>The main gates, which refused the party, open. Rannoch’s remaining manifestation either bows, is silent, or is absent depending on Session 11.</p>\n<h4>3. Hall of Three Moons</h4>\n<p>As Raistlin enters, Solinari, Lunitari and Nuitari mechanisms ignite together: white, red, black.</p>\n<h4>4. The Name</h4>\n<p>Wards throughout the Tower identify him: <strong>RAISTLIN MAJERE — MASTER OF PAST AND PRESENT.</strong></p>\n<h4>5. The Portal</h4>\n<p>He reaches the Great Laboratory. The Portal remains dormant. He studies it, then says only: “Not yet.”</p>\n<h4>6. The Next Errand</h4>\n<p>He explains that three components of Fistandantilus’s work are missing and must be recovered from Silvanesti, Zhaman and Istar.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The prophecy has been fulfilled early in this altered timeline.</li>\n<li>Raistlin now has legitimate supernatural authority over both Wayreth and Palanthas.</li>\n<li>He still chooses not to open the Portal without understanding the ritual.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 12. Wayreth Accord +1 if the party helped release/repair Tower systems. Fistandantilus Influence +1 automatically. White Robe Bond may rise if Raistlin deliberately seeks their opinion before declaring the next mission.</p>\n<h3>End Beat</h3>\n<p>As the party leaves the Great Laboratory, the Portal’s dark surface reflects four people: Raistlin, the White Robe, one PC—and Caramon.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Arc III ends not with Raistlin becoming more evil, but with his impossible hope becoming technically achievable. Arc IV asks what the price really is.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!105nl8zROtX9mlbM.9lexN6BdBNqetDNK"
+    }
+  ],
+  "folder": null,
+  "sort": 500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!105nl8zROtX9mlbM"
+}

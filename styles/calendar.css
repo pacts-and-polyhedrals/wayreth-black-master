@@ -13,11 +13,15 @@
   touch-action: none;
   cursor: grab;
   filter: drop-shadow(0 3px 10px rgba(0, 0, 0, 0.65));
+  transform: scale(var(--wy-widget-scale, 1));
+  transform-origin: top left;
+  will-change: transform;
 }
 
 #wayreth-calendar.wy-dragging { cursor: grabbing; }
 
 #wayreth-calendar .wy-cal-bar {
+  position: relative; /* containing block for the resize grip */
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -55,6 +59,64 @@
   letter-spacing: 0.05em;
   white-space: nowrap;
 }
+
+/* --- clock --- */
+
+#wayreth-calendar .wy-clock {
+  min-width: 4.4rem;
+  padding: 0 0.5rem;
+  line-height: 1.15;
+  text-align: center;
+  border-left: 1px solid rgba(201, 162, 39, 0.22);
+  flex: 0 0 auto;
+}
+
+#wayreth-calendar .wy-clock-live {
+  cursor: ew-resize;
+  touch-action: none;
+}
+
+#wayreth-calendar .wy-clock-time {
+  font-family: 'Cinzel', 'Trajan Pro', serif;
+  font-size: 0.98rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  /* Warm at noon, cold at midnight, driven by the darkness value on the bar. */
+  color: color-mix(in srgb, #f0d98a calc((1 - var(--wy-darkness, 0)) * 100%), #8fa3c8);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+#wayreth-calendar .wy-clock-part {
+  font-size: 0.63rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #8a7f68;
+  white-space: nowrap;
+}
+
+#wayreth-calendar.wy-scrubbing {
+  user-select: none;
+}
+
+#wayreth-calendar.wy-scrubbing .wy-clock-time {
+  text-shadow: 0 0 8px rgba(201, 162, 39, 0.6);
+}
+
+/* Night tint across the whole bar, proportional to darkness. */
+#wayreth-calendar .wy-cal-bar::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 4px;
+  pointer-events: none;
+  background: linear-gradient(180deg, rgba(24, 34, 66, 0.55), rgba(10, 14, 30, 0.35));
+  opacity: calc(var(--wy-darkness, 0) * 0.85);
+  transition: opacity 400ms ease;
+  z-index: 0;
+}
+
+#wayreth-calendar .wy-cal-bar > * { position: relative; z-index: 1; }
 
 /* --- moons --- */
 
@@ -104,6 +166,62 @@
   border-color: #c9a227;
   box-shadow: none;
   text-shadow: none;
+}
+
+/* --- local size controls (available to GM and players) --- */
+
+/* --- bottom-right resize grip --- */
+
+#wayreth-calendar .wy-resize-handle {
+  position: absolute;
+  right: -2px;
+  bottom: -2px;
+  width: 14px;
+  height: 14px;
+  cursor: nwse-resize;
+  touch-action: none;
+  opacity: 0;
+  transition: opacity 120ms ease;
+  z-index: 2;
+}
+
+/* three diagonal ridges, drawn in gold */
+#wayreth-calendar .wy-resize-handle::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(135deg, transparent 0 45%, var(--wy-gold, #c9a227) 45% 58%, transparent 58%),
+    linear-gradient(135deg, transparent 0 68%, var(--wy-gold, #c9a227) 68% 81%, transparent 81%),
+    linear-gradient(135deg, transparent 0 91%, var(--wy-gold, #c9a227) 91% 100%, transparent 100%);
+  border-bottom-right-radius: 3px;
+}
+
+/* Reveal on hover, while resizing, and on keyboard focus. */
+#wayreth-calendar:hover .wy-resize-handle,
+#wayreth-calendar.wy-resizing .wy-resize-handle,
+#wayreth-calendar .wy-resize-handle:focus-visible {
+  opacity: 0.85;
+}
+
+#wayreth-calendar .wy-resize-handle:hover,
+#wayreth-calendar.wy-resizing .wy-resize-handle {
+  opacity: 1;
+}
+
+#wayreth-calendar .wy-resize-handle:focus-visible {
+  outline: 1px solid var(--wy-gold, #c9a227);
+  outline-offset: 2px;
+}
+
+/* No transition while dragging — the scale must track the pointer exactly. */
+#wayreth-calendar.wy-resizing {
+  will-change: transform;
+  user-select: none;
+}
+
+#wayreth-calendar.wy-resizing .wy-cal-bar {
+  border-color: var(--wy-gold, #c9a227);
 }
 
 /* --- eye banner --- */
@@ -163,6 +281,9 @@
 }
 
 #wayreth-calendar .wy-panel-row input { width: 3.6rem; }
+#wayreth-calendar .wy-panel-row .wy-in-hour,
+#wayreth-calendar .wy-panel-row .wy-in-min { width: 3rem; }
+#wayreth-calendar .wy-panel-row .wy-colon { color: #c9a227; margin: 0 -0.15rem; }
 #wayreth-calendar .wy-panel-row select { width: 7.5rem; }
 
 #wayreth-calendar .wy-panel-jump { gap: 0.3rem; }
@@ -177,3 +298,414 @@
 }
 
 #wayreth-calendar .wy-panel-note strong { color: #c9a227; }
+
+/* --- moon power key --- */
+
+#wayreth-calendar .wy-sanction-key {
+  margin-top: 4px;
+  width: min(25rem, calc(100vw - 24px));
+  padding: 0.65rem 0.75rem;
+  background: #14100d;
+  border: 1px solid rgba(201, 162, 39, 0.4);
+  border-radius: 4px;
+  font-size: 0.76rem;
+  line-height: 1.35;
+  cursor: default;
+  user-select: text;
+}
+
+#wayreth-calendar .wy-key-heading {
+  margin-bottom: 0.45rem;
+  color: #c9a227;
+  font-family: 'Cinzel', 'Trajan Pro', serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+#wayreth-calendar .wy-key-orders {
+  display: grid;
+  gap: 0.2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(201, 162, 39, 0.2);
+}
+
+#wayreth-calendar .wy-key-orders span { display: flex; align-items: center; gap: 0.3rem; }
+
+#wayreth-calendar .wy-key-dot {
+  width: 0.68rem;
+  height: 0.68rem;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 50%;
+  flex: 0 0 auto;
+}
+
+#wayreth-calendar .wy-key-solinari { background: #dfe4ea; }
+#wayreth-calendar .wy-key-lunitari { background: #c0392b; }
+#wayreth-calendar .wy-key-nuitari { background: #0b0b0f; }
+
+#wayreth-calendar .wy-key-rule { display: grid; gap: 0.15rem; margin-top: 0.5rem; }
+#wayreth-calendar .wy-key-rule span { color: #c9bea9; }
+#wayreth-calendar .wy-key-high strong { color: #d6b844; }
+#wayreth-calendar .wy-key-low strong { color: #d05b55; }
+#wayreth-calendar .wy-key-eye-rule strong { color: #e8ddc8; }
+
+/* ---------------------------------------------------------------
+   Docked mode — sits in normal flow directly above the player list,
+   bottom-left, the way SmallTime does. Stacked so it fits the narrow
+   column: date, then clock, then moons and controls.
+   --------------------------------------------------------------- */
+
+/* Resizing is disabled when docked — the player list dictates the width. */
+#wayreth-calendar.wy-docked .wy-resize-handle { display: none; }
+
+#wayreth-calendar.wy-docked {
+  position: relative;
+  left: auto;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 0 4px 0;
+  cursor: default;
+  transform-origin: bottom left; /* grow upward out of the corner */
+  z-index: 2;
+  /* Foundry sets pointer-events:none on its UI regions so the canvas stays
+     clickable, and each panel re-enables it for itself. Docking puts us inside
+     one of those regions, so we must opt back in or the widget renders
+     perfectly and ignores every click. */
+  pointer-events: auto;
+}
+
+/* Some Foundry themes push pointer-events:none down onto children, so re-enable
+   explicitly on the parts that have to be clickable. */
+#wayreth-calendar.wy-docked .wy-cal-bar,
+#wayreth-calendar.wy-docked .wy-clock,
+#wayreth-calendar.wy-docked .wy-moons,
+#wayreth-calendar.wy-docked .wy-moon,
+#wayreth-calendar.wy-docked .wy-controls,
+#wayreth-calendar.wy-docked button,
+#wayreth-calendar.wy-docked input,
+#wayreth-calendar.wy-docked select,
+#wayreth-calendar.wy-docked .wy-cal-panel,
+#wayreth-calendar.wy-docked .wy-sanction-key {
+  pointer-events: auto;
+}
+
+#wayreth-calendar.wy-docked .wy-cal-bar {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.25rem;
+  padding: 0.4rem 0.5rem;
+}
+
+/* Date: full width, left aligned. */
+#wayreth-calendar.wy-docked .wy-cal-date {
+  min-width: 0;
+  padding: 0;
+  text-align: left;
+}
+
+#wayreth-calendar.wy-docked .wy-cal-line1 { font-size: 0.9rem; }
+#wayreth-calendar.wy-docked .wy-cal-line2 { font-size: 0.7rem; }
+
+/* Clock: its own row, separated by a rule rather than a left border. */
+#wayreth-calendar.wy-docked .wy-clock {
+  min-width: 0;
+  padding: 0.15rem 0 0.1rem;
+  text-align: left;
+  border-left: none;
+  border-top: 1px solid rgba(201, 162, 39, 0.22);
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+}
+
+#wayreth-calendar.wy-docked .wy-clock-time { font-size: 1.05rem; }
+#wayreth-calendar.wy-docked .wy-clock-part { font-size: 0.58rem; }
+
+/* Moons and buttons share the bottom row. */
+#wayreth-calendar.wy-docked .wy-strip {
+  border-top: 1px solid rgba(201, 162, 39, 0.22);
+  padding-top: 0.3rem;
+  justify-content: space-between;
+}
+
+#wayreth-calendar.wy-docked .wy-moons {
+  border-left: none;
+  padding-left: 0;
+  gap: 0.3rem;
+}
+
+#wayreth-calendar.wy-docked .wy-controls { gap: 0.15rem; }
+#wayreth-calendar.wy-docked .wy-controls button { padding: 0.18rem 0.28rem; font-size: 0.62rem; }
+
+/* Panels open upward so they never push the player list around. */
+#wayreth-calendar.wy-docked .wy-cal-panel,
+#wayreth-calendar.wy-docked .wy-sanction-key {
+  position: absolute;
+  bottom: calc(100% + 4px);
+  left: 0;
+  width: max-content;
+  max-width: 22rem;
+  z-index: 3;
+}
+
+
+/* Floating mode keeps moons and buttons on one line, as before. */
+#wayreth-calendar .wy-strip {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex: 0 0 auto;
+}
+
+#wayreth-calendar .wy-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+/* ---------------------------------------------------------------
+   GM campaign tracker board — Arc II onward
+   A separate panel that sits immediately above the calendar. It is
+   never rendered for players; all six values are world-authoritative.
+   --------------------------------------------------------------- */
+
+#wayreth-campaign-trackers {
+  position: fixed;
+  left: 12px;
+  bottom: 12px;
+  z-index: 61;
+  width: 260px;
+  font-family: 'EB Garamond', 'Palatino Linotype', Georgia, serif;
+  color: #e8ddc8;
+  user-select: none;
+  filter: drop-shadow(0 3px 10px rgba(0, 0, 0, 0.65));
+  pointer-events: auto;
+}
+
+#wayreth-campaign-trackers .wy-tracker-board {
+  background: linear-gradient(180deg, #1e1813 0%, #14100d 100%);
+  border: 1px solid rgba(201, 162, 39, 0.42);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+/* --- header --- */
+
+#wayreth-campaign-trackers .wy-tracker-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.4rem;
+  padding: 0.35rem 0.45rem;
+  background: rgba(139, 26, 26, 0.22);
+  border-bottom: 1px solid rgba(201, 162, 39, 0.28);
+}
+
+#wayreth-campaign-trackers .wy-tracker-kicker {
+  display: block;
+  font-family: 'Cinzel', serif;
+  font-size: 0.54rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #b52626;
+}
+
+#wayreth-campaign-trackers .wy-tracker-heading strong {
+  font-family: 'Cinzel', 'Trajan Pro', serif;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  color: #c9a227;
+}
+
+#wayreth-campaign-trackers .wy-tracker-actions { display: flex; gap: 0.2rem; }
+
+#wayreth-campaign-trackers button {
+  background: transparent;
+  border: 1px solid rgba(201, 162, 39, 0.3);
+  border-radius: 3px;
+  color: #c9a227;
+  cursor: pointer;
+  line-height: 1;
+  width: auto;
+  height: auto;
+  flex: 0 0 auto;
+  padding: 0.2rem 0.32rem;
+  font-size: 0.7rem;
+}
+
+#wayreth-campaign-trackers button:hover {
+  background: rgba(201, 162, 39, 0.16);
+  border-color: #c9a227;
+  box-shadow: none;
+  text-shadow: none;
+}
+
+/* --- one row per tracker --- */
+
+#wayreth-campaign-trackers .wy-tracker-rows {
+  display: flex;
+  flex-direction: column;
+}
+
+#wayreth-campaign-trackers .wy-tracker-row {
+  display: grid;
+  grid-template-columns: 1.35rem minmax(0, 1fr) 1.5rem;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.34rem 0.45rem 0.34rem 0.4rem;
+  /* the tracker's own colour, so each row is identifiable at a glance */
+  border-left: 3px solid var(--wy-accent, #c9a227);
+  border-bottom: 1px solid rgba(201, 162, 39, 0.12);
+}
+
+#wayreth-campaign-trackers .wy-tracker-row:last-child { border-bottom: none; }
+#wayreth-campaign-trackers .wy-tracker-row:hover { background: rgba(201, 162, 39, 0.05); }
+
+#wayreth-campaign-trackers .wy-tracker-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.82rem;
+  color: var(--wy-accent, #c9a227);
+}
+
+#wayreth-campaign-trackers .wy-tracker-main { min-width: 0; }
+
+#wayreth-campaign-trackers .wy-tracker-line {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.3rem;
+  margin-bottom: 0.16rem;
+}
+
+#wayreth-campaign-trackers .wy-tracker-name {
+  font-family: 'Cinzel', serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  color: #e8ddc8;
+  white-space: nowrap;
+}
+
+#wayreth-campaign-trackers .wy-tracker-band {
+  font-size: 0.63rem;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* --- meter --- */
+
+#wayreth-campaign-trackers .wy-tracker-meter {
+  height: 5px;
+  border-radius: 3px;
+  background: rgba(232, 221, 200, 0.12);
+  overflow: hidden;
+}
+
+#wayreth-campaign-trackers .wy-tracker-meter > span {
+  display: block;
+  height: 100%;
+  border-radius: 3px;
+  transition: width 200ms ease;
+}
+
+/* --- value and nudge buttons --- */
+
+#wayreth-campaign-trackers .wy-tracker-nudge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.08rem;
+}
+
+#wayreth-campaign-trackers .wy-tracker-nudge button {
+  padding: 0.06rem 0.22rem;
+  font-size: 0.52rem;
+  border-color: rgba(201, 162, 39, 0.22);
+}
+
+#wayreth-campaign-trackers .wy-tracker-value {
+  font-family: 'Cinzel', serif;
+  font-size: 0.86rem;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+
+/* --- tone colours: where the value sits, not which tracker it is --- */
+
+#wayreth-campaign-trackers .wy-tone-good .wy-tracker-band,
+#wayreth-campaign-trackers .wy-tone-good .wy-tracker-value { color: #6cc4a1; }
+#wayreth-campaign-trackers .wy-tone-good .wy-tracker-meter > span { background: #4a9d7f; }
+
+#wayreth-campaign-trackers .wy-tone-neutral .wy-tracker-band,
+#wayreth-campaign-trackers .wy-tone-neutral .wy-tracker-value { color: #c9bea9; }
+#wayreth-campaign-trackers .wy-tone-neutral .wy-tracker-meter > span { background: #8a7f68; }
+
+#wayreth-campaign-trackers .wy-tone-warn .wy-tracker-band,
+#wayreth-campaign-trackers .wy-tone-warn .wy-tracker-value { color: #e0b33c; }
+#wayreth-campaign-trackers .wy-tone-warn .wy-tracker-meter > span { background: #cc9a22; }
+
+#wayreth-campaign-trackers .wy-tone-bad .wy-tracker-band,
+#wayreth-campaign-trackers .wy-tone-bad .wy-tracker-value { color: #e06565; }
+#wayreth-campaign-trackers .wy-tone-bad .wy-tracker-meter > span { background: #b52626; }
+
+/* --- collapsed: a glanceable chip per tracker --- */
+
+#wayreth-campaign-trackers .wy-tracker-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.22rem;
+  padding: 0.4rem 0.45rem;
+}
+
+#wayreth-campaign-trackers .wy-tracker-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22rem;
+  padding: 0.14rem 0.34rem;
+  border-radius: 3px;
+  border-left: 3px solid var(--wy-accent, #c9a227);
+  background: rgba(232, 221, 200, 0.06);
+  font-family: 'Cinzel', serif;
+  font-size: 0.68rem;
+  font-variant-numeric: tabular-nums;
+}
+
+#wayreth-campaign-trackers .wy-tracker-chip i {
+  font-size: 0.62rem;
+  color: var(--wy-accent, #c9a227);
+}
+
+/* --- docked --- */
+
+#wayreth-campaign-trackers.wy-docked {
+  position: relative;
+  left: auto;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 0 4px 0;
+  z-index: 3;
+  pointer-events: auto;
+}
+
+#wayreth-campaign-trackers.wy-docked,
+#wayreth-campaign-trackers.wy-docked * {
+  pointer-events: auto;
+}
+
+
+#wayreth-campaign-trackers.wy-docked + #wayreth-calendar.wy-docked .wy-cal-panel,
+#wayreth-campaign-trackers.wy-docked + #wayreth-calendar.wy-docked .wy-sanction-key {
+  left: calc(100% + 4px);
+  bottom: 0;
+  max-width: min(22rem, calc(100vw - 24px));
+}

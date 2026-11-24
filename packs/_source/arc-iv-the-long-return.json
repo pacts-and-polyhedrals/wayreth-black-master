@@ -1,0 +1,608 @@
+{
+  "_id": "2AnjwvPwxRE6hNqU",
+  "name": "Arc IV: The Long Return",
+  "pages": [
+    {
+      "_id": "whaMLY6VThVbUyTs",
+      "name": "Arc IV Overview: The Long Return",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Levels 12–15 · default 13 sessions · expandable to 15. Three expeditions recover the missing physical components of Fistandantilus’s resurrection work.</p>\n<p>Raistlin now controls access to the Tower of Palanthas but refuses to open the Portal blindly. The party must recover three things: a memory-anchor from Silvanesti, a temporal connection from Zhaman, and an artifact capable of calling a soul by its true identity from the ruins of Istar.</p>\n<h3>Default Order</h3><table class=\"wy-table\">\n<thead><tr><th>Sessions</th><th>Expedition</th><th>Component</th><th>Milestone</th></tr></thead>\n<tbody>\n<tr><td>1</td><td>Briefing / choose order</td><td>The ritual map</td><td>—</td></tr>\n<tr><td>2–5</td><td>Heart of Silvanesti</td><td>Heart of Memory</td><td>Level 13</td></tr>\n<tr><td>6–9</td><td>Ashes of Zhaman</td><td>Chronicle of the Unbroken Hour</td><td>Level 14</td></tr>\n<tr><td>10–13</td><td>Bell Beneath Istar</td><td>Bell of True Names</td><td>Level 15</td></tr>\n</tbody>\n</table><p>The expeditions can be played in any order. Keep their internal session sequences but renumber at the table if the party chooses differently. Award the level after each completed expedition rather than by fixed session number.</p>\n<h3>The Through-Line</h3><p>Each expedition strips away one comforting assumption. Silvanesti proves Caramon can be found. Zhaman proves he can be reached. Istar proves that reaching him does not grant the right to keep him.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.whaMLY6VThVbUyTs"
+    },
+    {
+      "_id": "e1EGhHUkfKrnHNSU",
+      "name": "Arc IV Travel & Expedition Framework",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Arc IV crosses enormous distances at high level. Travel is still story, but it should no longer be resolved as twenty ordinary road days.</p>\n<h3>High-Level Travel Turn</h3><ol>\n<li>Choose transport: magical, ship, military passage, Wayreth route, or conventional road.</li>\n<li>Show one regional consequence of the war.</li>\n<li>Present one obstacle that magic can solve at a resource/social cost.</li>\n<li>Present one piece of location knowledge before arrival.</li>\n<li>Advance War State only when the strategic situation changes.</li>\n</ol><h3>Magic Does Not Delete Geography</h3><p>Teleportation shortens distance but requires reliable destinations, circles or knowledge. Wayreth can help place travellers near its own transdimensional reach, not anywhere on Ansalon. Ships remain valuable for large groups, equipment and politically sensitive travel.</p>\n<h3>Between Expeditions</h3><p>Return to Palanthas or Wayreth for at least one scene. Raistlin studies the recovered component, the party can consult allies, and the tracker board should be reviewed. These interludes make his progression visible.</p>\n<h3>War Updates</h3><p>After every expedition, announce two changes elsewhere: one that reflects War State and one consequence of something the party did in Arc II. The world must not freeze while they hunt ancient magic.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.e1EGhHUkfKrnHNSU"
+    },
+    {
+      "_id": "74gb3GG3JR0cWsRw",
+      "name": "Silvanesti Gazetteer: The Wound That Remembers",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Silvanesti is not a generic haunted forest. It is the recent site of the magical catastrophe that killed Caramon and broke Raistlin’s life open.</p>\n<h3>Approach</h3><p>Refugees thin out as the party nears the elven realm. Birds become less common. Plants grow in impossible directions. At the boundary, ordinary distance stops being trustworthy. The Nightmare does not simply create illusions; it forces place, memory and fear to occupy the same geography.</p>\n<h3>What Remains</h3><table class=\"wy-table\">\n<thead><tr><th>Region</th><th>Present Condition</th><th>What It Holds</th></tr></thead>\n<tbody>\n<tr><td>Outer woodland</td><td>Patchy normality interrupted by dream scars</td><td>Refugee camps, scouts, displaced animals</td></tr>\n<tr><td>Ruined settlements</td><td>Moments of evacuation and death replay unpredictably</td><td>Witnesses, personal objects, memory anchors</td></tr>\n<tr><td>Silvanost approaches</td><td>Architecture overgrown by nightmare symbolism</td><td>Dragon Orb echoes, dream guardians</td></tr>\n<tr><td>Dream palace</td><td>Lorac’s psychic catastrophe remains strongest</td><td>Caramon death-memory, Cyan manifestations</td></tr>\n<tr><td>Deep psychic residue</td><td>Not physically stable</td><td>The Heart of Memory</td></tr>\n</tbody>\n</table><h3>Use of Caramon</h3><p>Do not replay his death immediately. First let the party see the wake he left: a broken shield mark, an enormous bootprint fixed in dream-mud, a place where someone carried an injured elf, a remembered laugh from a room that is empty. Raistlin’s grief becomes specific through absence.</p>\n<h3>Knowledge Available</h3><p>Elven survivors can explain Lorac, the Dragon Orb and Cyan Bloodbane from their perspective. They cannot explain why one human soul vanished differently from the others.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.74gb3GG3JR0cWsRw"
+    },
+    {
+      "_id": "ZGv8ly48YFmKOdKk",
+      "name": "Zhaman / Skullcap Gazetteer",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The fortress called Zhaman—“forbidden”—was built as a war-magic stronghold on the Plains of Dergoth between Pax Tharkas and Thorbardin. Its ruins should feel like a magical weapon folded inward by its own detonation.</p>\n<h3>Historical Structure</h3><p>Zhaman once stood nearly five hundred feet tall with around thirty stories, a central shaft, great meeting halls, and extensive underground laboratories built to contain destructive experiments. Its creator Malock protected the lower levels with a crystal maze whose true route changed continually.</p>\n<h3>Fistandantilus and the Portal</h3><p>Centuries later the Orders used Zhaman as a repository for artifacts removed from threatened Towers, including the Palanthas Portal. Fistandantilus came here after discovering the Portal was not in Palanthas. His attempt to open it ended in an explosion vast enough to transform the surrounding battlefield. In this campaign, the ruins retain temporal fractures from that magical disaster.</p>\n<h3>Present Layout</h3><table class=\"wy-table\">\n<thead><tr><th>Zone</th><th>Use</th></tr></thead>\n<tbody>\n<tr><td>Plains of Death</td><td>Approach; battlefield ghosts and temporal weather</td></tr>\n<tr><td>Skullcap shell</td><td>Melted/collapsed upper fortress</td></tr>\n<tr><td>Crystal Maze</td><td>Changing navigation and duplicated time</td></tr>\n<tr><td>War laboratories</td><td>Simulacra, destructive experiments, journals</td></tr>\n<tr><td>Portal scar</td><td>Where the old ritual failed</td></tr>\n<tr><td>Unbroken Hour chamber</td><td>Temporal anchor research</td></tr>\n</tbody>\n</table><p>The ruin should never be physically consistent across two maps. Doors can open to earlier versions of rooms; collapsed halls can temporarily stand whole.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.ZGv8ly48YFmKOdKk"
+    },
+    {
+      "_id": "h7E2qsHZqcbdZ86h",
+      "name": "Istar Beneath the Blood Sea",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The submerged Tower and holy city are not only ruins. They are the material record of a civilisation convinced divine certainty justified absolute control.</p>\n<h3>Journey</h3><p>The party needs a Blood Sea port, a vessel or magical water-breathing plan, charts to a region where currents behave unpredictably, and a guide who knows which salvage stories are suicide.</p>\n<h3>Tower Remnants</h3><p>The Tower of Istar spent centuries beneath the Blood Sea. Its surviving chambers can hold arcane and religious relics side by side. The campaign’s key location is based on the old Chamber of Eyes: a divination room beneath a dome of stars with a central silver basin once used for difficult scrying.</p>\n<h3>Expedition Zones</h3><table class=\"wy-table\">\n<thead><tr><th>Zone</th><th>Hazard</th><th>Knowledge</th></tr></thead>\n<tbody>\n<tr><td>Blood Sea port</td><td>Spies, salvage claims, desperate crews</td><td>Another expedition has gone missing</td></tr>\n<tr><td>Wreck field</td><td>Currents, undead sailors, hostile salvagers</td><td>Someone reached the ruins before the party</td></tr>\n<tr><td>Submerged Tower</td><td>Pressure, unstable magic, flooded wards</td><td>Orders and Istar once occupied the same political world</td></tr>\n<tr><td>Chamber of Eyes</td><td>Temporal/divinatory feedback</td><td>A true name can be found, not owned</td></tr>\n<tr><td>Drowned temple</td><td>Divine wards and moral tests</td><td>The Bell was built to call, not compel</td></tr>\n<tr><td>Judgement-proof vault</td><td>Ancient arrogance made architecture</td><td>Fistandantilus’s dominion revision</td></tr>\n</tbody>\n</table><p>The Bell’s lesson should not be delivered as a sermon. Let the original ritual’s mechanics prove it: the called soul must be able to refuse or the identity being returned is not fully itself.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.h7E2qsHZqcbdZ86h"
+    },
+    {
+      "_id": "oOZcFYRaUUSnRJDJ",
+      "name": "The Long Return Ritual Ledger",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">By the end of Arc IV the players should understand the ritual well enough to argue with Raistlin about it in technical terms.</p>\n<table class=\"wy-table\"><thead><tr><th>Requirement</th><th>Recovered At</th><th>Function</th><th>Ethical Risk</th></tr></thead><tbody>\n<tr><td>Heart of Memory</td><td>Silvanesti</td><td>Reconstructs and locates identity through catastrophic magical residue</td><td>Memories can be edited or selected</td></tr>\n<tr><td>Chronicle of the Unbroken Hour</td><td>Zhaman</td><td>Creates a temporal line from living anchor to displaced soul</td><td>The living anchor can be consumed</td></tr>\n<tr><td>Bell of True Names</td><td>Istar</td><td>Calls the soul by its true spiritual identity</td><td>Fistandantilus altered the call to override refusal</td></tr>\n<tr><td>Living emotional anchor</td><td>Raistlin</td><td>Gives the returning soul a point in the present to reach</td><td>Love can be turned into ownership</td></tr>\n</tbody></table>\n<h3>Two Final Forms</h3><p><strong>Return by Invitation:</strong> the soul hears the call and chooses whether to cross. <strong>Return by Dominion:</strong> the caster closes the refusal path and binds the returned person to the ritual authority.</p>\n<p>Fistandantilus used Dominion. Raistlin does not declare which form he intends to use.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.oOZcFYRaUUSnRJDJ"
+    },
+    {
+      "_id": "7q96mktxneccnVZK",
+      "name": "Silvanesti: d12 Nightmare Manifestations",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Use these between planned scenes when the Nightmare needs to feel alive. Every result reveals memory, geography or Caramon rather than functioning as filler.</p>\n<table class=\"wy-table\"><thead><tr><th>d12</th><th>Manifestation</th><th>Information / Use</th></tr></thead><tbody>\n<tr><td>1</td><td>A road splits into three versions of the same hour.</td><td>Only the route showing wounded civilians matches Caramon's actual passage.</td></tr>\n<tr><td>2</td><td>An elf begs the party to save a house that is already ruins.</td><td>Helping the memory reveals a survivor's name and later contact.</td></tr>\n<tr><td>3</td><td>Rain falls upward from blood-red puddles.</td><td>Arcana reveals Dragon Orb residue points toward Silvanost.</td></tr>\n<tr><td>4</td><td>A dragon shadow crosses the ground with no dragon overhead.</td><td>Cyan is observing through the dream but not physically present.</td></tr>\n<tr><td>5</td><td>Caramon's voice calls Raistlin's name from a tree trunk.</td><td>The voice is a place-memory, not Caramon's soul.</td></tr>\n<tr><td>6</td><td>A PC sees themselves abandoning the others during an old failure.</td><td>Successful reflection can reduce the Nightmare's leverage later.</td></tr>\n<tr><td>7</td><td>A perfectly healthy orchard surrounds one dead tree.</td><td>The dead tree marks a location where the Nightmare briefly failed.</td></tr>\n<tr><td>8</td><td>Two elven patrols from different times meet and attack one another.</td><td>The party can separate histories rather than defeat either side.</td></tr>\n<tr><td>9</td><td>A child's toy shield bears fresh fingerprints too large for the child.</td><td>Caramon handled it while helping an evacuation.</td></tr>\n<tr><td>10</td><td>The party's own camp appears ahead, abandoned for years.</td><td>A warning that time and memory can imitate one another here.</td></tr>\n<tr><td>11</td><td>A green eye opens in the moon.</td><td>Cyan's manifestation will know one tactic the party used afterward.</td></tr>\n<tr><td>12</td><td>For one minute everything becomes completely normal.</td><td>This is the most unsettling result; it also permits a clean rest/check of direction.</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.7q96mktxneccnVZK"
+    },
+    {
+      "_id": "LCUQBcThzNyaGBBQ",
+      "name": "Zhaman: d12 Temporal Distortions",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Zhaman should constantly imply that the party is walking through a magical accident whose explosion never entirely finished happening.</p>\n<table class=\"wy-table\"><thead><tr><th>d12</th><th>Distortion</th></tr></thead><tbody>\n<tr><td>1</td><td>A door opens into the intact fortress. It remains safe for exactly one minute.</td></tr>\n<tr><td>2</td><td>One PC hears the answer to a question they have not asked yet.</td></tr>\n<tr><td>3</td><td>Fresh footprints match the party but run backward.</td></tr>\n<tr><td>4</td><td>A battlefield ghost mistakes the current war for the Dwarfgate War and gives useful terrain intelligence.</td></tr>\n<tr><td>5</td><td>A spell is visibly cast twice; only one copy consumes the slot, both effects occur half-strength.</td></tr>\n<tr><td>6</td><td>A room is older on its east side than west side; objects carried across age or repair by decades.</td></tr>\n<tr><td>7</td><td>A dead enemy appears alive for one conversation before history catches up.</td></tr>\n<tr><td>8</td><td>The Chronicle of the Unbroken Hour briefly appears behind glass before the party has found it.</td></tr>\n<tr><td>9</td><td>Fistandantilus walks past without seeing the party, accompanied by people who died centuries ago.</td></tr>\n<tr><td>10</td><td>The ruin becomes Skullcap for one round, then Zhaman, then the current ruin again.</td></tr>\n<tr><td>11</td><td>A character's future scar appears and disappears; ask the player what caused it.</td></tr>\n<tr><td>12</td><td>Every clock in the ruin stops at the same minute—the moment Fistandantilus's ritual failed.</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.LCUQBcThzNyaGBBQ"
+    },
+    {
+      "_id": "f69uwWVDBdsAVlKX",
+      "name": "Istar & the Blood Sea: d12 Expedition Events",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Use these to make the Istar expedition feel like a dangerous salvage operation before it becomes a philosophical ritual site.</p>\n<table class=\"wy-table\"><thead><tr><th>d12</th><th>Event</th><th>Knowledge</th></tr></thead><tbody>\n<tr><td>1</td><td>A salvage buoy carries a guild mark belonging to the missing rival expedition.</td><td>They reached the area recently.</td></tr>\n<tr><td>2</td><td>A current flows straight downward for a hundred feet.</td><td>Old Tower magic is distorting water.</td></tr>\n<tr><td>3</td><td>A drowned street sign remains legible in Old Istarian.</td><td>It provides a route toward the Tower/church quarter.</td></tr>\n<tr><td>4</td><td>An undead sailor tries to return a sealed parcel rather than attack.</td><td>The parcel contains divination notes from the rival expedition.</td></tr>\n<tr><td>5</td><td>Water around an old holy symbol becomes perfectly clear.</td><td>Divine magic once overlapped the wizard district here.</td></tr>\n<tr><td>6</td><td>A cracked dome reflects stars that cannot be seen from beneath the sea.</td><td>The Chamber of Eyes is nearby.</td></tr>\n<tr><td>7</td><td>A Dragonarmy salvage team searches a different ruin.</td><td>Takhisis knows ancient Istarian magic is strategically valuable.</td></tr>\n<tr><td>8</td><td>A bell rings once despite the water and distance.</td><td>The Bell of True Names is reacting to a soul-call somewhere nearby.</td></tr>\n<tr><td>9</td><td>A sealed room contains dry air and a meal turned to dust.</td><td>Ancient wards can still create safe rest locations.</td></tr>\n<tr><td>10</td><td>A wall mosaic shows priests and wizards arguing over resurrection.</td><td>The invitation principle predates Fistandantilus.</td></tr>\n<tr><td>11</td><td>The party hears one of their own names from far below.</td><td>Do not answer automatically; the site reacts to spoken identity.</td></tr>\n<tr><td>12</td><td>For a few seconds the sea becomes the city before the Cataclysm.</td><td>Use the glimpse to foreshadow the temple entrance.</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.f69uwWVDBdsAVlKX"
+    },
+    {
+      "_id": "BLOBURF99lYUNIfW",
+      "name": "Session 1: Proof, Not Resurrection",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 1 · Level 12 · 3–4 hours.</strong> Brief the three expeditions, let the party choose order, and establish that Raistlin is still refusing to open the Portal without proof.</p>\n<h3>Opening Image</h3>\n<p>The Great Laboratory is active now. Raistlin has moved books, instruments and Caramon’s sword from Wayreth into Palanthas, but the Portal remains curtained.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Raistlin Majere</li>\n<li>Par-Salian or Justarius by sending/visit</li>\n<li>White Robe PC</li>\n<li>Palanthas quartermaster/contact</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Three Empty Spaces</h4>\n<p>Raistlin lays out three diagrams with missing centres: Memory, Time, Name. Each corresponds to one expedition.</p>\n<h4>2. Why He Will Not Go</h4>\n<p>He will accompany none of them. For Zhaman and Istar he cites Tower obligations. For Silvanesti, his explanation is visibly inadequate.</p>\n<h4>3. Choose the Order</h4>\n<p>Provide location, travel, likely danger and expected research benefit. Let the party choose; no order is strategically “correct.”</p>\n<h4>4. War Briefing</h4>\n<p>Update War State and show two consequences from previous arcs before the party leaves.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The Portal can probably reach Caramon only after all three components are understood.</li>\n<li>Raistlin is the likely living emotional anchor.</li>\n<li>Silvanesti is the only site Raistlin is emotionally unwilling to revisit.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Raistlin Trust +1 if the party insists on understanding each component rather than simply retrieving it. White Robe Bond +1 if the PC frames oversight as shared responsibility, not permission.</p>\n<h3>End Beat</h3>\n<p>The party chooses the first expedition and receives transport support appropriate to it.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Arc IV is proof-building. Every success makes the eventual moral choice harder because the ritual becomes more plausible.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.BLOBURF99lYUNIfW"
+    },
+    {
+      "_id": "sqnbjgJUswSXpffg",
+      "name": "Session 2: Road to the Nightmare",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 2 · Level 12 · 3–4 hours.</strong> Make the approach to Silvanesti a journey through recent grief and displaced people before supernatural horror begins.</p>\n<h3>Opening Image</h3>\n<p>The road southeast carries more people away from Silvanesti than toward it. Several recognise the party’s destination and stop giving advice.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Silvanesti refugee guide Lethira (campaign NPC)</li>\n<li>Elven scouts</li>\n<li>War refugees</li>\n<li>Dream-scarred animal</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Regional Crossing</h4>\n<p>Use high-level travel: one political obstacle, one magical shortcut, one war update.</p>\n<h4>2. Refugee Camp</h4>\n<p>Interview survivors who knew where Caramon’s expedition entered. Their stories disagree in detail but all remember the brothers.</p>\n<h4>3. The Guide</h4>\n<p>Lethira agrees to lead the party only to the dream boundary. She remembers Caramon helping carry children during an earlier evacuation.</p>\n<h4>4. First Scar</h4>\n<p>Night falls twice in ten minutes. The same tree appears on both sides of the road. The Nightmare begins before the map says Silvanesti.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Caramon was remembered as a protector by survivors, not merely Raistlin’s brother.</li>\n<li>The catastrophe distorted geography and memory together.</li>\n<li>Other souls died here normally; Caramon’s disappearance is anomalous.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>White Robe Bond +1 if the party treats survivors as people rather than research sources. War State update only if regional fronts change.</p>\n<h3>End Beat</h3>\n<p>Lethira stops. Ahead, every tree leans inward as though listening.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>By giving Caramon a reputation independent of Raistlin, the campaign protects his agency before his soul is ever recovered.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.sqnbjgJUswSXpffg"
+    },
+    {
+      "_id": "pH0yFzM9mrDNOb7V",
+      "name": "Session 3: The Nightmare Remembers",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 3 · Level 12 · 4 hours.</strong> Traverse ruined settlements and establish memory as a physical magical residue.</p>\n<h3>Opening Image</h3>\n<p>A village appears intact from the ridge. At street level it is ruins. Looking through a window shows the intact version again.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Dream echoes of villagers</li>\n<li>Elven survivor trapped in recursive memory</li>\n<li>Cyan shadow</li>\n<li>Caramon residual echo</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Ruined Village</h4>\n<p>Search buildings that alternate between present ruin and catastrophe memory. Objects moved in one state may reveal clues in the other.</p>\n<h4>2. Caramon’s Wake</h4>\n<p>Find evidence of his passage: a smashed doorway, a child’s remembered rescue, blood on a shield strap, heavy tracks.</p>\n<h4>3. Recursive Survivor</h4>\n<p>A living elf is trapped reliving one hour. Freeing them requires changing the memory without falsifying what happened.</p>\n<h4>4. Orb Pulse</h4>\n<p>A fragmentary Dragon Orb echo reacts to party magic and points toward Silvanost.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Places can retain enough emotional/magical information to reconstruct memory.</li>\n<li>Caramon reached deeper into the nightmare than most of his companions.</li>\n<li>Cyan Bloodbane’s influence still shapes the psychic landscape.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Raistlin Control -1 if the party frees the survivor without overwriting their unwanted memories; +1 if they simply alter the mind because it is easier. Wayreth Accord unaffected.</p>\n<h3>End Beat</h3>\n<p>A distant palace tower appears upside down in the sky, its reflection pointing the actual direction of travel.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The Heart of Memory must represent truthful reconstruction, not comforting revision. Establish that rule before the artifact appears.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.pH0yFzM9mrDNOb7V"
+    },
+    {
+      "_id": "DQA1pblK4O4GX1Kb",
+      "name": "Session 4: The Dream Palace",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 4 · Level 12 · 4–5 hours.</strong> Reach the strongest psychic residue and show Caramon’s death without making the party passive observers.</p>\n<h3>Opening Image</h3>\n<p>The palace exists in overlapping versions: elven splendour, nightmare ruin, and one impossible version in which the party has been here before.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Lorac psychic remnant</li>\n<li>Cyan manifestations</li>\n<li>Caramon death-memory</li>\n<li>Raistlin memory echo</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Palace Entry</h4>\n<p>Each door opens according to an emotion rather than key. Players choose grief, anger, duty or hope and see different rooms.</p>\n<h4>2. Lorac Remnant</h4>\n<p>The remnant cannot hold a normal conversation. It responds through scenes, symbols and borrowed voices.</p>\n<h4>3. Caramon’s Last Path</h4>\n<p>The party must follow his actions through collapsing memory, making choices to preserve the sequence without changing it.</p>\n<h4>4. The Death</h4>\n<p>Show Caramon dying and Raistlin unable to reach the soul afterward. Then show a second disturbance after Raistlin leaves: something touches the displaced soul-trace.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Caramon’s soul did not follow the normal route of the dead.</li>\n<li>A second magical presence interacted with the displacement after his death.</li>\n<li>The presence is neither the Dragon Orb nor Cyan.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Fistandantilus Influence +1 because an outside intelligence is now evident. Trust +1 if the party later tells Raistlin the entire sequence including his own failed attempt.</p>\n<h3>End Beat</h3>\n<p>The disturbance leaves a trail deeper into the dream, where a green dragon shape waits.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The hidden truth is Fistandantilus intercepted Caramon. Do not name him here; the party should carry suspicion into later expeditions.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.DQA1pblK4O4GX1Kb"
+    },
+    {
+      "_id": "O6j4F5c6lIVMXKQv",
+      "name": "Session 5: Cyan’s Rehearsal",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 5 · Level 12–13 · 4–5 hours.</strong> Defeat the nightmare guardian and recover the Heart of Memory.</p>\n<h3>Opening Image</h3>\n<p>Cyan Bloodbane’s manifestation has rehearsed this confrontation countless times in the dream. It knows versions of the party that never existed.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Dream manifestation of Cyan Bloodbane</li>\n<li>Memory-versions of PCs</li>\n<li>Caramon echo</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. False Futures</h4>\n<p>The dragon uses remembered/fabricated party failures as terrain and minions.</p>\n<h4>2. Break the Rehearsal</h4>\n<p>The party wins by doing something the dream cannot predict—drawing on a relationship/choice established after Silvanesti’s catastrophe.</p>\n<h4>3. Heart Chamber</h4>\n<p>At the nightmare’s centre is a crystallised knot of Dragon Orb residue and accumulated memory.</p>\n<h4>4. Caramon Signal</h4>\n<p>When touched, the Heart of Memory resolves a faint direction—not in geography, but out of the mortal plane.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Caramon can be located by memory.</li>\n<li>His soul remains intact enough to answer a true call.</li>\n<li>Someone or something pulled his trail beyond ordinary resurrection reach.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 13. Fistandantilus Influence +1. White Robe Bond +1 if the White Robe protects the integrity of painful memories rather than “fixing” them.</p>\n<h3>End Beat</h3>\n<p>On return, Raistlin holds the Heart but cannot make himself ask what the party saw until they tell him.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The first component makes hope rational. That changes Raistlin more than any corruption scene would.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.O6j4F5c6lIVMXKQv"
+    },
+    {
+      "_id": "aEwud3VZ4xsbVrF8",
+      "name": "Session 6: To the Plains of Death",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 6 · Level 13 · 3–4 hours.</strong> Transition from dream-horror to historical/temporal ruin and reconnect Arc IV to Pax Tharkas/Thorbardin geography.</p>\n<h3>Opening Image</h3>\n<p>The Plains of Dergoth look burned even where nothing has burned this year. On clear days Skullcap resembles a melted black skull against the horizon.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Dwarven guide or scholar</li>\n<li>Plains scavengers</li>\n<li>Battlefield ghosts</li>\n<li>Solamnic/Thorbardin contacts</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Route Planning</h4>\n<p>Choose approach from Palanthas/Wayreth via Solamnia and Pax Tharkas or magical transport to a known point.</p>\n<h4>2. Pax Tharkas Callback</h4>\n<p>If the party saw it in Arc I, show increased military use and war damage. Acquire dwarven maps of Zhaman’s lower works.</p>\n<h4>3. Plains of Death</h4>\n<p>Ghost armies appear at dusk fighting battles separated by centuries.</p>\n<h4>4. Skullcap</h4>\n<p>The ruin changes silhouette as time shifts; sometimes a black spire stands where the melted mound should be.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Zhaman predates Fistandantilus but became one of his great strongholds.</li>\n<li>The old Portal was stored here after the Lost Battles.</li>\n<li>The explosion that killed him left temporal as well as physical damage.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>War State can shift from the Pax Tharkas situation. Fistandantilus Influence +1 if party relies on his old access diagrams.</p>\n<h3>End Beat</h3>\n<p>The entrance opens into a corridor made of crystal that reflects the party arriving tomorrow.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Zhaman is where Fistandantilus failed. Raistlin’s story is becoming a repetition unless the party changes the variables.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.aEwud3VZ4xsbVrF8"
+    },
+    {
+      "_id": "TPMXMc8ofnJ4Rn6q",
+      "name": "Session 7: The Crystal Maze",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 7 · Level 13 · 4 hours.</strong> Use Zhaman’s changing maze to make navigation a temporal problem rather than a sequence of traps.</p>\n<h3>Opening Image</h3>\n<p>Every crystal wall reflects a different route. Some reflections are seconds ahead. Others show the maze intact centuries ago.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Crystal guardians</li>\n<li>Malock war-magic echoes</li>\n<li>Future PC reflections</li>\n<li>Dwarven construction spirits</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Changing Route</h4>\n<p>The true path changes with time. Players can navigate by synchronising observations, slowing/speeding local time, or following a historical map only when its era overlays the present.</p>\n<h4>2. War Laboratories</h4>\n<p>Find magically isolated chambers built to survive mass-destruction research. Some still hold inert battlefield spells.</p>\n<h4>3. Future Selves</h4>\n<p>Each PC sees one future reflection. One version openly serves Raistlin and looks content.</p>\n<h4>4. Portal Route</h4>\n<p>A preserved sign points toward the deepest vault where the Portal once stood.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Malock designed Zhaman for war magic and secrecy.</li>\n<li>Fistandantilus inherited infrastructure built for dangerous experiments.</li>\n<li>Time fractures intensify near the former Portal chamber.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Wayreth Accord +1 for collaborative temporal navigation. Control no shift from using destructive relics responsibly; +1 if party treats mind/time alteration of allies as casual tools.</p>\n<h3>End Beat</h3>\n<p>The maze briefly becomes transparent, revealing the party’s next destination far below.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The maze makes “Past and Present” a physical experience before it becomes Raistlin’s title in action.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.TPMXMc8ofnJ4Rn6q"
+    },
+    {
+      "_id": "BBhaL5q7gpU7GHQY",
+      "name": "Session 8: The Unbroken Hour",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 8 · Level 13 · 4–5 hours.</strong> Discover the temporal-anchor method and its cost.</p>\n<h3>Opening Image</h3>\n<p>A laboratory clock has been ticking the same hour for centuries. Every time the long hand reaches twelve, the room resets except for living memory.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Fistandantilus simulacrum</li>\n<li>Temporal prisoners</li>\n<li>Potential future party versions</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Loop Recognition</h4>\n<p>Players retain memory between loops; objects mostly reset. They must use knowledge rather than accumulation.</p>\n<h4>2. Fistandantilus Experiment</h4>\n<p>A simulacrum demonstrates pulling a soul-trace across time using a living person as anchor.</p>\n<h4>3. The Cost</h4>\n<p>The anchor ages, weakens or loses pieces of self. Fistandantilus’s notes call this “acceptable expenditure.”</p>\n<h4>4. Break the Hour</h4>\n<p>Escape requires creating a voluntary anchor network or refusing to spend one person alone, demonstrating a safer principle.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>A living soul can bridge temporal distance.</li>\n<li>The anchor is not merely a beacon; the process can consume them.</li>\n<li>Fistandantilus treated consent and survival of the anchor as secondary.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Raistlin Control -1 if the party devises a voluntary/shared anchor solution; +1 if they accept expendability as inherent. Fistandantilus Influence +1 automatically.</p>\n<h3>End Beat</h3>\n<p>The reset stops. A book on the central lectern advances from the same blank page for the first time.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Raistlin is Caramon’s obvious anchor. The question shifts from “can he bring Caramon back?” to “what will it cost Raistlin—and what will he accept?”</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.BBhaL5q7gpU7GHQY"
+    },
+    {
+      "_id": "CKw3kKWbwQUMfvFj",
+      "name": "Session 9: The Future Servant",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 9 · Level 13–14 · 4–5 hours.</strong> Confront a possible future PC and recover the Chronicle of the Unbroken Hour.</p>\n<h3>Opening Image</h3>\n<p>A familiar voice greets the party by name. The speaker is one of them, older, scarred, wearing the insignia of Raistlin’s inner circle.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Chronal duplicate of highest-Trust PC</li>\n<li>Fistandantilus simulacrum</li>\n<li>Party</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Conversation First</h4>\n<p>The duplicate is not insane or magically dominated. They believe serving Raistlin created peace and prevented worse outcomes.</p>\n<h4>2. Specific Temptation</h4>\n<p>Use actual choices from Arcs I–III. The duplicate explains which compromises “worked.” Several claims should be demonstrably true.</p>\n<h4>3. Conflict or Release</h4>\n<p>The duplicate cannot coexist indefinitely with the present version. Resolve through battle, temporal reintegration, persuasion or sacrifice.</p>\n<h4>4. The Chronicle</h4>\n<p>Recover the Chronicle of the Unbroken Hour with a workable temporal anchor sequence and marginal notes about “dominion stabilisation.”</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The anchor method is complete enough to use.</li>\n<li>A future of benevolent authoritarian Raistlin is possible, not a trick.</li>\n<li>Fistandantilus’s preferred solution to instability is always control.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 14. Control ±2 based on how the party interprets the duplicate’s argument. Trust unaffected unless the party later lies to Raistlin about the Chronicle.</p>\n<h3>End Beat</h3>\n<p>When Raistlin reads the Chronicle, he asks the White Robe: “If the cost were mine alone, would you object?” Do not answer for the player.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>The question of sacrifice is deliberately harder than domination. A willing Raistlin spending himself for Caramon is morally different from spending someone else.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.CKw3kKWbwQUMfvFj"
+    },
+    {
+      "_id": "RqPstZc9D1iong8X",
+      "name": "Session 10: Blood Sea Passage",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 10 · Level 14 · 3–4 hours.</strong> Make reaching Istar a maritime expedition with its own politics, crew and competing salvagers.</p>\n<h3>Opening Image</h3>\n<p>The Blood Sea does not look like ordinary water. Even veteran sailors lower their voices when discussing where the old city lies.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Captain Jessa Morcant (campaign NPC)</li>\n<li>Salvage guild agent</li>\n<li>Rival expedition survivor</li>\n<li>Dragonarmy naval observer</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Find Passage</h4>\n<p>Secure a captain, magical breathing, salvage rights and route charts. Let high-level magic reduce but not erase the need for local knowledge.</p>\n<h4>2. Rival Wreck</h4>\n<p>Find the wreck of another expedition. Evidence suggests they reached the Tower and returned with something before being attacked.</p>\n<h4>3. Sea Hazard</h4>\n<p>Use supernatural current, storm, sea monster or planar turbulence—not random weather alone.</p>\n<h4>4. Descent</h4>\n<p>The ruins emerge beneath them: broken streets descending into darkness around a shattered Tower footprint.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Someone else recently sought Istarian relics.</li>\n<li>The Tower’s divination chambers may still function intermittently.</li>\n<li>The Bell was stored below a temple/Tower interface rather than in a public treasury.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>War State +1 only if Dragonarmy naval control materially tightens. Trust +1 if the party secures the route for future Wayreth use rather than burning the contact.</p>\n<h3>End Beat</h3>\n<p>The party descends past a stone dome studded with points that gleam like stars underwater.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Istar is the expedition where institutional certainty becomes the antagonist: the dead city thought it could define goodness absolutely.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.RqPstZc9D1iong8X"
+    },
+    {
+      "_id": "9tDVCh638CjHW1Nx",
+      "name": "Session 11: The Chamber of Eyes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 11 · Level 14 · 4 hours.</strong> Use Istar’s divination chamber to locate the Bell and clarify the difference between knowing a true identity and owning it.</p>\n<h3>Opening Image</h3>\n<p>Inside the sealed chamber the water vanishes from the air. A domed ceiling shows fixed diamond stars, and a silver basin stands in the centre filled with perfectly still water.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Istarian diviner echoes</li>\n<li>Guardian statues</li>\n<li>Rival expedition trace</li>\n<li>Party</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Restore the Chamber</h4>\n<p>Align the star dome and basin to the era in which the Bell was hidden.</p>\n<h4>2. Three Visions</h4>\n<p>The basin offers past, present and future. Each answer is useful but viewing one closes another until the next moon phase; force a choice.</p>\n<h4>3. True Name Principle</h4>\n<p>A record explains that a soul’s true name identifies a person to creation; it is a means of calling, not a command phrase.</p>\n<h4>4. Locate the Bell</h4>\n<p>The basin shows the drowned temple and a chamber built to resist divine intrusion.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>Divination can identify a soul across extraordinary distance.</li>\n<li>True naming is recognition, not ownership.</li>\n<li>The Bell’s original design preserved refusal.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>White Robe Bond +1 if the PC articulates the distinction between knowledge and authority. Fistandantilus Influence +1 if party chooses the vision that most directly serves the ritual at obvious human cost.</p>\n<h3>End Beat</h3>\n<p>The silver basin shows Caramon’s face for one heartbeat when no one asks it to.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Caramon is beginning to become reachable enough to appear in tools not designed for him. Hope accelerates.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.9tDVCh638CjHW1Nx"
+    },
+    {
+      "_id": "nYrfeppfpRrVgSQg",
+      "name": "Session 12: The Drowned Temple",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 12 · Level 14 · 4–5 hours.</strong> Force the party to experience a soul-call where refusal is a successful outcome.</p>\n<h3>Opening Image</h3>\n<p>The temple bells are silent underwater, but the party hears one note inside their bones when they cross the threshold.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Istarian priest echoes</li>\n<li>Called dead soul</li>\n<li>Divine/arcane guardians</li>\n<li>Rival salvager remnant</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Temple History</h4>\n<p>Learn the Bell was created at a time when arcane and divine authorities both feared false resurrection.</p>\n<h4>2. Test Call</h4>\n<p>To open the vault the party must call a named dead guardian. The soul may refuse. The correct ritual accepts refusal and opens another path.</p>\n<h4>3. Dominion Alternative</h4>\n<p>Fistandantilus’s marginal spell is present and would force the guardian back immediately. It is easier.</p>\n<h4>4. Vault Trial</h4>\n<p>The chamber tests whether the party recognises that “no” is a valid magical response rather than a failed casting.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>A complete person includes the capacity to refuse return.</li>\n<li>Fistandantilus deliberately removed that capacity.</li>\n<li>Dominion is not required for resurrection—it is a modification.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Control -2 for accepting refusal and finding another route; +2 for using Dominion when the invitation method was viable. White Robe Bond may move ±1 based on reasoning.</p>\n<h3>End Beat</h3>\n<p>The vault opens. The Bell of True Names hangs within, small enough to carry, old enough to predate the Cataclysm.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>This session establishes the campaign’s central consent principle through play, not lecture.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.nYrfeppfpRrVgSQg"
+    },
+    {
+      "_id": "sR6zB6CFJn34XnuA",
+      "name": "Session 13: The Bell of True Names",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\"><strong>Session 13 · Level 15 · 4–5 hours.</strong> Recover the third component and make the party deliver the invitation-versus-dominion choice to Raistlin personally.</p>\n<h3>Opening Image</h3>\n<p>The Bell does not sound when struck by force. It sounds when someone speaks a true name with the intent to call rather than command.</p>\n<h3>People in Play</h3>\n<ul>\n<li>Party</li>\n<li>Bell guardian</li>\n<li>Raistlin on return</li>\n<li>White Robe PC</li>\n</ul>\n<h3>Session Sequence</h3>\n<h4>1. Claim the Bell</h4>\n<p>A final guardian asks each PC to state something they would permit a lost loved one to refuse. Answers can be private or spoken.</p>\n<h4>2. Escape Istar</h4>\n<p>The rival expedition or Dragonarmy naval force attempts interception; use the route/contact choices from Session 10.</p>\n<h4>3. Return to Palanthas</h4>\n<p>Place all three components together. The laboratory responds; the Portal remains closed.</p>\n<h4>4. Tell Raistlin</h4>\n<p>The party must explain both versions: Invitation and Dominion. Do not have another NPC do this for them.</p>\n<h4>5. His Response</h4>\n<p>Raistlin asks technical questions first. Only afterward does he ask: “And if he refuses?” Let the table sit with the question.</p>\n<h3>What Can Be Learned</h3>\n<ul>\n<li>The complete Long Return can reach someone dead beyond normal resurrection limits.</li>\n<li>Caramon is the intended subject and Raistlin is the living emotional anchor.</li>\n<li>Dominion is optional—and therefore choosing it is a moral act, not a technical necessity.</li>\n</ul>\n<h3>Tracker Guidance</h3>\n<p>Level 15. This scene may move White Robe Bond and Raistlin Control by up to 3 each depending on how the party presents the choice and how they answer his question. Trust +1 for complete honesty, even if their recommendation opposes him.</p>\n<h3>End Beat</h3>\n<p>Raistlin covers the Bell with black cloth. Outside, warning bells begin sounding in Palanthas: Dragonarmy movement has shifted west. Arc V begins.</p>\n<section class=\"secret\"><h3>Narrative Thread</h3><p>Arc IV ends with the party holding proof that Raistlin can succeed. From here the war creates pressure to use the same techniques on more than Caramon.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!2AnjwvPwxRE6hNqU.sR6zB6CFJn34XnuA"
+    }
+  ],
+  "folder": null,
+  "sort": 700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!2AnjwvPwxRE6hNqU"
+}

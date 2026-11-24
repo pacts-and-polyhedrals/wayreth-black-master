@@ -1,13 +1,6 @@
 {
   "_id": "Kh3iDQuy9xn3PuFI",
   "name": "The Forest and Tower of Wayreth",
-  "folder": null,
-  "sort": 400000,
-  "ownership": {
-    "default": 2
-  },
-  "flags": {},
-  "_key": "!journal!Kh3iDQuy9xn3PuFI",
   "pages": [
     {
       "_id": "HARuWdnOJerIw1iG",
@@ -33,6 +26,7 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.HARuWdnOJerIw1iG"
     },
     {
@@ -59,6 +53,7 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.jQyJ6k2yqaA14iJs"
     },
     {
@@ -85,6 +80,7 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.JchJLe1HcPn792cV"
     },
     {
@@ -111,7 +107,62 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.AbefeVDTNbBY7P8f"
+    },
+    {
+      "_id": "9pD2RKjkcOcSvZsf",
+      "name": "Daily Life Behind the Wards",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">Wayreth is a wonder of the world occupied by people who still need clean linen, lamp oil, quiet places to quarrel, and someone willing to repair the roof after an apprentice animates the rain.</p>\n<h3>The Household</h3>\n<p>Roughly sixty people reside in the Tower during ordinary months: twenty-five robed wizards, twelve apprentices, eight librarians and copyists, six kitchen and household staff, three wardens, two healers, and several guests whose departure dates have become theoretical. The Tower creates space but not labor. Residents serve rotations regardless of rank, though senior Black Robes have developed astonishing interpretations of what counts as pantry duty.</p>\n<h3>A Typical Day</h3>\n<ul>\n<li><strong>Dawn:</strong> moon observations are entered into the common ledger; overnight experiments are inspected; apprentices eat before their mentors.</li>\n<li><strong>Morning:</strong> instruction, correspondence, library work, and public audiences. Undeclared casting is forbidden in shared rooms.</li>\n<li><strong>Midday:</strong> the refectory meal is the only gathering not organized by robe. Seating by Order is considered embarrassingly provincial.</li>\n<li><strong>Afternoon:</strong> laboratories open, petitioners are received, and supervised candidates practice in the warded yard.</li>\n<li><strong>Moonrise:</strong> each Order holds observance privately. Red Robes welcome guests; White Robes sometimes do; Black Robes deny an observance occurred.</li>\n<li><strong>Night:</strong> the libraries remain open. Corridors rearrange to shorten the route for anyone carrying too many books.</li>\n</ul>\n<h3>Customs Visitors Learn Late</h3>\n<p>Never ask what happened in another wizard's Test. Never touch a robe hanging without its owner. Leave a laboratory door exactly as found. A book placed spine-inward is under dispute and may not be cited. When all conversation stops in the refectory, the Master has entered even if nobody can see him.</p>\n<h3>Rumors in Residence</h3>\n<table class=\"wy-table\"><thead><tr><th>d6</th><th>Rumor</th><th>Truth</th></tr></thead><tbody>\n<tr><td>1</td><td>The west stair adds a step for every lie told upon it.</td><td>False, but three apprentices are counting.</td></tr>\n<tr><td>2</td><td>Raistlin dismissed his own reflection from the mirrors.</td><td>Mirrors show him; one particular mirror refuses.</td></tr>\n<tr><td>3</td><td>A sealed room contains a living dragon egg.</td><td>True, and it has begun dreaming.</td></tr>\n<tr><td>4</td><td>Justarius cheats at stones.</td><td>True, openly, and nobody knows how.</td></tr>\n<tr><td>5</td><td>The forest attends Conclave meetings.</td><td>Not as a person.</td></tr>\n<tr><td>6</td><td>Someone has been removing names from the guest ledger.</td><td>True. The removed guests have not left.</td></tr>\n</tbody></table>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.9pD2RKjkcOcSvZsf"
+    },
+    {
+      "_id": "bzLBfWmw9NZwmjDq",
+      "name": "Gazetteer of the Inner Tower",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">Use these rooms as destinations, discoveries, or the scene the Tower chooses when a corridor needs to end somewhere inconvenient.</p>\n<table class=\"wy-table\"><thead><tr><th>Place</th><th>Appearance</th><th>Use in play</th></tr></thead><tbody>\n<tr><td><strong>Hall of Mages</strong></td><td>Twenty-one colored seats and the Master's low dais.</td><td>Votes, trials, formal accusations, and silences with witnesses.</td></tr>\n<tr><td><strong>Moon Court</strong></td><td>An open court whose sky remains visible through every weather.</td><td>Sanction rites; the stones mark all three lunar paths.</td></tr>\n<tr><td><strong>Scriptorium</strong></td><td>Long desks, blue lamps, dry air, no shadows.</td><td>Research scenes; a copied error points to deliberate falsification.</td></tr>\n<tr><td><strong>Hall of Apprentices</strong></td><td>Small rooms around a warm common chamber.</td><td>Gossip, rivalry, missing student, or an invitation delivered at midnight.</td></tr>\n<tr><td><strong>Refectory</strong></td><td>Plain oak tables and excellent bread.</td><td>Neutral social ground where enemies must share salt.</td></tr>\n<tr><td><strong>Infirmary</strong></td><td>White tile, herb cabinets, three beds behind black curtains.</td><td>Marks from failed magic; evidence of Raistlin's private treatments.</td></tr>\n<tr><td><strong>Chamber of Seeing</strong></td><td>Black basin beneath a ceiling of moving stars.</td><td>Scrying that reveals what matters instead of what was requested.</td></tr>\n<tr><td><strong>Room of Measures</strong></td><td>Scales, rods, clocks, sealed weights.</td><td>Identify unstable magic; discover an item growing heavier each night.</td></tr>\n<tr><td><strong>Names Gallery</strong></td><td>Stone panels bearing every tested wizard.</td><td>A name has appeared years before its owner is born.</td></tr>\n<tr><td><strong>Hall of Doors</strong></td><td>Twelve freestanding doors in a circular room.</td><td>Controlled transit; one opens onto a fallen Tower for seven breaths.</td></tr>\n<tr><td><strong>Quiet Crypt</strong></td><td>Memorial niches without bodies.</td><td>Speak with an archive-echo; learn which histories were edited.</td></tr>\n<tr><td><strong>Deep Catalogue</strong></td><td>Iron lecterns above a shaft descending beyond sight.</td><td>Vault index; removing a card causes the indexed object to stir.</td></tr>\n</tbody></table>\n<h3>Mutable Geography</h3>\n<p>Do not map every corridor. Give each important room a fixed relationship to two others and let the Tower control the rest. The refectory is always below the libraries. The Hall of Mages is always reached from the gate. The vaults are always down. Everything else may move when doing so reveals preference, protects a secret, or forces two people into the same scene.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.bzLBfWmw9NZwmjDq"
     },
     {
       "_id": "YyrsJH4cyn3RUiQz",
@@ -132,12 +183,48 @@
       },
       "src": null,
       "system": {},
-      "sort": 500000,
+      "sort": 700000,
       "ownership": {
         "default": -1
       },
       "flags": {},
+      "_stats": {},
       "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.YyrsJH4cyn3RUiQz"
+    },
+    {
+      "_id": "mLCFdjAiO5SUUtod",
+      "name": "Defenses of the Last Tower",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n\n<p class=\"wy-lead\">Wayreth's defenses were designed by people who expected armies, dragons, hostile archmages, and their own successors. They do not begin with damage.</p>\n<h3>Layers of Refusal</h3>\n<ol>\n<li><strong>Distance.</strong> The forest prevents hostile forces from finding the clearing. An army may march for weeks and emerge behind its own supply train.</li>\n<li><strong>Intention.</strong> The clearing lengthens under anyone preparing violence. Charges fail because the gate recedes at walking pace.</li>\n<li><strong>Disarmament.</strong> Weapons become burdens; siege engines forget their tension; fire burns fuel without spreading.</li>\n<li><strong>Division.</strong> Intruders are routed into separate corridors tailored to their purpose. Commanders lose messengers before soldiers lose lives.</li>\n<li><strong>Containment.</strong> Rooms seal, magic is grounded into foundation stones, and the Tower waits for surrender.</li>\n<li><strong>Judgment.</strong> Only when the earlier layers fail do the guardian manifestations appear.</li>\n</ol>\n<h3>Emergency States</h3>\n<table class=\"wy-table\"><thead><tr><th>State</th><th>Trigger</th><th>Effect</th></tr></thead><tbody>\n<tr><td>Silver</td><td>Unidentified magic crosses the forest.</td><td>Residents are notified; guest routes narrow; scrying turns outward.</td></tr>\n<tr><td>Red</td><td>A ward is attacked or a forbidden gate opens.</td><td>Apprentices shelter; laboratories seal; the three Heads assemble.</td></tr>\n<tr><td>Black</td><td>The Tower's continuity is threatened.</td><td>Vaults descend, libraries partition into demiplanes, and the forest moves the entire clearing.</td></tr>\n</tbody></table>\n<h3>Guardian Manifestations</h3>\n<p>The Tower prefers forms drawn from an intruder's understanding: an armored examiner, a dead mentor, a dragon made of script, or the intruder at the end of the path they have chosen. Use an appropriate CR 10&ndash;15 creature, change its damage to force or psychic, grant truesight 60 feet, and let it move through the Tower's stone. When reduced to 0 hit points it discorporates and reforms at the next moonrise.</p>\n<section class=\"secret\"><h3>DM Note &mdash; The Unthinkable Assault</h3><p>The Dragonarmy cannot storm Wayreth by numbers. It can threaten the Tower only with corrupted dragon eggs, a captured invitation, an insider who sincerely believes opening the gate will preserve magic, or a weapon aimed at the forest's purpose rather than its trees. Build any assault around a moral breach. The walls are the least interesting thing to overcome.</p></section>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!Kh3iDQuy9xn3PuFI.mLCFdjAiO5SUUtod"
     }
-  ]
+  ],
+  "folder": null,
+  "sort": 1300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!Kh3iDQuy9xn3PuFI"
 }

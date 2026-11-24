@@ -1,0 +1,22 @@
+{
+  "name": "wayreth-black-master",
+  "version": "1.34.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate-spells.mjs",
+    "validate:content": "node scripts/validate-content.mjs",
+    "validate:all": "node scripts/validate-spells.mjs && node scripts/validate-content.mjs && node scripts/validate-cards.mjs && node scripts/build-spell-catalogue.mjs --check && node scripts/validate-scenes.mjs && node scripts/check-release.mjs --offline",
+    "validate:cards": "node scripts/validate-cards.mjs",
+    "check:release": "node scripts/check-release.mjs",
+    "build:creatures": "node scripts/build-creatures.mjs",
+    "build:gallery": "node scripts/build-bestiary-gallery.mjs",
+    "build:catalogue": "node scripts/build-spell-catalogue.mjs",
+    "build:scenes": "node scripts/build-scenes.mjs",
+    "validate:scenes": "node scripts/validate-scenes.mjs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.4"
+  }
+}

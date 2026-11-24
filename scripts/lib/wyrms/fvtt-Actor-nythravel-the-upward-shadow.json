@@ -1,0 +1,3069 @@
+{
+  "name": "Nythravel, the Upward Shadow",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "abilities": {
+      "str": {
+        "value": 30,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "dex": {
+        "value": 14,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "con": {
+        "value": 29,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "int": {
+        "value": 24,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "wis": {
+        "value": 22,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "cha": {
+        "value": 27,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      }
+    },
+    "bonuses": {
+      "mwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "msak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rsak": {
+        "attack": "",
+        "damage": ""
+      },
+      "abilities": {
+        "check": "",
+        "save": "",
+        "skill": ""
+      },
+      "spell": {
+        "dc": ""
+      }
+    },
+    "skills": {
+      "acr": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ani": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "arc": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ath": {
+        "ability": "str",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "dec": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "his": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ins": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "itm": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "inv": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "med": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "nat": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "prc": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 2,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "prf": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "per": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "rel": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "slt": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ste": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "sur": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      }
+    },
+    "tools": {},
+    "spells": {
+      "spell1": {
+        "value": 0
+      },
+      "spell2": {
+        "value": 0
+      },
+      "spell3": {
+        "value": 0
+      },
+      "spell4": {
+        "value": 0
+      },
+      "spell5": {
+        "value": 0
+      },
+      "spell6": {
+        "value": 0
+      },
+      "spell7": {
+        "value": 0
+      },
+      "spell8": {
+        "value": 0
+      },
+      "spell9": {
+        "value": 0
+      },
+      "pact": {
+        "value": 0
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 23,
+        "calc": "natural",
+        "formula": ""
+      },
+      "init": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonus": "2 * @prof"
+      },
+      "movement": {
+        "units": "ft",
+        "hover": false,
+        "ignoredDifficultTerrain": [],
+        "walk": "50",
+        "burrow": null,
+        "fly": "100",
+        "climb": "40",
+        "swim": null
+      },
+      "attunement": {
+        "max": 3
+      },
+      "senses": {
+        "ranges": {
+          "darkvision": 180,
+          "blindsight": 90,
+          "tremorsense": 0,
+          "truesight": 60
+        },
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "cha",
+      "exhaustion": 0,
+      "concentration": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonuses": {
+          "save": ""
+        },
+        "limit": 1
+      },
+      "loyalty": {},
+      "hd": {
+        "spent": 0
+      },
+      "hp": {
+        "value": 585,
+        "max": 585,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": "30d20 + 270"
+      },
+      "death": {
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "success": 0,
+        "failure": 0,
+        "bonuses": {
+          "save": ""
+        }
+      },
+      "price": {
+        "value": null,
+        "denomination": "gp"
+      },
+      "spell": {
+        "level": 0
+      }
+    },
+    "details": {
+      "biography": {
+        "value": "<h2>Nythravel, the Upward Shadow</h2><p><strong>Species:</strong> Shadowsky Spirewyrm<br><strong>Abyssal Origin:</strong> Layer 46 of Azzagrat — Shadowsky<br><strong>Palanthas Anchor:</strong> the Tower of High Sorcery, Shoikan Grove, and the city's magical geometry.</p><p>Shadowsky is illuminated from below and throws darkness upward into the heavens. Nythravel embodies that inversion. Its own shadow rises independently of its flesh, and in its wake doors, towers, and roads cease to agree on direction.</p>",
+        "public": "A colossal Abyssal dragon surrounded by upward-falling shadows and impossible light."
+      },
+      "alignment": "Chaotic Evil",
+      "ideal": "",
+      "bond": "",
+      "flaw": "",
+      "race": null,
+      "type": {
+        "value": "dragon",
+        "subtype": "Demon, Abyssal Wyrm"
+      },
+      "habitat": {
+        "value": [
+          {
+            "type": "coastal"
+          },
+          {
+            "type": "desert"
+          }
+        ],
+        "custom": ""
+      },
+      "cr": 26,
+      "treasure": {
+        "value": [
+          "relics"
+        ]
+      }
+    },
+    "resources": {
+      "legact": {
+        "max": 4,
+        "spent": 0
+      },
+      "legres": {
+        "max": 5,
+        "spent": 0
+      },
+      "lair": {
+        "value": true,
+        "initiative": 20,
+        "inside": true
+      }
+    },
+    "source": {
+      "book": "Wayreth: The Black Master",
+      "page": "",
+      "custom": "Abyssal Wyrms — Layer 46 — Shadowsky",
+      "license": "Private campaign material. Not for distribution.",
+      "rules": "2024",
+      "revision": 1
+    },
+    "traits": {
+      "size": "grg",
+      "di": {
+        "value": [
+          "necrotic",
+          "poison"
+        ],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [
+          "cold",
+          "fire",
+          "lightning",
+          "radiant"
+        ],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dm": {
+        "amount": {},
+        "bypasses": []
+      },
+      "ci": {
+        "value": [
+          "charmed",
+          "frightened",
+          "poisoned"
+        ],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "abyssal",
+          "common",
+          "draconic"
+        ],
+        "custom": "Telepathy 120 ft.",
+        "communication": {}
+      },
+      "important": false
+    }
+  },
+  "prototypeToken": {
+    "name": "Nythravel, the Upward Shadow",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 6,
+    "height": 6,
+    "depth": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": "resources.legact"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 180,
+      "angle": 360,
+      "visionMode": "darkvision",
+      "attenuation": 0,
+      "brightness": 0,
+      "saturation": -1,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": {
+      "blindsight": {
+        "range": 90,
+        "enabled": true
+      }
+    },
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "_id": "1b69222b68d85912",
+      "name": "Multiattack",
+      "type": "feat",
+      "system": {
+        "activities": {
+          "6a730675667f": {
+            "type": "utility",
+            "_id": "6a730675667f",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>The wyrm makes three [[/item Rend]] attacks. It can replace one attack with [[/item Shadow Pin]].</p></div>",
+          "chat": ""
+        },
+        "identifier": "multiattack",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "img": "icons/skills/melee/strike-weapons-orange.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "a6305044cf1c4f51",
+      "name": "Rend",
+      "type": "weapon",
+      "system": {
+        "activities": {
+          "62f78e988dc9": {
+            "type": "attack",
+            "_id": "62f78e988dc9",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "1",
+                "type": "creature",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "attack": {
+              "ability": "str",
+              "bonus": "",
+              "critical": {},
+              "flat": false,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "critical": {},
+              "includeBase": true,
+              "parts": [
+                {
+                  "number": 2,
+                  "denomination": 10,
+                  "bonus": "",
+                  "types": [
+                    "necrotic"
+                  ],
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "scaling": {
+                    "mode": "",
+                    "number": null,
+                    "formula": ""
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "description": {
+          "value": "<div class=\"ddb\"><p>[[/attack extended]]. <em>Hit:</em> [[/damage 3d10 + @abilities.str.mod type=slashing average=true]] plus [[/damage 2d10 type=necrotic average=true]] damage.</p></div>",
+          "chat": ""
+        },
+        "identifier": "rend",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": true,
+        "crew": {
+          "value": []
+        },
+        "ammunition": {},
+        "armor": {},
+        "damage": {
+          "base": {
+            "number": 3,
+            "denomination": 10,
+            "bonus": "",
+            "types": [
+              "slashing"
+            ],
+            "custom": {
+              "enabled": false,
+              "formula": ""
+            },
+            "scaling": {
+              "mode": "",
+              "number": null,
+              "formula": ""
+            }
+          },
+          "versatile": {
+            "types": [],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            }
+          }
+        },
+        "properties": [
+          "rch"
+        ],
+        "proficient": 1,
+        "range": {
+          "value": null,
+          "long": null,
+          "units": "ft",
+          "reach": 20
+        },
+        "type": {
+          "value": "natural",
+          "baseItem": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1,
+      "img": "icons/skills/melee/blood-slash-foam-red.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "b337e393efdec418",
+      "name": "Breath of the Ascending Dark",
+      "type": "feat",
+      "system": {
+        "activities": {
+          "a4db1c167f96": {
+            "type": "save",
+            "_id": "a4db1c167f96",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [
+                {
+                  "type": "itemUses",
+                  "target": "",
+                  "value": "1",
+                  "scaling": {
+                    "mode": "",
+                    "formula": ""
+                  }
+                }
+              ],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "line",
+                "size": "150",
+                "width": "15",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "creature",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "damage": {
+              "onSave": "half",
+              "parts": [
+                {
+                  "number": 9,
+                  "denomination": 10,
+                  "bonus": "",
+                  "types": [
+                    "radiant"
+                  ],
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "scaling": {
+                    "mode": "",
+                    "number": null,
+                    "formula": ""
+                  }
+                },
+                {
+                  "number": 9,
+                  "denomination": 10,
+                  "bonus": "",
+                  "types": [
+                    "necrotic"
+                  ],
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "scaling": {
+                    "mode": "",
+                    "number": null,
+                    "formula": ""
+                  }
+                }
+              ]
+            },
+            "save": {
+              "ability": [
+                "dex"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "25"
+              }
+            }
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "max": "1",
+          "recovery": [
+            {
+              "period": "recharge",
+              "formula": "5",
+              "type": "recoverAll"
+            }
+          ]
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p><em>Dexterity Saving Throw:</em> [[/save dex 25 format=long]], each creature in a 150-foot-long, 15-foot-wide Line. <em>Failure:</em> [[/damage 9d10 type=radiant average=true]] plus [[/damage 9d10 type=necrotic average=true]] damage, and the creature gains the Restrained condition until the end of its next turn. <em>Success:</em> Half damage and no Restrained condition.</p></div>",
+          "chat": ""
+        },
+        "identifier": "breath-of-the-ascending-dark",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 2,
+      "img": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3e0722ad6b8f4abb",
+      "name": "Shadow Pin",
+      "type": "feat",
+      "system": {
+        "activities": {
+          "9f71740c0159": {
+            "type": "save",
+            "_id": "9f71740c0159",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "creature",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "damage": {
+              "onSave": "half",
+              "parts": [
+                {
+                  "number": 6,
+                  "denomination": 10,
+                  "bonus": "",
+                  "types": [
+                    "necrotic"
+                  ],
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "scaling": {
+                    "mode": "",
+                    "number": null,
+                    "formula": ""
+                  }
+                }
+              ]
+            },
+            "save": {
+              "ability": [
+                "dex"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "24"
+              }
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>One creature within 120 feet makes a [[/save dex 24 format=long]]. <em>Failure:</em> [[/damage 6d10 type=necrotic average=true]] damage and the creature is Restrained by its own upward-projecting shadow until the beginning of the wyrm's next turn. <em>Success:</em> Half damage only.</p></div>",
+          "chat": ""
+        },
+        "identifier": "shadow-pin",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 3,
+      "img": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ebf423e252464b13",
+      "name": "Climb the Shadow",
+      "type": "feat",
+      "system": {
+        "activities": {
+          "feceb509a979": {
+            "type": "utility",
+            "_id": "feceb509a979",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "bonus",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>The wyrm teleports up to 90 feet to an unoccupied space it can see adjacent to a shadow, magical light source, or illuminated floor.</p></div>",
+          "chat": ""
+        },
+        "identifier": "climb-the-shadow",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 4,
+      "img": "icons/magic/movement/trail-streak-zigzag-yellow.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "05c74fd0a709f4e7",
+      "name": "Reverse Silhouette",
+      "type": "feat",
+      "system": {
+        "activities": {
+          "326bf3ada26c": {
+            "type": "utility",
+            "_id": "326bf3ada26c",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "reaction",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p><strong>Trigger:</strong> The wyrm takes damage from an attack. The wyrm reduces that damage by [[/damage 4d10 + 8 average=true]], then may teleport up to 30 feet to an unoccupied space it can see.</p></div>",
+          "chat": ""
+        },
+        "identifier": "reverse-silhouette",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 5,
+      "img": "icons/magic/defensive/shield-barrier-flaming-diamond-blue.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0c058f372822ab47",
+      "name": "Colossal Frame",
+      "type": "feat",
+      "system": {
+        "activities": {
+          "e48f9f87890e": {
+            "type": "save",
+            "_id": "e48f9f87890e",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "special",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "creature",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "damage": {
+              "onSave": "none",
+              "parts": [
+                {
+                  "number": 4,
+                  "denomination": 10,
+                  "bonus": "",
+                  "types": [
+                    "bludgeoning"
+                  ],
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "scaling": {
+                    "mode": "",
+                    "number": null,
+                    "formula": ""
+                  }
+                }
+              ]
+            },
+            "save": {
+              "ability": [
+                "dex"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "25"
+              }
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>The wyrm can move through the spaces of Huge or smaller creatures; those spaces are difficult terrain. The first time on a turn it enters another creature's space, that creature must succeed on a DC 25 Dexterity saving throw or take [[/damage 4d10 type=bludgeoning average=true]] damage, be pushed to the nearest unoccupied space, and have the Prone condition. A creature can take this damage only once per turn.</p></div>",
+          "chat": ""
+        },
+        "identifier": "colossal-frame",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 6,
+      "img": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8f8c2fa6c86a5815",
+      "name": "Magic Resistance",
+      "type": "feat",
+      "system": {
+        "activities": {},
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>The wyrm has Advantage on saving throws against spells and other magical effects.</p></div>",
+          "chat": ""
+        },
+        "identifier": "magic-resistance",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 7,
+      "img": "icons/magic/defensive/shield-barrier-blue.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9ce8a8f2589fd9a1",
+      "name": "Triune Anchor",
+      "type": "feat",
+      "system": {
+        "activities": {},
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>While within Abyssal Palanthas, the wyrm is considered to be inside its lair. Its death permanently damages the planar correspondence between its native layer of Azzagrat and the mortal city of Palanthas. Nythravel anchors Shadowsky to the Tower of High Sorcery and the impossible geometry of Shoikan Grove.</p></div>",
+          "chat": ""
+        },
+        "identifier": "triune-anchor",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 8,
+      "img": "icons/magic/symbols/runes-star-magenta.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "676dc504a232e9f4",
+      "name": "Inverted Illumination",
+      "type": "feat",
+      "system": {
+        "activities": {},
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>Magical and nonmagical Darkness does not impede the wyrm's vision. It can see Invisible creatures within its Truesight if those creatures cast a shadow. Its own shadow always projects vertically upward regardless of the direction of light.</p></div>",
+          "chat": ""
+        },
+        "identifier": "inverted-illumination",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 9,
+      "img": "icons/magic/light/explosion-star-glow-silhouette.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "6fa154eeb942b30c",
+      "name": "Legendary Resistance (4/Day, or 5/Day in Lair)",
+      "type": "feat",
+      "system": {
+        "activities": {},
+        "uses": {
+          "spent": 0,
+          "max": "5",
+          "recovery": [
+            {
+              "period": "day",
+              "type": "recoverAll"
+            }
+          ]
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>If the wyrm fails a saving throw, it can choose to succeed instead. In its lair it has 5 uses; outside its lair reduce the maximum to 4.</p></div>",
+          "chat": ""
+        },
+        "identifier": "legendary-resistance-4-day-or-5-day-in-lair",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 10,
+      "img": "icons/equipment/shield/kite-wooden-oak-glow.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d58939cd27aaac66",
+      "name": "Legendary Actions",
+      "type": "feat",
+      "system": {
+        "activities": {},
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p class=\"legendary-actions\">Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the wyrm can expend a use to take one of the following actions. It regains all expended uses at the start of each of its turns.</p><p><strong><em>Shadow Rend.</em></strong> The wyrm makes one Rend attack.</p><p><strong><em>Ascend.</em></strong> The wyrm uses Climb the Shadow.</p><p><strong><em>Pillar of Night.</em></strong> A vertical column of opposing radiance and necrotic shadow erupts.</p></div>",
+          "chat": ""
+        },
+        "identifier": "legendary-actions",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 11,
+      "img": "icons/skills/targeting/target-strike-triple-blue.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "08f2b186d8000fb0",
+      "name": "Shadow Rend",
+      "type": "weapon",
+      "system": {
+        "activities": {
+          "120c6b569947": {
+            "type": "attack",
+            "_id": "120c6b569947",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "legendary",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [
+                {
+                  "type": "attribute",
+                  "target": "resources.legact.value",
+                  "value": "1",
+                  "scaling": {
+                    "mode": "",
+                    "formula": ""
+                  }
+                }
+              ],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "1",
+                "type": "creature",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "attack": {
+              "ability": "str",
+              "bonus": "",
+              "critical": {},
+              "flat": false,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "critical": {},
+              "includeBase": true,
+              "parts": [
+                {
+                  "number": 2,
+                  "denomination": 10,
+                  "bonus": "",
+                  "types": [
+                    "necrotic"
+                  ],
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "scaling": {
+                    "mode": "",
+                    "number": null,
+                    "formula": ""
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "description": {
+          "value": "<div class=\"ddb\"><p>[[/attack extended]]. <em>Hit:</em> [[/damage 3d10 + @abilities.str.mod type=slashing average=true]] plus [[/damage 2d10 type=necrotic average=true]] damage. This Legendary Action costs 1 use.</p></div>",
+          "chat": ""
+        },
+        "identifier": "shadow-rend",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": true,
+        "crew": {
+          "value": []
+        },
+        "ammunition": {},
+        "armor": {},
+        "damage": {
+          "base": {
+            "number": 3,
+            "denomination": 10,
+            "bonus": "",
+            "types": [
+              "slashing"
+            ],
+            "custom": {
+              "enabled": false,
+              "formula": ""
+            },
+            "scaling": {
+              "mode": "",
+              "number": null,
+              "formula": ""
+            }
+          },
+          "versatile": {
+            "types": [],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            }
+          }
+        },
+        "properties": [
+          "rch"
+        ],
+        "proficient": 1,
+        "range": {
+          "value": null,
+          "long": null,
+          "units": "ft",
+          "reach": 20
+        },
+        "type": {
+          "value": "natural",
+          "baseItem": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 12,
+      "img": "icons/skills/melee/blood-slash-foam-red.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "6d5f55a80f2a393a",
+      "name": "Ascend",
+      "type": "feat",
+      "system": {
+        "activities": {
+          "caad59a6c2ae": {
+            "type": "utility",
+            "_id": "caad59a6c2ae",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "legendary",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [
+                {
+                  "type": "attribute",
+                  "target": "resources.legact.value",
+                  "value": "1",
+                  "scaling": {
+                    "mode": "",
+                    "formula": ""
+                  }
+                }
+              ],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>The wyrm uses [[/item Climb the Shadow]].</p></div>",
+          "chat": ""
+        },
+        "identifier": "ascend",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 13,
+      "img": "icons/magic/movement/trail-streak-zigzag-yellow.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "98ea2e74eebb2542",
+      "name": "Pillar of Night",
+      "type": "feat",
+      "system": {
+        "activities": {
+          "acf2d16deb9a": {
+            "type": "save",
+            "_id": "acf2d16deb9a",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "legendary",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [
+                {
+                  "type": "attribute",
+                  "target": "resources.legact.value",
+                  "value": "2",
+                  "scaling": {
+                    "mode": "",
+                    "formula": ""
+                  }
+                }
+              ],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "radius",
+                "size": "15",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "creature",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "damage": {
+              "onSave": "half",
+              "parts": [
+                {
+                  "number": 4,
+                  "denomination": 10,
+                  "bonus": "",
+                  "types": [
+                    "radiant"
+                  ],
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "scaling": {
+                    "mode": "",
+                    "number": null,
+                    "formula": ""
+                  }
+                },
+                {
+                  "number": 4,
+                  "denomination": 10,
+                  "bonus": "",
+                  "types": [
+                    "necrotic"
+                  ],
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "scaling": {
+                    "mode": "",
+                    "number": null,
+                    "formula": ""
+                  }
+                }
+              ]
+            },
+            "save": {
+              "ability": [
+                "dex"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "24"
+              }
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>Choose a point within 120 feet. A 15-foot-radius, 60-foot-high column erupts. Creatures in it make a [[/save dex 24 format=long]], taking [[/damage 4d10 type=radiant average=true]] plus [[/damage 4d10 type=necrotic average=true]] damage on a failure, or half as much on a success.</p></div>",
+          "chat": ""
+        },
+        "identifier": "pillar-of-night",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 14,
+      "img": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "863999591d127c42",
+      "name": "Lair Actions",
+      "type": "feat",
+      "system": {
+        "activities": {},
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>On initiative count 20 (losing initiative ties), the wyrm can use one lair action; it cannot use the same lair action two rounds in a row unless the GM chooses otherwise for a mythic scene.</p><p><strong><em>Ground-Sun Flare.</em></strong> A 30-foot-radius area explodes with light from beneath. Creatures there make a [[/save con 24 format=long]], taking [[/damage 4d10 type=radiant average=true]] damage and gaining the Blinded condition until the end of their next turn on a failure, or half damage without Blinded on a success.</p><p><strong><em>Ascending Shadows.</em></strong> Choose up to three creatures whose shadows are visible. Each makes a [[/save dex 24 format=long]] or gains the Restrained condition until initiative count 20 of the next round.</p><p><strong><em>Impossible Doorway.</em></strong> Choose two visible creatures within 120 feet. Each unwilling creature may make a [[/save cha 24 format=long]]. If neither unwilling creature succeeds, the two creatures exchange positions.</p></div>",
+          "chat": ""
+        },
+        "identifier": "lair-actions",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 15,
+      "img": "icons/environment/wilderness/cave-entrance-mountain-blue.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "94d250926ca73c30",
+      "name": "Ground-Sun Flare",
+      "type": "feat",
+      "system": {
+        "activities": {
+          "ce034f7439fc": {
+            "type": "save",
+            "_id": "ce034f7439fc",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "lair",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "radius",
+                "size": "30",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "creature",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "damage": {
+              "onSave": "half",
+              "parts": [
+                {
+                  "number": 4,
+                  "denomination": 10,
+                  "bonus": "",
+                  "types": [
+                    "radiant"
+                  ],
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "scaling": {
+                    "mode": "",
+                    "number": null,
+                    "formula": ""
+                  }
+                }
+              ]
+            },
+            "save": {
+              "ability": [
+                "con"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "24"
+              }
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>A 30-foot-radius area explodes with light from beneath. Creatures there make a [[/save con 24 format=long]], taking [[/damage 4d10 type=radiant average=true]] damage and gaining the Blinded condition until the end of their next turn on a failure, or half damage without Blinded on a success.</p></div>",
+          "chat": ""
+        },
+        "identifier": "ground-sun-flare",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 16,
+      "img": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3c997032502f7a9b",
+      "name": "Ascending Shadows",
+      "type": "feat",
+      "system": {
+        "activities": {
+          "097db22bce3c": {
+            "type": "save",
+            "_id": "097db22bce3c",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "lair",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "creature",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "damage": {
+              "onSave": "none",
+              "parts": []
+            },
+            "save": {
+              "ability": [
+                "dex"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "24"
+              }
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>Choose up to three creatures whose shadows are visible. Each makes a [[/save dex 24 format=long]] or gains the Restrained condition until initiative count 20 of the next round.</p></div>",
+          "chat": ""
+        },
+        "identifier": "ascending-shadows",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 17,
+      "img": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "fef9d8bba849dd24",
+      "name": "Impossible Doorway",
+      "type": "feat",
+      "system": {
+        "activities": {
+          "b2f30c55b715": {
+            "type": "save",
+            "_id": "b2f30c55b715",
+            "img": null,
+            "sort": 0,
+            "activation": {
+              "type": "lair",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": false
+            },
+            "description": {},
+            "duration": {
+              "value": "",
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "creature",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "damage": {
+              "onSave": "none",
+              "parts": []
+            },
+            "save": {
+              "ability": [
+                "cha"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "24"
+              }
+            }
+          }
+        },
+        "uses": {
+          "spent": null,
+          "recovery": []
+        },
+        "advancement": {},
+        "description": {
+          "value": "<div class=\"ddb\"><p>Choose two visible creatures within 120 feet. Each unwilling creature may make a [[/save cha 24 format=long]]. If neither unwilling creature succeeds, the two creatures exchange positions.</p></div>",
+          "chat": ""
+        },
+        "identifier": "impossible-doorway",
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": "Wayreth: The Black Master"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 18,
+      "img": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.363",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944869476,
+        "modifiedTime": 1787944869476,
+        "lastModifiedBy": "",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.363",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787944869476,
+    "modifiedTime": 1787944869476,
+    "lastModifiedBy": "",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "wayreth-black-master",
+      "uuid": null,
+      "coreVersion": "14.363",
+      "systemId": "dnd5e",
+      "systemVersion": "5.3.3"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

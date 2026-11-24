@@ -1,0 +1,230 @@
+{
+  "_id": "ooMa1mHrp4H4excR",
+  "name": "The Wayreth Bestiary: Illustrated",
+  "pages": [
+    {
+      "_id": "fQ3OjnOf71P5Ea9t",
+      "name": "The Plates",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Every creature in the bestiary, with its art, so you can show the table what they are looking at instead of describing it.</p>\n<p>81 creatures across 7 creature types, each plate running from the weakest to the strongest. Each entry carries the numbers worth knowing before you commit to an encounter &mdash; challenge rating, armour class, hit points, size and type. The full stat block lives on the Actor itself in <strong>Wayreth — Bestiary</strong>.</p>\n<table class=\"wy-table\"><thead><tr><th>Plate</th><th>Creatures</th><th>CR</th><th>When</th></tr></thead><tbody><tr><td><strong>Aberration</strong></td><td>2</td><td>9&ndash;13</td><td>Arc IV, the Silvanesti expedition.</td></tr><tr><td><strong>Beast</strong></td><td>1</td><td>1&ndash;1</td><td>Arc I, the thirty-nine days.</td></tr><tr><td><strong>Dragon</strong></td><td>35</td><td>1&ndash;27</td><td>Draconians from Arc I. Wyrmlings and young from Arc II. Ancients are Arcs V and VI.</td></tr><tr><td><strong>Fiend</strong></td><td>7</td><td>4&ndash;18</td><td>Arc III in ones and twos. Arc VI in earnest.</td></tr><tr><td><strong>Humanoid</strong></td><td>26</td><td>0&ndash;21</td><td>Throughout.</td></tr><tr><td><strong>Plant</strong></td><td>2</td><td>6&ndash;7</td><td>Arc I at the forest edge; Arc IV in the dream.</td></tr><tr><td><strong>Undead</strong></td><td>8</td><td>4&ndash;22</td><td>Arc III onward; the Returned define Arc V.</td></tr></tbody></table>\n<h3>Showing These to Players</h3>\n<p>The plates are ordinary journal images, so right-clicking one and choosing to show it to players works as it does anywhere else. The art has a transparent background, which is why the tokens sit cleanly on a map rather than arriving in a box.</p>\n<p>Nothing here spoils anything by itself, but the <strong>Humanoid</strong> plate runs from a Dragonarmy recruit up through the Conclave to Raistlin, which makes it the cast list for the whole campaign. It is the one page worth keeping to yourself.</p>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!ooMa1mHrp4H4excR.fQ3OjnOf71P5Ea9t"
+    },
+    {
+      "_id": "PyIopDshBVwqzbCH",
+      "name": "Aberration",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Silvanesti's nightmare given shape. These are not creatures so much as the dream's own furniture, and they behave by dream logic: they are real while the party believes them.</p>\n<p><strong>2 creatures</strong> &middot; CR 9&ndash;13 &middot; <strong>When:</strong> Arc IV, the Silvanesti expedition.</p>\n<p>Every one of these is a real Actor in <strong>Wayreth — Bestiary</strong>. Drag it onto a scene and it arrives with this art, a token scaled to its size, and its attacks ready to roll.</p>\n<div class=\"wy-gallery\"><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Aberration/CR09.00_49_Dream_of_the_Fallen.webp\" alt=\"Dream of the Fallen\"><figcaption><strong>Dream of the Fallen</strong><span class=\"wy-plate-stats\">CR 9 &middot; AC 16 &middot; 136 hp &middot; Medium aberration</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Aberration/CR13.00_50_Loracs_Remnant.webp\" alt=\"Lorac's Remnant\"><figcaption><strong>Lorac's Remnant</strong><span class=\"wy-plate-stats\">CR 13 &middot; AC 17 &middot; 189 hp &middot; Large aberration</span></figcaption></figure></div>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!ooMa1mHrp4H4excR.PyIopDshBVwqzbCH"
+    },
+    {
+      "_id": "drQegLE3tEDAfurR",
+      "name": "Beast",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The road's ordinary dangers. Nothing here is a plot, and that is the point — it exists to make the journey feel long.</p>\n<p><strong>1 creature</strong> &middot; CR 1&ndash;1 &middot; <strong>When:</strong> Arc I, the thirty-nine days.</p>\n<p>Every one of these is a real Actor in <strong>Wayreth — Bestiary</strong>. Drag it onto a scene and it arrives with this art, a token scaled to its size, and its attacks ready to roll.</p>\n<div class=\"wy-gallery\"><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Beast/CR01.00_73_Forest_Wolf_Pack_Leader.webp\" alt=\"Forest Wolf Pack Leader\"><figcaption><strong>Forest Wolf Pack Leader</strong><span class=\"wy-plate-stats\">CR 1 &middot; AC 13 &middot; 37 hp &middot; Medium beast</span></figcaption></figure></div>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!ooMa1mHrp4H4excR.drQegLE3tEDAfurR"
+    },
+    {
+      "_id": "1qJ1VgTeBHPMB94Q",
+      "name": "Dragon",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">The largest group in the bestiary, and the war itself. It runs from a Baaz draconian up to the ancients, because on Krynn the draconians are what became of stolen dragon eggs and belong on the same ladder.</p>\n<p><strong>35 creatures</strong> &middot; CR 1&ndash;27 &middot; <strong>When:</strong> Draconians from Arc I. Wyrmlings and young from Arc II. Ancients are Arcs V and VI.</p>\n<p>Every one of these is a real Actor in <strong>Wayreth — Bestiary</strong>. Drag it onto a scene and it arrives with this art, a token scaled to its size, and its attacks ready to roll.</p>\n<div class=\"wy-gallery\"><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR01.00_01_Baaz_Draconian.webp\" alt=\"Baaz Draconian\"><figcaption><strong>Baaz Draconian</strong><span class=\"wy-plate-stats\">CR 1 &middot; AC 14 &middot; 22 hp &middot; Medium dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR02.00_21_Black_Dragon_Wyrmling.webp\" alt=\"Black Dragon, Wyrmling\"><figcaption><strong>Black Dragon, Wyrmling</strong><span class=\"wy-plate-stats\">CR 2 &middot; AC 17 &middot; 33 hp &middot; Medium dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR02.00_22_Green_Dragon_Wyrmling.webp\" alt=\"Green Dragon, Wyrmling\"><figcaption><strong>Green Dragon, Wyrmling</strong><span class=\"wy-plate-stats\">CR 2 &middot; AC 17 &middot; 38 hp &middot; Medium dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR02.00_20_White_Dragon_Wyrmling.webp\" alt=\"White Dragon, Wyrmling\"><figcaption><strong>White Dragon, Wyrmling</strong><span class=\"wy-plate-stats\">CR 2 &middot; AC 16 &middot; 32 hp &middot; Medium dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR03.00_23_Blue_Dragon_Wyrmling.webp\" alt=\"Blue Dragon, Wyrmling\"><figcaption><strong>Blue Dragon, Wyrmling</strong><span class=\"wy-plate-stats\">CR 3 &middot; AC 17 &middot; 52 hp &middot; Medium dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR03.00_02_Kapak_Draconian.webp\" alt=\"Kapak Draconian\"><figcaption><strong>Kapak Draconian</strong><span class=\"wy-plate-stats\">CR 3 &middot; AC 15 &middot; 45 hp &middot; Medium dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR04.00_03_Bozak_Draconian.webp\" alt=\"Bozak Draconian\"><figcaption><strong>Bozak Draconian</strong><span class=\"wy-plate-stats\">CR 4 &middot; AC 16 &middot; 66 hp &middot; Medium dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR04.00_24_Red_Dragon_Wyrmling.webp\" alt=\"Red Dragon, Wyrmling\"><figcaption><strong>Red Dragon, Wyrmling</strong><span class=\"wy-plate-stats\">CR 4 &middot; AC 17 &middot; 75 hp &middot; Medium dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR06.00_32_Brass_Dragon_Young.webp\" alt=\"Brass Dragon, Young\"><figcaption><strong>Brass Dragon, Young</strong><span class=\"wy-plate-stats\">CR 6 &middot; AC 17 &middot; 110 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR06.00_04_Sivak_Draconian.webp\" alt=\"Sivak Draconian\"><figcaption><strong>Sivak Draconian</strong><span class=\"wy-plate-stats\">CR 6 &middot; AC 17 &middot; 102 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR06.00_17_White_Dragon_Young.webp\" alt=\"White Dragon, Young\"><figcaption><strong>White Dragon, Young</strong><span class=\"wy-plate-stats\">CR 6 &middot; AC 17 &middot; 133 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR07.00_16_Black_Dragon_Young.webp\" alt=\"Black Dragon, Young\"><figcaption><strong>Black Dragon, Young</strong><span class=\"wy-plate-stats\">CR 7 &middot; AC 18 &middot; 127 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR07.00_34_Copper_Dragon_Young.webp\" alt=\"Copper Dragon, Young\"><figcaption><strong>Copper Dragon, Young</strong><span class=\"wy-plate-stats\">CR 7 &middot; AC 17 &middot; 119 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR08.00_33_Bronze_Dragon_Young.webp\" alt=\"Bronze Dragon, Young\"><figcaption><strong>Bronze Dragon, Young</strong><span class=\"wy-plate-stats\">CR 8 &middot; AC 18 &middot; 142 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR08.00_15_Green_Dragon_Young.webp\" alt=\"Green Dragon, Young\"><figcaption><strong>Green Dragon, Young</strong><span class=\"wy-plate-stats\">CR 8 &middot; AC 18 &middot; 136 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR09.00_05_Aurak_Draconian.webp\" alt=\"Aurak Draconian\"><figcaption><strong>Aurak Draconian</strong><span class=\"wy-plate-stats\">CR 9 &middot; AC 18 &middot; 133 hp &middot; Medium dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR09.00_13_Blue_Dragon_Young.webp\" alt=\"Blue Dragon, Young\"><figcaption><strong>Blue Dragon, Young</strong><span class=\"wy-plate-stats\">CR 9 &middot; AC 18 &middot; 152 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR09.00_18_Silver_Dragon_Young.webp\" alt=\"Silver Dragon, Young\"><figcaption><strong>Silver Dragon, Young</strong><span class=\"wy-plate-stats\">CR 9 &middot; AC 18 &middot; 168 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR09.00_61_Skaith_Sivak_Infiltrator.webp\" alt=\"Skaith, Sivak Infiltrator\"><figcaption><strong>Skaith, Sivak Infiltrator</strong><span class=\"wy-plate-stats\">CR 9 &middot; AC 17 &middot; 123 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR10.00_19_Gold_Dragon_Young.webp\" alt=\"Gold Dragon, Young\"><figcaption><strong>Gold Dragon, Young</strong><span class=\"wy-plate-stats\">CR 10 &middot; AC 18 &middot; 178 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR10.00_11_Red_Dragon_Young.webp\" alt=\"Red Dragon, Young\"><figcaption><strong>Red Dragon, Young</strong><span class=\"wy-plate-stats\">CR 10 &middot; AC 18 &middot; 178 hp &middot; Large dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR13.00_25_White_Dragon_Adult.webp\" alt=\"White Dragon, Adult\"><figcaption><strong>White Dragon, Adult</strong><span class=\"wy-plate-stats\">CR 13 &middot; AC 18 &middot; 200 hp &middot; Huge dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR14.00_26_Black_Dragon_Adult.webp\" alt=\"Black Dragon, Adult\"><figcaption><strong>Black Dragon, Adult</strong><span class=\"wy-plate-stats\">CR 14 &middot; AC 19 &middot; 195 hp &middot; Huge dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR15.00_27_Green_Dragon_Adult.webp\" alt=\"Green Dragon, Adult\"><figcaption><strong>Green Dragon, Adult</strong><span class=\"wy-plate-stats\">CR 15 &middot; AC 19 &middot; 207 hp &middot; Huge dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR16.00_14_Blue_Dragon_Adult.webp\" alt=\"Blue Dragon, Adult\"><figcaption><strong>Blue Dragon, Adult</strong><span class=\"wy-plate-stats\">CR 16 &middot; AC 19 &middot; 225 hp &middot; Huge dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR16.00_35_Silver_Dragon_Adult.webp\" alt=\"Silver Dragon, Adult\"><figcaption><strong>Silver Dragon, Adult</strong><span class=\"wy-plate-stats\">CR 16 &middot; AC 19 &middot; 243 hp &middot; Huge dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR17.00_12_Red_Dragon_Adult.webp\" alt=\"Red Dragon, Adult\"><figcaption><strong>Red Dragon, Adult</strong><span class=\"wy-plate-stats\">CR 17 &middot; AC 19 &middot; 256 hp &middot; Huge dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR19.00_59_Cyan_Bloodbane.webp\" alt=\"Cyan Bloodbane\"><figcaption><strong>Cyan Bloodbane</strong><span class=\"wy-plate-stats\">CR 19 &middot; AC 20 &middot; 287 hp &middot; Gargantuan dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR23.00_28_Blue_Dragon_Ancient.webp\" alt=\"Blue Dragon, Ancient\"><figcaption><strong>Blue Dragon, Ancient</strong><span class=\"wy-plate-stats\">CR 23 &middot; AC 22 &middot; 481 hp &middot; Gargantuan dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR23.00_30_Silver_Dragon_Ancient.webp\" alt=\"Silver Dragon, Ancient\"><figcaption><strong>Silver Dragon, Ancient</strong><span class=\"wy-plate-stats\">CR 23 &middot; AC 22 &middot; 487 hp &middot; Gargantuan dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR24.00_31_Gold_Dragon_Ancient.webp\" alt=\"Gold Dragon, Ancient\"><figcaption><strong>Gold Dragon, Ancient</strong><span class=\"wy-plate-stats\">CR 24 &middot; AC 22 &middot; 546 hp &middot; Gargantuan dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR24.00_29_Red_Dragon_Ancient.webp\" alt=\"Red Dragon, Ancient\"><figcaption><strong>Red Dragon, Ancient</strong><span class=\"wy-plate-stats\">CR 24 &middot; AC 22 &middot; 546 hp &middot; Gargantuan dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR25.00_79_Vaelzhar_the_Unremembered.webp\" alt=\"Vaelzhar, the Unremembered\"><figcaption><strong>Vaelzhar, the Unremembered</strong><span class=\"wy-plate-stats\">CR 25 &middot; AC 22 &middot; 546 hp &middot; Gargantuan dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR26.00_80_Nythravel_the_Upward_Shadow.webp\" alt=\"Nythravel, the Upward Shadow\"><figcaption><strong>Nythravel, the Upward Shadow</strong><span class=\"wy-plate-stats\">CR 26 &middot; AC 23 &middot; 585 hp &middot; Gargantuan dragon</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Dragon/CR27.00_81_Kharzoryx_the_Blue_Pyre.webp\" alt=\"Kharzoryx, the Blue Pyre\"><figcaption><strong>Kharzoryx, the Blue Pyre</strong><span class=\"wy-plate-stats\">CR 27 &middot; AC 23 &middot; 615 hp &middot; Gargantuan dragon</span></figcaption></figure></div>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!ooMa1mHrp4H4excR.1qJ1VgTeBHPMB94Q"
+    },
+    {
+      "_id": "cbjxMGShcVKTSXdB",
+      "name": "Fiend",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">What comes through when the boundary is thin — and, in Arc VI, what is waiting on the other side of it. The Herald speaks for Takhisis and should never be fought before it has been listened to.</p>\n<p><strong>7 creatures</strong> &middot; CR 4&ndash;18 &middot; <strong>When:</strong> Arc III in ones and twos. Arc VI in earnest.</p>\n<p>Every one of these is a real Actor in <strong>Wayreth — Bestiary</strong>. Drag it onto a scene and it arrives with this art, a token scaled to its size, and its attacks ready to roll.</p>\n<div class=\"wy-gallery\"><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Fiend/CR04.00_62_Bound_Abyssal_Lesser.webp\" alt=\"Bound Abyssal Lesser\"><figcaption><strong>Bound Abyssal Lesser</strong><span class=\"wy-plate-stats\">CR 4 &middot; AC 15 &middot; 68 hp &middot; Medium fiend</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Fiend/CR05.00_44_Chained_Tormentor.webp\" alt=\"Chained Tormentor\"><figcaption><strong>Chained Tormentor</strong><span class=\"wy-plate-stats\">CR 5 &middot; AC 15 &middot; 82 hp &middot; Medium fiend</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Fiend/CR08.00_63_Abyssal_Warbeast.webp\" alt=\"Abyssal Warbeast\"><figcaption><strong>Abyssal Warbeast</strong><span class=\"wy-plate-stats\">CR 8 &middot; AC 17 &middot; 133 hp &middot; Large fiend</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Fiend/CR11.00_45_Abyssal_Siegebreaker.webp\" alt=\"Abyssal Siegebreaker\"><figcaption><strong>Abyssal Siegebreaker</strong><span class=\"wy-plate-stats\">CR 11 &middot; AC 17 &middot; 189 hp &middot; Huge fiend</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Fiend/CR11.00_64_Nameless_One_of_the_Field.webp\" alt=\"Nameless One of the Field\"><figcaption><strong>Nameless One of the Field</strong><span class=\"wy-plate-stats\">CR 11 &middot; AC 18 &middot; 172 hp &middot; Large fiend</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Fiend/CR15.00_46_Warden_of_the_Palace_of_Chains.webp\" alt=\"Warden of the Palace of Chains\"><figcaption><strong>Warden of the Palace of Chains</strong><span class=\"wy-plate-stats\">CR 15 &middot; AC 19 &middot; 232 hp &middot; Huge fiend</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Fiend/CR18.00_47_Herald_of_the_Dark_Queen.webp\" alt=\"Herald of the Dark Queen\"><figcaption><strong>Herald of the Dark Queen</strong><span class=\"wy-plate-stats\">CR 18 &middot; AC 20 &middot; 297 hp &middot; Huge fiend</span></figcaption></figure></div>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!ooMa1mHrp4H4excR.cbjxMGShcVKTSXdB"
+    },
+    {
+      "_id": "UT2wqRhE9VWHi717",
+      "name": "Humanoid",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Everyone the war is being fought by and over: Dragonarmy soldiers, Solamnic knights, the Conclave, and the people the campaign is actually about. Most of the named stat blocks exist so you know what happens if the party attacks them, not because they are meant to be fought.</p>\n<p><strong>26 creatures</strong> &middot; CR 0&ndash;21 &middot; <strong>When:</strong> Throughout.</p>\n<p>Every one of these is a real Actor in <strong>Wayreth — Bestiary</strong>. Drag it onto a scene and it arrives with this art, a token scaled to its size, and its attacks ready to roll.</p>\n<div class=\"wy-gallery\"><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR00.00_60_Astinus_of_Palanthas.webp\" alt=\"Astinus of Palanthas\"><figcaption><strong>Astinus of Palanthas</strong><span class=\"wy-plate-stats\">CR 0 &middot; AC 10 &middot; 30 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR00.25_72_Hill_Brigand.webp\" alt=\"Hill Brigand\"><figcaption><strong>Hill Brigand</strong><span class=\"wy-plate-stats\">CR 1/4 &middot; AC 13 &middot; 13 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR00.50_06_Dragonarmy_Recruit.webp\" alt=\"Dragonarmy Recruit\"><figcaption><strong>Dragonarmy Recruit</strong><span class=\"wy-plate-stats\">CR 1/2 &middot; AC 15 &middot; 16 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR00.50_39_Solamnic_Foot_Soldier.webp\" alt=\"Solamnic Foot Soldier\"><figcaption><strong>Solamnic Foot Soldier</strong><span class=\"wy-plate-stats\">CR 1/2 &middot; AC 16 &middot; 22 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR01.00_43_Aesthetic_of_the_Great_Library.webp\" alt=\"Aesthetic of the Great Library\"><figcaption><strong>Aesthetic of the Great Library</strong><span class=\"wy-plate-stats\">CR 1 &middot; AC 11 &middot; 27 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR01.00_42_Palanthas_City_Guard.webp\" alt=\"Palanthas City Guard\"><figcaption><strong>Palanthas City Guard</strong><span class=\"wy-plate-stats\">CR 1 &middot; AC 16 &middot; 32 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR02.00_41_High_Clerist_Siege_Engineer.webp\" alt=\"High Clerist Siege Engineer\"><figcaption><strong>High Clerist Siege Engineer</strong><span class=\"wy-plate-stats\">CR 2 &middot; AC 14 &middot; 39 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR02.00_77_Ossian_Krell.webp\" alt=\"Ossian Krell\"><figcaption><strong>Ossian Krell</strong><span class=\"wy-plate-stats\">CR 2 &middot; AC 12 &middot; 38 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR03.00_07_Dragonarmy_Veteran.webp\" alt=\"Dragonarmy Veteran\"><figcaption><strong>Dragonarmy Veteran</strong><span class=\"wy-plate-stats\">CR 3 &middot; AC 17 &middot; 58 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR03.00_36_Knight_of_the_Crown.webp\" alt=\"Knight of the Crown\"><figcaption><strong>Knight of the Crown</strong><span class=\"wy-plate-stats\">CR 3 &middot; AC 18 &middot; 52 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR04.00_40_Solanthus_Watch_Captain.webp\" alt=\"Solanthus Watch Captain\"><figcaption><strong>Solanthus Watch Captain</strong><span class=\"wy-plate-stats\">CR 4 &middot; AC 17 &middot; 71 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR05.00_10_Dragonarmy_Intelligence_Agent.webp\" alt=\"Dragonarmy Intelligence Agent\"><figcaption><strong>Dragonarmy Intelligence Agent</strong><span class=\"wy-plate-stats\">CR 5 &middot; AC 15 &middot; 71 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR05.00_74_Lost_Wanderer_of_Wayreth.webp\" alt=\"Lost Wanderer of Wayreth\"><figcaption><strong>Lost Wanderer of Wayreth</strong><span class=\"wy-plate-stats\">CR 5 &middot; AC 12 &middot; 66 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR06.00_08_Dragonarmy_Officer.webp\" alt=\"Dragonarmy Officer\"><figcaption><strong>Dragonarmy Officer</strong><span class=\"wy-plate-stats\">CR 6 &middot; AC 18 &middot; 97 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR06.00_37_Knight_of_the_Sword.webp\" alt=\"Knight of the Sword\"><figcaption><strong>Knight of the Sword</strong><span class=\"wy-plate-stats\">CR 6 &middot; AC 19 &middot; 97 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR07.00_09_Dragonarmy_Battle_Mage.webp\" alt=\"Dragonarmy Battle Mage\"><figcaption><strong>Dragonarmy Battle Mage</strong><span class=\"wy-plate-stats\">CR 7 &middot; AC 15 &middot; 82 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR08.00_75_Commander_Veyrath.webp\" alt=\"Commander Veyrath\"><figcaption><strong>Commander Veyrath</strong><span class=\"wy-plate-stats\">CR 8 &middot; AC 17 &middot; 112 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR08.00_55_Dalamar_Argent.webp\" alt=\"Dalamar Argent\"><figcaption><strong>Dalamar Argent</strong><span class=\"wy-plate-stats\">CR 8 &middot; AC 14 &middot; 78 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR09.00_76_Mereth_Sorn_Renegade.webp\" alt=\"Mereth Sorn, Renegade\"><figcaption><strong>Mereth Sorn, Renegade</strong><span class=\"wy-plate-stats\">CR 9 &middot; AC 16 &middot; 95 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR09.00_70_Renegade_Hunter.webp\" alt=\"Renegade Hunter\"><figcaption><strong>Renegade Hunter</strong><span class=\"wy-plate-stats\">CR 9 &middot; AC 16 &middot; 91 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR10.00_38_Knight_of_the_Rose.webp\" alt=\"Knight of the Rose\"><figcaption><strong>Knight of the Rose</strong><span class=\"wy-plate-stats\">CR 10 &middot; AC 20 &middot; 157 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR12.00_57_Kitiara_uth_Matar.webp\" alt=\"Kitiara uth Matar\"><figcaption><strong>Kitiara uth Matar</strong><span class=\"wy-plate-stats\">CR 12 &middot; AC 19 &middot; 161 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR13.00_54_Justarius_of_the_Red_Robes.webp\" alt=\"Justarius of the Red Robes\"><figcaption><strong>Justarius of the Red Robes</strong><span class=\"wy-plate-stats\">CR 13 &middot; AC 15 &middot; 110 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR14.00_53_Ladonna_of_the_Black_Robes.webp\" alt=\"Ladonna of the Black Robes\"><figcaption><strong>Ladonna of the Black Robes</strong><span class=\"wy-plate-stats\">CR 14 &middot; AC 16 &middot; 120 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR15.00_52_Par_Salian_of_the_White_Robes.webp\" alt=\"Par-Salian of the White Robes\"><figcaption><strong>Par-Salian of the White Robes</strong><span class=\"wy-plate-stats\">CR 15 &middot; AC 15 &middot; 135 hp &middot; Medium humanoid</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Humanoid/CR21.00_51_Raistlin_Majere_Master_of_Wayreth.webp\" alt=\"Raistlin Majere, Master of Wayreth\"><figcaption><strong>Raistlin Majere, Master of Wayreth</strong><span class=\"wy-plate-stats\">CR 21 &middot; AC 18 &middot; 190 hp &middot; Medium humanoid</span></figcaption></figure></div>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!ooMa1mHrp4H4excR.UT2wqRhE9VWHi717"
+    },
+    {
+      "_id": "bbK6dYBdarxnzm51",
+      "name": "Plant",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Wayreth's forest and Silvanesti's. Both are aware, neither is friendly, and neither can be reasoned with by anything the party is carrying.</p>\n<p><strong>2 creatures</strong> &middot; CR 6&ndash;7 &middot; <strong>When:</strong> Arc I at the forest edge; Arc IV in the dream.</p>\n<p>Every one of these is a real Actor in <strong>Wayreth — Bestiary</strong>. Drag it onto a scene and it arrives with this art, a token scaled to its size, and its attacks ready to roll.</p>\n<div class=\"wy-gallery\"><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Plant/CR06.00_48_Nightmare_Tree.webp\" alt=\"Nightmare Tree\"><figcaption><strong>Nightmare Tree</strong><span class=\"wy-plate-stats\">CR 6 &middot; AC 15 &middot; 114 hp &middot; Huge plant</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Plant/CR07.00_71_Shoikan_Grove_Sentinel.webp\" alt=\"Shoikan Grove Sentinel\"><figcaption><strong>Shoikan Grove Sentinel</strong><span class=\"wy-plate-stats\">CR 7 &middot; AC 16 &middot; 115 hp &middot; Huge plant</span></figcaption></figure></div>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!ooMa1mHrp4H4excR.bbK6dYBdarxnzm51"
+    },
+    {
+      "_id": "1gEbWreWwFTG012C",
+      "name": "Undead",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<div class=\"wayreth-journal\">\n<p class=\"wy-lead\">Dargaard's dead, the Returned, and the things in the vaults that did not stay where they were put.</p>\n<p><strong>8 creatures</strong> &middot; CR 4&ndash;22 &middot; <strong>When:</strong> Arc III onward; the Returned define Arc V.</p>\n<p>Every one of these is a real Actor in <strong>Wayreth — Bestiary</strong>. Drag it onto a scene and it arrives with this art, a token scaled to its size, and its attacks ready to roll.</p>\n<div class=\"wy-gallery\"><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Undead/CR04.00_67_The_Returned.webp\" alt=\"The Returned\"><figcaption><strong>The Returned</strong><span class=\"wy-plate-stats\">CR 4 &middot; AC 16 &middot; 65 hp &middot; Medium undead</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Undead/CR05.00_65_Skeletal_Knight_of_Dargaard.webp\" alt=\"Skeletal Knight of Dargaard\"><figcaption><strong>Skeletal Knight of Dargaard</strong><span class=\"wy-plate-stats\">CR 5 &middot; AC 18 &middot; 84 hp &middot; Medium undead</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Undead/CR06.00_66_Banshee_of_the_Keep.webp\" alt=\"Banshee of the Keep\"><figcaption><strong>Banshee of the Keep</strong><span class=\"wy-plate-stats\">CR 6 &middot; AC 14 &middot; 78 hp &middot; Medium undead</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Undead/CR09.00_68_Vault_Experiment.webp\" alt=\"Vault Experiment\"><figcaption><strong>Vault Experiment</strong><span class=\"wy-plate-stats\">CR 9 &middot; AC 17 &middot; 138 hp &middot; Medium undead</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Undead/CR12.00_78_Caramon_Majere_Returned.webp\" alt=\"Caramon Majere, Returned\"><figcaption><strong>Caramon Majere, Returned</strong><span class=\"wy-plate-stats\">CR 12 &middot; AC 18 &middot; 187 hp &middot; Medium undead</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Undead/CR12.00_69_Guardian_of_the_Tower.webp\" alt=\"Guardian of the Tower\"><figcaption><strong>Guardian of the Tower</strong><span class=\"wy-plate-stats\">CR 12 &middot; AC 18 &middot; 149 hp &middot; Medium undead</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Undead/CR20.00_58_Fistandantilus.webp\" alt=\"Fistandantilus\"><figcaption><strong>Fistandantilus</strong><span class=\"wy-plate-stats\">CR 20 &middot; AC 19 &middot; 225 hp &middot; Medium undead</span></figcaption></figure><figure class=\"wy-plate\"><img src=\"modules/wayreth-black-master/assets/bestiary/Undead/CR22.00_56_Lord_Soth_Knight_of_the_Black_Rose.webp\" alt=\"Lord Soth, Knight of the Black Rose\"><figcaption><strong>Lord Soth, Knight of the Black Rose</strong><span class=\"wy-plate-stats\">CR 22 &middot; AC 20 &middot; 279 hp &middot; Medium undead</span></figcaption></figure></div>\n</div>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {},
+      "_key": "!journal.pages!ooMa1mHrp4H4excR.1gEbWreWwFTG012C"
+    }
+  ],
+  "folder": null,
+  "sort": 2500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {},
+  "_key": "!journal!ooMa1mHrp4H4excR"
+}
